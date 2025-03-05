@@ -48,8 +48,8 @@
 *   **Image Name**: Spider07, Spider08
     
 *   **Sources**: Wikipedia [https://en.wikipedia.org/wiki/Jumping\_spider](https://en.wikipedia.org/wiki/Wolf_spider)
-  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider 4 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 4 Fiji.jpg)
-  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider 3 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 3 Fiji.jpg)
+  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider4Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticidspider4Fiji.jpg)
+  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider3Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticidspider3Fiji.jpg)
     
 
 5. Crab Spider
