@@ -19,7 +19,8 @@
     
 *   **Image Name**: Spider03, Spider04
     
-*   **Sources**: [https://www.satooreptilesandaquatics.com/cdn/shop/products/image\_71dc24bf-8321-43cb-bfd5-f2b213391d18\_1024x1024@2x.jpg?v=1616015255](https://www.satooreptilesandaquatics.com/cdn/shop/products/image_71dc24bf-8321-43cb-bfd5-f2b213391d18_1024x1024@2x.jpg?v=1616015255)
+*   **Sources**: Wikipedia [https://en.wikipedia.org/wiki/Latrodectus\_mactans](https://en.wikipedia.org/wiki/Latrodectus_mactans)
+  [https://www.satooreptilesandaquatics.com/cdn/shop/products/image\_71dc24bf-8321-43cb-bfd5-f2b213391d18\_1024x1024@2x.jpg?v=1616015255](https://www.satooreptilesandaquatics.com/cdn/shop/products/image_71dc24bf-8321-43cb-bfd5-f2b213391d18_1024x1024@2x.jpg?v=1616015255)
     [https://texasinsects.tamu.edu/wp-content/uploads/sites/4/2017/07/img368.jpg](https://texasinsects.tamu.edu/wp-content/uploads/sites/4/2017/07/img368.jpg)
     
 
@@ -32,7 +33,8 @@
     
 *   **Image Name**: Spider05, Spider06
     
-*   **Sources**: [https://www.rottler.com/wp-content/uploads/wolf-spider.jpg](https://www.rottler.com/wp-content/uploads/wolf-spider.jpg)
+*   **Sources**: Wikipedia [https://en.wikipedia.org/wiki/Wolf\_spider](https://en.wikipedia.org/wiki/Wolf_spider)
+  [https://www.rottler.com/wp-content/uploads/wolf-spider.jpg](https://www.rottler.com/wp-content/uploads/wolf-spider.jpg)
   [https://media.australian.museum/media/dd/images/Wolf\_spider\_-\_\_Allocosa\_obscuroides.width-1200.3915b07.jpg](https://media.australian.museum/media/dd/images/Wolf_spider_-__Allocosa_obscuroides.width-1200.3915b07.jpg)
     
 
@@ -45,8 +47,9 @@
     
 *   **Image Name**: Spider07, Spider08
     
-*   **Sources**:[https://www.ryanphotographic.com/images/JPEGS/Salticid spider 4 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 4 Fiji.jpg)
-  [https://www.ryanphotographic.com/images/JPEGS/Salticid spider 3 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 3 Fiji.jpg)
+*   **Sources**: Wikipedia [https://en.wikipedia.org/wiki/Jumping\_spider](https://en.wikipedia.org/wiki/Wolf_spider)
+  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider 4 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 4 Fiji.jpg)
+  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider 3 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 3 Fiji.jpg)
     
 
 5. Crab Spider
