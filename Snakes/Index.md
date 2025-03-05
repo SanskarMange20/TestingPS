@@ -1,4 +1,4 @@
-1. **King cobra** - 
+1. **King cobra**
 2. **Python family**
 3. **Anaconda**
 4. **Vipers**
