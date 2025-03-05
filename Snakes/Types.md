@@ -143,7 +143,7 @@
         
     *   **Name for Photos:** Colubrid Snake (18)
         
-10.  **Black Mamba**
+1.  **Black Mamba**
     
     *   **Scientific Name:** _Dendroaspis polylepis_
         
@@ -151,7 +151,7 @@
         
     *   **Name for Photos:** Black Mamba (19)
         
-11.  **Coral Reef Snakes**
+2.  **Coral Reef Snakes**
     
     *   **Scientific Name:** _Hydrophiinae_ (subfamily)
         
@@ -159,7 +159,7 @@
         
     *   **Name for Photos:** Coral Reef Snake (20)
         
-12.  **Boas**
+3.  **Boas**
     
     *   **Scientific Name:** _Boinae_ (subfamily)
         
@@ -167,7 +167,7 @@
         
     *   **Name for Photos:** Boa (21)
         
-13.  **Boomslang**
+4.  **Boomslang**
     
     *   **Scientific Name:** _Dispholidus typus_
         
@@ -175,7 +175,7 @@
         
     *   **Name for Photos:** Boomslang (22)
         
-14.  **Taipan**
+5.  **Taipan**
     
     *   **Scientific Name:** _Oxyuranus spp._
         
@@ -183,7 +183,7 @@
         
     *   **Name for Photos:** Taipan (23)
         
-15.  **Emerald Tree Boa**
+6.  **Emerald Tree Boa**
     
     *   **Scientific Name:** _Corallus caninus_
         
@@ -191,7 +191,7 @@
         
     *   **Name for Photos:** Emerald Tree Boa (24)
         
-16.  **Red-bellied Black Snake**
+7.  **Red-bellied Black Snake**
     
     *   **Scientific Name:** _Pseudechis porphyriacus_
         
@@ -199,7 +199,7 @@
         
     *   **Name for Photos:** Red-bellied Black Snake (25)
         
-17.  **Brahminy Blind Snake**
+8.  **Brahminy Blind Snake**
     
     *   **Scientific Name:** _Ramphotyphlops braminus_
         
@@ -207,7 +207,7 @@
         
     *   **Name for Photos:** Brahminy Blind Snake (26)
         
-18.  **Queen Snake**
+9.  **Queen Snake**
     
     *   **Scientific Name:** _Regina septemvittata_
         
@@ -215,7 +215,7 @@
         
     *   **Name for Photos:** Queen Snake (27)
         
-19.  **Elephant Trunk Snake**
+1.  **Elephant Trunk Snake**
     
     *   **Scientific Name:** _Acrochordus javanicus_
         
@@ -223,7 +223,7 @@
         
     *   **Name for Photos:** Elephant Trunk Snake (28)
         
-20.  **Acrochordus granulatus**
+2.  **Acrochordus granulatus**
     
     *   **Scientific Name:** _Acrochordus granulatus_
         
@@ -231,7 +231,7 @@
         
     *   **Name for Photos:** Acrochordus granulatus (29)
         
-21.  **Najash rionegrina**
+3.  **Najash rionegrina**
     
     *   **Scientific Name:** _Najash rionegrina_ (extinct)
         
@@ -239,7 +239,7 @@
         
     *   **Name for Photos:** Najash rionegrina (30)
         
-22.  **Xenopeltis unicolor**
+4.  **Xenopeltis unicolor**
     
     *   **Scientific Name:** _Xenopeltis unicolor_
         
@@ -247,7 +247,7 @@
         
     *   **Name for Photos:** Xenopeltis unicolor (31)
         
-23.  **Gigantophis garstini**
+5.  **Gigantophis garstini**
     
     *   **Scientific Name:** _Gigantophis garstini_ (extinct)
         
@@ -255,7 +255,7 @@
         
     *   **Name for Photos:** Gigantophis garstini (32)
         
-24.  **Sunbeam Snakes**
+6.  **Sunbeam Snakes**
     
     *   **Scientific Name:** _Xenopeltis spp._
         
@@ -263,7 +263,7 @@
         
     *   **Name for Photos:** Sunbeam Snake (33)
         
-25.  **Mole Snake**
+7.  **Mole Snake**
     
     *   **Scientific Name:** _Pseudaspis cana_
         
@@ -271,7 +271,7 @@
         
     *   **Name for Photos:** Mole Snake (34)
         
-26.  **Malpolon monspessulanus**
+8.  **Malpolon monspessulanus**
     
     *   **Scientific Name:** _Malpolon monspessulanus_
         
@@ -279,7 +279,7 @@
         
     *   **Name for Photos:** Malpolon monspessulanus (35)
         
-27.  **Typhlopidae**
+9.  **Typhlopidae**
     
     *   **Scientific Name:** _Typhlopidae_ (family)
         
@@ -287,7 +287,7 @@
         
     *   **Name for Photos:** Blind Snake (36)
         
-28.  **False Cobra**
+1.  **False Cobra**
     
     *   **Scientific Name:** _Rhachidelus brazili_
         
@@ -295,7 +295,7 @@
         
     *   **Name for Photos:** False Cobra (37)
         
-29.  **Lamprophis**
+2.  **Lamprophis**
     
     *   **Scientific Name:** _Lamprophis spp._
         
@@ -303,7 +303,7 @@
         
     *   **Name for Photos:** Lamprophis (38)
         
-30.  **Acrochordus arafurae**
+3.  **Acrochordus arafurae**
     
     *   **Scientific Name:** _Acrochordus arafurae_
         
@@ -311,7 +311,7 @@
         
     *   **Name for Photos:** Acrochordus arafurae (39)
         
-31.  **Cylindrophis ruffus**
+4.  **Cylindrophis ruffus**
     
     *   **Scientific Name:** _Cylindrophis ruffus_
         
@@ -319,7 +319,7 @@
         
     *   **Name for Photos:** Cylindrophis ruffus (40)
         
-32.  **Ninia**
+5.  **Ninia**
     
     *   **Scientific Name:** _Ninia spp._
         
@@ -327,7 +327,7 @@
         
     *   **Name for Photos:** Ninia (41)
         
-33.  **Anilius**
+6.  **Anilius**
     
     *   **Scientific Name:** _Anilius scytale_
         
@@ -335,7 +335,7 @@
         
     *   **Name for Photos:** Anilius (42)
         
-34.  **Sharp-tailed Snakes**
+7.  **Sharp-tailed Snakes**
     
     *   **Scientific Name:** _Contia spp._
         
@@ -343,7 +343,7 @@
         
     *   **Name for Photos:** Sharp-tailed Snake (43)
         
-35.  **Amblyodipsas**
+8.  **Amblyodipsas**
     
     *   **Scientific Name:** _Amblyodipsas spp._
         
@@ -351,7 +351,7 @@
         
     *   **Name for Photos:** Amblyodipsas (44)
         
-36.  **Blind Snakes**
+9.  **Blind Snakes**
     
     *   **Scientific Name:** _Scolecophidia_ (infraorder)
         
@@ -359,7 +359,7 @@
         
     *   **Name for Photos:** Blind Snake (45)
         
-37.  **Mole Vipers**
+1.  **Mole Vipers**
     
     *   **Scientific Name:** _Atractaspis spp._
         
@@ -367,7 +367,7 @@
         
     *   **Name for Photos:** Mole Viper (46)
         
-38.  **Psammophis**
+2.  **Psammophis**
     
     *   **Scientific Name:** _Psammophis spp._
         
@@ -375,7 +375,7 @@
         
     *   **Name for Photos:** Psammophis (47)
         
-39.  **Uropeltidae**
+3.  **Uropeltidae**
     
     *   **Scientific Name:** _Uropeltidae_ (family)
         
