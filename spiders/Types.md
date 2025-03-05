@@ -9,6 +9,7 @@
     
 *   **Sources**: Wikipedia [https://en.wikipedia.org/wiki/Argiope\_trifasciata#/media/File:Banded\_Garden\_Spider\_-\_Flickr\_-\_treegrow.jpg](https://en.wikipedia.org/wiki/Argiope_trifasciata#/media/File:Banded_Garden_Spider_-_Flickr_-_treegrow.jpg)
                            [https://en.wikipedia.org/wiki/Argiope\_trifasciata#/media/File:Argiope\_July\_2012-3.jpg](https://en.wikipedia.org/wiki/Argiope_trifasciata#/media/File:Argiope_July_2012-3.jpg)
+    
 
 2. Black Widow Spider
 ---------------------
@@ -48,8 +49,8 @@
 *   **Image Name**: Spider07, Spider08
     
 *   **Sources**: Wikipedia [https://en.wikipedia.org/wiki/Jumping\_spider](https://en.wikipedia.org/wiki/Wolf_spider)
-  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider4Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticidspider4Fiji.jpg)
-  [https://www.ryanphotographic.com/images/JPEGS/Salticidspider3Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticidspider3Fiji.jpg)
+  [https://www.ryanphotographic.com/images/JPEGS/Salticid%20spider%204%20Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid%20spider%204%20Fiji.jpg)
+  [https://www.ryanphotographic.com/images/JPEGS/Salticid spider%203%20Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid%20spider%203%20Fiji.jpg)
     
 
 5. Crab Spider
@@ -61,7 +62,9 @@
     
 *   **Image Name**: Spider09, Spider10
     
-*   **Sources**:
+*   **Sources**: [https://en.wikipedia.org/wiki/Thomisidae](https://en.wikipedia.org/wiki/Thomisidae)
+  [https://www.flickr.com/photos/buckobeck/40696138533](https://www.flickr.com/photos/buckobeck/40696138533)
+  [https://www.flickr.com/photos/nickadel/29196263017](https://www.flickr.com/photos/nickadel/29196263017)
     
 
 6. Tarantula
@@ -73,7 +76,10 @@
     
 *   **Image Name**: Spider11, Spider12
     
-*   **Sources**:
+*   **Sources**: https://en.wikipedia.org/wiki/Tarantula
+https://static.inaturalist.org/photos/90730970/large.jpg
+https://inaturalist-open-data.s3.amazonaws.com/photos/62160899/large.jpeg
+
     
 
 7. Cellar Spider
