@@ -32,7 +32,8 @@
     
 *   **Image Name**: Spider05, Spider06
     
-*   **Sources**:
+*   **Sources**: [https://www.rottler.com/wp-content/uploads/wolf-spider.jpg](https://www.rottler.com/wp-content/uploads/wolf-spider.jpg)
+  [https://media.australian.museum/media/dd/images/Wolf\_spider\_-\_\_Allocosa\_obscuroides.width-1200.3915b07.jpg](https://media.australian.museum/media/dd/images/Wolf_spider_-__Allocosa_obscuroides.width-1200.3915b07.jpg)
     
 
 4. Jumping Spider
@@ -44,7 +45,8 @@
     
 *   **Image Name**: Spider07, Spider08
     
-*   **Sources**:
+*   **Sources**:[https://www.ryanphotographic.com/images/JPEGS/Salticid spider 4 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 4 Fiji.jpg)
+  [https://www.ryanphotographic.com/images/JPEGS/Salticid spider 3 Fiji.jpg](https://www.ryanphotographic.com/images/JPEGS/Salticid spider 3 Fiji.jpg)
     
 
 5. Crab Spider
