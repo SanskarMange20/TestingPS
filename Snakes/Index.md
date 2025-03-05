@@ -46,4 +46,3 @@
 46. **Mole Vipers**
 47. **Psammophis**
 48. **Uropeltidae**
-49. **Alethinophidia**
