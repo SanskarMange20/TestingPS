@@ -5,8 +5,10 @@
     *   **Distinguishing Qualities:** Longest venomous snake, hooded when threatened.
         
     *   **Name for Photos:** King Cobra (1)
-    *   **Source:** [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/12\_-\_The\_Mystical\_King\_Cobra\_and\_Coffee\_Forests.jpg/1024px-12\_-\_The\_Mystical\_King\_Cobra\_and\_Coffee\_Forests.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg/1024px-12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg)
-        
+    *   **Source:**
+         * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/12\_-\_The\_Mystical\_King\_Cobra\_and\_Coffee\_Forests.jpg/1024px-12\_-\_The\_Mystical\_King\_Cobra\_and\_Coffee\_Forests.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg/1024px-12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg)
+         * [https://en.wikipedia.org/wiki/King\_cobra](https://en.wikipedia.org/wiki/King_cobra)
+           
 2.  **Python Family**
     
     *   **Scientific Name:** _Pythonidae_ (family)
@@ -14,7 +16,9 @@
     *   **Distinguishing Qualities:** Non-venomous, constrictors.
         
     *   **Name for Photos:** Python (2)
-    *   **Source:** [https://upload.wikimedia.org/wikipedia/commons/3/32/Python\_molurus\_molurus\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/3/32/Python_molurus_molurus_2.jpg)
+    *   **Source:**
+         * [https://upload.wikimedia.org/wikipedia/commons/3/32/Python\_molurus\_molurus\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/3/32/Python_molurus_molurus_2.jpg)
+         * https://en.wikipedia.org/wiki/Pythonidae
           
 3.  **Anaconda**
     
