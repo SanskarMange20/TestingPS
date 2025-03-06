@@ -60,6 +60,9 @@
     *   **Distinguishing Qualities:** Agile, venomous, arboreal.
         
     *   **Name for Photos:** Mamba (6)
+    *   **Source:** 
+         * [https://upload.wikimedia.org/wikipedia/commons/e/ec/Hartebeespoort\_Zoo\_and\_snake\_park,\_Black\_Mamba\_-\_panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/Hartebeespoort_Zoo_and_snake_park,_Black_Mamba_-_panoramio.jpg)
+         *   [https://en.wikipedia.org/wiki/Mamba](https://en.wikipedia.org/wiki/Mamba)
         
 7.  **Ball Python**
     
@@ -68,6 +71,9 @@
     *   **Distinguishing Qualities:** Non-venomous, popular pet.
         
     *   **Name for Photos:** Ball Python (7)
+    *   **Sources:**
+         * [https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball\_python\_lucy.JPG](https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG)
+         * [https://en.wikipedia.org/wiki/Ball\_python](https://en.wikipedia.org/wiki/Ball_python)
         
 8.  **Green Anaconda**
     
