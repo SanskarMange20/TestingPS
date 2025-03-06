@@ -27,7 +27,9 @@
     *   **Distinguishing Qualities:** Large, aquatic constrictors.
         
     *   **Name for Photos:** Anaconda (3)
-    *   **Source:** [https://upload.wikimedia.org/wikipedia/commons/b/b2/Eunectes\_murinus2.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/Eunectes_murinus2.jpg)
+    *   **Source:**
+         * [https://upload.wikimedia.org/wikipedia/commons/b/b2/Eunectes\_murinus2.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/Eunectes_murinus2.jpg)
+         * https://en.wikipedia.org/wiki/Anaconda
         
 4.  **Vipers**
     
@@ -36,7 +38,9 @@
     *   **Distinguishing Qualities:** Venomous, heat-sensing pits.
         
     *   **Name for Photos:** Viper (4)
-    *   **Source:** [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabian\_Horned\_viper.jpg/1920px-Arabian\_Horned\_viper.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabian_Horned_viper.jpg/1920px-Arabian_Horned_viper.jpg)
+    *   **Source:**
+         * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabian\_Horned\_viper.jpg/1920px-Arabian\_Horned\_viper.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabian_Horned_viper.jpg/1920px-Arabian_Horned_viper.jpg)
+         * https://en.wikipedia.org/wiki/Viper
         
 5.  **Garter Snake**
     
@@ -45,7 +49,9 @@
     *   **Distinguishing Qualities:** Striped, semi-aquatic.
         
     *   **Name for Photos:** Garter Snake (5)
-    *   **Source:** [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thamnophis\_sirtalis\_sirtalis\_Wooster.jpg/1024px-Thamnophis\_sirtalis\_sirtalis\_Wooster.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thamnophis_sirtalis_sirtalis_Wooster.jpg/1024px-Thamnophis_sirtalis_sirtalis_Wooster.jpg)
+    *   **Source:** 
+         * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thamnophis\_sirtalis\_sirtalis\_Wooster.jpg/1024px-Thamnophis\_sirtalis\_sirtalis\_Wooster.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thamnophis_sirtalis_sirtalis_Wooster.jpg/1024px-Thamnophis_sirtalis_sirtalis_Wooster.jpg)
+         * https://en.wikipedia.org/wiki/Garter_snake
         
 6.  **Mambas**
     
