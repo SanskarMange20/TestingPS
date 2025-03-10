@@ -225,6 +225,9 @@
     *   **Distinguishing Qualities:** Non-venomous, constrictors.
         
     *   **Name for Photos:** Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a7/Boa\_constrictor\_(2).jpg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Boa_constrictor_(2).jpg)
+        * [https://en.wikipedia.org/wiki/Boidae](https://en.wikipedia.org/wiki/Boidae)
         
 4.  **Boomslang**
     
@@ -232,7 +235,10 @@
         
     *   **Distinguishing Qualities:** Highly venomous, arboreal.
         
-    *   **Name for Photos:** Boomslang (22)
+    *   **Name for Photos:** Boomslang (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dispholidus\_typus.jpg/1024px-Dispholidus\_typus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dispholidus_typus.jpg/1024px-Dispholidus_typus.jpg)
+        * [https://en.wikipedia.org/wiki/Boomslang](https://en.wikipedia.org/wiki/Boomslang)
         
 5.  **Taipan**
     
@@ -240,7 +246,10 @@
         
     *   **Distinguishing Qualities:** Highly venomous.
         
-    *   **Name for Photos:** Taipan (23)
+    *   **Name for Photos:** Taipan (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/58/FierceSnakeOlive.jpg](https://upload.wikimedia.org/wikipedia/commons/5/58/FierceSnakeOlive.jpg)
+        * [https://en.wikipedia.org/wiki/Taipan](https://en.wikipedia.org/wiki/Taipan)
         
 6.  **Emerald Tree Boa**
     
