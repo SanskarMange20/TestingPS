@@ -279,7 +279,10 @@
         
     *   **Distinguishing Qualities:** Small, burrowing.
         
-    *   **Name for Photos:** Brahminy Blind Snake (26)
+    *   **Name for Photos:** Brahminy Blind Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Davidraju\_Worm\_Snake.jpg/1280px-Davidraju\_Worm\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Davidraju_Worm_Snake.jpg/1280px-Davidraju_Worm_Snake.jpg)
+        * [https://en.wikipedia.org/wiki/Indotyphlops\_braminus](https://en.wikipedia.org/wiki/Indotyphlops_braminus)
         
 9.  **Queen Snake**
     
@@ -287,7 +290,10 @@
         
     *   **Distinguishing Qualities:** Semi-aquatic, non-venomous.
         
-    *   **Name for Photos:** Queen Snake (27)
+    *   **Name for Photos:** Queen Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/3b/Regina\_septemvittataPCCA20060513-3674B.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3b/Regina_septemvittataPCCA20060513-3674B.jpg)
+        * [https://en.wikipedia.org/wiki/Queen\_snake](https://en.wikipedia.org/wiki/Queen_snake)
         
 1.  **Elephant Trunk Snake**
     
