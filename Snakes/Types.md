@@ -257,7 +257,10 @@
         
     *   **Distinguishing Qualities:** Arboreal, non-venomous.
         
-    *   **Name for Photos:** Emerald Tree Boa (24)
+    *   **Name for Photos:** Emerald Tree Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Emerald\_Tree\_Boa\_Head.jpg/800px-Emerald\_Tree\_Boa\_Head.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Emerald_Tree_Boa_Head.jpg/800px-Emerald_Tree_Boa_Head.jpg)
+        * [https://en.wikipedia.org/wiki/Emerald\_tree\_boa](https://en.wikipedia.org/wiki/Emerald_tree_boa)
         
 7.  **Red-bellied Black Snake**
     
@@ -265,7 +268,10 @@
         
     *   **Distinguishing Qualities:** Venomous, semi-aquatic.
         
-    *   **Name for Photos:** Red-bellied Black Snake (25)
+    *   **Name for Photos:** Red-bellied Black Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pseudechis\_porphyriacus\_(35307320466).jpg/1024px-Pseudechis\_porphyriacus\_(35307320466).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pseudechis_porphyriacus_(35307320466).jpg/1024px-Pseudechis_porphyriacus_(35307320466).jpg)
+        * [https://en.wikipedia.org/wiki/Red-bellied\_black\_snake](https://en.wikipedia.org/wiki/Red-bellied_black_snake)
         
 8.  **Brahminy Blind Snake**
     
