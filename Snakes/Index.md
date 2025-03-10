@@ -43,6 +43,5 @@
 43. **Sharp-tailed snakes**
 44. **Amblyodipsas**
 45. **Blind snakes**
-46. **Mole Vipers**
-47. **Psammophis**
-48. **Uropeltidae**
+46. **Psammophis**
+47. **Uropeltidae**
