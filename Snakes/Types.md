@@ -301,7 +301,10 @@
         
     *   **Distinguishing Qualities:** Aquatic, non-venomous.
         
-    *   **Name for Photos:** Elephant Trunk Snake (28)
+    *   **Name for Photos:** Elephant Trunk Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4qUU5V\_rFTePVN1i6Qj\_deOsMaojp-h6Cg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4qUU5V_rFTePVN1i6Qj_deOsMaojp-h6Cg&s)
+        * [https://en.wikipedia.org/wiki/Elephant\_trunk\_snake](https://en.wikipedia.org/wiki/Elephant_trunk_snake)
         
 2.  **Acrochordus granulatus**
     
@@ -309,7 +312,10 @@
         
     *   **Distinguishing Qualities:** Aquatic, non-venomous.
         
-    *   **Name for Photos:** Acrochordus granulatus (29)
+    *   **Name for Photos:** Acrochordus granulatus (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/8/8b/File\_snake\_(Acrochordus\_granulatus).jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/File_snake_(Acrochordus_granulatus).jpg)
+        * [https://en.wikipedia.org/wiki/Acrochordus\_granulatus](https://en.wikipedia.org/wiki/Acrochordus_granulatus)
         
 3.  **Najash rionegrina**
     
@@ -317,7 +323,10 @@
         
     *   **Distinguishing Qualities:** Early snake with legs.
         
-    *   **Name for Photos:** Najash rionegrina (30)
+    *   **Name for Photos:** Najash rionegrina (1)
+    *   **Sources:**
+        * [https://media.sciencephoto.com/c0/50/04/25/c0500425-800px-wm.jpg](https://media.sciencephoto.com/c0/50/04/25/c0500425-800px-wm.jpg)
+        * [https://en.wikipedia.org/wiki/Najash](https://en.wikipedia.org/wiki/Najash)
         
 4.  **Xenopeltis unicolor**
     
@@ -325,7 +334,10 @@
         
     *   **Distinguishing Qualities:** Burrowing, non-venomous.
         
-    *   **Name for Photos:** Xenopeltis unicolor (31)
+    *   **Name for Photos:** Xenopeltis unicolor (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Sunbeam\_Snake\_(Xenopeltis\_unicolor)\_(7121228691).jpg/1024px-Sunbeam\_Snake\_(Xenopeltis\_unicolor)\_(7121228691).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Sunbeam_Snake_(Xenopeltis_unicolor)_(7121228691).jpg/1024px-Sunbeam_Snake_(Xenopeltis_unicolor)_(7121228691).jpg)
+        * [https://en.wikipedia.org/wiki/Xenopeltis\_unicolor](https://en.wikipedia.org/wiki/Xenopeltis_unicolor)
         
 5.  **Gigantophis garstini**
     
@@ -333,7 +345,10 @@
         
     *   **Distinguishing Qualities:** Large, prehistoric snake.
         
-    *   **Name for Photos:** Gigantophis garstini (32)
+    *   **Name for Photos:** Gigantophis garstini (1)
+    *   **Sources:**
+        * \][https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gigantophis\_UMMNH.jpg/1024px-Gigantophis\_UMMNH.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gigantophis_UMMNH.jpg/1024px-Gigantophis_UMMNH.jpg)
+        * [https://en.wikipedia.org/wiki/Gigantophis](https://en.wikipedia.org/wiki/Gigantophis)
         
 6.  **Sunbeam Snakes**
     
