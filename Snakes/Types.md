@@ -82,6 +82,9 @@
     *   **Distinguishing Qualities:** Largest snake by weight.
         
     *   **Name for Photos:** Green Anaconda (8)
+    *   **Sources:**
+         * [https://en.wikipedia.org/wiki/Green\_anaconda#/media/File:Sucuri\_verde.jpg](https://en.wikipedia.org/wiki/Green_anaconda#/media/File:Sucuri_verde.jpg)
+         * [https://en.wikipedia.org/wiki/Green\_anaconda](https://en.wikipedia.org/wiki/Green_anaconda)
         
 9.  **Cobras**
     
@@ -90,6 +93,9 @@
     *   **Distinguishing Qualities:** Hooded when threatened, venomous.
         
     *   **Name for Photos:** Cobra (9)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Indian\_Cobra,\_crop.jpg/800px-Indian\_Cobra,\_crop.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Indian_Cobra,_crop.jpg/800px-Indian_Cobra,_crop.jpg)
+        * [https://en.wikipedia.org/wiki/Naja](https://en.wikipedia.org/wiki/Naja)
         
 1.  **Boa Constrictor**
     
