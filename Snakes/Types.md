@@ -104,6 +104,9 @@
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
         
     *   **Name for Photos:** Boa Constrictor (10)
+    *   **Sources:** 
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boa\_constrictor,\_Vaňkovka,\_Brno\_(2).jpg/1024px-Boa\_constrictor,\_Vaňkovka,\_Brno\_(2).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boa_constrictor,_Vaňkovka,_Brno_(2).jpg/1024px-Boa_constrictor,_Vaňkovka,_Brno_(2).jpg)
+        * [https://en.wikipedia.org/wiki/Boa\_constrictor](https://en.wikipedia.org/wiki/Boa_constrictor)
         
 2.  **Inland Taipan**
     
@@ -112,6 +115,9 @@
     *   **Distinguishing Qualities:** Most venomous snake based on toxicity.
         
     *   **Name for Photos:** Inland Taipan (11)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fierce\_Snake-Oxyuranus\_microlepidotus.jpg/1024px-Fierce\_Snake-Oxyuranus\_microlepidotus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fierce_Snake-Oxyuranus_microlepidotus.jpg/1024px-Fierce_Snake-Oxyuranus_microlepidotus.jpg)
+        * [https://en.wikipedia.org/wiki/Inland\_taipan](https://en.wikipedia.org/wiki/Inland_taipan)
         
 3.  **Grass Snake**
     
