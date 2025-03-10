@@ -512,5 +512,5 @@
         
     *   **Name for Photos:** Uropeltid Snake (1)
     *   **Sources:**
-        * [https://cdn.britannica.com/18/142418-050-82865188/Elliot-shieldtail-snake.jpg](https://cdn.britannica.com/18/142418-050-82865188/Elliot-shieldtail-snake.jpg)
+        * [[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plectrurus\_aureus\_wayanad.jpg/1200px-Plectrurus\_aureus\_wayanad.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plectrurus_aureus_wayanad.jpg/1200px-Plectrurus_aureus_wayanad.jpg)
         * [https://en.wikipedia.org/wiki/Uropeltidae](https://en.wikipedia.org/wiki/Uropeltidae)
