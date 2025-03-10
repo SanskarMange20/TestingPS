@@ -203,6 +203,9 @@
     *   **Distinguishing Qualities:** Fastest snake, highly venomous.
         
     *   **Name for Photos:** Black Mamba (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dendroaspis\_polylepis\_(14).jpg/1024px-Dendroaspis\_polylepis\_(14).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dendroaspis_polylepis_(14).jpg/1024px-Dendroaspis_polylepis_(14).jpg)
+        * [https://en.wikipedia.org/wiki/Black\_mamba](https://en.wikipedia.org/wiki/Black_mamba)
         
 2.  **Coral Reef Snakes**
     
@@ -211,6 +214,9 @@
     *   **Distinguishing Qualities:** Marine, venomous.
         
     *   **Name for Photos:** Coral Reef Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eastern\_Bandy-bandy,\_Vermicella\_annulata\_(23111409351).jpg/1920px-Eastern\_Bandy-bandy,\_Vermicella\_annulata\_(23111409351).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eastern_Bandy-bandy,_Vermicella_annulata_(23111409351).jpg/1920px-Eastern_Bandy-bandy,_Vermicella_annulata_(23111409351).jpg)
+        * [https://en.wikipedia.org/wiki/Hydrophiinae](https://en.wikipedia.org/wiki/Hydrophiinae)
         
 3.  **Boas**
     
@@ -218,7 +224,7 @@
         
     *   **Distinguishing Qualities:** Non-venomous, constrictors.
         
-    *   **Name for Photos:** Boa (21)
+    *   **Name for Photos:** Boa (1)
         
 4.  **Boomslang**
     
