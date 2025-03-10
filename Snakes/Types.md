@@ -356,7 +356,10 @@
         
     *   **Distinguishing Qualities:** Burrowing, iridescent scales.
         
-    *   **Name for Photos:** Sunbeam Snake (33)
+    *   **Name for Photos:** Sunbeam Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/18/Xenopeltis\_unicolor\_86904248.jpg](https://upload.wikimedia.org/wikipedia/commons/1/18/Xenopeltis_unicolor_86904248.jpg)
+        * [https://en.wikipedia.org/wiki/Xenopeltis](https://en.wikipedia.org/wiki/Xenopeltis)
         
 7.  **Mole Snake**
     
@@ -364,7 +367,10 @@
         
     *   **Distinguishing Qualities:** Burrowing, non-venomous.
         
-    *   **Name for Photos:** Mole Snake (34)
+    *   **Name for Photos:** Mole Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mole\_snake.JPG/1024px-Mole\_snake.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mole_snake.JPG/1024px-Mole_snake.JPG)
+        * [https://en.wikipedia.org/wiki/Mole\_snake](https://en.wikipedia.org/wiki/Mole_snake)
         
 8.  **Malpolon monspessulanus**
     
@@ -372,7 +378,10 @@
         
     *   **Distinguishing Qualities:** Active hunter, non-venomous.
         
-    *   **Name for Photos:** Malpolon monspessulanus (35)
+    *   **Name for Photos:** Malpolon monspessulanus (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Culebra\_bastarda\_(Malpolon\_monspessulanus),\_Nigüella,\_Zaragoza,\_España,\_2017-05-24,\_DD\_07.jpg/1280px-Culebra\_bastarda\_(Malpolon\_monspessulanus),\_Nigüella,\_Zaragoza,\_España,\_2017-05-24,\_DD\_07.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Culebra_bastarda_(Malpolon_monspessulanus),_Nigüella,_Zaragoza,_España,_2017-05-24,_DD_07.jpg/1280px-Culebra_bastarda_(Malpolon_monspessulanus),_Nigüella,_Zaragoza,_España,_2017-05-24,_DD_07.jpg)
+        * [https://en.wikipedia.org/wiki/Malpolon\_monspessulanus](https://en.wikipedia.org/wiki/Malpolon_monspessulanus)
         
 9.  **Typhlopidae**
     
@@ -380,7 +389,10 @@
         
     *   **Distinguishing Qualities:** Blind, burrowing.
         
-    *   **Name for Photos:** Blind Snake (36)
+    *   **Name for Photos:** Typhlopidae (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Typhlops\_vermicularis\_9.jpg/1280px-Typhlops\_vermicularis\_9.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Typhlops_vermicularis_9.jpg/1280px-Typhlops_vermicularis_9.jpg)
+        * [https://en.wikipedia.org/wiki/Typhlopidae](https://en.wikipedia.org/wiki/Typhlopidae)
         
 1.  **False Cobra**
     
@@ -388,7 +400,10 @@
         
     *   **Distinguishing Qualities:** Mimics cobra hood.
         
-    *   **Name for Photos:** False Cobra (37)
+    *   **Name for Photos:** False Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rhagerhis\_moilensis.JPG/1280px-Rhagerhis\_moilensis.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rhagerhis_moilensis.JPG/1280px-Rhagerhis_moilensis.JPG)
+        * [https://en.wikipedia.org/wiki/False\_cobra](https://en.wikipedia.org/wiki/False_cobra)
         
 2.  **Lamprophis**
     
@@ -396,7 +411,10 @@
         
     *   **Distinguishing Qualities:** Non-venomous, diverse species.
         
-    *   **Name for Photos:** Lamprophis (38)
+    *   **Name for Photos:** Lamprophis (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aroura\_House\_Snake\_1.JPG/1280px-Aroura\_House\_Snake\_1.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aroura_House_Snake_1.JPG/1280px-Aroura_House_Snake_1.JPG)
+        * [https://en.wikipedia.org/wiki/Lamprophis](https://en.wikipedia.org/wiki/Lamprophis)
         
 3.  **Acrochordus arafurae**
     
@@ -404,7 +422,10 @@
         
     *   **Distinguishing Qualities:** Aquatic, non-venomous.
         
-    *   **Name for Photos:** Acrochordus arafurae (39)
+    *   **Name for Photos:** Acrochordus arafurae (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Arafura\_file\_snake\_(Acrochordus\_arafurae)\_in\_captivity.jpg/1024px-Arafura\_file\_snake\_(Acrochordus\_arafurae)\_in\_captivity.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Arafura_file_snake_(Acrochordus_arafurae)_in_captivity.jpg/1024px-Arafura_file_snake_(Acrochordus_arafurae)_in_captivity.jpg)
+        * [https://en.wikipedia.org/wiki/Acrochordus\_arafurae](https://en.wikipedia.org/wiki/Acrochordus_arafurae)
         
 4.  **Cylindrophis ruffus**
     
@@ -412,7 +433,10 @@
         
     *   **Distinguishing Qualities:** Burrowing, non-venomous.
         
-    *   **Name for Photos:** Cylindrophis ruffus (40)
+    *   **Name for Photos:** Cylindrophis ruffus (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a1/Cyl\_ruffus\_061212\_2025\_tdp.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a1/Cyl_ruffus_061212_2025_tdp.jpg)
+        * [https://en.wikipedia.org/wiki/Cylindrophis\_ruffus](https://en.wikipedia.org/wiki/Cylindrophis_ruffus)
         
 5.  **Ninia**
     
@@ -420,7 +444,10 @@
         
     *   **Distinguishing Qualities:** Small, non-venomous.
         
-    *   **Name for Photos:** Ninia (41)
+    *   **Name for Photos:** Ninia (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/e3/Ninia\_atrata.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e3/Ninia_atrata.jpg)
+        * [https://en.wikipedia.org/wiki/Ninia](https://en.wikipedia.org/wiki/Ninia)
         
 6.  **Anilius**
     
@@ -428,7 +455,10 @@
         
     *   **Distinguishing Qualities:** Burrowing, non-venomous.
         
-    *   **Name for Photos:** Anilius (42)
+    *   **Name for Photos:** Anilius (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/2c/Anilius\_scytale.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2c/Anilius_scytale.jpg)
+        * [https://en.wikipedia.org/wiki/Anilius](https://en.wikipedia.org/wiki/Anilius)
         
 7.  **Sharp-tailed Snakes**
     
@@ -436,7 +466,10 @@
         
     *   **Distinguishing Qualities:** Small, non-venomous.
         
-    *   **Name for Photos:** Sharp-tailed Snake (43)
+    *   **Name for Photos:** Sharp-tailed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/0/0b/Contia\_tenuis\_(San\_Luis\_Obispo).jpg](https://upload.wikimedia.org/wikipedia/commons/0/0b/Contia_tenuis_(San_Luis_Obispo).jpg)
+        * [https://en.wikipedia.org/wiki/Contia\_(snake)](https://en.wikipedia.org/wiki/Contia_(snake))
         
 8.  **Amblyodipsas**
     
@@ -444,7 +477,10 @@
         
     *   **Distinguishing Qualities:** Burrowing, venomous.
         
-    *   **Name for Photos:** Amblyodipsas (44)
+    *   **Name for Photos:** Amblyodipsas (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Amblyodipsas\_polylepis.jpg/1280px-Amblyodipsas\_polylepis.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Amblyodipsas_polylepis.jpg/1280px-Amblyodipsas_polylepis.jpg)
+        * [https://en.wikipedia.org/wiki/Amblyodipsas](https://en.wikipedia.org/wiki/Amblyodipsas)
         
 9.  **Blind Snakes**
     
@@ -452,28 +488,29 @@
         
     *   **Distinguishing Qualities:** Burrowing, blind.
         
-    *   **Name for Photos:** Blind Snake (45)
-        
-1.  **Mole Vipers**
-    
-    *   **Scientific Name:** _Atractaspis spp._
-        
-    *   **Distinguishing Qualities:** Burrowing, venomous.
-        
-    *   **Name for Photos:** Mole Viper (46)
-        
-2.  **Psammophis**
+    *   **Name for Photos:** Blind Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/53/Ramphotyphlops\_braminus\_jja.jpg](https://upload.wikimedia.org/wikipedia/commons/5/53/Ramphotyphlops_braminus_jja.jpg)
+        * [https://en.wikipedia.org/wiki/Scolecophidia](https://en.wikipedia.org/wiki/Scolecophidia)
+                
+1.  **Psammophis**
     
     *   **Scientific Name:** _Psammophis spp._
         
     *   **Distinguishing Qualities:** Active hunters, non-venomous.
         
-    *   **Name for Photos:** Psammophis (47)
+    *   **Name for Photos:** Psammophis (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/92/Psammophis\_subtaeniatus2.jpg](https://upload.wikimedia.org/wikipedia/commons/9/92/Psammophis_subtaeniatus2.jpg)
+        * [https://en.wikipedia.org/wiki/Psammophis](https://en.wikipedia.org/wiki/Psammophis)
         
-3.  **Uropeltidae**
+2.  **Uropeltidae**
     
     *   **Scientific Name:** _Uropeltidae_ (family)
         
     *   **Distinguishing Qualities:** Burrowing, non-venomous.
         
-    *   **Name for Photos:** Uropeltid Snake (48)
+    *   **Name for Photos:** Uropeltid Snake (1)
+    *   **Sources:**
+        * [https://cdn.britannica.com/18/142418-050-82865188/Elliot-shieldtail-snake.jpg](https://cdn.britannica.com/18/142418-050-82865188/Elliot-shieldtail-snake.jpg)
+        * [https://en.wikipedia.org/wiki/Uropeltidae](https://en.wikipedia.org/wiki/Uropeltidae)
