@@ -15,7 +15,7 @@
         
     *   **Distinguishing Qualities:** Non-venomous, constrictors.
         
-    *   **Name for Photos:** Python (2)
+    *   **Name for Photos:** Python (1)
     *   **Source:**
          * [https://upload.wikimedia.org/wikipedia/commons/3/32/Python\_molurus\_molurus\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/3/32/Python_molurus_molurus_2.jpg)
          * https://en.wikipedia.org/wiki/Pythonidae
@@ -26,7 +26,7 @@
         
     *   **Distinguishing Qualities:** Large, aquatic constrictors.
         
-    *   **Name for Photos:** Anaconda (3)
+    *   **Name for Photos:** Anaconda (1)
     *   **Source:**
          * [https://upload.wikimedia.org/wikipedia/commons/b/b2/Eunectes\_murinus2.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/Eunectes_murinus2.jpg)
          * https://en.wikipedia.org/wiki/Anaconda
@@ -37,7 +37,7 @@
         
     *   **Distinguishing Qualities:** Venomous, heat-sensing pits.
         
-    *   **Name for Photos:** Viper (4)
+    *   **Name for Photos:** Viper (1)
     *   **Source:**
          * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabian\_Horned\_viper.jpg/1920px-Arabian\_Horned\_viper.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arabian_Horned_viper.jpg/1920px-Arabian_Horned_viper.jpg)
          * https://en.wikipedia.org/wiki/Viper
@@ -48,7 +48,7 @@
         
     *   **Distinguishing Qualities:** Striped, semi-aquatic.
         
-    *   **Name for Photos:** Garter Snake (5)
+    *   **Name for Photos:** Garter Snake (1)
     *   **Source:** 
          * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thamnophis\_sirtalis\_sirtalis\_Wooster.jpg/1024px-Thamnophis\_sirtalis\_sirtalis\_Wooster.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thamnophis_sirtalis_sirtalis_Wooster.jpg/1024px-Thamnophis_sirtalis_sirtalis_Wooster.jpg)
          * https://en.wikipedia.org/wiki/Garter_snake
@@ -59,7 +59,7 @@
         
     *   **Distinguishing Qualities:** Agile, venomous, arboreal.
         
-    *   **Name for Photos:** Mamba (6)
+    *   **Name for Photos:** Mamba (1)
     *   **Source:** 
          * [https://upload.wikimedia.org/wikipedia/commons/e/ec/Hartebeespoort\_Zoo\_and\_snake\_park,\_Black\_Mamba\_-\_panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/Hartebeespoort_Zoo_and_snake_park,_Black_Mamba_-_panoramio.jpg)
          *   [https://en.wikipedia.org/wiki/Mamba](https://en.wikipedia.org/wiki/Mamba)
@@ -70,7 +70,7 @@
         
     *   **Distinguishing Qualities:** Non-venomous, popular pet.
         
-    *   **Name for Photos:** Ball Python (7)
+    *   **Name for Photos:** Ball Python (1)
     *   **Sources:**
          * [https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball\_python\_lucy.JPG](https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG)
          * [https://en.wikipedia.org/wiki/Ball\_python](https://en.wikipedia.org/wiki/Ball_python)
@@ -81,7 +81,7 @@
         
     *   **Distinguishing Qualities:** Largest snake by weight.
         
-    *   **Name for Photos:** Green Anaconda (8)
+    *   **Name for Photos:** Green Anaconda (1)
     *   **Sources:**
          * [https://en.wikipedia.org/wiki/Green\_anaconda#/media/File:Sucuri\_verde.jpg](https://en.wikipedia.org/wiki/Green_anaconda#/media/File:Sucuri_verde.jpg)
          * [https://en.wikipedia.org/wiki/Green\_anaconda](https://en.wikipedia.org/wiki/Green_anaconda)
@@ -92,7 +92,7 @@
         
     *   **Distinguishing Qualities:** Hooded when threatened, venomous.
         
-    *   **Name for Photos:** Cobra (9)
+    *   **Name for Photos:** Cobra (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Indian\_Cobra,\_crop.jpg/800px-Indian\_Cobra,\_crop.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Indian_Cobra,_crop.jpg/800px-Indian_Cobra,_crop.jpg)
         * [https://en.wikipedia.org/wiki/Naja](https://en.wikipedia.org/wiki/Naja)
@@ -103,7 +103,7 @@
         
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
         
-    *   **Name for Photos:** Boa Constrictor (10)
+    *   **Name for Photos:** Boa Constrictor (1)
     *   **Sources:** 
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boa\_constrictor,\_Vaňkovka,\_Brno\_(2).jpg/1024px-Boa\_constrictor,\_Vaňkovka,\_Brno\_(2).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boa_constrictor,_Vaňkovka,_Brno_(2).jpg/1024px-Boa_constrictor,_Vaňkovka,_Brno_(2).jpg)
         * [https://en.wikipedia.org/wiki/Boa\_constrictor](https://en.wikipedia.org/wiki/Boa_constrictor)
@@ -114,7 +114,7 @@
         
     *   **Distinguishing Qualities:** Most venomous snake based on toxicity.
         
-    *   **Name for Photos:** Inland Taipan (11)
+    *   **Name for Photos:** Inland Taipan (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fierce\_Snake-Oxyuranus\_microlepidotus.jpg/1024px-Fierce\_Snake-Oxyuranus\_microlepidotus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fierce_Snake-Oxyuranus_microlepidotus.jpg/1024px-Fierce_Snake-Oxyuranus_microlepidotus.jpg)
         * [https://en.wikipedia.org/wiki/Inland\_taipan](https://en.wikipedia.org/wiki/Inland_taipan)
@@ -125,7 +125,10 @@
         
     *   **Distinguishing Qualities:** Semi-aquatic, non-venomous.
         
-    *   **Name for Photos:** Grass Snake (12)
+    *   **Name for Photos:** Grass Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grass\_snake\_(Natrix\_natrix)\_Pieniny.jpg/1280px-Grass\_snake\_(Natrix\_natrix)\_Pieniny.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grass_snake_(Natrix_natrix)_Pieniny.jpg/1280px-Grass_snake_(Natrix_natrix)_Pieniny.jpg)
+        * [https://en.wikipedia.org/wiki/Grass\_snake](https://en.wikipedia.org/wiki/Grass_snake)
         
 4.  **Titanoboa**
     
@@ -133,7 +136,10 @@
         
     *   **Distinguishing Qualities:** Largest known snake species.
         
-    *   **Name for Photos:** Titanoboa (13)
+    *   **Name for Photos:** Titanoboa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Fossilized\_Titanoboa\_Vertebrea.jpg/800px-Fossilized\_Titanoboa\_Vertebrea.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Fossilized_Titanoboa_Vertebrea.jpg/800px-Fossilized_Titanoboa_Vertebrea.jpg)
+        * [https://en.wikipedia.org/wiki/Titanoboa](https://en.wikipedia.org/wiki/Titanoboa)
         
 5.  **Kingsnakes**
     
@@ -141,7 +147,10 @@
         
     *   **Distinguishing Qualities:** Immune to many venomous snakes' venom.
         
-    *   **Name for Photos:** Kingsnake (14)
+    *   **Name for Photos:** Kingsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/5b/Lampropeltis\_elapsoides.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lampropeltis_elapsoides.jpg)
+        * [https://en.wikipedia.org/wiki/Kingsnake](https://en.wikipedia.org/wiki/Kingsnake)
         
 6.  **Eastern Brown Snake**
     
@@ -149,7 +158,10 @@
         
     *   **Distinguishing Qualities:** Second-most venomous snake.
         
-    *   **Name for Photos:** Eastern Brown Snake (15)
+    *   **Name for Photos:** Eastern Brown Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/de/Eastern\_Brown\_Snake\_-\_Kempsey\_NSW.jpg](https://upload.wikimedia.org/wikipedia/commons/d/de/Eastern_Brown_Snake_-_Kempsey_NSW.jpg)
+        * [https://en.wikipedia.org/wiki/Eastern\_brown\_snake](https://en.wikipedia.org/wiki/Eastern_brown_snake)
         
 7.  **Corn Snake**
     
@@ -157,7 +169,10 @@
         
     *   **Distinguishing Qualities:** Popular pet, non-venomous.
         
-    *   **Name for Photos:** Corn Snake (16)
+    *   **Name for Photos:** Corn Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CornSnake.jpg/1024px-CornSnake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CornSnake.jpg/1024px-CornSnake.jpg)
+        * [https://en.wikipedia.org/wiki/Corn\_snake](https://en.wikipedia.org/wiki/Corn_snake)
         
 8.  **Elapid Snakes**
     
@@ -165,7 +180,10 @@
         
     *   **Distinguishing Qualities:** Venomous, fixed front fangs.
         
-    *   **Name for Photos:** Elapid Snake (17)
+    *   **Name for Photos:** Elapid Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a9/King-Cobra.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/King-Cobra.jpg)
+        * [https://en.wikipedia.org/wiki/Elapidae](https://en.wikipedia.org/wiki/Elapidae)
         
 9.  **Colubrid Snakes**
     
@@ -173,7 +191,10 @@
         
     *   **Distinguishing Qualities:** Most diverse snake family.
         
-    *   **Name for Photos:** Colubrid Snake (18)
+    *   **Name for Photos:** Colubrid Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Indian\_Rat\_Snake\_(Grey\_and\_Yellow).jpg/800px-Indian\_Rat\_Snake\_(Grey\_and\_Yellow).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Indian_Rat_Snake_(Grey_and_Yellow).jpg/800px-Indian_Rat_Snake_(Grey_and_Yellow).jpg)
+        * [https://en.wikipedia.org/wiki/Colubridae](https://en.wikipedia.org/wiki/Colubridae)
         
 1.  **Black Mamba**
     
@@ -181,7 +202,7 @@
         
     *   **Distinguishing Qualities:** Fastest snake, highly venomous.
         
-    *   **Name for Photos:** Black Mamba (19)
+    *   **Name for Photos:** Black Mamba (1)
         
 2.  **Coral Reef Snakes**
     
@@ -189,7 +210,7 @@
         
     *   **Distinguishing Qualities:** Marine, venomous.
         
-    *   **Name for Photos:** Coral Reef Snake (20)
+    *   **Name for Photos:** Coral Reef Snake (1)
         
 3.  **Boas**
     
