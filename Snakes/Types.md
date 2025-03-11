@@ -420,8 +420,303 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plectrurus\_aureus\_wayanad.jpg/1200px-Plectrurus\_aureus\_wayanad.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plectrurus_aureus_wayanad.jpg/1200px-Plectrurus_aureus_wayanad.jpg)
         * [https://en.wikipedia.org/wiki/Uropeltidae](https://en.wikipedia.org/wiki/Uropeltidae)
-
-3. **African Rock Python**
-   * **Scientific Name:** Python sebae
-   * **Distinguishing Qualities:** Large, non-venomous constrictor
-   * **Name for Photos:** African Rock Python (50)
+          
+3.  **African Rock Python**
+    
+    *   **Scientific Name:** _Python sebae_
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor.
+    *   **Name for Photos:** African Rock Python (50)
+        
+4.  **Amethystine Python**
+    
+    *   **Scientific Name:** _Morelia amethistina_
+    *   **Distinguishing Qualities:** Large, non-venomous, iridescent scales.
+    *   **Name for Photos:** Amethystine Python (51)
+        
+5.  **Angolan Python**
+    
+    *   **Scientific Name:** _Python anchietae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Angolan Python (52)
+        
+6.  **Australian Scrub Python**
+    
+    *   **Scientific Name:** _Morelia amethistina_ (also known as Amethystine Python in some regions)
+    *   **Distinguishing Qualities:** Large, non-venomous.
+    *   **Name for Photos:** Australian Scrub Python (53)
+        
+7.  **Bismarck Ringed Python**
+    
+    *   **Scientific Name:** _Bothrochilus boa_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Bismarck Ringed Python (54)
+        
+8.  **Blood Python**
+    
+    *   **Scientific Name:** _Python brongersmai_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Blood Python (55)
+        
+9.  **Boelen Python**
+    
+    *   **Scientific Name:** _Morelia boeleni_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Boelen Python (56)
+        
+1.  **Borneo Short-tailed Python**
+    
+    *   **Scientific Name:** _Python breitensteini_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Borneo Short-tailed Python (57)
+        
+2.  **Bredl's Python**
+    
+    *   **Scientific Name:** _Morelia bredli_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Bredl's Python (58)
+        
+3.  **Brown Water Python**
+    
+    *   **Scientific Name:** _Liasis fuscus_
+    *   **Distinguishing Qualities:** Non-venomous, aquatic.
+    *   **Name for Photos:** Brown Water Python (59)
+        
+4.  **Calabar Python**
+    
+    *   **Scientific Name:** _Calabaria reinhardtii_
+    *   **Distinguishing Qualities:** Non-venomous, burrowing.
+    *   **Name for Photos:** Calabar Python (60)
+        
+5.  **Carpet Python**
+    
+    *   **Scientific Name:** _Morelia spilota_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Carpet Python (61)
+        
+6.  **Children's Python**
+    
+    *   **Scientific Name:** _Antaresia childreni_
+    *   **Distinguishing Qualities:** Small, non-venomous.
+    *   **Name for Photos:** Children's Python (62)
+        
+7.  **Desert Woma Python**
+    
+    *   **Scientific Name:** _Aspidites ramsayi_
+    *   **Distinguishing Qualities:** Non-venomous, burrowing.
+    *   **Name for Photos:** Desert Woma Python (63)
+        
+8.  **Diamond Python**
+    
+    *   **Scientific Name:** _Morelia spilota spilota_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Diamond Python (64)
+        
+9.  **Flinders Python**
+    
+    *   **Scientific Name:** _Antaresia maculosa_
+    *   **Distinguishing Qualities:** Small, non-venomous.
+    *   **Name for Photos:** Flinders Python (65)
+        
+1.  **Green Tree Python**
+    
+    *   **Scientific Name:** _Morelia viridis_
+    *   **Distinguishing Qualities:** Non-venomous, arboreal.
+    *   **Name for Photos:** Green Tree Python (66)
+        
+2.  **Halmahera Python**
+    
+    *   **Scientific Name:** _Morelia tracyae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Halmahera Python (67)
+        
+3.  **Indian Python**
+    
+    *   **Scientific Name:** _Python molurus_
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor.
+    *   **Name for Photos:** Indian Python (68)
+        
+4.  **Indonesian Water Python**
+    
+    *   **Scientific Name:** _Liasis mackloti_
+    *   **Distinguishing Qualities:** Non-venomous, aquatic.
+    *   **Name for Photos:** Indonesian Water Python (69)
+        
+5.  **Macklot's Python**
+    
+    *   **Scientific Name:** _Liasis mackloti_
+    *   **Distinguishing Qualities:** Non-venomous, aquatic.
+    *   **Name for Photos:** Macklot's Python (70)
+        
+6.  **Moluccan Python**
+    
+    *   **Scientific Name:** _Morelia tracyae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Moluccan Python (71)
+        
+7.  **Oenpelli Python**
+    
+    *   **Scientific Name:** _Morelia oenpelliensis_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Oenpelli Python (72)
+        
+8.  **Olive Python**
+    
+    *   **Scientific Name:** _Liasis olivaceus_
+    *   **Distinguishing Qualities:** Non-venomous, aquatic.
+    *   **Name for Photos:** Olive Python (73)
+        
+9.  **Papuan Python**
+    
+    *   **Scientific Name:** _Morelia tracyae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Papuan Python (74)
+        
+1.  **Pygmy Python**
+    
+    *   **Scientific Name:** _Antaresia peronii_
+    *   **Distinguishing Qualities:** Small, non-venomous.
+    *   **Name for Photos:** Pygmy Python (75)
+        
+2.  **Red Blood Python**
+    
+    *   **Scientific Name:** _Python brongersmai_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Red Blood Python (76)
+        
+3.  **Reticulated Python**
+    
+    *   **Scientific Name:** _Python reticulatus_
+    *   **Distinguishing Qualities:** Longest snake species, non-venomous.
+    *   **Name for Photos:** Reticulated Python (77)
+        
+4.  **Rough-scaled Python**
+    
+    *   **Scientific Name:** _Morelia carinata_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Rough-scaled Python (78)
+        
+5.  **Royal Python**
+    
+    *   **Scientific Name:** _Python regius_
+    *   **Distinguishing Qualities:** Popular pet, non-venomous.
+    *   **Name for Photos:** Royal Python (79)
+        
+6.  **Savu Python**
+    
+    *   **Scientific Name:** _Morelia tracyae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Savu Python (80)
+        
+7.  **Spotted Python**
+    
+    *   **Scientific Name:** _Antaresia maculosa_
+    *   **Distinguishing Qualities:** Small, non-venomous.
+    *   **Name for Photos:** Spotted Python (81)
+        
+8.  **Stimson's Python**
+    
+    *   **Scientific Name:** _Antaresia stimsoni_
+    *   **Distinguishing Qualities:** Small, non-venomous.
+    *   **Name for Photos:** Stimson's Python (82)
+        
+9.  **Sumatran Short-tailed Python**
+    
+    *   **Scientific Name:** _Python curtus_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Sumatran Short-tailed Python (83)
+        
+1.  **Tanimbar Python**
+    
+    *   **Scientific Name:** _Morelia tracyae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Tanimbar Python (84)
+        
+2.  **Timor Python**
+    
+    *   **Scientific Name:** _Morelia tracyae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Timor Python (85)
+        
+3.  **Wetar Island Python**
+    
+    *   **Scientific Name:** _Morelia tracyae_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Wetar Island Python (86)
+        
+4.  **White-lipped Python**
+    
+    *   **Scientific Name:** _Leiopython albertisii_  
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** White-lipped Python (87)
+        
+5.  **Woma Python**
+    
+    *   **Scientific Name:** _Aspidites ramsayi_
+    *   **Distinguishing Qualities:** Non-venomous, burrowing.
+    *   **Name for Photos:** Woma Python (88)
+        
+6.  **Western Woma Python**
+    
+    *   **Scientific Name:** _Aspidites ramsayi_
+    *   **Distinguishing Qualities:** Non-venomous, burrowing.
+    *   **Name for Photos:** Western Woma Python (89)
+        
+7.  **Canebrake Rattlesnake**
+    
+    *   **Scientific Name:** _Crotalus lepidus_
+    *   **Distinguishing Qualities:** Venomous, pit viper.
+    *   **Name for Photos:** Canebrake Rattlesnake (90)
+        
+8.  **Cantil**
+    
+    *   **Scientific Name:** _Agkistrodon bilineatus_
+    *   **Distinguishing Qualities:** Venomous, pit viper.
+    *   **Name for Photos:** Cantil (91)
+        
+9.  **Cascabel**
+    
+    *   **Scientific Name:** _Crotalus durissus_
+    *   **Distinguishing Qualities:** Venomous, pit viper.
+    *   **Name for Photos:** Cascabel (92)
+        
+1.  **Cat-eyed Snake**
+    
+    *   **Scientific Name:** _Leptodeira septentrionalis_
+    *   **Distinguishing Qualities:** Non-venomous, nocturnal.
+    *   **Name for Photos:** Cat-eyed Snake (93)
+        
+2.  **Cat Snake**
+    
+    *   **Scientific Name:** _Boiga spp._
+    *   **Distinguishing Qualities:** Non-venomous, arboreal.
+    *   **Name for Photos:** Cat Snake (94)
+        
+3.  **Chicken Snake**
+    
+    *   **Scientific Name:** _Gallus gallus domesticus_ (not a snake, but a domestic chicken; possibly referring to a different species)
+    *   **Distinguishing Qualities:** Not applicable.
+    *   **Name for Photos:** Not applicable (95)
+        
+4.  **Coachwhip Snake**
+    
+    *   **Scientific Name:** _Masticophis flagellum_
+    *   **Distinguishing Qualities:** Non-venomous, active hunter.
+    *   **Name for Photos:** Coachwhip Snake (96)
+        
+5.  **Coral Snake**
+    
+    *   **Scientific Name:** _Micrurus spp._
+    *   **Distinguishing Qualities:** Venomous, colorful pattern.
+    *   **Name for Photos:** Coral Snake (97)
+        
+6.  **Cottonmouth**
+    
+    *   **Scientific Name:** _Agkistrodon piscivorus_
+    *   **Distinguishing Qualities:** Venomous, semi-aquatic.
+    *   **Name for Photos:** Cottonmouth (98)
+        
+7.  **Crowned Snake**
+    
+    *   **Scientific Name:** _Tantilla spp._
+    *   **Distinguishing Qualities:** Non-venomous, small.
+    *   **Name for Photos:** Crowned Snake (99)
