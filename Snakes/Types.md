@@ -496,9 +496,7 @@
 1.  **Psammophis**
     
     *   **Scientific Name:** _Psammophis spp._
-        
     *   **Distinguishing Qualities:** Active hunters, non-venomous.
-        
     *   **Name for Photos:** Psammophis (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/9/92/Psammophis\_subtaeniatus2.jpg](https://upload.wikimedia.org/wikipedia/commons/9/92/Psammophis_subtaeniatus2.jpg)
@@ -507,10 +505,13 @@
 2.  **Uropeltidae**
     
     *   **Scientific Name:** _Uropeltidae_ (family)
-        
     *   **Distinguishing Qualities:** Burrowing, non-venomous.
-        
     *   **Name for Photos:** Uropeltid Snake (1)
     *   **Sources:**
         * [[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plectrurus\_aureus\_wayanad.jpg/1200px-Plectrurus\_aureus\_wayanad.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plectrurus_aureus_wayanad.jpg/1200px-Plectrurus_aureus_wayanad.jpg)
         * [https://en.wikipedia.org/wiki/Uropeltidae](https://en.wikipedia.org/wiki/Uropeltidae)
+
+3. **African Rock Python**
+   * **Scientific Name:** Python sebae
+   * **Distinguishing Qualities:** Large, non-venomous constrictor
+   * **Name for Photos:** African Rock Python (50)
