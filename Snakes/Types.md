@@ -533,25 +533,37 @@
     
     *   **Scientific Name:** _Antaresia childreni_
     *   **Distinguishing Qualities:** Small, non-venomous.
-    *   **Name for Photos:** Children's Python (62)
+    *   **Name for Photos:** Children's Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Childrens\_Python\_(Antaresia\_childreni)\_(8692425238).jpg/1280px-Childrens\_Python\_(Antaresia\_childreni)\_(8692425238).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Childrens_Python_(Antaresia_childreni)_(8692425238).jpg/1280px-Childrens_Python_(Antaresia_childreni)_(8692425238).jpg)
+        * [https://en.wikipedia.org/wiki/Children's\_python](https://en.wikipedia.org/wiki/Children's_python)
         
 7.  **Desert Woma Python**
     
     *   **Scientific Name:** _Aspidites ramsayi_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
-    *   **Name for Photos:** Desert Woma Python (63)
+    *   **Name for Photos:** Desert Woma Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aspidites\_ramsayi\_-Australia\_Zoo,\_Queensland,\_Australia-8a.jpg/1280px-Aspidites\_ramsayi\_-Australia\_Zoo,\_Queensland,\_Australia-8a.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aspidites_ramsayi_-Australia_Zoo,_Queensland,_Australia-8a.jpg/1280px-Aspidites_ramsayi_-Australia_Zoo,_Queensland,_Australia-8a.jpg)
+        * [https://en.wikipedia.org/wiki/Woma\_python](https://en.wikipedia.org/wiki/Woma_python)
         
 8.  **Diamond Python**
     
     *   **Scientific Name:** _Morelia spilota spilota_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Diamond Python (64)
+    *   **Name for Photos:** Diamond Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/f8/Diamond\_python.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f8/Diamond_python.jpg)
+        * [https://willdlife.fandom.com/wiki/Diamond\_Python](https://willdlife.fandom.com/wiki/Diamond_Python)
         
 9.  **Flinders Python**
     
     *   **Scientific Name:** _Antaresia maculosa_
     *   **Distinguishing Qualities:** Small, non-venomous.
-    *   **Name for Photos:** Flinders Python (65)
+    *   **Name for Photos:** Flinders Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/44/Antaresia\_maculosa.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Antaresia_maculosa.jpg)
+        * [https://en.wikipedia.org/wiki/Spotted\_python](https://en.wikipedia.org/wiki/Spotted_python)
         
 1.  **Green Tree Python**
     
