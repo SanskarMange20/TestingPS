@@ -464,7 +464,7 @@
     *   **Name for Photos:** Bismarck Ringed Python (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GAB05164\_gr\_copy.jpg/1024px-GAB05164\_gr\_copy.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GAB05164_gr_copy.jpg/1024px-GAB05164_gr_copy.jpg)
-        * [https://en.wikipedia.org/wiki/Bismarck\_ringed\_python#:~:text=7 External links-,Description,or a uniform blackish brown.](https://en.wikipedia.org/wiki/Bismarck_ringed_python#:~:text=7 External links-,Description,or a uniform blackish brown.)
+        * [https://en.wikipedia.org/wiki/Bismarck\_ringed\_python](https://en.wikipedia.org/wiki/Bismarck_ringed_python)
         
 8.  **Blood Python**
     
