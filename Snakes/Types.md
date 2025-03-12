@@ -488,31 +488,46 @@
     
     *   **Scientific Name:** _Python breitensteini_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Borneo Short-tailed Python (57)
+    *   **Name for Photos:** Borneo Short-tailed Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/7b/Python\_breitensteini\_(13106752324).jpg](https://upload.wikimedia.org/wikipedia/commons/7/7b/Python_breitensteini_(13106752324).jpg)
+        * [https://en.wikipedia.org/wiki/Borneo\_python](https://en.wikipedia.org/wiki/Borneo_python)
         
 2.  **Bredl's Python**
     
     *   **Scientific Name:** _Morelia bredli_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Bredl's Python (58)
+    *   **Name for Photos:** Bredl's Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Morelia\_bredli\_6\_-\_Christopher\_Watson.jpg/800px-Morelia\_bredli\_6\_-\_Christopher\_Watson.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Morelia_bredli_6_-_Christopher_Watson.jpg/800px-Morelia_bredli_6_-_Christopher_Watson.jpg)
+        * [https://en.wikipedia.org/wiki/Morelia\_bredli](https://en.wikipedia.org/wiki/Morelia_bredli)
         
 3.  **Brown Water Python**
     
     *   **Scientific Name:** _Liasis fuscus_
     *   **Distinguishing Qualities:** Non-venomous, aquatic.
-    *   **Name for Photos:** Brown Water Python (59)
+    *   **Name for Photos:** Brown Water Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liasis\_fuscus.jpg/1280px-Liasis\_fuscus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liasis_fuscus.jpg/1280px-Liasis_fuscus.jpg)
+        * [https://en.wikipedia.org/wiki/Water\_python](https://en.wikipedia.org/wiki/Water_python)
         
 4.  **Calabar Python**
     
     *   **Scientific Name:** _Calabaria reinhardtii_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
-    *   **Name for Photos:** Calabar Python (60)
+    *   **Name for Photos:** Calabar Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Calabar\_Serpent2.jpg/1280px-Calabar\_Serpent2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Calabar_Serpent2.jpg/1280px-Calabar_Serpent2.jpg)
+        * [https://en.wikipedia.org/wiki/Calabar\_python](https://en.wikipedia.org/wiki/Calabar_python)
         
 5.  **Carpet Python**
     
     *   **Scientific Name:** _Morelia spilota_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Carpet Python (61)
+    *   **Name for Photos:** Carpet Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Australian-Carpet-Python.jpg/800px-Australian-Carpet-Python.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Australian-Carpet-Python.jpg/800px-Australian-Carpet-Python.jpg)
+        * [https://en.wikipedia.org/wiki/Morelia\_spilota](https://en.wikipedia.org/wiki/Morelia_spilota)
         
 6.  **Children's Python**
     
@@ -741,3 +756,18 @@
     *   **Scientific Name:** _Tantilla spp._
     *   **Distinguishing Qualities:** Non-venomous, small.
     *   **Name for Photos:** Crowned Snake (99)
+
+8. **Tentacled Snake**
+    *   **Scientific Name:** *Erpeton tentaculatum*
+    *   **Distinguishing Qualities:** Highly aquatic with tentacle-like protrusions on its snout, used for sensing prey underwater.
+    *   **Name for Photos:** Tentacled Snake (100)
+
+9. **Parrot Snake (Leptophis mystacinus)**
+    *   **Scientific Name:** *Leptophis mystacinus*
+    *   **Distinguishing Qualities:** Non-venomous, arboreal, with a distinctive black stripe resembling a mustache across its snout.
+    *   **Name for Photos:** Parrot Snake (101)
+
+1. **Dragon Snake**
+    *   **Scientific Name:** *Xenodermus javanicus*
+    *   **Distinguishing Qualities:** Semi-fossorial with dragon-like scalation, featuring raised rows of keeled scales.
+    *   **Name for Photos:** Dragon Snake (102)
