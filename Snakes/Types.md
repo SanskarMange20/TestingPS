@@ -425,43 +425,64 @@
     
     *   **Scientific Name:** _Python sebae_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
-    *   **Name for Photos:** African Rock Python (50)
+    *   **Name for Photos:** African Rock Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Adult\_Female\_Python\_sebae\_1.33aspect.jpg/800px-Adult\_Female\_Python\_sebae\_1.33aspect.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Adult_Female_Python_sebae_1.33aspect.jpg/800px-Adult_Female_Python_sebae_1.33aspect.jpg)
+        * [https://en.wikipedia.org/wiki/Central\_African\_rock\_python](https://en.wikipedia.org/wiki/Central_African_rock_python)
         
 4.  **Amethystine Python**
     
     *   **Scientific Name:** _Morelia amethistina_
     *   **Distinguishing Qualities:** Large, non-venomous, iridescent scales.
-    *   **Name for Photos:** Amethystine Python (51)
+    *   **Name for Photos:** Amethystine Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/e8/High-Yellow\_Sorong\_Amethystine\_Scrub\_Python.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/High-Yellow_Sorong_Amethystine_Scrub_Python.jpg)
+        * [https://en.wikipedia.org/wiki/Amethystine\_python](https://en.wikipedia.org/wiki/Amethystine_python)
         
 5.  **Angolan Python**
     
     *   **Scientific Name:** _Python anchietae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Angolan Python (52)
+    *   **Name for Photos:** Angolan Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Angolan\_Dwarf\_Python\_(Python\_anchietae).jpg/800px-Angolan\_Dwarf\_Python\_(Python\_anchietae).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Angolan_Dwarf_Python_(Python_anchietae).jpg/800px-Angolan_Dwarf_Python_(Python_anchietae).jpg)
+        * [https://en.wikipedia.org/wiki/Python\_anchietae](https://en.wikipedia.org/wiki/Python_anchietae)
         
 6.  **Australian Scrub Python**
     
     *   **Scientific Name:** _Morelia amethistina_ (also known as Amethystine Python in some regions)
     *   **Distinguishing Qualities:** Large, non-venomous.
-    *   **Name for Photos:** Australian Scrub Python (53)
+    *   **Name for Photos:** Australian Scrub Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/ab/Australian\_Scrub\_Python\_(Morelia\_kinghorni)\_Australia\_Zoo.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ab/Australian_Scrub_Python_(Morelia_kinghorni)_Australia_Zoo.jpg)
+        * [https://en.wikipedia.org/wiki/Australian\_scrub\_python](https://en.wikipedia.org/wiki/Australian_scrub_python)
         
 7.  **Bismarck Ringed Python**
     
     *   **Scientific Name:** _Bothrochilus boa_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Bismarck Ringed Python (54)
+    *   **Name for Photos:** Bismarck Ringed Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GAB05164\_gr\_copy.jpg/1024px-GAB05164\_gr\_copy.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GAB05164_gr_copy.jpg/1024px-GAB05164_gr_copy.jpg)
+        * [https://en.wikipedia.org/wiki/Bismarck\_ringed\_python#:~:text=7 External links-,Description,or a uniform blackish brown.](https://en.wikipedia.org/wiki/Bismarck_ringed_python#:~:text=7 External links-,Description,or a uniform blackish brown.)
         
 8.  **Blood Python**
     
     *   **Scientific Name:** _Python brongersmai_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Blood Python (55)
+    *   **Name for Photos:** Blood Python (1)
+    *   **Soruces:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Python\_brongersmai,\_Brongersma's\_short-tailed\_python.jpg/1280px-Python\_brongersmai,\_Brongersma's\_short-tailed\_python.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Python_brongersmai,_Brongersma's_short-tailed_python.jpg/1280px-Python_brongersmai,_Brongersma's_short-tailed_python.jpg)
+        * [https://en.wikipedia.org/wiki/Python\_brongersmai](https://en.wikipedia.org/wiki/Python_brongersmai)
         
 9.  **Boelen Python**
     
     *   **Scientific Name:** _Morelia boeleni_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Boelen Python (56)
+    *   **Name for Photos:** Boelen Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boelen\_Python\_01.jpg/1024px-Boelen\_Python\_01.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boelen_Python_01.jpg/1024px-Boelen_Python_01.jpg)
+        * [https://en.wikipedia.org/wiki/Simalia\_boeleni#Conservation\_status](https://en.wikipedia.org/wiki/Simalia_boeleni#Conservation_status)
         
 1.  **Borneo Short-tailed Python**
     
