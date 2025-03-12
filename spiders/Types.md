@@ -91,8 +91,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/62160899/large.jpeg
     
 *   **Image Name**: Spider13, Spider14
     
-*   **Sources**:
-    
+*   **Sources**: https://en.wikipedia.org/wiki/Pholcus_phalangioides
+  https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPholcus_phalangioides&psig=AOvVaw2zSky0PQcJWjy7_YWFFqQ8&ust=1741852756928000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCT2ZGJhIwDFQAAAAAdAAAAABAE
+https://www.inaturalist.org/photos/255313773
 
 8. Fishing Spider
 -----------------
@@ -103,7 +104,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/62160899/large.jpeg
     
 *   **Image Name**: Spider15, Spider16
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Dolomedes_tenebrosus
+  https://bugguide.net/node/view/777931
+https://www.pexels.com/photo/dolomedes-tenebrosus-on-white-surface-7975094/
     
 
 9. Huntsman Spider
@@ -115,7 +118,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/62160899/large.jpeg
     
 *   **Image Name**: Spider17, Spider18
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Huntsman_spider
+https://www.inaturalist.org/taxa/47867-Sparassidae
+https://www.dreamstime.com/photos-images/family-sparassidae.html
     
 
 10. Green Lynx Spider
@@ -127,7 +132,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/62160899/large.jpeg
     
 *   **Image Name**: Spider19, Spider20
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Peucetia_viridans
+  https://en.wikipedia.org/wiki/Peucetia_viridans#/media/File:Green_lynx_spider_Peucetia_viridans.jpg
+https://en.wikipedia.org/wiki/Peucetia_viridans#/media/File:Green_Lynx_Spider_(Male).jpg
     
 
 11. Golden Orb Weaver
@@ -139,7 +146,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/62160899/large.jpeg
     
 *   **Image Name**: Spider21, Spider22
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Trichonephila_clavipes
+  https://en.wikipedia.org/wiki/Trichonephila#/media/File:A169,_Mary_Kathleen,_Queensland,_Australia,_golden_orb_weaver_spider_and_locust,_2007.JPG
+https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_NephilaClavipes.jpg
     
 
 12. Brown Recluse Spider
@@ -151,7 +160,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/62160899/large.jpeg
     
 *   **Image Name**: Spider23, Spider24
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Brown_recluse_spider
+  https://en.wikipedia.org/wiki/Brown_recluse_spider#/media/File:Brown_Recluse.jpg
+  https://pictureinsect.com/image-handle/image/1080/338146958523072512.jpeg?x-oss-process=image/format,webp/resize,s_380&v=1.0
     
 
 13. Yellow Sac Spider
