@@ -731,109 +731,118 @@
     
     *   **Scientific Name:** _Morelia tracyae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Tanimbar Python (84)
+    *   **Name for Photos:** Tanimbar Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Morelia\_nauta\_xanthic.jpg/800px-Morelia\_nauta\_xanthic.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Morelia_nauta_xanthic.jpg/800px-Morelia_nauta_xanthic.jpg)
+        * [https://de.wikipedia.org/wiki/Tanimbar-Python](https://de.wikipedia.org/wiki/Tanimbar-Python)
         
 2.  **Timor Python**
     
     *   **Scientific Name:** _Morelia tracyae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Timor Python (85)
+    *   **Name for Photos:** Timor Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Python\_timoriensis\_Tropicario\_1.JPG/1024px-Python\_timoriensis\_Tropicario\_1.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Python_timoriensis_Tropicario_1.JPG/1024px-Python_timoriensis_Tropicario_1.JPG)
+        * [https://en.wikipedia.org/wiki/Timor\_python](https://en.wikipedia.org/wiki/Timor_python)
         
 3.  **Wetar Island Python**
     
     *   **Scientific Name:** _Morelia tracyae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Wetar Island Python (86)
+    *   **Name for Photos:** Wetar Island Python (1)
+    *   **Sources:**
+        * [https://lh5.googleusercontent.com/proxy/i-tRFtlgDrJYSb1r1ackeInidkA17KlcpdAA7KvvaQiJprKFhT3vLORzuSFZnCcfLvmsbE3pTjPGJWfviTBiDFsxSDZXKba2uVgcIIfxkexnGi3proher-STNbg5\_ZegnCPZyA](https://lh5.googleusercontent.com/proxy/i-tRFtlgDrJYSb1r1ackeInidkA17KlcpdAA7KvvaQiJprKFhT3vLORzuSFZnCcfLvmsbE3pTjPGJWfviTBiDFsxSDZXKba2uVgcIIfxkexnGi3proher-STNbg5_ZegnCPZyA)
+        * [http://www.molecularreptile.com/Liasis.html](http://www.molecularreptile.com/Liasis.html)
         
 4.  **White-lipped Python**
     
     *   **Scientific Name:** _Leiopython albertisii_  
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** White-lipped Python (87)
+    *   **Name for Photos:** White-lipped Python (1)
         
 5.  **Woma Python**
     
     *   **Scientific Name:** _Aspidites ramsayi_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
-    *   **Name for Photos:** Woma Python (88)
+    *   **Name for Photos:** Woma Python (1)
         
 6.  **Western Woma Python**
     
     *   **Scientific Name:** _Aspidites ramsayi_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
-    *   **Name for Photos:** Western Woma Python (89)
+    *   **Name for Photos:** Western Woma Python (1)
         
 7.  **Canebrake Rattlesnake**
     
     *   **Scientific Name:** _Crotalus lepidus_
     *   **Distinguishing Qualities:** Venomous, pit viper.
-    *   **Name for Photos:** Canebrake Rattlesnake (90)
+    *   **Name for Photos:** Canebrake Rattlesnake (1)
         
 8.  **Cantil**
     
     *   **Scientific Name:** _Agkistrodon bilineatus_
     *   **Distinguishing Qualities:** Venomous, pit viper.
-    *   **Name for Photos:** Cantil (91)
+    *   **Name for Photos:** Cantil (1)
         
 9.  **Cascabel**
     
     *   **Scientific Name:** _Crotalus durissus_
     *   **Distinguishing Qualities:** Venomous, pit viper.
-    *   **Name for Photos:** Cascabel (92)
+    *   **Name for Photos:** Cascabel (1)
         
 1.  **Cat-eyed Snake**
     
     *   **Scientific Name:** _Leptodeira septentrionalis_
     *   **Distinguishing Qualities:** Non-venomous, nocturnal.
-    *   **Name for Photos:** Cat-eyed Snake (93)
+    *   **Name for Photos:** Cat-eyed Snake (1)
         
 2.  **Cat Snake**
     
     *   **Scientific Name:** _Boiga spp._
     *   **Distinguishing Qualities:** Non-venomous, arboreal.
-    *   **Name for Photos:** Cat Snake (94)
+    *   **Name for Photos:** Cat Snake (1)
         
 3.  **Chicken Snake**
     
     *   **Scientific Name:** _Gallus gallus domesticus_ (not a snake, but a domestic chicken; possibly referring to a different species)
     *   **Distinguishing Qualities:** Not applicable.
-    *   **Name for Photos:** Not applicable (95)
+    *   **Name for Photos:** Not applicable (1)
         
 4.  **Coachwhip Snake**
     
     *   **Scientific Name:** _Masticophis flagellum_
     *   **Distinguishing Qualities:** Non-venomous, active hunter.
-    *   **Name for Photos:** Coachwhip Snake (96)
+    *   **Name for Photos:** Coachwhip Snake (1)
         
 5.  **Coral Snake**
     
     *   **Scientific Name:** _Micrurus spp._
     *   **Distinguishing Qualities:** Venomous, colorful pattern.
-    *   **Name for Photos:** Coral Snake (97)
+    *   **Name for Photos:** Coral Snake (1)
         
 6.  **Cottonmouth**
     
     *   **Scientific Name:** _Agkistrodon piscivorus_
     *   **Distinguishing Qualities:** Venomous, semi-aquatic.
-    *   **Name for Photos:** Cottonmouth (98)
+    *   **Name for Photos:** Cottonmouth (1)
         
 7.  **Crowned Snake**
     
     *   **Scientific Name:** _Tantilla spp._
     *   **Distinguishing Qualities:** Non-venomous, small.
-    *   **Name for Photos:** Crowned Snake (99)
+    *   **Name for Photos:** Crowned Snake (1)
 
 8. **Tentacled Snake**
     *   **Scientific Name:** *Erpeton tentaculatum*
     *   **Distinguishing Qualities:** Highly aquatic with tentacle-like protrusions on its snout, used for sensing prey underwater.
-    *   **Name for Photos:** Tentacled Snake (100)
+    *   **Name for Photos:** Tentacled Snake (1)
 
 9. **Parrot Snake (Leptophis mystacinus)**
     *   **Scientific Name:** *Leptophis mystacinus*
     *   **Distinguishing Qualities:** Non-venomous, arboreal, with a distinctive black stripe resembling a mustache across its snout.
-    *   **Name for Photos:** Parrot Snake (101)
+    *   **Name for Photos:** Parrot Snake (1)
 
 1. **Dragon Snake**
     *   **Scientific Name:** *Xenodermus javanicus*
     *   **Distinguishing Qualities:** Semi-fossorial with dragon-like scalation, featuring raised rows of keeled scales.
-    *   **Name for Photos:** Dragon Snake (102)
+    *   **Name for Photos:** Dragon Snake (1)
