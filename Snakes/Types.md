@@ -650,31 +650,46 @@
     
     *   **Scientific Name:** _Antaresia peronii_
     *   **Distinguishing Qualities:** Small, non-venomous.
-    *   **Name for Photos:** Pygmy Python (75)
+    *   **Name for Photos:** Pygmy Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/9c/Antaresia\_perthensis.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9c/Antaresia_perthensis.jpg)
+        * [https://en.wikipedia.org/wiki/Pygmy\_python](https://en.wikipedia.org/wiki/Pygmy_python)
         
 2.  **Red Blood Python**
     
     *   **Scientific Name:** _Python brongersmai_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Red Blood Python (76)
+    *   **Name for Photos:** Red Blood Python (1)
+    *   **Sources:**
+        * [https://reptilesmagazine.com/wp-content/uploads/data-import/5dadbb57/BloodRaspberries.jpg](https://reptilesmagazine.com/wp-content/uploads/data-import/5dadbb57/BloodRaspberries.jpg)
+        * [https://reptilesmagazine.com/blood-python-care-and-husbandry/](https://reptilesmagazine.com/blood-python-care-and-husbandry/)
         
 3.  **Reticulated Python**
     
     *   **Scientific Name:** _Python reticulatus_
     *   **Distinguishing Qualities:** Longest snake species, non-venomous.
-    *   **Name for Photos:** Reticulated Python (77)
+    *   **Name for Photos:** Reticulated Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Python\_reticulatus\_сетчатый\_питон-2.jpg/1024px-Python\_reticulatus\_сетчатый\_питон-2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Python_reticulatus_сетчатый_питон-2.jpg/1024px-Python_reticulatus_сетчатый_питон-2.jpg)
+        * [https://en.wikipedia.org/wiki/Reticulated\_python](https://en.wikipedia.org/wiki/Reticulated_python)
         
 4.  **Rough-scaled Python**
     
     *   **Scientific Name:** _Morelia carinata_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Rough-scaled Python (78)
+    *   **Name for Photos:** Rough-scaled Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/71/Morelia-Carinata.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Morelia-Carinata.jpg)
+        * [https://en.wikipedia.org/wiki/Rough-scaled\_python](https://en.wikipedia.org/wiki/Rough-scaled_python)
         
 5.  **Royal Python**
     
     *   **Scientific Name:** _Python regius_
     *   **Distinguishing Qualities:** Popular pet, non-venomous.
-    *   **Name for Photos:** Royal Python (79)
+    *   **Name for Photos:** Royal Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ball\_python\_(Python\_regius),\_Bronx\_Zoo.jpg/1280px-Ball\_python\_(Python\_regius),\_Bronx\_Zoo.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ball_python_(Python_regius),_Bronx_Zoo.jpg/1280px-Ball_python_(Python_regius),_Bronx_Zoo.jpg)
+        * [https://en.wikipedia.org/wiki/Ball\_python](https://en.wikipedia.org/wiki/Ball_python)
         
 6.  **Savu Python**
     
