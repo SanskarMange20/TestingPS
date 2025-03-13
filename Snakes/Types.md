@@ -894,3 +894,21 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dragon\_Snake\_Xenodermus\_javanicus.jpg/1024px-Dragon\_Snake\_Xenodermus\_javanicus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dragon_Snake_Xenodermus_javanicus.jpg/1024px-Dragon_Snake_Xenodermus_javanicus.jpg)
         * [https://en.wikipedia.org/wiki/Xenodermus](https://en.wikipedia.org/wiki/Xenodermus)
+
+2.  **Four-lined Snake**
+    
+    *   **Scientific Name:** _Elaphe quatuorlineata_
+    *   **Distinguishing Qualities:** Grayish with four stripes, found in Europe.
+    *   **Name for Photos:** Four-lined Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/E\_quatuorlineata.jpg/1024px-E\_quatuorlineata.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/E_quatuorlineata.jpg/1024px-E_quatuorlineata.jpg)
+        * [https://en.wikipedia.org/wiki/Four-lined\_snake](https://en.wikipedia.org/wiki/Four-lined_snake)
+        
+3.  **Oriental Rat Snake (Indian Rat Snake)**
+    
+    *   **Scientific Name:** _Ptyas mucosus_
+    *   **Distinguishing Qualities:** Large, slender, and fast-moving, found in South and Southeast Asia.
+    *   **Name for Photos:** Oriental Rat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Indian\_Rat\_Snake\_(Grey\_and\_Yellow).jpg/800px-Indian\_Rat\_Snake\_(Grey\_and\_Yellow).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Indian_Rat_Snake_(Grey_and_Yellow).jpg/800px-Indian_Rat_Snake_(Grey_and_Yellow).jpg)
+        * [https://en.wikipedia.org/wiki/Ptyas\_mucosa](https://en.wikipedia.org/wiki/Ptyas_mucosa)
