@@ -695,25 +695,37 @@
     
     *   **Scientific Name:** _Morelia tracyae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Savu Python (80)
+    *   **Name for Photos:** Savu Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Liasis\_mackloti\_savuensis\_3.jpg/800px-Liasis\_mackloti\_savuensis\_3.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Liasis_mackloti_savuensis_3.jpg/800px-Liasis_mackloti_savuensis_3.jpg)
+        * [https://en.wikipedia.org/wiki/Liasis\_mackloti\_savuensis](https://en.wikipedia.org/wiki/Liasis_mackloti_savuensis)
         
 7.  **Spotted Python**
     
     *   **Scientific Name:** _Antaresia maculosa_
     *   **Distinguishing Qualities:** Small, non-venomous.
-    *   **Name for Photos:** Spotted Python (81)
+    *   **Name for Photos:** Spotted Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/eb/Python,\_Spotted.JPG](https://upload.wikimedia.org/wikipedia/commons/e/eb/Python,_Spotted.JPG)
+        * [https://en.wikipedia.org/wiki/Spotted\_python](https://en.wikipedia.org/wiki/Spotted_python)
         
 8.  **Stimson's Python**
     
     *   **Scientific Name:** _Antaresia stimsoni_
     *   **Distinguishing Qualities:** Small, non-venomous.
-    *   **Name for Photos:** Stimson's Python (82)
+    *   **Name for Photos:** Stimson's Python (1)
+    *   **Souces:**
+        * [https://reptilesmagazine.com/wp-content/uploads/data-import/e24358a5/stimson5.jpg](https://reptilesmagazine.com/wp-content/uploads/data-import/e24358a5/stimson5.jpg)
+        * [https://australian.museum/learn/animals/reptiles/stimsons-python/](https://australian.museum/learn/animals/reptiles/stimsons-python/)
         
 9.  **Sumatran Short-tailed Python**
     
     *   **Scientific Name:** _Python curtus_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Sumatran Short-tailed Python (83)
+    *   **Name for Photos:** Sumatran Short-tailed Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Python\_curtus4.jpg/800px-Python\_curtus4.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Python_curtus4.jpg/800px-Python_curtus4.jpg)
+        * [https://en.wikipedia.org/wiki/Sumatran\_short-tailed\_python](https://en.wikipedia.org/wiki/Sumatran_short-tailed_python)
         
 1.  **Tanimbar Python**
     
