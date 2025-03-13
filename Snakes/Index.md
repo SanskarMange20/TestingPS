@@ -90,7 +90,7 @@
 90. **Cascabel**
 91. **Cat-eyed Snake**
 92. **Cat Snake**
-93. **Chicken Snake**
+93. **Black Rat Snake**
 94. **Coachwhip Snake**
 95. **Coral Snake**
 96. **Cottonmouth**
