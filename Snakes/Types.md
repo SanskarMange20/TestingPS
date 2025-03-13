@@ -759,48 +759,72 @@
     *   **Scientific Name:** _Leiopython albertisii_  
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
     *   **Name for Photos:** White-lipped Python (1)
+    *   **Sources:**
+        * [https://i.redd.it/nl18k2tk58v61.jpg](https://i.redd.it/nl18k2tk58v61.jpg)
+        * [https://www.ecologyasia.com/verts/snakes-png/white-lipped-pythons.htm](https://www.ecologyasia.com/verts/snakes-png/white-lipped-pythons.htm)
         
 5.  **Woma Python**
     
     *   **Scientific Name:** _Aspidites ramsayi_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
     *   **Name for Photos:** Woma Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aspidites\_ramsayi\_-Australia\_Zoo,\_Queensland,\_Australia-8a.jpg/1280px-Aspidites\_ramsayi\_-Australia\_Zoo,\_Queensland,\_Australia-8a.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aspidites_ramsayi_-Australia_Zoo,_Queensland,_Australia-8a.jpg/1280px-Aspidites_ramsayi_-Australia_Zoo,_Queensland,_Australia-8a.jpg)
+        * [https://animals.sandiegozoo.org/animals/woma-python](https://animals.sandiegozoo.org/animals/woma-python)
         
 6.  **Western Woma Python**
     
     *   **Scientific Name:** _Aspidites ramsayi_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
     *   **Name for Photos:** Western Woma Python (1)
+    *   **Sources:**
+        * [https://animals.sandiegozoo.org/sites/default/files/2020-04/SitePhotos\_Hero\_WomaPython.jpg](https://animals.sandiegozoo.org/sites/default/files/2020-04/SitePhotos_Hero_WomaPython.jpg)
+        * [https://en.wikipedia.org/wiki/Woma\_python](https://en.wikipedia.org/wiki/Woma_python)
         
 7.  **Canebrake Rattlesnake**
     
     *   **Scientific Name:** _Crotalus lepidus_
     *   **Distinguishing Qualities:** Venomous, pit viper.
     *   **Name for Photos:** Canebrake Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/CHorridus.jpg/1280px-CHorridus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/CHorridus.jpg/1280px-CHorridus.jpg)
+        * [https://en.wikipedia.org/wiki/Timber\_rattlesnake](https://en.wikipedia.org/wiki/Timber_rattlesnake)
         
 8.  **Cantil**
     
     *   **Scientific Name:** _Agkistrodon bilineatus_
     *   **Distinguishing Qualities:** Venomous, pit viper.
     *   **Name for Photos:** Cantil (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/29/Agkistrodon\_bilineatus\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/2/29/Agkistrodon_bilineatus_2.jpg)
+        * [https://en.wikipedia.org/wiki/Agkistrodon\_bilineatus](https://en.wikipedia.org/wiki/Agkistrodon_bilineatus)
         
 9.  **Cascabel**
     
     *   **Scientific Name:** _Crotalus durissus_
     *   **Distinguishing Qualities:** Venomous, pit viper.
     *   **Name for Photos:** Cascabel (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus\_cerastes\_mesquite\_springs\_CA-2.jpg/1024px-Crotalus\_cerastes\_mesquite\_springs\_CA-2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/1024px-Crotalus_cerastes_mesquite_springs_CA-2.jpg)
+        * [https://en.wikipedia.org/wiki/Rattlesnake](https://en.wikipedia.org/wiki/Rattlesnake)
         
 1.  **Cat-eyed Snake**
     
     *   **Scientific Name:** _Leptodeira septentrionalis_
     *   **Distinguishing Qualities:** Non-venomous, nocturnal.
     *   **Name for Photos:** Cat-eyed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a8/Leptodiera\_septentrionalis,\_Costa\_Rica\_-\_zoomed.JPG](https://upload.wikimedia.org/wikipedia/commons/a/a8/Leptodiera_septentrionalis,_Costa_Rica_-_zoomed.JPG)
+        * [https://en.wikipedia.org/wiki/Leptodeira](https://en.wikipedia.org/wiki/Leptodeira)
         
 2.  **Cat Snake**
     
     *   **Scientific Name:** _Boiga spp._
     *   **Distinguishing Qualities:** Non-venomous, arboreal.
     *   **Name for Photos:** Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/bc/Boiga\_dendrophila.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bc/Boiga_dendrophila.jpg)
+        * [https://en.wikipedia.org/wiki/Boiga](https://en.wikipedia.org/wiki/Boiga)
         
 3.  **Chicken Snake**
     
