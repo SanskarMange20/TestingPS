@@ -569,55 +569,82 @@
     
     *   **Scientific Name:** _Morelia viridis_
     *   **Distinguishing Qualities:** Non-venomous, arboreal.
-    *   **Name for Photos:** Green Tree Python (66)
+    *   **Name for Photos:** Green Tree Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/M.\_viridis.jpg/1024px-M.\_viridis.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/M._viridis.jpg/1024px-M._viridis.jpg)
+        * [https://en.wikipedia.org/wiki/Green\_tree\_python](https://en.wikipedia.org/wiki/Green_tree_python)
         
 2.  **Halmahera Python**
     
     *   **Scientific Name:** _Morelia tracyae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Halmahera Python (67)
+    *   **Name for Photos:** Halmahera Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/eb/Morelia\_tracyae.jpg](https://upload.wikimedia.org/wikipedia/commons/e/eb/Morelia_tracyae.jpg)
+        * [https://en.wikipedia.org/wiki/Simalia\_tracyae](https://en.wikipedia.org/wiki/Simalia_tracyae)
         
 3.  **Indian Python**
     
     *   **Scientific Name:** _Python molurus_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
-    *   **Name for Photos:** Indian Python (68)
+    *   **Name for Photos:** Indian Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pratik\_jain\_dahod\_python.JPG/330px-Pratik\_jain\_dahod\_python.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pratik_jain_dahod_python.JPG/330px-Pratik_jain_dahod_python.JPG)
+        * [https://en.wikipedia.org/wiki/Indian\_python](https://en.wikipedia.org/wiki/Indian_python)
         
 4.  **Indonesian Water Python**
     
     *   **Scientific Name:** _Liasis mackloti_
     *   **Distinguishing Qualities:** Non-venomous, aquatic.
-    *   **Name for Photos:** Indonesian Water Python (69)
+    *   **Name for Photos:** Indonesian Water Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liasis\_mackloti\_savuensis\_2.jpg/1280px-Liasis\_mackloti\_savuensis\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liasis_mackloti_savuensis_2.jpg/1280px-Liasis_mackloti_savuensis_2.jpg)
+        * [https://en.wikipedia.org/wiki/Liasis\_mackloti](https://en.wikipedia.org/wiki/Liasis_mackloti)
         
 5.  **Macklot's Python**
     
     *   **Scientific Name:** _Liasis mackloti_
     *   **Distinguishing Qualities:** Non-venomous, aquatic.
-    *   **Name for Photos:** Macklot's Python (70)
+    *   **Name for Photos:** Macklot's Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Liasis\_mackloti\_savuensis\_3.jpg/800px-Liasis\_mackloti\_savuensis\_3.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Liasis_mackloti_savuensis_3.jpg/800px-Liasis_mackloti_savuensis_3.jpg)
+        * [https://en.wikipedia.org/wiki/Liasis\_mackloti](https://en.wikipedia.org/wiki/Liasis_mackloti)
         
 6.  **Moluccan Python**
     
     *   **Scientific Name:** _Morelia tracyae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Moluccan Python (71)
+    *   **Name for Photos:** Moluccan Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a8/Morelia\_clastolepis.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a8/Morelia_clastolepis.jpg)
+        * [https://en.wikipedia.org/wiki/Simalia\_clastolepis](https://en.wikipedia.org/wiki/Simalia_clastolepis)
         
 7.  **Oenpelli Python**
     
     *   **Scientific Name:** _Morelia oenpelliensis_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Oenpelli Python (72)
+    *   **Name for Photos:** Oenpelli Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The\_Australian\_zoologist\_(1973)\_(20162909300).jpg/1024px-The\_Australian\_zoologist\_(1973)\_(20162909300).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Australian_zoologist_(1973)_(20162909300).jpg/1024px-The_Australian_zoologist_(1973)_(20162909300).jpg)
+        * [https://en.wikipedia.org/wiki/Oenpelli\_python](https://en.wikipedia.org/wiki/Oenpelli_python)
         
 8.  **Olive Python**
     
     *   **Scientific Name:** _Liasis olivaceus_
     *   **Distinguishing Qualities:** Non-venomous, aquatic.
-    *   **Name for Photos:** Olive Python (73)
+    *   **Name for Photos:** Olive Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/43/Liasis\_olivaceous\_(Gracie).jpg](https://upload.wikimedia.org/wikipedia/commons/4/43/Liasis_olivaceous_(Gracie).jpg)
+        * [https://en.wikipedia.org/wiki/Olive\_python](https://en.wikipedia.org/wiki/Olive_python)
         
 9.  **Papuan Python**
     
     *   **Scientific Name:** _Morelia tracyae_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
-    *   **Name for Photos:** Papuan Python (74)
+    *   **Name for Photos:** Papuan Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Apodora\_papuana\_2\_(cropped).JPG/1024px-Apodora\_papuana\_2\_(cropped).JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Apodora_papuana_2_(cropped).JPG/1024px-Apodora_papuana_2_(cropped).JPG)
+        * [https://en.wikipedia.org/wiki/Apodora](https://en.wikipedia.org/wiki/Apodora)
         
 1.  **Pygmy Python**
     
