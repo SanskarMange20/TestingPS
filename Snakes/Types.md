@@ -826,47 +826,71 @@
         * [https://upload.wikimedia.org/wikipedia/commons/b/bc/Boiga\_dendrophila.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bc/Boiga_dendrophila.jpg)
         * [https://en.wikipedia.org/wiki/Boiga](https://en.wikipedia.org/wiki/Boiga)
         
-3.  **Chicken Snake**
+3.  **Black Rat Snake**
     
-    *   **Scientific Name:** _Gallus gallus domesticus_ (not a snake, but a domestic chicken; possibly referring to a different species)
-    *   **Distinguishing Qualities:** Not applicable.
-    *   **Name for Photos:** Not applicable (1)
+    *   **Scientific Name:** _Elaphe obsoleta obsoleta_
+    *   **Distinguishing Qualities:** Typically black with a white chin, found in the eastern United States
+    *   **Name for Photos:** Black Rat Snake (1)
+    *   **Sources:**
+        * [https://www.marylandzoo.org/wp-content/uploads/2017/10/black\_rat\_snake\_web.jpg](https://www.marylandzoo.org/wp-content/uploads/2017/10/black_rat_snake_web.jpg)
+        * [https://www.britannica.com/animal/black-rat-snake](https://www.britannica.com/animal/black-rat-snake)
         
 4.  **Coachwhip Snake**
     
     *   **Scientific Name:** _Masticophis flagellum_
     *   **Distinguishing Qualities:** Non-venomous, active hunter.
     *   **Name for Photos:** Coachwhip Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Red\_Racer\_Coachwhip.jpg/1024px-Red\_Racer\_Coachwhip.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Red_Racer_Coachwhip.jpg/1024px-Red_Racer_Coachwhip.jpg)
+        * [https://en.wikipedia.org/wiki/Masticophis\_flagellum](https://en.wikipedia.org/wiki/Masticophis_flagellum)
         
 5.  **Coral Snake**
     
     *   **Scientific Name:** _Micrurus spp._
     *   **Distinguishing Qualities:** Venomous, colorful pattern.
     *   **Name for Photos:** Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/8/8a/Coral\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8a/Coral_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Coral\_snake](https://en.wikipedia.org/wiki/Coral_snake)
         
 6.  **Cottonmouth**
     
     *   **Scientific Name:** _Agkistrodon piscivorus_
     *   **Distinguishing Qualities:** Venomous, semi-aquatic.
     *   **Name for Photos:** Cottonmouth (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cottonmouth\_(Agkistrodon\_piscivorus).jpg/1024px-Cottonmouth\_(Agkistrodon\_piscivorus).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cottonmouth_(Agkistrodon_piscivorus).jpg/1024px-Cottonmouth_(Agkistrodon_piscivorus).jpg)
+        * [https://en.wikipedia.org/wiki/Agkistrodon\_piscivorus](https://en.wikipedia.org/wiki/Agkistrodon_piscivorus)
         
 7.  **Crowned Snake**
     
     *   **Scientific Name:** _Tantilla spp._
     *   **Distinguishing Qualities:** Non-venomous, small.
     *   **Name for Photos:** Crowned Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Elapognathuscoronatus-euankettle.jpg/1280px-Elapognathuscoronatus-euankettle.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Elapognathuscoronatus-euankettle.jpg/1280px-Elapognathuscoronatus-euankettle.jpg)
+        * [https://en.wikipedia.org/wiki/Crowned\_snake](https://en.wikipedia.org/wiki/Crowned_snake)
 
 8. **Tentacled Snake**
     *   **Scientific Name:** *Erpeton tentaculatum*
     *   **Distinguishing Qualities:** Highly aquatic with tentacle-like protrusions on its snout, used for sensing prey underwater.
     *   **Name for Photos:** Tentacled Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tentacled\_Snake\_1.jpg/800px-Tentacled\_Snake\_1.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tentacled_Snake_1.jpg/800px-Tentacled_Snake_1.jpg)
+        * [https://en.wikipedia.org/wiki/Tentacled\_snake](https://en.wikipedia.org/wiki/Tentacled_snake)
 
 9. **Parrot Snake (Leptophis mystacinus)**
     *   **Scientific Name:** *Leptophis mystacinus*
     *   **Distinguishing Qualities:** Non-venomous, arboreal, with a distinctive black stripe resembling a mustache across its snout.
     *   **Name for Photos:** Parrot Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/fa/Leptophis\_ahaetulla.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fa/Leptophis_ahaetulla.jpg)
+        * [https://en.wikipedia.org/wiki/Leptophis\_ahaetulla](https://en.wikipedia.org/wiki/Leptophis_ahaetulla)
 
 1. **Dragon Snake**
     *   **Scientific Name:** *Xenodermus javanicus*
     *   **Distinguishing Qualities:** Semi-fossorial with dragon-like scalation, featuring raised rows of keeled scales.
     *   **Name for Photos:** Dragon Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dragon\_Snake\_Xenodermus\_javanicus.jpg/1024px-Dragon\_Snake\_Xenodermus\_javanicus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dragon_Snake_Xenodermus_javanicus.jpg/1024px-Dragon_Snake_Xenodermus_javanicus.jpg)
+        * [https://en.wikipedia.org/wiki/Xenodermus](https://en.wikipedia.org/wiki/Xenodermus)
