@@ -912,3 +912,303 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Indian\_Rat\_Snake\_(Grey\_and\_Yellow).jpg/800px-Indian\_Rat\_Snake\_(Grey\_and\_Yellow).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Indian_Rat_Snake_(Grey_and_Yellow).jpg/800px-Indian_Rat_Snake_(Grey_and_Yellow).jpg)
         * [https://en.wikipedia.org/wiki/Ptyas\_mucosa](https://en.wikipedia.org/wiki/Ptyas_mucosa)
+
+1.  **African Egg-eater**
+    
+    *   **Scientific Name:** _Dasypeltis spp._     
+    *   **Distinguishing Qualities:** Non-venomous, specialized to eat eggs.
+    *   **Name for Photos:** African Egg-eater (1)
+        
+2.  **Asian Pipe Snake**
+    
+    *   **Scientific Name:** _Cylindrophis spp._
+    *   **Distinguishing Qualities:** Burrowing, non-venomous.
+    *   **Name for Photos:** Asian Pipe Snake (1)
+        
+3.  **Burmese Python**
+    
+    *   **Scientific Name:** _Python bivittatus_
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor.
+    *   **Name for Photos:** Burmese Python (1)
+        
+4.  **Cape Cobra**
+    
+    *   **Scientific Name:** _Naja nivea_
+    *   **Distinguishing Qualities:** Venomous, hooded when threatened.
+    *   **Name for Photos:** Cape Cobra (1)
+        
+5.  **Copperhead**
+    
+    *   **Scientific Name:** _Agkistrodon contortrix_
+    *   **Distinguishing Qualities:** Venomous, pit viper.
+    *   **Name for Photos:** Copperhead (1)
+        
+6.  **Dark-spotted Anaconda**
+    
+    *   **Scientific Name:** _Eunectes deschauenseei_
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor.
+    *   **Name for Photos:** Dark-spotted Anaconda (1)
+        
+7.  **Eastern Coral Snake**
+    
+    *   **Scientific Name:** _Micrurus fulvius_
+    *   **Distinguishing Qualities:** Venomous, colorful pattern.
+    *   **Name for Photos:** Eastern Coral Snake (1)
+        
+8.  **European Cat Snake**
+    
+    *   **Scientific Name:** _Natrix tessellata_
+    *   **Distinguishing Qualities:** Non-venomous, semi-aquatic.
+    *   **Name for Photos:** European Cat Snake (1)
+        
+9.  **Gaboon Viper**
+    
+    *   **Scientific Name:** _Bitis gabonica_
+    *   **Distinguishing Qualities:** Venomous, large fangs.
+    *   **Name for Photos:** Gaboon Viper (1)
+        
+1.  **Gopher Snake**
+    
+    *   **Scientific Name:** _Pituophis catenifer_
+    *   **Distinguishing Qualities:** Non-venomous, often mistaken for rattlesnakes.
+    *   **Name for Photos:** Gopher Snake (1)
+        
+2.  **Green Mamba**
+    
+    *   **Scientific Name:** _Dendroaspis viridis_
+    *   **Distinguishing Qualities:** Venomous, arboreal.
+    *   **Name for Photos:** Green Mamba (1)
+        
+3.  **Hognose Snake**
+    
+    *   **Scientific Name:** _Heterodon spp._
+    *   **Distinguishing Qualities:** Non-venomous, upturned snout.
+    *   **Name for Photos:** Hognose Snake (1)
+        
+4.  **Inland Carpet Python**
+    
+    *   **Scientific Name:** _Morelia spilota metcalfei_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Inland Carpet Python (1)
+        
+5.  **Japanese Rat Snake**
+    
+    *   **Scientific Name:** _Elaphe climacophora_
+    *   **Distinguishing Qualities:** Non-venomous, arboreal.
+    *   **Name for Photos:** Japanese Rat Snake (1)
+        
+6.  **Kenyan Sand Boa**
+    
+    *   **Scientific Name:** _Eryx colubrinus_
+    *   **Distinguishing Qualities:** Non-venomous, burrowing.
+    *   **Name for Photos:** Kenyan Sand Boa (1)
+        
+7.  **Krait**
+    
+    *   **Scientific Name:** _Bungarus spp._
+    *   **Distinguishing Qualities:** Venomous, nocturnal.
+    *   **Name for Photos:** Krait (1)
+        
+8.  **Mangrove Snake**
+    
+    *   **Scientific Name:** _Boiga dendrophila_
+    *   **Distinguishing Qualities:** Venomous, arboreal.
+    *   **Name for Photos:** Mangrove Snake (1)
+        
+9.  **Milk Snake**
+    
+    *   **Scientific Name:** _Lampropeltis triangulum_
+    *   **Distinguishing Qualities:** Non-venomous, colorful pattern.
+    *   **Name for Photos:** Milk Snake (1)
+        
+1.  **Night Snake**
+    
+    *   **Scientific Name:** _Hypsiglena torquata_
+    *   **Distinguishing Qualities:** Non-venomous, nocturnal.
+    *   **Name for Photos:** Night Snake (1)
+        
+2.  **Northern Pine Snake**
+    
+    *   **Scientific Name:** _Pituophis melanoleucus_
+    *   **Distinguishing Qualities:** Non-venomous, large.
+    *   **Name for Photos:** Northern Pine Snake (1)
+        
+3.  **Puff Adder**
+    
+    *   **Scientific Name:** _Bitis arietans_
+    *   **Distinguishing Qualities:** Venomous, ambush predator.
+    *   **Name for Photos:** Puff Adder (1)
+        
+4.  **Rainbow Boa**
+    
+    *   **Scientific Name:** _Epicrates cenchria_
+    *   **Distinguishing Qualities:** Non-venomous, iridescent scales.
+    *   **Name for Photos:** Rainbow Boa (1)
+        
+5.  **Red-headed Krait**
+    
+    *   **Scientific Name:** _Bungarus flaviceps_
+    *   **Distinguishing Qualities:** Venomous, nocturnal.
+    *   **Name for Photos:** Red-headed Krait (1)
+        
+5.  **Ring-necked Snake**
+    
+    *   **Scientific Name:** _Diadophis punctatus_
+    *   **Distinguishing Qualities:** Non-venomous, ring around neck.
+    *   **Name for Photos:** Ring-necked Snake (1)
+        
+6.  **Saw-scaled Viper**
+    
+    *   **Scientific Name:** _Echis carinatus_
+    *   **Distinguishing Qualities:** Venomous, saw-like scales.
+    *   **Name for Photos:** Saw-scaled Viper (1)
+        
+7.  **Sidewinder**
+    
+    *   **Scientific Name:** _Crotalus cerastes_
+    *   **Distinguishing Qualities:** Venomous, unique sideways movement.
+    *   **Name for Photos:** Sidewinder (1)
+        
+8.  **Smooth Snake**
+    
+    *   **Scientific Name:** _Coronella austriaca_
+    *   **Distinguishing Qualities:** Non-venomous, slender.
+    *   **Name for Photos:** Smooth Snake (1)
+        
+9.  **Sonoran Coralsnake**
+    
+    *   **Scientific Name:** _Micrurus sonorensis_
+    *   **Distinguishing Qualities:** Venomous, colorful pattern.
+    *   **Name for Photos:** Sonoran Coralsnake (1)
+        
+1.  **Southern Pacific Rattlesnake**
+    
+    *   **Scientific Name:** _Crotalus oreganus_
+    *   **Distinguishing Qualities:** Venomous, pit viper.
+    *   **Name for Photos:** Southern Pacific Rattlesnake (1)
+        
+2.  **Tiger Snake**
+    
+    *   **Scientific Name:** _Notechis scutatus_
+    *   **Distinguishing Qualities:** Venomous, diverse habitats.
+    *   **Name for Photos:** Tiger Snake (1)
+        
+3.  **Tree Viper**
+    
+    *   **Scientific Name:** _Trimeresurus spp._
+    *   **Distinguishing Qualities:** Venomous, arboreal.
+    *   **Name for Photos:** Tree Viper (1)
+        
+4.  **Twin-spotted Rattlesnake**
+    
+    *   **Scientific Name:** _Crotalus pricei_
+    *   **Distinguishing Qualities:** Venomous, pit viper.
+    *   **Name for Photos:** Twin-spotted Rattlesnake (1)
+        
+5.  **Variable Bush Snake**
+    
+    *   **Scientific Name:** _Philothamnus irregularis_
+    *   **Distinguishing Qualities:** Non-venomous, arboreal.
+    *   **Name for Photos:** Variable Bush Snake (1)
+        
+6.  **Western Diamondback Rattlesnake**
+    
+    *   **Scientific Name:** _Crotalus atrox_
+    *   **Distinguishing Qualities:** Venomous, largest rattlesnake.
+    *   **Name for Photos:** Western Diamondback Rattlesnake (1)
+        
+7.  **Western Hognose Snake**
+    
+    *   **Scientific Name:** _Heterodon nasicus_
+    *   **Distinguishing Qualities:** Non-venomous, upturned snout. 
+    *   **Name for Photos:** Western Hognose Snake (1)
+        
+8.  **Yellow-bellied Sea Snake**
+    
+    *   **Scientific Name:** _Pelamis platura_
+    *   **Distinguishing Qualities:** Venomous, marine.
+    *   **Name for Photos:** Yellow-bellied Sea Snake (1)
+        
+9.  **Yellow-faced Whip Snake**
+    
+    *   **Scientific Name:** _Demansia psammophis_
+    *   **Distinguishing Qualities:** Non-venomous, slender.
+    *   **Name for Photos:** Yellow-faced Whip Snake (1)
+        
+1.  **Zebra Snake**
+    
+    *   **Scientific Name:** _Naja nivea_ (similar to Cape Cobra, but not always striped)
+    *   **Distinguishing Qualities:** Venomous, hooded when threatened.
+    *   **Name for Photos:** Zebra Snake (1)
+        
+2.  **African Rock Python's Cousin: Southern African Python**
+    
+    *   **Scientific Name:** _Python natalensis_
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor.
+    *   **Name for Photos:** Southern African Python (1)
+        
+3.  **Albino Burmese Python**
+    
+    *   **Scientific Name:** _Python bivittatus_ (albino morph)
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor, lacks pigmentation.
+    *   **Name for Photos:** Albino Burmese Python (1)
+        
+4.  **Alpine Water Snake**
+    
+    *   **Scientific Name:** _Natrix tessellata_
+    *   **Distinguishing Qualities:** Non-venomous, semi-aquatic.
+    *   **Name for Photos:** Alpine Water Snake (1)
+        
+5.  **Asian Rock Python**
+    
+    *   **Scientific Name:** _Python molurus_
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor.
+    *   **Name for Photos:** Asian Rock Python (1)
+        
+6.  **Bamboo Snake**
+    
+    *   **Scientific Name:** _Trimeresurus albolabris_
+    *   **Distinguishing Qualities:** Venomous, arboreal.
+    *   **Name for Photos:** Bamboo Snake (1)
+        
+7.  **Big-eyed Tree Snake**
+    
+    *   **Scientific Name:** _Imantodes cenchoa_
+    *   **Distinguishing Qualities:** Non-venomous, arboreal.
+    *   **Name for Photos:** Big-eyed Tree Snake (1)
+        
+8.  **Burmese Sand Boa**
+    
+    *   **Scientific Name:** _Eryx johnii_
+    *   **Distinguishing Qualities:** Non-venomous, burrowing.
+    *   **Name for Photos:** Burmese Sand Boa (1)
+        
+9.  **Caspian Whip Snake**
+    
+    *   **Scientific Name:** _Platyceps rhodorachis_
+    *   **Distinguishing Qualities:** Non-venomous, slender.
+    *   **Name for Photos:** Caspian Whip Snake (1)
+        
+1.  **Chinese Cobra**
+    
+    *   **Scientific Name:** _Naja atra_
+    *   **Distinguishing Qualities:** Venomous, hooded when threatened.
+    *   **Name for Photos:** Chinese Cobra (1)
+        
+2.  **Congo Water Cobra**
+    
+    *   **Scientific Name:** _Naja subfulva_
+    *   **Distinguishing Qualities:** Venomous, semi-aquatic.
+    *   **Name for Photos:** Congo Water Cobra (1)
+        
+3.  **Cuban Boa**
+    
+    *   **Scientific Name:** _Epicrates angulifer_
+    *   **Distinguishing Qualities:** Non-venomous, constrictor.
+    *   **Name for Photos:** Cuban Boa (1)
+        
+4.  **Dusky Pygmy Rattlesnake**
+    
+    *   **Scientific Name:** _Sistrurus miliarius_
+    *   **Distinguishing Qualities:** Venomous, small.
+    *   **Name for Photos:** Dusky Pygmy Rattlesnake (1)
