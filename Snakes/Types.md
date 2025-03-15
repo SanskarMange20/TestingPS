@@ -1080,60 +1080,90 @@
     *   **Scientific Name:** _Hypsiglena torquata_
     *   **Distinguishing Qualities:** Non-venomous, nocturnal.
     *   **Name for Photos:** Night Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hypsiglena\_torquata.jpg/1024px-Hypsiglena\_torquata.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hypsiglena_torquata.jpg/1024px-Hypsiglena_torquata.jpg)
+        * [https://en.wikipedia.org/wiki/Hypsiglena\_torquata](https://en.wikipedia.org/wiki/Hypsiglena_torquata)
         
 2.  **Northern Pine Snake**
     
     *   **Scientific Name:** _Pituophis melanoleucus_
     *   **Distinguishing Qualities:** Non-venomous, large.
     *   **Name for Photos:** Northern Pine Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/1c/Suwanee\_County\_FL\_Pine\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1c/Suwanee_County_FL_Pine_Snake.jpg)
+        * [https://en.wikipedia.org/wiki/Pituophis\_melanoleucus](https://en.wikipedia.org/wiki/Pituophis_melanoleucus)
         
 3.  **Puff Adder**
     
     *   **Scientific Name:** _Bitis arietans_
     *   **Distinguishing Qualities:** Venomous, ambush predator.
     *   **Name for Photos:** Puff Adder (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b1/Bitis\_arietans\_by\_Danny\_S.\_1.JPG](https://upload.wikimedia.org/wikipedia/commons/b/b1/Bitis_arietans_by_Danny_S._1.JPG)
+        * [https://en.wikipedia.org/wiki/Puff\_adder](https://en.wikipedia.org/wiki/Puff_adder)
         
 4.  **Rainbow Boa**
     
     *   **Scientific Name:** _Epicrates cenchria_
     *   **Distinguishing Qualities:** Non-venomous, iridescent scales.
     *   **Name for Photos:** Rainbow Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a4/EpicratesCenchriaCenchria1.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/EpicratesCenchriaCenchria1.jpg)
+        * [https://en.wikipedia.org/wiki/Rainbow\_boa](https://en.wikipedia.org/wiki/Rainbow_boa)
         
 5.  **Red-headed Krait**
     
     *   **Scientific Name:** _Bungarus flaviceps_
     *   **Distinguishing Qualities:** Venomous, nocturnal.
     *   **Name for Photos:** Red-headed Krait (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Red-headed\_Krait.jpg/800px-Red-headed\_Krait.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Red-headed_Krait.jpg/800px-Red-headed_Krait.jpg)
+        * [https://en.wikipedia.org/wiki/Red-headed\_krait](https://en.wikipedia.org/wiki/Red-headed_krait)
         
 5.  **Ring-necked Snake**
     
     *   **Scientific Name:** _Diadophis punctatus_
     *   **Distinguishing Qualities:** Non-venomous, ring around neck.
     *   **Name for Photos:** Ring-necked Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coral-belly\_Ringneck\_Snake\_(Diadophis\_punctatus\_ssp.\_pulchellus).jpg/1280px-Coral-belly\_Ringneck\_Snake\_(Diadophis\_punctatus\_ssp.\_pulchellus).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coral-belly_Ringneck_Snake_(Diadophis_punctatus_ssp._pulchellus).jpg/1280px-Coral-belly_Ringneck_Snake_(Diadophis_punctatus_ssp._pulchellus).jpg)
+        * [https://en.wikipedia.org/wiki/Ring-necked\_snake](https://en.wikipedia.org/wiki/Ring-necked_snake)
         
 6.  **Saw-scaled Viper**
     
     *   **Scientific Name:** _Echis carinatus_
     *   **Distinguishing Qualities:** Venomous, saw-like scales.
     *   **Name for Photos:** Saw-scaled Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/ff/Saw-scaled\_Viper\_(Echis\_carinatus)\_Photographed\_By\_Shantanu\_Kuveskar.jpg](https://upload.wikimedia.org/wikipedia/commons/f/ff/Saw-scaled_Viper_(Echis_carinatus)_Photographed_By_Shantanu_Kuveskar.jpg)
+        * [https://en.wikipedia.org/wiki/Echis](https://en.wikipedia.org/wiki/Echis)
         
 7.  **Sidewinder**
     
     *   **Scientific Name:** _Crotalus cerastes_
     *   **Distinguishing Qualities:** Venomous, unique sideways movement.
     *   **Name for Photos:** Sidewinder (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus\_cerastes\_mesquite\_springs\_CA-2.jpg/1024px-Crotalus\_cerastes\_mesquite\_springs\_CA-2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/1024px-Crotalus_cerastes_mesquite_springs_CA-2.jpg)
+        * [https://en.wikipedia.org/wiki/Crotalus\_cerastes](https://en.wikipedia.org/wiki/Crotalus_cerastes)
         
 8.  **Smooth Snake**
     
     *   **Scientific Name:** _Coronella austriaca_
     *   **Distinguishing Qualities:** Non-venomous, slender.
     *   **Name for Photos:** Smooth Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/17/Schlingnatter.jpg](https://upload.wikimedia.org/wikipedia/commons/1/17/Schlingnatter.jpg)
+        * [https://en.wikipedia.org/wiki/Smooth\_snake](https://en.wikipedia.org/wiki/Smooth_snake)
         
 9.  **Sonoran Coralsnake**
     
     *   **Scientific Name:** _Micrurus sonorensis_
     *   **Distinguishing Qualities:** Venomous, colorful pattern.
     *   **Name for Photos:** Sonoran Coralsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Micruroides\_euryxanthus.jpg/1024px-Micruroides\_euryxanthus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Micruroides_euryxanthus.jpg/1024px-Micruroides_euryxanthus.jpg)
+        * [https://en.wikipedia.org/wiki/Micruroides](https://en.wikipedia.org/wiki/Micruroides)
         
 1.  **Southern Pacific Rattlesnake**
     
