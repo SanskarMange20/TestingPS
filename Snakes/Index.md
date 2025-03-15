@@ -197,6 +197,5 @@
 197. **Walnut Kukri Snake**
 198. **Lacroix Kukri Snake**
 199. **Spotted-bellied Short-headed Snake**
-200. **King Cobra**
-201. **Ophryacus undulatus**
-202. **Shaw's Sea Snake**
+200. **Ophryacus undulatus**
+201. **Shaw's Sea Snake**
