@@ -1170,54 +1170,81 @@
     *   **Scientific Name:** _Crotalus oreganus_
     *   **Distinguishing Qualities:** Venomous, pit viper.
     *   **Name for Photos:** Southern Pacific Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/23/Crotalus\_viridis\_helleri.jpg](https://upload.wikimedia.org/wikipedia/commons/2/23/Crotalus_viridis_helleri.jpg)
+        * [https://en.wikipedia.org/wiki/Crotalus\_helleri](https://en.wikipedia.org/wiki/Crotalus_helleri)
         
 2.  **Tiger Snake**
     
     *   **Scientific Name:** _Notechis scutatus_
     *   **Distinguishing Qualities:** Venomous, diverse habitats.
     *   **Name for Photos:** Tiger Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/e4/Tiger\_snake\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e4/Tiger_snake_2.jpg)
+        * [https://en.wikipedia.org/wiki/Tiger\_snake](https://en.wikipedia.org/wiki/Tiger_snake)
         
 3.  **Tree Viper**
     
     *   **Scientific Name:** _Trimeresurus spp._
     *   **Distinguishing Qualities:** Venomous, arboreal.
     *   **Name for Photos:** Tree Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bamboo\_Pit\_Viper\_macrogiants.jpg/1280px-Bamboo\_Pit\_Viper\_macrogiants.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bamboo_Pit_Viper_macrogiants.jpg/1280px-Bamboo_Pit_Viper_macrogiants.jpg)
+        * [https://en.wikipedia.org/wiki/Craspedocephalus\_gramineus](https://en.wikipedia.org/wiki/Craspedocephalus_gramineus)
         
 4.  **Twin-spotted Rattlesnake**
     
     *   **Scientific Name:** _Crotalus pricei_
     *   **Distinguishing Qualities:** Venomous, pit viper.
     *   **Name for Photos:** Twin-spotted Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/56/Crotalus\_pricei.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Crotalus_pricei.jpg)
+        * [https://en.wikipedia.org/wiki/Crotalus\_pricei](https://en.wikipedia.org/wiki/Crotalus_pricei)
         
 5.  **Variable Bush Snake**
     
     *   **Scientific Name:** _Philothamnus irregularis_
     *   **Distinguishing Qualities:** Non-venomous, arboreal.
     *   **Name for Photos:** Variable Bush Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/c/cd/Variable\_bush\_viper.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cd/Variable_bush_viper.jpg)
+        * [https://en.wikipedia.org/wiki/Atheris\_squamigera](https://en.wikipedia.org/wiki/Atheris_squamigera)
         
 6.  **Western Diamondback Rattlesnake**
     
     *   **Scientific Name:** _Crotalus atrox_
     *   **Distinguishing Qualities:** Venomous, largest rattlesnake.
     *   **Name for Photos:** Western Diamondback Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/(Westliche\_Diamantklapperschlange)\_Crotalus\_atrox.jpg/1280px-(Westliche\_Diamantklapperschlange)\_Crotalus\_atrox.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/(Westliche_Diamantklapperschlange)_Crotalus_atrox.jpg/1280px-(Westliche_Diamantklapperschlange)_Crotalus_atrox.jpg)
+        * [https://en.wikipedia.org/wiki/Western\_diamondback\_rattlesnake](https://en.wikipedia.org/wiki/Western_diamondback_rattlesnake)
         
 7.  **Western Hognose Snake**
     
     *   **Scientific Name:** _Heterodon nasicus_
     *   **Distinguishing Qualities:** Non-venomous, upturned snout. 
     *   **Name for Photos:** Western Hognose Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a0/Heterodon\_nasicus.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a0/Heterodon_nasicus.jpg)
+        * [https://en.wikipedia.org/wiki/Western\_hognose\_snake](https://en.wikipedia.org/wiki/Western_hognose_snake)
         
 8.  **Yellow-bellied Sea Snake**
     
     *   **Scientific Name:** _Pelamis platura_
     *   **Distinguishing Qualities:** Venomous, marine.
     *   **Name for Photos:** Yellow-bellied Sea Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pelamis\_platura,\_Costa\_Rica.jpg/1024px-Pelamis\_platura,\_Costa\_Rica.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pelamis_platura,_Costa_Rica.jpg/1024px-Pelamis_platura,_Costa_Rica.jpg)
+        * [https://en.wikipedia.org/wiki/Yellow-bellied\_sea\_snake](https://en.wikipedia.org/wiki/Yellow-bellied_sea_snake)
         
 9.  **Yellow-faced Whip Snake**
     
     *   **Scientific Name:** _Demansia psammophis_
     *   **Distinguishing Qualities:** Non-venomous, slender.
     *   **Name for Photos:** Yellow-faced Whip Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Yellow-faced\_Whip-Snake\_kobble08.jpg/800px-Yellow-faced\_Whip-Snake\_kobble08.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Yellow-faced_Whip-Snake_kobble08.jpg/800px-Yellow-faced_Whip-Snake_kobble08.jpg)
+        * [https://en.wikipedia.org/wiki/Yellow-faced\_whipsnake](https://en.wikipedia.org/wiki/Yellow-faced_whipsnake)
         
 1.  **Zebra Snake**
     
