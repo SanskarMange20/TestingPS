@@ -918,54 +918,81 @@
     *   **Scientific Name:** _Dasypeltis spp._     
     *   **Distinguishing Qualities:** Non-venomous, specialized to eat eggs.
     *   **Name for Photos:** African Egg-eater (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dasypeltis\_fasciata.jpg/1024px-Dasypeltis\_fasciata.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dasypeltis_fasciata.jpg/1024px-Dasypeltis_fasciata.jpg)
+        * [https://en.wikipedia.org/wiki/Central\_African\_egg-eating\_snake](https://en.wikipedia.org/wiki/Central_African_egg-eating_snake)
         
 2.  **Asian Pipe Snake**
     
     *   **Scientific Name:** _Cylindrophis spp._
     *   **Distinguishing Qualities:** Burrowing, non-venomous.
     *   **Name for Photos:** Asian Pipe Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cylindrophis\_maculatus\_236977063\_(cropped).jpg/1024px-Cylindrophis\_maculatus\_236977063\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cylindrophis_maculatus_236977063_(cropped).jpg/1024px-Cylindrophis_maculatus_236977063_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Cylindrophis](https://en.wikipedia.org/wiki/Cylindrophis)
         
 3.  **Burmese Python**
     
     *   **Scientific Name:** _Python bivittatus_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
     *   **Name for Photos:** Burmese Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/10/Brooding\_female\_Python\_molurus\_bivittatus.jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/Brooding_female_Python_molurus_bivittatus.jpg)
+        * [https://en.wikipedia.org/wiki/Burmese\_python](https://en.wikipedia.org/wiki/Burmese_python)
         
 4.  **Cape Cobra**
     
     *   **Scientific Name:** _Naja nivea_
     *   **Distinguishing Qualities:** Venomous, hooded when threatened.
     *   **Name for Photos:** Cape Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/3c/Naja\_nivea.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3c/Naja_nivea.jpg)
+        * [https://en.wikipedia.org/wiki/Cape\_cobra](https://en.wikipedia.org/wiki/Cape_cobra)
         
 5.  **Copperhead**
     
     *   **Scientific Name:** _Agkistrodon contortrix_
     *   **Distinguishing Qualities:** Venomous, pit viper.
     *   **Name for Photos:** Copperhead (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/6/65/Agkistrodon\_contortrix\_mokeson\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/6/65/Agkistrodon_contortrix_mokeson_2.jpg)
+        * [https://en.wiktionary.org/wiki/copperhead](https://en.wiktionary.org/wiki/copperhead)
         
 6.  **Dark-spotted Anaconda**
     
     *   **Scientific Name:** _Eunectes deschauenseei_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
     *   **Name for Photos:** Dark-spotted Anaconda (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eunectes\_deschauenseei.png/1024px-Eunectes\_deschauenseei.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eunectes_deschauenseei.png/1024px-Eunectes_deschauenseei.png)
+        * [https://en.wikipedia.org/wiki/Eunectes\_deschauenseei](https://en.wikipedia.org/wiki/Eunectes_deschauenseei)
         
 7.  **Eastern Coral Snake**
     
     *   **Scientific Name:** _Micrurus fulvius_
     *   **Distinguishing Qualities:** Venomous, colorful pattern.
     *   **Name for Photos:** Eastern Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coral\_009.jpg/800px-Coral\_009.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coral_009.jpg/800px-Coral_009.jpg)
+        * [https://en.wikipedia.org/wiki/Micrurus\_fulvius](https://en.wikipedia.org/wiki/Micrurus_fulvius)
         
 8.  **European Cat Snake**
     
     *   **Scientific Name:** _Natrix tessellata_
     *   **Distinguishing Qualities:** Non-venomous, semi-aquatic.
     *   **Name for Photos:** European Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mediterranean\_Cat\_Snake.jpg/1024px-Mediterranean\_Cat\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mediterranean_Cat_Snake.jpg/1024px-Mediterranean_Cat_Snake.jpg)
+        * [https://en.wikipedia.org/wiki/European\_cat\_snake](https://en.wikipedia.org/wiki/European_cat_snake)
         
 9.  **Gaboon Viper**
     
     *   **Scientific Name:** _Bitis gabonica_
     *   **Distinguishing Qualities:** Venomous, large fangs.
     *   **Name for Photos:** Gaboon Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bitis\_gabonica.jpg/1280px-Bitis\_gabonica.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bitis_gabonica.jpg/1280px-Bitis_gabonica.jpg)
+        * [https://en.wikipedia.org/wiki/Gaboon\_viper](https://en.wikipedia.org/wiki/Gaboon_viper)
         
 1.  **Gopher Snake**
     
