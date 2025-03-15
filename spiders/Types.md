@@ -259,3 +259,83 @@ https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_Neph
 *   **Image Name**: Spider39, Spider40
     
 *   **Sources**:
+
+**21. Garden Orb-Weaver Spider**  
+--------------------------------
+
+*   **Scientific Name**: _Eriophora transmarina_
+    
+*   **Distinguished Qualities**: Builds large, circular webs and is active at night.
+    
+*   **Image Name**: Spider41, Spider42
+    
+*   **Sources**:  
+  [https://en.wikipedia.org/wiki/Eriophora_transmarina](https://en.wikipedia.org/wiki/Eriophora_transmarina)  
+  [https://upload.wikimedia.org/wikipedia/commons/9/94/Garden_Orb_Weaver_%28Eriophora_transmarina%29.jpg](https://upload.wikimedia.org/wikipedia/commons/9/94/Garden_Orb_Weaver_%28Eriophora_transmarina%29.jpg)  
+  [https://australian.museum/learn/animals/spiders/garden-orb-weaving-spiders/](https://australian.museum/learn/animals/spiders/garden-orb-weaving-spiders/)
+
+---
+
+**22. Six-Eyed Sand Spider**  
+----------------------------
+
+*   **Scientific Name**: _Sicarius hahni_
+    
+*   **Distinguished Qualities**: Highly venomous, camouflages in sandy environments.
+    
+*   **Image Name**: Spider43, Spider44
+    
+*   **Sources**:  
+  [https://en.wikipedia.org/wiki/Sicarius_hahni](https://en.wikipedia.org/wiki/Sicarius_hahni)  
+  [https://upload.wikimedia.org/wikipedia/commons/4/47/Six-eyed_sand_spider.jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Six-eyed_sand_spider.jpg)  
+  [https://www.nhm.ac.uk/discover/news/2020/october/six-eyed-sand-spider-could-kill-human.html](https://www.nhm.ac.uk/discover/news/2020/october/six-eyed-sand-spider-could-kill-human.html)
+
+---
+
+**23. Mouse Spider**  
+--------------------
+
+*   **Scientific Name**: _Missulena_ (genus)
+    
+*   **Distinguished Qualities**: Often mistaken for funnel-web spiders; burrows underground.
+    
+*   **Image Name**: Spider45, Spider46
+    
+*   **Sources**:  
+  [https://en.wikipedia.org/wiki/Mouse_spider](https://en.wikipedia.org/wiki/Mouse_spider)  
+  [https://upload.wikimedia.org/wikipedia/commons/2/26/Mouse_Spider_%28Missulena_sp.%29_%286734795078%29.jpg](https://upload.wikimedia.org/wikipedia/commons/2/26/Mouse_Spider_%28Missulena_sp.%29_%286734795078%29.jpg)  
+  [https://australian.museum/learn/animals/spiders/mouse-spiders/](https://australian.museum/learn/animals/spiders/mouse-spiders/)
+
+---
+
+**24. Spitting Spider**  
+-----------------------
+
+*   **Scientific Name**: _Scytodes thoracica_
+    
+*   **Distinguished Qualities**: Sprays a sticky venom to trap prey.
+    
+*   **Image Name**: Spider47, Spider48
+    
+*   **Sources**:  
+  [https://en.wikipedia.org/wiki/Scytodes_thoracica](https://en.wikipedia.org/wiki/Scytodes_thoracica)  
+  [https://upload.wikimedia.org/wikipedia/commons/a/a4/Spitting_spider_%28Scytodes_thoracica%29.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Spitting_spider_%28Scytodes_thoracica%29.jpg)  
+  [https://askentomologists.com/2020/01/17/spitting-spiders/](https://askentomologists.com/2020/01/17/spitting-spiders/)
+
+---
+
+**25. Golden Huntsman Spider**  
+------------------------------
+
+*   **Scientific Name**: _Olios giganteus_
+    
+*   **Distinguished Qualities**: Large, golden-colored, and fast-moving.
+    
+*   **Image Name**: Spider49, Spider50
+    
+*   **Sources**:  
+  [https://en.wikipedia.org/wiki/Olios_giganteus](https://en.wikipedia.org/wiki/Olios_giganteus)  
+  [https://upload.wikimedia.org/wikipedia/commons/1/14/Golden_huntsman_spider.jpg](https://upload.wikimedia.org/wikipedia/commons/1/14/Golden_huntsman_spider.jpg)  
+  [https://www.nationalgeographic.com/animals/invertebrates/facts/huntsman-spider](https://www.nationalgeographic.com/animals/invertebrates/facts/huntsman-spider)
+
+
