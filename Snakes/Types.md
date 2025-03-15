@@ -1251,75 +1251,114 @@
     *   **Scientific Name:** _Naja nivea_ (similar to Cape Cobra, but not always striped)
     *   **Distinguishing Qualities:** Venomous, hooded when threatened.
     *   **Name for Photos:** Zebra Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naja\_nigricincta\_nigricincta.jpg/1280px-Naja\_nigricincta\_nigricincta.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naja_nigricincta_nigricincta.jpg/1280px-Naja_nigricincta_nigricincta.jpg)
+        * [https://en.wikipedia.org/wiki/Naja\_nigricincta](https://en.wikipedia.org/wiki/Naja_nigricincta)
         
 2.  **African Rock Python's Cousin: Southern African Python**
     
     *   **Scientific Name:** _Python natalensis_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
     *   **Name for Photos:** Southern African Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Python\_natalensis\_G.\_J.\_Alexander.JPG/1024px-Python\_natalensis\_G.\_J.\_Alexander.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Python_natalensis_G._J._Alexander.JPG/1024px-Python_natalensis_G._J._Alexander.JPG)
+        * [https://en.wikipedia.org/wiki/Southern\_African\_rock\_python](https://en.wikipedia.org/wiki/Southern_African_rock_python)
         
 3.  **Albino Burmese Python**
     
     *   **Scientific Name:** _Python bivittatus_ (albino morph)
     *   **Distinguishing Qualities:** Large, non-venomous constrictor, lacks pigmentation.
     *   **Name for Photos:** Albino Burmese Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/31/Albino\_burmese\_pythons.jpg](https://upload.wikimedia.org/wikipedia/commons/3/31/Albino_burmese_pythons.jpg)
+        * [https://en.m.wikipedia.org/wiki/File:Albino\_burmese\_pythons.jpg](https://en.m.wikipedia.org/wiki/File:Albino_burmese_pythons.jpg)
         
 4.  **Alpine Water Snake**
     
     *   **Scientific Name:** _Natrix tessellata_
     *   **Distinguishing Qualities:** Non-venomous, semi-aquatic.
     *   **Name for Photos:** Alpine Water Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Laticauda\_colubrina\_(Wakatobi).jpg/800px-Laticauda\_colubrina\_(Wakatobi).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Laticauda_colubrina_(Wakatobi).jpg/800px-Laticauda_colubrina_(Wakatobi).jpg)
+        * [https://en.wikipedia.org/wiki/Sea\_snake](https://en.wikipedia.org/wiki/Sea_snake)
         
 5.  **Asian Rock Python**
     
     *   **Scientific Name:** _Python molurus_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor.
     *   **Name for Photos:** Asian Rock Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/e8/Asian\_rock\_python.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/Asian_rock_python.jpg)
+        * [https://commons.wikimedia.org/wiki/File:Asian\_rock\_python.jpg](https://commons.wikimedia.org/wiki/File:Asian_rock_python.jpg)
         
 6.  **Bamboo Snake**
     
     *   **Scientific Name:** _Trimeresurus albolabris_
     *   **Distinguishing Qualities:** Venomous, arboreal.
     *   **Name for Photos:** Bamboo Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bamboo\_Pit\_Viper\_macrogiants.jpg/1280px-Bamboo\_Pit\_Viper\_macrogiants.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bamboo_Pit_Viper_macrogiants.jpg/1280px-Bamboo_Pit_Viper_macrogiants.jpg)
+        * [https://en.wikipedia.org/wiki/Craspedocephalus\_gramineus](https://en.wikipedia.org/wiki/Craspedocephalus_gramineus)
         
 7.  **Big-eyed Tree Snake**
     
     *   **Scientific Name:** _Imantodes cenchoa_
     *   **Distinguishing Qualities:** Non-venomous, arboreal.
     *   **Name for Photos:** Big-eyed Tree Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Large-eyed\_Green\_Tree\_Snake\_(Rhamnophis\_aethiopissa)\_(7657058642).jpg/800px-Large-eyed\_Green\_Tree\_Snake\_(Rhamnophis\_aethiopissa)\_(7657058642).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Large-eyed_Green_Tree_Snake_(Rhamnophis_aethiopissa)_(7657058642).jpg/800px-Large-eyed_Green_Tree_Snake_(Rhamnophis_aethiopissa)_(7657058642).jpg)
+        * [https://en.wikipedia.org/wiki/Large-eyed\_green\_tree\_snake](https://en.wikipedia.org/wiki/Large-eyed_green_tree_snake)
         
 8.  **Burmese Sand Boa**
     
     *   **Scientific Name:** _Eryx johnii_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
     *   **Name for Photos:** Burmese Sand Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx\_jaculus.jpg/1280px-Eryx\_jaculus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx_jaculus.jpg/1280px-Eryx_jaculus.jpg)
+        * [https://en.wikipedia.org/wiki/Erycinae](https://en.wikipedia.org/wiki/Erycinae)
         
 9.  **Caspian Whip Snake**
     
     *   **Scientific Name:** _Platyceps rhodorachis_
     *   **Distinguishing Qualities:** Non-venomous, slender.
     *   **Name for Photos:** Caspian Whip Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coluber\_caspius.jpg/1024px-Coluber\_caspius.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coluber_caspius.jpg/1024px-Coluber_caspius.jpg)
+        * [https://en.wikipedia.org/wiki/Caspian\_whipsnake](https://en.wikipedia.org/wiki/Caspian_whipsnake)
         
 1.  **Chinese Cobra**
     
     *   **Scientific Name:** _Naja atra_
     *   **Distinguishing Qualities:** Venomous, hooded when threatened.
     *   **Name for Photos:** Chinese Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/49/Naja\_atra\_(03).jpg](https://upload.wikimedia.org/wikipedia/commons/4/49/Naja_atra_(03).jpg)
+        * [https://en.wikipedia.org/wiki/Chinese\_cobra](https://en.wikipedia.org/wiki/Chinese_cobra)
         
 2.  **Congo Water Cobra**
     
     *   **Scientific Name:** _Naja subfulva_
     *   **Distinguishing Qualities:** Venomous, semi-aquatic.
     *   **Name for Photos:** Congo Water Cobra (1)
+    *   **Sources:**
+        * [https://citizendium.org/wiki/images/b/b4/Naja\_christyi.jpg](https://citizendium.org/wiki/images/b/b4/Naja_christyi.jpg)
+        * [https://en.citizendium.org/wiki/Congo\_water\_cobra](https://en.citizendium.org/wiki/Congo_water_cobra)
         
 3.  **Cuban Boa**
     
     *   **Scientific Name:** _Epicrates angulifer_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
     *   **Name for Photos:** Cuban Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/f2/EpicratesAngulifer1.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f2/EpicratesAngulifer1.jpg)
+        * [https://en.wikipedia.org/wiki/Cuban\_boa](https://en.wikipedia.org/wiki/Cuban_boa)
         
 4.  **Dusky Pygmy Rattlesnake**
     
     *   **Scientific Name:** _Sistrurus miliarius_
     *   **Distinguishing Qualities:** Venomous, small.
-    *   **Name for Photos:** Dusky Pygmy Rattlesnake (1)
+    *   **Name for Photos:** Dusky Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a7/Sistrurus\_miliaris\_barbouri\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Sistrurus_miliaris_barbouri_2.jpg)
+        * [https://en.wikipedia.org/wiki/Sistrurus\_miliarius\_barbouri](https://en.wikipedia.org/wiki/Sistrurus_miliarius_barbouri)
