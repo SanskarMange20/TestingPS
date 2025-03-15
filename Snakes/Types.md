@@ -999,54 +999,81 @@
     *   **Scientific Name:** _Pituophis catenifer_
     *   **Distinguishing Qualities:** Non-venomous, often mistaken for rattlesnakes.
     *   **Name for Photos:** Gopher Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/72/Pituophis\_catenifer\_catenifer\_(Carrizo\_Plain).jpg](https://upload.wikimedia.org/wikipedia/commons/7/72/Pituophis_catenifer_catenifer_(Carrizo_Plain).jpg)
+        * [https://en.wikipedia.org/wiki/Pacific\_gopher\_snake](https://en.wikipedia.org/wiki/Pacific_gopher_snake)
         
 2.  **Green Mamba**
     
     *   **Scientific Name:** _Dendroaspis viridis_
     *   **Distinguishing Qualities:** Venomous, arboreal.
     *   **Name for Photos:** Green Mamba (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/6/66/Green\_mamba.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Green_mamba.jpg)
+        * [https://en.wikipedia.org/wiki/Eastern\_green\_mamba](https://en.wikipedia.org/wiki/Eastern_green_mamba)
         
 3.  **Hognose Snake**
     
     *   **Scientific Name:** _Heterodon spp._
     *   **Distinguishing Qualities:** Non-venomous, upturned snout.
     *   **Name for Photos:** Hognose Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heterodon\_platirhinos.jpg/1024px-Heterodon\_platirhinos.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heterodon_platirhinos.jpg/1024px-Heterodon_platirhinos.jpg)
+        * [https://en.wikipedia.org/wiki/Hognose](https://en.wikipedia.org/wiki/Hognose)
         
 4.  **Inland Carpet Python**
     
     *   **Scientific Name:** _Morelia spilota metcalfei_
     *   **Distinguishing Qualities:** Non-venomous, constrictor.
     *   **Name for Photos:** Inland Carpet Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Australian\_carpet\_python\_03\_new.jpg/800px-Australian\_carpet\_python\_03\_new.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Australian_carpet_python_03_new.jpg/800px-Australian_carpet_python_03_new.jpg)
+        * [https://en.wikipedia.org/wiki/Morelia\_spilota\_mcdowelli](https://en.wikipedia.org/wiki/Morelia_spilota_mcdowelli)
         
 5.  **Japanese Rat Snake**
     
     *   **Scientific Name:** _Elaphe climacophora_
     *   **Distinguishing Qualities:** Non-venomous, arboreal.
     *   **Name for Photos:** Japanese Rat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/19/Elaphe\_climacophora\_-Kyoto,\_Japan-8.jpg](https://upload.wikimedia.org/wikipedia/commons/1/19/Elaphe_climacophora_-Kyoto,_Japan-8.jpg)
+        * [https://en.wikipedia.org/wiki/Japanese\_rat\_snake](https://en.wikipedia.org/wiki/Japanese_rat_snake)
         
 6.  **Kenyan Sand Boa**
     
     *   **Scientific Name:** _Eryx colubrinus_
     *   **Distinguishing Qualities:** Non-venomous, burrowing.
     *   **Name for Photos:** Kenyan Sand Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eryx\_colubrinus\_close\_up.jpg/1280px-Eryx\_colubrinus\_close\_up.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eryx_colubrinus_close_up.jpg/1280px-Eryx_colubrinus_close_up.jpg)
+        * [https://en.wikipedia.org/wiki/Eryx\_colubrinus](https://en.wikipedia.org/wiki/Eryx_colubrinus)
         
 7.  **Krait**
     
     *   **Scientific Name:** _Bungarus spp._
     *   **Distinguishing Qualities:** Venomous, nocturnal.
     *   **Name for Photos:** Krait (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/0/0d/Bungarus\_caerulus.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0d/Bungarus_caerulus.jpg)
+        * [https://en.wikipedia.org/wiki/Common\_krait](https://en.wikipedia.org/wiki/Common_krait)
         
 8.  **Mangrove Snake**
     
     *   **Scientific Name:** _Boiga dendrophila_
     *   **Distinguishing Qualities:** Venomous, arboreal.
     *   **Name for Photos:** Mangrove Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mangrovennachtbaumnatter\_(Boiga\_dendrophila).JPG/1280px-Mangrovennachtbaumnatter\_(Boiga\_dendrophila).JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mangrovennachtbaumnatter_(Boiga_dendrophila).JPG/1280px-Mangrovennachtbaumnatter_(Boiga_dendrophila).JPG)
+        * [https://en.wikipedia.org/wiki/Boiga\_dendrophila](https://en.wikipedia.org/wiki/Boiga_dendrophila)
         
 9.  **Milk Snake**
     
     *   **Scientific Name:** _Lampropeltis triangulum_
     *   **Distinguishing Qualities:** Non-venomous, colorful pattern.
     *   **Name for Photos:** Milk Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/aa/Red\_milk\_snake.JPG](https://upload.wikimedia.org/wikipedia/commons/a/aa/Red_milk_snake.JPG)
+        * [https://en.wikipedia.org/wiki/Milk\_snake](https://en.wikipedia.org/wiki/Milk_snake)
         
 1.  **Night Snake**
     
