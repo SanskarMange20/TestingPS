@@ -174,7 +174,9 @@ https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_Neph
     
 *   **Image Name**: Spider25, Spider26
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Cheiracanthium
+  https://en.wikipedia.org/wiki/Cheiracanthium#/media/File:Long-legged_Sac_Spider_-_Cheiracanthium_sp.,_Pateros,_Washington.jpg
+https://spiderhugger.com/wp-content/uploads/2021/11/Cheiracanthium-sp.-photo-5-scaled.jpg
     
 
 14. Black and Yellow Argiope
@@ -186,7 +188,9 @@ https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_Neph
     
 *   **Image Name**: Spider27, Spider28
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Argiope_aurantia
+  https://en.wikipedia.org/wiki/Argiope_aurantia#/media/File:Black_and_Yellow_Argiope_-_Argiope_aurantia_-_Merritt_Island_National_Wildlife_Refuge,_Florida.jpg
+https://en.wikipedia.org/wiki/Argiope_aurantia#/media/File:Writing_Spider_(Argiope_aurantia).jpg
     
 
 15. Cobweb Spider
@@ -198,19 +202,24 @@ https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_Neph
     
 *   **Image Name**: Spider29, Spider30
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Theridiidae
+  https://img.freepik.com/premium-photo/adult-female-cobweb-spider-family-theridiidae_313877-4523.jpg?w=1060
+https://bugguide.net/node/view/2327076
     
 
-16. Daddy Long Legs Spider
---------------------------
+**16. Garden Orb-Weaver Spider**  
+-----------------  
 
-*   **Scientific Name**: _Pholcus phalangioides_
-    
-*   **Distinguished Qualities**: Known for its extremely long legs.
-    
-*   **Image Name**: Spider31, Spider32
-    
-*   **Sources**:
+*   **Scientific Name**: _Araneus diadematus._  
+
+*   **Distinguished Qualities**: Known for their large, circular webs; commonly found in gardens and forests.  
+
+*   **Image Name**: Spider31, Spider32  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Eriophora](https://en.wikipedia.org/wiki/Eriophora)
+  https://en.wikipedia.org/wiki/Araneus_diadematus#/media/File:Araneus_diadematus_MHNT_Femelle_Fronton.jpg
+https://en.wikipedia.org/wiki/Araneus_diadematus#/media/File:Araneus_diadematus._Male_-_Flickr_-_gailhampshire_(1).jpg
+
     
 
 17. Bark Sac Spider
@@ -222,19 +231,23 @@ https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_Neph
     
 *   **Image Name**: Spider33, Spider34
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Clubiona
+  https://en.wikipedia.org/wiki/Clubiona#/media/File:Clubiona_trivialis2.jpg
+https://species.wikimedia.org/wiki/Clubiona#/media/File:Clubiona_pallidula_w_080607.jpg
     
 
 18. Bird Dung Spider
 --------------------
 
-*   **Scientific Name**: _Papilioxantha_ (genus)
+*   **Scientific Name**: Phrynarachne ceylonica
     
 *   **Distinguished Qualities**: Mimics bird droppings for camouflage.
     
 *   **Image Name**: Spider35, Spider36
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Phrynarachne_ceylonica
+  https://en.wikipedia.org/wiki/Phrynarachne_ceylonica#/media/File:Phrynarachne.ceylonica.female.-.tanikawa.jpg
+https://www.inaturalist.org/photos/17172250
     
 
 19. Cupboard Spider
@@ -246,8 +259,9 @@ https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_Neph
     
 *   **Image Name**: Spider37, Spider38
     
-*   **Sources**:
-    
+*   **Sources**:https://en.wikipedia.org/wiki/Steatoda_grossa
+  https://en.wikipedia.org/wiki/Steatoda_grossa#/media/File:Steatoda.grossa.jpg
+  https://en.wikipedia.org/wiki/Steatoda_grossa#/media/File:Kaldari_Steatoda_grossa_female_01.jpg
 
 20. Zebra Spider
 ----------------
@@ -258,84 +272,126 @@ https://en.wikipedia.org/wiki/Trichonephila#/media/File:FloridaOrbWebSpider_Neph
     
 *   **Image Name**: Spider39, Spider40
     
-*   **Sources**:
+*   **Sources**:https://en.wikipedia.org/wiki/Zebra_spider
+  https://en.wikipedia.org/wiki/Zebra_spider#/media/File:Kaldari_Salticus_scenicus_male_01.jpg
+https://www.ourbreathingplanet.com/wp-content/uploads/2023/05/Zebra-Spider.jpg
 
-**21. Garden Orb-Weaver Spider**  
---------------------------------
+**21. Six-Eyed Sand Spider**  
+-----------------  
 
-*   **Scientific Name**: _Eriophora transmarina_
+*   **Scientific Name**: _Sicarius hahni_  
+
+*   **Distinguished Qualities**: A highly venomous spider that inhabits deserts and sandy environments; known for its ability to camouflage by burying itself in the sand.  
+
+*   **Image Name**: Spider41, Spider42  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Sicarius_hahni](https://en.wikipedia.org/wiki/Sicarius_hahni)
+  https://upload.wikimedia.org/wikipedia/commons/4/4d/Hexophthalma_Unidentified_IMG_2788.jpg
+    https://www.inaturalist.org/photos/75615365
     
-*   **Distinguished Qualities**: Builds large, circular webs and is active at night.
-    
-*   **Image Name**: Spider41, Spider42
-    
-*   **Sources**:  
-  [https://en.wikipedia.org/wiki/Eriophora_transmarina](https://en.wikipedia.org/wiki/Eriophora_transmarina)  
-  [https://upload.wikimedia.org/wikipedia/commons/9/94/Garden_Orb_Weaver_%28Eriophora_transmarina%29.jpg](https://upload.wikimedia.org/wikipedia/commons/9/94/Garden_Orb_Weaver_%28Eriophora_transmarina%29.jpg)  
-  [https://australian.museum/learn/animals/spiders/garden-orb-weaving-spiders/](https://australian.museum/learn/animals/spiders/garden-orb-weaving-spiders/)
 
----
+**22. Mouse Spider**  
+-----------------  
 
-**22. Six-Eyed Sand Spider**  
-----------------------------
+*   **Scientific Name**: _Missulena_ (Genus)  
 
-*   **Scientific Name**: _Sicarius hahni_
-    
-*   **Distinguished Qualities**: Highly venomous, camouflages in sandy environments.
-    
-*   **Image Name**: Spider43, Spider44
-    
-*   **Sources**:  
-  [https://en.wikipedia.org/wiki/Sicarius_hahni](https://en.wikipedia.org/wiki/Sicarius_hahni)  
-  [https://upload.wikimedia.org/wikipedia/commons/4/47/Six-eyed_sand_spider.jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Six-eyed_sand_spider.jpg)  
-  [https://www.nhm.ac.uk/discover/news/2020/october/six-eyed-sand-spider-could-kill-human.html](https://www.nhm.ac.uk/discover/news/2020/october/six-eyed-sand-spider-could-kill-human.html)
+*   **Distinguished Qualities**: Known for their large fangs and potent venom; primarily found in Australia, living in burrows similar to trapdoor spiders.  
 
----
+*   **Image Name**: Spider43, Spider44  
 
-**23. Mouse Spider**  
---------------------
+*   **Sources**: [https://en.wikipedia.org/wiki/Mouse_spider](https://en.wikipedia.org/wiki/Mouse_spider)
+  https://en.wikipedia.org/wiki/Missulena#/media/File:Male_Missulena_occatoria_spider_-_cropped.JPG
+https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 
-*   **Scientific Name**: _Missulena_ (genus)
-    
-*   **Distinguished Qualities**: Often mistaken for funnel-web spiders; burrows underground.
-    
-*   **Image Name**: Spider45, Spider46
-    
-*   **Sources**:  
-  [https://en.wikipedia.org/wiki/Mouse_spider](https://en.wikipedia.org/wiki/Mouse_spider)  
-  [https://upload.wikimedia.org/wikipedia/commons/2/26/Mouse_Spider_%28Missulena_sp.%29_%286734795078%29.jpg](https://upload.wikimedia.org/wikipedia/commons/2/26/Mouse_Spider_%28Missulena_sp.%29_%286734795078%29.jpg)  
-  [https://australian.museum/learn/animals/spiders/mouse-spiders/](https://australian.museum/learn/animals/spiders/mouse-spiders/)
+**23. Spitting Spider**  
+-----------------  
 
----
+*   **Scientific Name**: _Scytodes thoracica_  
 
-**24. Spitting Spider**  
------------------------
+*   **Distinguished Qualities**: Unique for its hunting technique—spitting a sticky, venomous silk to trap prey; has a distinctive dome-shaped cephalothorax.  
 
-*   **Scientific Name**: _Scytodes thoracica_
-    
-*   **Distinguished Qualities**: Sprays a sticky venom to trap prey.
-    
-*   **Image Name**: Spider47, Spider48
-    
-*   **Sources**:  
-  [https://en.wikipedia.org/wiki/Scytodes_thoracica](https://en.wikipedia.org/wiki/Scytodes_thoracica)  
-  [https://upload.wikimedia.org/wikipedia/commons/a/a4/Spitting_spider_%28Scytodes_thoracica%29.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Spitting_spider_%28Scytodes_thoracica%29.jpg)  
-  [https://askentomologists.com/2020/01/17/spitting-spiders/](https://askentomologists.com/2020/01/17/spitting-spiders/)
+*   **Image Name**: Spider45, Spider46  
 
----
+*   **Sources**: [https://en.wikipedia.org/wiki/Scytodes_thoracica](https://en.wikipedia.org/wiki/Scytodes_thoracica)
+  https://en.wikipedia.org/wiki/Spitting_spider#/media/File:Scytodes_thoracica_(aka).jpg
+ https://static.inaturalist.org/photos/231519979/large.jpg
 
-**25. Golden Huntsman Spider**  
-------------------------------
+**24. Golden Huntsman Spider**  
+-----------------  
 
-*   **Scientific Name**: _Olios giganteus_
-    
-*   **Distinguished Qualities**: Large, golden-colored, and fast-moving.
-    
-*   **Image Name**: Spider49, Spider50
-    
-*   **Sources**:  
-  [https://en.wikipedia.org/wiki/Olios_giganteus](https://en.wikipedia.org/wiki/Olios_giganteus)  
-  [https://upload.wikimedia.org/wikipedia/commons/1/14/Golden_huntsman_spider.jpg](https://upload.wikimedia.org/wikipedia/commons/1/14/Golden_huntsman_spider.jpg)  
-  [https://www.nationalgeographic.com/animals/invertebrates/facts/huntsman-spider](https://www.nationalgeographic.com/animals/invertebrates/facts/huntsman-spider)
+*   **Scientific Name**: _Olios giganteus_  
 
+*   **Distinguished Qualities**: A large, fast-moving spider with a golden-brown coloration; known for ambushing prey rather than spinning webs.  
 
+*   **Image Name**: Spider47, Spider48  
+
+*   **Sources**: (https://en.wikipedia.org/wiki/Olios_giganteus#:~:text=Characteristics,be%20up%20to%203%20inches.)
+  https://en.wikipedia.org/wiki/Olios_giganteus#/media/File:Olios_giganteus_-_Flickr_-_andrey_zharkikh.jpg
+
+  
+
+**25. Ogre-Faced Spider**  
+-----------------  
+
+*   **Scientific Name**: _Deinopis_ (Genus)  
+
+*   **Distinguished Qualities**: Has large, forward-facing eyes for excellent night vision and uses a unique net-casting technique to trap prey.  
+
+*   **Image Name**: Spider49, Spider50  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Deinopidae](https://en.wikipedia.org/wiki/Deinopidae)  
+
+**26. Peacock Spider**  
+-----------------  
+
+*   **Scientific Name**: _Maratus_ (Genus)  
+
+*   **Distinguished Qualities**: Small, brightly colored jumping spiders known for their elaborate courtship dances and iridescent patterns.  
+
+*   **Image Name**: Spider51, Spider52  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Maratus](https://en.wikipedia.org/wiki/Maratus)  
+
+**27. Brazilian Wandering Spider**  
+-----------------  
+
+*   **Scientific Name**: _Phoneutria_ (Genus)  
+
+*   **Distinguished Qualities**: One of the most venomous spiders in the world; aggressive and often found roaming the forest floor rather than building webs.  
+
+*   **Image Name**: Spider53, Spider54  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Phoneutria](https://en.wikipedia.org/wiki/Phoneutria)  
+
+**28. Redback Spider**  
+-----------------  
+
+*   **Scientific Name**: _Latrodectus hasseltii_  
+
+*   **Distinguished Qualities**: Closely related to the black widow; recognizable by its red stripe on the back; found mainly in Australia.  
+
+*   **Image Name**: Spider55, Spider56  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Latrodectus_hasseltii](https://en.wikipedia.org/wiki/Latrodectus_hasseltii)  
+
+**29. Sydney Funnel-Web Spider**  
+-----------------  
+
+*   **Scientific Name**: _Atrax robustus_  
+
+*   **Distinguished Qualities**: One of the most dangerous spiders due to its highly toxic venom; native to Australia and found in moist forests.  
+
+*   **Image Name**: Spider57, Spider58  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Atrax_robustus](https://en.wikipedia.org/wiki/Atrax_robustus)  
+
+**30. Northern Tree Funnel-Web Spider**  
+-----------------  
+
+*   **Scientific Name**: _Hadronyche formidabilis_  
+
+*   **Distinguished Qualities**: A highly venomous spider that prefers to live in tree hollows and is known for its aggressive behavior when threatened.  
+
+*   **Image Name**: Spider59, Spider60  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Hadronyche_formidabilis](https://en.wikipedia.org/wiki/Hadronyche_formidabilis)  
