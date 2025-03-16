@@ -395,6 +395,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider59, Spider60  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Hadronyche_formidabilis](https://en.wikipedia.org/wiki/Hadronyche_formidabilis)
+
+  
 **31. Goliath Birdeater**  
 -----------------  
 
@@ -615,222 +617,633 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Grammostola_rosea](https://en.wikipedia.org/wiki/Grammostola_rosea)  
 
-**51. Australian Bronze Jumping Spider**  
+**51. Fringed Ornamental Tarantula**  
 -----------------  
 
-*   **Scientific Name**: _Apricia jovialis_  
+*   **Scientific Name**: _Poecilotheria ornata_  
 
-*   **Distinguished Qualities**: A small, energetic jumping spider with bronze-colored markings.  
+*   **Distinguished Qualities**: An arboreal tarantula with striking patterns and fast movements.  
 
 *   **Image Name**: Spider101, Spider102  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Apricia_jovialis](https://en.wikipedia.org/wiki/Apricia_jovialis)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Poecilotheria](https://en.wikipedia.org/wiki/Poecilotheria)  
 
-**52. Green Huntsman Spider**  
+
+
+**52. Desert Recluse Spider**  
+-----------------  
+
+*   **Scientific Name**: _Loxosceles deserta_  
+
+*   **Distinguished Qualities**: A venomous spider similar to the Brown Recluse, found in desert regions.  
+
+*   **Image Name**: Spider103, Spider104  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Loxosceles](https://en.wikipedia.org/wiki/Loxosceles)  
+
+
+**53. Australian Bronze Jumping Spider**  
+-----------------  
+
+*   **Scientific Name**: _Helpis minitabunda_  
+
+*   **Distinguished Qualities**: A small, agile predator with bronze-colored markings.  
+
+*   **Image Name**: Spider105, Spider106  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Helpis_minitabunda](https://en.wikipedia.org/wiki/Helpis_minitabunda)  
+
+
+
+**54. Green Huntsman Spider**  
 -----------------  
 
 *   **Scientific Name**: _Micrommata virescens_  
 
-*   **Distinguished Qualities**: A bright green spider that blends well with foliage, known for its speed.  
+*   **Distinguished Qualities**: A bright green spider that relies on camouflage in grass and foliage.  
 
-*   **Image Name**: Spider103, Spider104  
+*   **Image Name**: Spider107, Spider108  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Micrommata_virescens](https://en.wikipedia.org/wiki/Micrommata_virescens)  
 
-**53. Hobo Spider**  
+
+
+**55. Hobo Spider**  
 -----------------  
 
 *   **Scientific Name**: _Eratigena agrestis_  
 
-*   **Distinguished Qualities**: Sometimes mistaken for a brown recluse, known for its funnel-shaped webs.  
+*   **Distinguished Qualities**: Often mistaken for the Brown Recluse, though its venom is less dangerous.  
 
-*   **Image Name**: Spider105, Spider106  
+*   **Image Name**: Spider109, Spider110  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Eratigena_agrestis](https://en.wikipedia.org/wiki/Eratigena_agrestis)  
 
-**54. Star Spider**  
+
+
+**56. Star Spider**  
 -----------------  
 
-*   **Scientific Name**: _Gasteracantha spp._  
+*   **Scientific Name**: _Gasteracantha cancriformis_  
 
-*   **Distinguished Qualities**: Features a hard, spiky body that resembles a star, often brightly colored.  
+*   **Distinguished Qualities**: Recognized for its spiky, star-like body and bright colors.  
 
-*   **Image Name**: Spider107, Spider108  
+*   **Image Name**: Spider111, Spider112  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha](https://en.wikipedia.org/wiki/Gasteracantha)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha_cancriformis](https://en.wikipedia.org/wiki/Gasteracantha_cancriformis)  
 
-**55. Long-Palped Ant Mimic Spider**  
+
+
+**57. Long-Palped Ant Mimic Spider**  
 -----------------  
 
 *   **Scientific Name**: _Castianeira longipalpa_  
 
-*   **Distinguished Qualities**: Mimics ants in both appearance and behavior to avoid predators.  
-
-*   **Image Name**: Spider109, Spider110  
-
-*   **Sources**: [https://en.wikipedia.org/wiki/Castianeira](https://en.wikipedia.org/wiki/Castianeira)  
-
-**56. Little White Spider**  
------------------  
-
-*   **Scientific Name**: _Thomisus spectabilis_  
-
-*   **Distinguished Qualities**: A small crab spider known for its ability to change colors to blend in with flowers.  
-
-*   **Image Name**: Spider111, Spider112  
-
-*   **Sources**: [https://en.wikipedia.org/wiki/Thomisus_spectabilis](https://en.wikipedia.org/wiki/Thomisus_spectabilis)  
-
-**57. Ladybird Mimic Spider**  
------------------  
-
-*   **Scientific Name**: _Paraplectana spp._  
-
-*   **Distinguished Qualities**: Resembles a ladybird beetle, using mimicry as a defense mechanism.  
+*   **Distinguished Qualities**: Mimics ants in appearance and movement to evade predators.  
 
 *   **Image Name**: Spider113, Spider114  
 
+*   **Sources**: [https://en.wikipedia.org/wiki/Castianeira](https://en.wikipedia.org/wiki/Castianeira)  
+
+
+ **58. Little White Spider**  
+-----------------  
+
+*   **Scientific Name**: _Misumena vatia_  
+
+*   **Distinguished Qualities**: A crab spider that can change colors between white and yellow.  
+
+*   **Image Name**: Spider115, Spider116  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)  
+
+
+
+ **59. Ladybird Mimic Spider**  
+-----------------  
+
+*   **Scientific Name**: _Paraplectana_ (Genus)  
+
+*   **Distinguished Qualities**: Resembles a ladybug, using mimicry to deter predators.  
+
+*   **Image Name**: Spider117, Spider118  
+
 *   **Sources**: [https://en.wikipedia.org/wiki/Paraplectana](https://en.wikipedia.org/wiki/Paraplectana)  
 
-**58. Blue-Fanged Tarantula**  
+
+
+ **60. Blue-Fanged Tarantula**  
 -----------------  
 
 *   **Scientific Name**: _Ephebopus cyanognathus_  
 
-*   **Distinguished Qualities**: Notable for its striking blue fangs and burrowing habits.  
+*   **Distinguished Qualities**: Notable for its striking metallic blue fangs and defensive behavior.  
 
-*   **Image Name**: Spider115, Spider116  
+*   **Image Name**: Spider119, Spider120  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Ephebopus_cyanognathus](https://en.wikipedia.org/wiki/Ephebopus_cyanognathus)  
 
-**59. Cobalt Blue Tarantula**  
+
+ **61. Cobalt Blue Tarantula**  
 -----------------  
 
-*   **Scientific Name**: _Haplopelma lividum_  
+*   **Scientific Name**: _Cyriopagopus lividus_  
 
-*   **Distinguished Qualities**: A strikingly blue tarantula that is highly defensive and prefers to burrow.  
+*   **Distinguished Qualities**: Known for its iridescent blue legs and aggressive temperament.  
 
-*   **Image Name**: Spider117, Spider118  
+*   **Image Name**: Spider121, Spider122  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Haplopelma_lividum](https://en.wikipedia.org/wiki/Haplopelma_lividum)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Cyriopagopus_lividus](https://en.wikipedia.org/wiki/Cyriopagopus_lividus)  
 
-**60. King Baboon Spider**  
+
+
+ **62. King Baboon Spider**  
 -----------------  
 
 *   **Scientific Name**: _Pelinobius muticus_  
 
-*   **Distinguished Qualities**: A large, orange-brown tarantula known for its defensive nature and deep burrows.  
+*   **Distinguished Qualities**: A large, burrowing tarantula with a strong bite, found in East Africa.  
 
-*   **Image Name**: Spider119, Spider120  
+*   **Image Name**: Spider123, Spider124  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Pelinobius_muticus](https://en.wikipedia.org/wiki/Pelinobius_muticus)  
 
-**61. Indian Ornamental Tarantula**  
+
+ **63. Indian Ornamental Tarantula**  
 -----------------  
 
 *   **Scientific Name**: _Poecilotheria regalis_  
 
-*   **Distinguished Qualities**: A strikingly patterned arboreal tarantula from India.  
+*   **Distinguished Qualities**: A strikingly patterned, arboreal tarantula native to India.  
 
-*   **Image Name**: Spider121, Spider122  
+*   **Image Name**: Spider125, Spider126  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Poecilotheria_regalis](https://en.wikipedia.org/wiki/Poecilotheria_regalis)  
 
-**62. Costa Rican Zebra Tarantula**  
+
+
+ **64. Costa Rican Zebra Tarantula**  
 -----------------  
 
 *   **Scientific Name**: _Aphonopelma seemanni_  
 
-*   **Distinguished Qualities**: Recognized for its black body with white stripes on its legs.  
+*   **Distinguished Qualities**: Black with white-striped legs, giving it a zebra-like appearance.  
 
-*   **Image Name**: Spider123, Spider124  
+*   **Image Name**: Spider127, Spider128  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Aphonopelma_seemanni](https://en.wikipedia.org/wiki/Aphonopelma_seemanni)  
 
-**63. Skeleton Tarantula**  
+
+
+ **65. Skeleton Tarantula**  
 -----------------  
 
 *   **Scientific Name**: _Ephebopus murinus_  
 
-*   **Distinguished Qualities**: Named for the white markings on its legs that resemble a skeleton.  
+*   **Distinguished Qualities**: Named for the skeletal-like markings on its legs.  
 
-*   **Image Name**: Spider125, Spider126  
+*   **Image Name**: Spider129, Spider130  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Ephebopus_murinus](https://en.wikipedia.org/wiki/Ephebopus_murinus)  
 
-**64. Colombian Giant Redleg**  
+
+
+ **66. Colombian Giant Redleg**  
 -----------------  
 
 *   **Scientific Name**: _Megaphobema robustum_  
 
-*   **Distinguished Qualities**: A large, red-legged tarantula known for its defensive nature.  
+*   **Distinguished Qualities**: Has striking red legs and a defensive nature.  
 
-*   **Image Name**: Spider127, Spider128  
+*   **Image Name**: Spider131, Spider132  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Megaphobema_robustum](https://en.wikipedia.org/wiki/Megaphobema_robustum)  
 
-**65. Colombian Lesserblack Tarantula**  
+
+
+ **67. Colombian Lesserblack Tarantula**  
 -----------------  
 
 *   **Scientific Name**: _Xenesthis immanis_  
 
-*   **Distinguished Qualities**: A large tarantula with striking coloration and aggressive behavior.  
+*   **Distinguished Qualities**: Known for its vibrant pink carapace and black body.  
 
-*   **Image Name**: Spider129, Spider130  
+*   **Image Name**: Spider133, Spider134  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Xenesthis](https://en.wikipedia.org/wiki/Xenesthis)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Xenesthis_immanis](https://en.wikipedia.org/wiki/Xenesthis_immanis)  
 
-**66. Dwarf Tarantula**  
+
+
+ **68. Dwarf Tarantula**  
 -----------------  
 
-*   **Scientific Name**: _Cyriocosmus spp._  
+*   **Scientific Name**: _Cyriocosmus_ (Genus)  
 
-*   **Distinguished Qualities**: Small-sized tarantulas known for their unique color patterns.  
+*   **Distinguished Qualities**: Tiny tarantulas, often with striking patterns.  
 
-*   **Image Name**: Spider131, Spider132  
+*   **Image Name**: Spider135, Spider136  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Cyriocosmus](https://en.wikipedia.org/wiki/Cyriocosmus)  
 
-**67. Burgundy Goliath Birdeater**  
+
+
+ **69. Burgundy Goliath Birdeater**  
 -----------------  
 
 *   **Scientific Name**: _Theraphosa stirmi_  
 
-*   **Distinguished Qualities**: One of the largest tarantulas, with a reddish-brown coloration.  
+*   **Distinguished Qualities**: A massive, fast-growing tarantula with a reddish-brown hue.  
 
-*   **Image Name**: Spider133, Spider134  
+*   **Image Name**: Spider137, Spider138  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Theraphosa_stirmi](https://en.wikipedia.org/wiki/Theraphosa_stirmi)  
 
-**68. Blue-Eyed Tarantula**  
+
+
+ **70. Blue-Eyed Tarantula**  
 -----------------  
 
-*   **Scientific Name**: _Idiothele mira_  
+*   **Scientific Name**: _Pachistopelma rufonigrum_  
 
-*   **Distinguished Qualities**: Known for its striking blue eyes and burrowing behavior.  
+*   **Distinguished Qualities**: Recognized for its rare blue eyes and arboreal nature.  
 
-*   **Image Name**: Spider135, Spider136  
+*   **Image Name**: Spider139, Spider140  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Idiothele_mira](https://en.wikipedia.org/wiki/Idiothele_mira)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Pachistopelma](https://en.wikipedia.org/wiki/Pachistopelma)  
 
-**69. Trinidad Chevron Tarantula**  
+
+
+ **71. Trinidad Chevron Tarantula**  
 -----------------  
 
 *   **Scientific Name**: _Psalmopoeus cambridgei_  
 
-*   **Distinguished Qualities**: An arboreal species with a distinctive chevron pattern.  
+*   **Distinguished Qualities**: Fast-moving with distinctive chevron markings.  
 
-*   **Image Name**: Spider137, Spider138  
+*   **Image Name**: Spider141, Spider142  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Psalmopoeus_cambridgei](https://en.wikipedia.org/wiki/Psalmopoeus_cambridgei)  
 
-**70. Mexican Flame-Knee Tarantula**  
+
+
+ **72. Mexican Flame-Knee Tarantula**  
 -----------------  
 
 *   **Scientific Name**: _Brachypelma auratum_  
 
-*   **Distinguished Qualities**: Notable for its black body with bright red-orange knee joints.  
+*   **Distinguished Qualities**: A vibrant tarantula with orange-red "flame" markings on its knees.  
 
-*   **Image Name**: Spider139, Spider140  
+*   **Image Name**: Spider143, Spider144  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Brachypelma_auratum](https://en.wikipedia.org/wiki/Brachypelma_auratum)  
+
+
+
+ **73. Costa Rican Tiger Rump Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Cyclosternum fasciatum_  
+
+*   **Distinguished Qualities**: Features striking orange and black striping on its abdomen.  
+
+*   **Image Name**: Spider145, Spider146  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Cyclosternum_fasciatum](https://en.wikipedia.org/wiki/Cyclosternum_fasciatum)  
+
+
+
+ **74. Curly Hair Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Tliltocatl albopilosus_  
+
+*   **Distinguished Qualities**: Recognized for its curly, bristly hairs covering its body.  
+
+*   **Image Name**: Spider147, Spider148  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Tliltocatl_albopilosus](https://en.wikipedia.org/wiki/Tliltocatl_albopilosus)  
+
+
+
+ **75. Pink Zebra Beauty Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Eupalaestrus campestratus_  
+
+*   **Distinguished Qualities**: A docile tarantula with subtle pinkish and black stripes.  
+
+*   **Image Name**: Spider149, Spider150  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Eupalaestrus_campestratus](https://en.wikipedia.org/wiki/Eupalaestrus_campestratus)  
+
+
+
+ **76. Arizona Blonde Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Aphonopelma chalcodes_  
+
+*   **Distinguished Qualities**: A calm species with a golden-blonde carapace.  
+
+*   **Image Name**: Spider151, Spider152  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Aphonopelma_chalcodes](https://en.wikipedia.org/wiki/Aphonopelma_chalcodes)  
+
+
+
+ **77. Costa Rican Bluefront Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Aphonopelma crinirufum_  
+
+*   **Distinguished Qualities**: Features a blueish tint on its front legs.  
+
+*   **Image Name**: Spider153, Spider154  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Aphonopelma_crinirufum](https://en.wikipedia.org/wiki/Aphonopelma_crinirufum)  
+
+
+
+ **78. Cameroon Red Baboon Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Hysterocrates gigas_  
+
+*   **Distinguished Qualities**: A large, burrowing tarantula with reddish tones.  
+
+*   **Image Name**: Spider155, Spider156  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Hysterocrates](https://en.wikipedia.org/wiki/Hysterocrates)  
+
+
+
+ **79. African Red-Headed Velvet Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Hysterocrates hercules_  
+
+*   **Distinguished Qualities**: Large and powerful, with a striking red-colored cephalothorax.  
+
+*   **Image Name**: Spider157, Spider158  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Hysterocrates](https://en.wikipedia.org/wiki/Hysterocrates)  
+
+
+
+ **80. Haitian Brown Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Phormictopus cancerides_  
+
+*   **Distinguished Qualities**: Known for its brownish color and defensive temperament.  
+
+*   **Image Name**: Spider159, Spider160  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Phormictopus_cancerides](https://en.wikipedia.org/wiki/Phormictopus_cancerides)  
+
+
+
+ **81. Indian Violet Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Chilobrachys fimbriatus_  
+
+*   **Distinguished Qualities**: Displays a deep violet-blue coloration under light.  
+
+*   **Image Name**: Spider161, Spider162  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Chilobrachys_fimbriatus](https://en.wikipedia.org/wiki/Chilobrachys_fimbriatus)  
+
+
+
+ **82. Featherleg Baboon Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Stromatopelma calceatum_  
+
+*   **Distinguished Qualities**: An aggressive old-world tarantula with unique feather-like leg hairs.  
+
+*   **Image Name**: Spider163, Spider164  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Stromatopelma_calceatum](https://en.wikipedia.org/wiki/Stromatopelma_calceatum)  
+
+
+
+ **83. African King Baboon Spider**  
+-----------------  
+
+*   **Scientific Name**: _Pelinobius muticus_  
+
+*   **Distinguished Qualities**: A slow-growing but massive burrowing tarantula with a reddish-brown hue.  
+
+*   **Image Name**: Spider165, Spider166  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Pelinobius_muticus](https://en.wikipedia.org/wiki/Pelinobius_muticus)  
+
+
+
+ **84. Greenbottle Blue Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Chromatopelma cyaneopubescens_  
+
+*   **Distinguished Qualities**: One of the most colorful tarantulas, featuring blue legs, a green carapace, and an orange abdomen.  
+
+*   **Image Name**: Spider167, Spider168  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Chromatopelma_cyaneopubescens](https://en.wikipedia.org/wiki/Chromatopelma_cyaneopubescens)  
+
+
+
+ **85. Madagascar Golden Orb-Weaver**  
+-----------------  
+
+*   **Scientific Name**: _Nephila inaurata_  
+
+*   **Distinguished Qualities**: Famous for its golden silk webs, which are incredibly strong.  
+
+*   **Image Name**: Spider169, Spider170  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Nephila_inaurata](https://en.wikipedia.org/wiki/Nephila_inaurata)  
+
+
+
+ **86. Indian Social Spider**  
+-----------------  
+
+*   **Scientific Name**: _Stegodyphus sarasinorum_  
+
+*   **Distinguished Qualities**: One of the few social spiders that live in colonies.  
+
+*   **Image Name**: Spider171, Spider172  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Stegodyphus_sarasinorum](https://en.wikipedia.org/wiki/Stegodyphus_sarasinorum)  
+
+
+
+ **87. Amazonian Wandering Spider**  
+-----------------  
+
+*   **Scientific Name**: _Phoneutria fera_  
+
+*   **Distinguished Qualities**: Highly venomous and known for its aggressive nature.  
+
+*   **Image Name**: Spider173, Spider174  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Phoneutria_fera](https://en.wikipedia.org/wiki/Phoneutria_fera)  
+
+
+
+ **88. Dominican Giant Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Phormictopus atrichomatus_  
+
+*   **Distinguished Qualities**: A large and fast-growing tarantula native to the Dominican Republic.  
+
+*   **Image Name**: Spider175, Spider176  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Phormictopus](https://en.wikipedia.org/wiki/Phormictopus)  
+
+
+
+ **89. Trinidad Olive Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Neoholothele incei_  
+
+*   **Distinguished Qualities**: A small, communal tarantula with a metallic olive-green hue.  
+
+*   **Image Name**: Spider177, Spider178  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Neoholothele_incei](https://en.wikipedia.org/wiki/Neoholothele_incei)  
+
+
+
+ **90. Malaysian Earth Tiger Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Omothymus schioedtei_  
+
+*   **Distinguished Qualities**: An aggressive species with striking yellow and black markings.  
+
+*   **Image Name**: Spider179, Spider180  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Omothymus_schioedtei](https://en.wikipedia.org/wiki/Omothymus_schioedtei)  
+
+
+
+ **91. Brazilian Black Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Grammostola pulchra_  
+
+*   **Distinguished Qualities**: A stunning, jet-black tarantula that is popular among pet keepers.  
+
+*   **Image Name**: Spider181, Spider182  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Grammostola_pulchra](https://en.wikipedia.org/wiki/Grammostola_pulchra)  
+
+
+
+ **92. Venezuelan Sun Tiger Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Psalmopoeus irminia_  
+
+*   **Distinguished Qualities**: A stunning arboreal species with bold orange and black markings.  
+
+*   **Image Name**: Spider183, Spider184  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Psalmopoeus_irminia](https://en.wikipedia.org/wiki/Psalmopoeus_irminia)  
+
+
+
+ **93. Peruvian Green Velvet Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Thrixopelma pruriens_  
+
+*   **Distinguished Qualities**: Known for its velvety greenish-brown appearance.  
+
+*   **Image Name**: Spider185, Spider186  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Thrixopelma](https://en.wikipedia.org/wiki/Thrixopelma)  
+
+
+
+ **94. Vietnamese Tiger Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Chilobrachys dyscolus_  
+
+*   **Distinguished Qualities**: An aggressive species with dark tiger-like stripes.  
+
+*   **Image Name**: Spider187, Spider188  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Chilobrachys_dyscolus](https://en.wikipedia.org/wiki/Chilobrachys_dyscolus)  
+
+
+
+**95. King Baboon Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Pelinobius muticus_  
+
+*   **Distinguished Qualities**: A large, burrowing tarantula with a rusty-brown coloration. Known for its defensive behavior and strong fangs.  
+
+*   **Image Name**: Spider189, Spider190  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Pelinobius_muticus](https://en.wikipedia.org/wiki/Pelinobius_muticus)  
+
+---
+
+**96. Colombian Pumpkin Patch Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Hapalopus sp. Colombia_  
+
+*   **Distinguished Qualities**: A small but beautifully colored tarantula with a pumpkin-orange pattern on its abdomen.  
+
+*   **Image Name**: Spider191, Spider192  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Hapalopus](https://en.wikipedia.org/wiki/Hapalopus)  
+
+---
+
+**97. Cuban Bronze Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Phormictopus cubensis_  
+
+*   **Distinguished Qualities**: Displays a stunning metallic bronze sheen. Known for its fast movements and defensive nature.  
+
+*   **Image Name**: Spider193, Spider194  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Phormictopus](https://en.wikipedia.org/wiki/Phormictopus)  
+
+---
+
+**98. Peruvian Orange Rump Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Thrixopelma ockerti_  
+
+*   **Distinguished Qualities**: Features a distinct bright orange patch on its abdomen. Arboreal and semi-defensive in nature.  
+
+*   **Image Name**: Spider195, Spider196  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Thrixopelma](https://en.wikipedia.org/wiki/Thrixopelma)  
+
+---
+
+**99. Guyana Pinktoe Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Avicularia avicularia_  
+
+*   **Distinguished Qualities**: Recognized by its striking pink-tipped feet and arboreal lifestyle. Popular among tarantula keepers.  
+
+*   **Image Name**: Spider197, Spider198  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Avicularia_avicularia](https://en.wikipedia.org/wiki/Avicularia_avicularia)  
