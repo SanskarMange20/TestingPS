@@ -1492,74 +1492,83 @@
 1.  **Gierra's Blind Snake**
     
     *   **Scientific Name:** _Afrotyphlops gierrai_
-        
     *   **Distinguishing Qualities:** Endangered, burrowing.
-        
-    *   **Name for Photos:** Gierra's Blind Snake (233)
+    *   **Name for Photos:** Gierra's Blind Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/12693761/medium.jpg](https://static.inaturalist.org/photos/12693761/medium.jpg)
+        * [https://en.wikipedia.org/wiki/Gierra's\_blind\_snake](https://en.wikipedia.org/wiki/Gierra's_blind_snake)
         
 2.  **Dusky Sea Snake**
     
     *   **Scientific Name:** _Aipysurus fuscus_
-        
     *   **Distinguishing Qualities:** Endangered, marine.
-        
-    *   **Name for Photos:** Dusky Sea Snake (234)
+    *   **Name for Photos:** Dusky Sea Snake (1)
+    *   **Sources:**
+        * [https://www.fisheries.noaa.gov/s3//styles/original/s3/2020-11/640x427-Sea\_Snake\_Dusky\_NB\_W\_1.jpg?itok=pIdgLyy0](https://www.fisheries.noaa.gov/s3//styles/original/s3/2020-11/640x427-Sea_Snake_Dusky_NB_W_1.jpg?itok=pIdgLyy0)
+        * [https://en.wikipedia.org/wiki/Aipysurus\_fuscus](https://en.wikipedia.org/wiki/Aipysurus_fuscus)
         
 3.  **Alluaudina mocquardi**
     
     *   **Scientific Name:** _Alluaudina mocquardi_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Alluaudina mocquardi (235)
+    *   **Name for Photos:** Alluaudina mocquardi (1)
+    *   **Sources:**
+        * [https://sararuane.com/wp-content/uploads/2014/02/alluaudina-mocquardi-1.jpg?w=816](https://sararuane.com/wp-content/uploads/2014/02/alluaudina-mocquardi-1.jpg?w=816)
+        * [https://en.wikipedia.org/wiki/Alluaudina](https://en.wikipedia.org/wiki/Alluaudina)
         
 4.  **Anguila Racer**
     
     *   **Scientific Name:** _Alsophis rijgersmaei_
-        
     *   **Distinguishing Qualities:** Endangered, fast-moving.
-        
-    *   **Name for Photos:** Anguila Racer (236)
+    *   **Name for Photos:** Anguila Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alsophis\_rijgersmaei\_32068976\_(cropped).jpg/1280px-Alsophis\_rijgersmaei\_32068976\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alsophis_rijgersmaei_32068976_(cropped).jpg/1280px-Alsophis_rijgersmaei_32068976_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Leeward\_island\_racer](https://en.wikipedia.org/wiki/Leeward_island_racer)
         
 5.  **Orange-bellied Racer**
     
     *   **Scientific Name:** _Alsophis rufiventris_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Orange-bellied Racer (237)
+    *   **Name for Photos:** Orange-bellied Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alsophis\_rufiventris\_186333918.jpg/1024px-Alsophis\_rufiventris\_186333918.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alsophis_rufiventris_186333918.jpg/1024px-Alsophis_rufiventris_186333918.jpg)
+        * [https://en.wikipedia.org/wiki/Red-bellied\_racer](https://en.wikipedia.org/wiki/Red-bellied_racer)
         
 6.  **Somali Garter Snake**
     
     *   **Scientific Name:** _Elapsoidea chelazzii_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Somali Garter Snake (238)
+    *   **Name for Photos:** Somali Garter Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Elapsoidea\_sundevallii\_81132770.jpg/1280px-Elapsoidea\_sundevallii\_81132770.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Elapsoidea_sundevallii_81132770.jpg/1280px-Elapsoidea_sundevallii_81132770.jpg)
+        * [https://en.wikipedia.org/wiki/Elapsoidea\_chelazziorum](https://en.wikipedia.org/wiki/Elapsoidea_chelazziorum)
         
 7.  **Black Garter Snake**
     
     *   **Scientific Name:** _Elapsoidea nigra_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Black Garter Snake (239)
+    *   **Name for Photos:** Black Garter Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Giant\_Garter\_Snake\_1.jpg/1200px-Giant\_Garter\_Snake\_1.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Giant_Garter_Snake_1.jpg/1200px-Giant_Garter_Snake_1.jpg)
+        * [https://en.wikipedia.org/wiki/Elapsoidea\_nigra](https://en.wikipedia.org/wiki/Elapsoidea_nigra)
         
 8.  **Enhydris vorisi**
     
     *   **Scientific Name:** _Enhydris vorisi_
-        
     *   **Distinguishing Qualities:** Endangered, aquatic.
-        
-    *   **Name for Photos:** Enhydris vorisi (240)
+    *   **Name for Photos:** Enhydris vorisi (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Enhydris\_enhydris,\_Rainbow\_water\_snake\_-\_Prachantakham\_District\_(23760967600).jpg/1200px-Enhydris\_enhydris,\_Rainbow\_water\_snake\_-\_Prachantakham\_District\_(23760967600).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Enhydris_enhydris,_Rainbow_water_snake_-_Prachantakham_District_(23760967600).jpg/1200px-Enhydris_enhydris,_Rainbow_water_snake_-_Prachantakham_District_(23760967600).jpg)
+        * [https://en.wikipedia.org/wiki/Enhydris](https://en.wikipedia.org/wiki/Enhydris)
         
 9.  **Mona Island Boa**
     
     *   **Scientific Name:** _Epicrates monensis_
-        
     *   **Distinguishing Qualities:** Endangered, constrictor.
-        
-    *   **Name for Photos:** Mona Island Boa (241)
+    *   **Name for Photos:** Mona Island Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mona\_Boa\_coiled\_with\_tongue\_extended.jpg/1280px-Mona\_Boa\_coiled\_with\_tongue\_extended.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mona_Boa_coiled_with_tongue_extended.jpg/1280px-Mona_Boa_coiled_with_tongue_extended.jpg)
+        * [https://en.wikipedia.org/wiki/Mona\_Island\_boa](https://en.wikipedia.org/wiki/Mona_Island_boa)
         
 1.  **Pearl-banded Rat Snake**
     
