@@ -615,3 +615,222 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Grammostola_rosea](https://en.wikipedia.org/wiki/Grammostola_rosea)  
 
+**51. Australian Bronze Jumping Spider**  
+-----------------  
+
+*   **Scientific Name**: _Apricia jovialis_  
+
+*   **Distinguished Qualities**: A small, energetic jumping spider with bronze-colored markings.  
+
+*   **Image Name**: Spider101, Spider102  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Apricia_jovialis](https://en.wikipedia.org/wiki/Apricia_jovialis)  
+
+**52. Green Huntsman Spider**  
+-----------------  
+
+*   **Scientific Name**: _Micrommata virescens_  
+
+*   **Distinguished Qualities**: A bright green spider that blends well with foliage, known for its speed.  
+
+*   **Image Name**: Spider103, Spider104  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Micrommata_virescens](https://en.wikipedia.org/wiki/Micrommata_virescens)  
+
+**53. Hobo Spider**  
+-----------------  
+
+*   **Scientific Name**: _Eratigena agrestis_  
+
+*   **Distinguished Qualities**: Sometimes mistaken for a brown recluse, known for its funnel-shaped webs.  
+
+*   **Image Name**: Spider105, Spider106  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Eratigena_agrestis](https://en.wikipedia.org/wiki/Eratigena_agrestis)  
+
+**54. Star Spider**  
+-----------------  
+
+*   **Scientific Name**: _Gasteracantha spp._  
+
+*   **Distinguished Qualities**: Features a hard, spiky body that resembles a star, often brightly colored.  
+
+*   **Image Name**: Spider107, Spider108  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha](https://en.wikipedia.org/wiki/Gasteracantha)  
+
+**55. Long-Palped Ant Mimic Spider**  
+-----------------  
+
+*   **Scientific Name**: _Castianeira longipalpa_  
+
+*   **Distinguished Qualities**: Mimics ants in both appearance and behavior to avoid predators.  
+
+*   **Image Name**: Spider109, Spider110  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Castianeira](https://en.wikipedia.org/wiki/Castianeira)  
+
+**56. Little White Spider**  
+-----------------  
+
+*   **Scientific Name**: _Thomisus spectabilis_  
+
+*   **Distinguished Qualities**: A small crab spider known for its ability to change colors to blend in with flowers.  
+
+*   **Image Name**: Spider111, Spider112  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Thomisus_spectabilis](https://en.wikipedia.org/wiki/Thomisus_spectabilis)  
+
+**57. Ladybird Mimic Spider**  
+-----------------  
+
+*   **Scientific Name**: _Paraplectana spp._  
+
+*   **Distinguished Qualities**: Resembles a ladybird beetle, using mimicry as a defense mechanism.  
+
+*   **Image Name**: Spider113, Spider114  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Paraplectana](https://en.wikipedia.org/wiki/Paraplectana)  
+
+**58. Blue-Fanged Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Ephebopus cyanognathus_  
+
+*   **Distinguished Qualities**: Notable for its striking blue fangs and burrowing habits.  
+
+*   **Image Name**: Spider115, Spider116  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Ephebopus_cyanognathus](https://en.wikipedia.org/wiki/Ephebopus_cyanognathus)  
+
+**59. Cobalt Blue Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Haplopelma lividum_  
+
+*   **Distinguished Qualities**: A strikingly blue tarantula that is highly defensive and prefers to burrow.  
+
+*   **Image Name**: Spider117, Spider118  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Haplopelma_lividum](https://en.wikipedia.org/wiki/Haplopelma_lividum)  
+
+**60. King Baboon Spider**  
+-----------------  
+
+*   **Scientific Name**: _Pelinobius muticus_  
+
+*   **Distinguished Qualities**: A large, orange-brown tarantula known for its defensive nature and deep burrows.  
+
+*   **Image Name**: Spider119, Spider120  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Pelinobius_muticus](https://en.wikipedia.org/wiki/Pelinobius_muticus)  
+
+**61. Indian Ornamental Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Poecilotheria regalis_  
+
+*   **Distinguished Qualities**: A strikingly patterned arboreal tarantula from India.  
+
+*   **Image Name**: Spider121, Spider122  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Poecilotheria_regalis](https://en.wikipedia.org/wiki/Poecilotheria_regalis)  
+
+**62. Costa Rican Zebra Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Aphonopelma seemanni_  
+
+*   **Distinguished Qualities**: Recognized for its black body with white stripes on its legs.  
+
+*   **Image Name**: Spider123, Spider124  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Aphonopelma_seemanni](https://en.wikipedia.org/wiki/Aphonopelma_seemanni)  
+
+**63. Skeleton Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Ephebopus murinus_  
+
+*   **Distinguished Qualities**: Named for the white markings on its legs that resemble a skeleton.  
+
+*   **Image Name**: Spider125, Spider126  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Ephebopus_murinus](https://en.wikipedia.org/wiki/Ephebopus_murinus)  
+
+**64. Colombian Giant Redleg**  
+-----------------  
+
+*   **Scientific Name**: _Megaphobema robustum_  
+
+*   **Distinguished Qualities**: A large, red-legged tarantula known for its defensive nature.  
+
+*   **Image Name**: Spider127, Spider128  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Megaphobema_robustum](https://en.wikipedia.org/wiki/Megaphobema_robustum)  
+
+**65. Colombian Lesserblack Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Xenesthis immanis_  
+
+*   **Distinguished Qualities**: A large tarantula with striking coloration and aggressive behavior.  
+
+*   **Image Name**: Spider129, Spider130  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Xenesthis](https://en.wikipedia.org/wiki/Xenesthis)  
+
+**66. Dwarf Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Cyriocosmus spp._  
+
+*   **Distinguished Qualities**: Small-sized tarantulas known for their unique color patterns.  
+
+*   **Image Name**: Spider131, Spider132  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Cyriocosmus](https://en.wikipedia.org/wiki/Cyriocosmus)  
+
+**67. Burgundy Goliath Birdeater**  
+-----------------  
+
+*   **Scientific Name**: _Theraphosa stirmi_  
+
+*   **Distinguished Qualities**: One of the largest tarantulas, with a reddish-brown coloration.  
+
+*   **Image Name**: Spider133, Spider134  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Theraphosa_stirmi](https://en.wikipedia.org/wiki/Theraphosa_stirmi)  
+
+**68. Blue-Eyed Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Idiothele mira_  
+
+*   **Distinguished Qualities**: Known for its striking blue eyes and burrowing behavior.  
+
+*   **Image Name**: Spider135, Spider136  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Idiothele_mira](https://en.wikipedia.org/wiki/Idiothele_mira)  
+
+**69. Trinidad Chevron Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Psalmopoeus cambridgei_  
+
+*   **Distinguished Qualities**: An arboreal species with a distinctive chevron pattern.  
+
+*   **Image Name**: Spider137, Spider138  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Psalmopoeus_cambridgei](https://en.wikipedia.org/wiki/Psalmopoeus_cambridgei)  
+
+**70. Mexican Flame-Knee Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Brachypelma auratum_  
+
+*   **Distinguished Qualities**: Notable for its black body with bright red-orange knee joints.  
+
+*   **Image Name**: Spider139, Spider140  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Brachypelma_auratum](https://en.wikipedia.org/wiki/Brachypelma_auratum)  
