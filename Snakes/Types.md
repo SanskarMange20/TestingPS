@@ -1363,257 +1363,394 @@
         * [https://upload.wikimedia.org/wikipedia/commons/a/a7/Sistrurus\_miliaris\_barbouri\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Sistrurus_miliaris_barbouri_2.jpg)
         * [https://en.wikipedia.org/wiki/Sistrurus\_miliarius\_barbouri](https://en.wikipedia.org/wiki/Sistrurus_miliarius_barbouri)
 
-5. **Night Snake**
-   - **Scientific Name:** *Hypsiglena torquata*
-   - **Distinguishing Qualities:** Non-venomous, nocturnal.
-   - **Name for Photos:** Night Snake (1)
+5. **St. Lucian Racer**
+   *   **Scientific Name:** _Liophis ornatus_
+   *   **Distinguishing Qualities:** Critically endangered, fast-moving.
+   *   **Name for Photos:** St. Lucian Racer (1)
+   *   **Sources:**
+     * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alsophis\_antillensis\_at\_Rosalie-a03.jpg/640px-Alsophis\_antillensis\_at\_Rosalie-a03.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alsophis_antillensis_at_Rosalie-a03.jpg/640px-Alsophis_antillensis_at_Rosalie-a03.jpg)
+     * [https://en.wikipedia.org/wiki/Erythrolamprus\_ornatus](https://en.wikipedia.org/wiki/Erythrolamprus_ornatus)
 
-6. **Northern Pine Snake**
-   - **Scientific Name:** *Pituophis melanoleucus*
-   - **Distinguishing Qualities:** Non-venomous, large.
-   - **Name for Photos:** Northern Pine Snake (1)
+6. **Trang Blind Snake**
+   *   **Scientific Name:** _Xenotyphlops trangensis_
+   *   **Distinguishing Qualities:** Rare, burrowing.
+   *   **Name for Photos:** Trang Blind Snake (1)
+   *   **Sources:**
+       * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNp1jVpT7AbK6FNRDFseXamqpOfJoxSLn1W9brBPpjLbu5tly&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNp1jVpT7AbK6FNRDFseXamqpOfJoxSLn1W9brBPpjLbu5tly&s)
+       * [https://en.wikipedia.org/wiki/Erythrolamprus\_ornatus](https://en.wikipedia.org/wiki/Erythrolamprus_ornatus)
 
-7. **St. Lucian Racer**
-   - **Scientific Name:** *Liophis ornatus*
-   - **Distinguishing Qualities:** Critically endangered, fast-moving.
-   - **Name for Photos:** St. Lucian Racer (1)
+7. **Roxane’s Blind Snake**
+   *   **Scientific Name:** _Xenotyphlops roxaneae_
+   *   **Distinguishing Qualities:** Rare, burrowing.
+   *   **Name for Photos:** Roxane’s Blind Snake (1)
+   *   **Sources:**
+       * [https://bangkokherps.wordpress.com/wp-content/uploads/2011/04/highcompress-r177984\_a\_roxaneae\_h\_d.jpg](https://bangkokherps.wordpress.com/wp-content/uploads/2011/04/highcompress-r177984_a_roxaneae_h_d.jpg)
+       * [https://www.thainationalparks.com/species/argyrophis-roxaneae](https://www.thainationalparks.com/species/argyrophis-roxaneae)
 
-8. **Trang Blind Snake**
-   - **Scientific Name:** *Xenotyphlops trangensis*
-   - **Distinguishing Qualities:** Rare, burrowing.
-   - **Name for Photos:** Trang Blind Snake (1)
+8. **Striped Blind Snake**
+   *   **Scientific Name:** _Leptotyphlops striatus_
+   *   **Distinguishing Qualities:** Small, striped.
+   *   **Name for Photos:** Striped Blind Snake (1)
+   *   **Sources:**
+       * [https://bangkokherps.wordpress.com/wp-content/uploads/2019/10/image1.jpg](https://bangkokherps.wordpress.com/wp-content/uploads/2019/10/image1.jpg)
+       * [https://bangkokherps.wordpress.com/snakes/striped-blind-snake/](https://bangkokherps.wordpress.com/snakes/striped-blind-snake/)
 
-9. **Roxane’s Blind Snake**
-   - **Scientific Name:** *Xenotyphlops roxaneae*
-   - **Distinguishing Qualities:** Rare, burrowing.
-   - **Name for Photos:** Roxane’s Blind Snake (1)
+9. **Orlov’s Viper**
+   *   **Scientific Name:** _Vipera orlovi_
+   *   **Distinguishing Qualities:** Venomous, rare.
+   *   **Name for Photos:** Orlov’s Viper (1)
+   *   **Sources:**
+       * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vipera\_orlovi.jpg/1024px-Vipera\_orlovi.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vipera_orlovi.jpg/1024px-Vipera_orlovi.jpg)
+       * [https://www.inaturalist.org/taxa/30913-Vipera-orlovi](https://www.inaturalist.org/taxa/30913-Vipera-orlovi)
 
-1. **Striped Blind Snake**
-   - **Scientific Name:** *Leptotyphlops striatus*
-   - **Distinguishing Qualities:** Small, striped.
-   - **Name for Photos:** Striped Blind Snake (1)
+1. **Aruban Rattlesnake**
+   *   **Scientific Name:** _Crotalus unicolor_
+   *   **Distinguishing Qualities:** Critically endangered, venomous.
+   *   **Name for Photos:** Aruban Rattlesnake (1)
+   *   **Sources:**
+       * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aruba\_Island\_Rattlesnake\_(Crotalus\_unicolor).jpg/1024px-Aruba\_Island\_Rattlesnake\_(Crotalus\_unicolor).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aruba_Island_Rattlesnake_(Crotalus_unicolor).jpg/1024px-Aruba_Island_Rattlesnake_(Crotalus_unicolor).jpg)
+       * [https://en.wikipedia.org/wiki/Crotalus\_unicolor](https://en.wikipedia.org/wiki/Crotalus_unicolor)
 
-2. **Orlov’s Viper**
-   - **Scientific Name:** *Vipera orlovi*
-   - **Distinguishing Qualities:** Venomous, rare.
-   - **Name for Photos:** Orlov’s Viper (1)
+2. **Albany Adder**
+   *   **Scientific Name:** _Bitis albanica_
+   *   **Distinguishing Qualities:** Rare, venomous.
+   *   **Name for Photos:** Albany Adder (1)
+   *   **Sources:**
+       * [https://ptes.org/wp-content/uploads/2018/08/albanyadder-1-e1534422064788.jpg](https://ptes.org/wp-content/uploads/2018/08/albanyadder-1-e1534422064788.jpg)
+       * [https://en.wikipedia.org/wiki/Albany\_adder](https://en.wikipedia.org/wiki/Albany_adder)
 
-3. **Aruban Rattlesnake**
-   - **Scientific Name:** *Crotalus unicolor*
-   - **Distinguishing Qualities:** Critically endangered, venomous.
-   - **Name for Photos:** Aruban Rattlesnake (1)
+3. **Short-Nosed Sea Snake**
+    *   **Scientific Name:** _Aipysurus apraefrontalis_
+    *   **Distinguishing Qualities:** Critically endangered, marine.
+    *   **Name for Photos:** Short-Nosed Sea Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aipysurus\_apraefrontalis\_specimen\_(SAMA\_R68142).jpg/330px-Aipysurus\_apraefrontalis\_specimen\_(SAMA\_R68142).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aipysurus_apraefrontalis_specimen_(SAMA_R68142).jpg/330px-Aipysurus_apraefrontalis_specimen_(SAMA_R68142).jpg)
+        * [https://en.wikipedia.org/wiki/Aipysurus\_apraefrontalis](https://en.wikipedia.org/wiki/Aipysurus_apraefrontalis)
 
-4. **Albany Adder**
-   - **Scientific Name:** *Bitis albanica*
-   - **Distinguishing Qualities:** Rare, venomous.
-   - **Name for Photos:** Albany Adder (1)
-
-5. **Short-Nosed Sea Snake**
-    - **Scientific Name:** *Aipysurus apraefrontalis*
-    - **Distinguishing Qualities:** Critically endangered, marine.
-    - **Name for Photos:** Short-Nosed Sea Snake (1)
-
-6. **Santa Catalina Island Rattlesnake**
-    - **Scientific Name:** *Crotalus catalinensis*
-    - **Distinguishing Qualities:** Critically endangered, venomous.
-    - **Name for Photos:** Santa Catalina Island Rattlesnake (1)
-
-7. **Bourret's Cat Snake**
-    - **Scientific Name:** *Boiga bourreti*
-    - **Distinguishing Qualities:** Endangered, arboreal.
-    - **Name for Photos:** Bourret's Cat Snake (1)
-
-8. **Pulau Tioman Ground Snake**
-    - **Scientific Name:** *Gongylosoma mukutense*
-    - **Distinguishing Qualities:** Critically endangered, terrestrial.
-    - **Name for Photos:** Pulau Tioman Ground Snake (1)
-
-9. **Black Racer**
-    - **Scientific Name:** *Hypsirhynchus ater*
-    - **Distinguishing Qualities:** Critically endangered, fast-moving.
-    - **Name for Photos:** Black Racer (1)
-
-1. **Lacépède's Ground Snake**
-    - **Scientific Name:** *Liophis cursor*
-    - **Distinguishing Qualities:** Critically endangered, terrestrial.
-    - **Name for Photos:** Lacépède's Ground Snake (1)
-
-2. **Ross' Wolf Snake**
-    - **Scientific Name:** *Lycophidion chrysoprateros*
-    - **Distinguishing Qualities:** Critically endangered, non-venomous.
-    - **Name for Photos:** Ross' Wolf Snake (1)
-
-3. **Gierra's Blind Snake**
-    - **Scientific Name:** *Afrotyphlops gierrai*
-    - **Distinguishing Qualities:** Endangered, burrowing.
-    - **Name for Photos:** Gierra's Blind Snake (1)
-
-4. **Dusky Sea Snake**
-    - **Scientific Name:** *Aipysurus fuscus*
-    - **Distinguishing Qualities:** Endangered, marine.
-    - **Name for Photos:** Dusky Sea Snake (1)
-
-5. **Alluaudina mocquardi**
-    - **Scientific Name:** *Alluaudina mocquardi*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Alluaudina mocquardi (1)
-
-6. **Anguila Racer**
-    - **Scientific Name:** *Alsophis rijgersmaei*
-    - **Distinguishing Qualities:** Endangered, fast-moving.
-    - **Name for Photos:** Anguila Racer (1)
-
-7. **Orange-bellied Racer**
-    - **Scientific Name:** *Alsophis rufiventris*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Orange-bellied Racer (1)
-
-8. **Somali Garter Snake**
-    - **Scientific Name:** *Elapsoidea chelazzii*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Somali Garter Snake (1)
-
-9. **Black Garter Snake**
-    - **Scientific Name:** *Elapsoidea nigra*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Black Garter Snake (1)
-
-1. **Enhydris vorisi**
-    - **Scientific Name:** *Enhydris vorisi*
-    - **Distinguishing Qualities:** Endangered, aquatic.
-    - **Name for Photos:** Enhydris vorisi (1)
-
-2. **Mona Island Boa**
-    - **Scientific Name:** *Epicrates monensis*
-    - **Distinguishing Qualities:** Endangered, constrictor.
-    - **Name for Photos:** Mona Island Boa (1)
-
-3. **Pearl-banded Rat Snake**
-    - **Scientific Name:** *Euprepiophis perlacea*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Pearl-banded Rat Snake (1)
-
-4. **Nuevo Leon Graceful Brown Snake**
-    - **Scientific Name:** *Rhadinaea montana*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Nuevo Leon Graceful Brown Snake (1)
-
-5. **Yellow-lined Centipede Snake**
-    - **Scientific Name:** *Tantilla flavilineata*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Yellow-lined Centipede Snake (1)
-
-6. **Rim Rock Crowned Snake**
-    - **Scientific Name:** *Tantilla oolitica*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Rim Rock Crowned Snake (1)
-
-7. **Potosí Centipede Snake**
-    - **Scientific Name:** *Tantilla shawi*
-    - **Distinguishing Qualities:** Endangered, terrestrial.
-    - **Name for Photos:** Potosí Centipede Snake (1)
-
-8. **Telescopus hoogstraali**
-    - **Scientific Name:** *Telescopus hoogstraali*
-    - **Distinguishing Qualities:** Endangered, nocturnal.
-    - **Name for Photos:** Telescopus hoogstraali (1)
-
-9. **Mexican Garter Snake**
-    - **Scientific Name:** *Thamnophis melanogaster*
-    - **Distinguishing Qualities:** Endangered, semi-aquatic.
-    - **Name for Photos:** Mexican Garter Snake (1)
-
-1. **Mendax Garter Snake**
-    - **Scientific Name:** *Thamnophis mendax*
-    - **Distinguishing Qualities:** Endangered, semi-aquatic.
-    - **Name for Photos:** Mendax Garter Snake (1)
-
-2. **Southern Hog-nosed Snake**
-    - **Scientific Name:** *Heterodon simus*
-    - **Distinguishing Qualities:** Vulnerable, upturned snout.
-    - **Name for Photos:** Southern Hog-nosed Snake (1)
-
-3. **Broad-headed Snake**
-    - **Scientific Name:** *Hoplocephalus bungaroides*
-    - **Distinguishing Qualities:** Vulnerable, venomous.
-    - **Name for Photos:** Broad-headed Snake (1)
-
-4. **Lake Taal Snake**
-    - **Scientific Name:** *Hydrophis semperi*
-    - **Distinguishing Qualities:** Vulnerable, marine.
-    - **Name for Photos:** Lake Taal Snake (1)
-
-5. **Crocker's Sea Snake**
-    - **Scientific Name:** *Laticauda crockeri*
-    - **Distinguishing Qualities:** Vulnerable, marine.
-    - **Name for Photos:** Crocker's Sea Snake (1)
-
-6. **Flat-tail Sea Snake**
-    - **Scientific Name:** *Laticauda schistorhynchus*
-    - **Distinguishing Qualities:** Vulnerable, marine.
-    - **Name for Photos:** Flat-tail Sea Snake (1)
-
-7. **Cloud Forest Parrot Snake**
-    - **Scientific Name:** *Leptophis modestus*
-    - **Distinguishing Qualities:** Vulnerable, arboreal.
-    - **Name for Photos:** Cloud Forest Parrot Snake (1)
-
-8. **Dwarf Wolf Snake**
-    - **Scientific Name:** *Lycophidion nanus*
-    - **Distinguishing Qualities:** Vulnerable, small.
-    - **Name for Photos:** Dwarf Wolf Snake (1)
-
-9. **Ephippifer Coral Snake**
-    - **Scientific Name:** *Micrurus ephippifer*
-    - **Distinguishing Qualities:** Vulnerable, venomous.
-    - **Name for Photos:** Ephippifer Coral Snake (1)
-
-1. **Albicornuta Viper**
-    - **Scientific Name:** *Montivipera albicornuta*
-    - **Distinguishing Qualities:** Vulnerable, venomous.
-    - **Name for Photos:** Albicornuta Viper (1)
-
-2. **Mandalay Cobra**
-    - **Scientific Name:** *Naja mandalayensis*
-    - **Distinguishing Qualities:** Vulnerable, venomous.
-    - **Name for Photos:** Mandalay Cobra (1)
-
-3. **Siamese Cobra**
-    - **Scientific Name:** *Naja siamensis*
-    - **Distinguishing Qualities:** Vulnerable, venomous.
-    - **Name for Photos:** Siamese Cobra (1)
-
-4. **Colkhis Water Snake**
-    - **Scientific Name:** *Natrix megalocephala*
-    - **Distinguishing Qualities:** Vulnerable, semi-aquatic.
-    - **Name for Photos:** Colkhis Water Snake (1)
-
-5. **Fiji Snake**
-    - **Scientific Name:** *Ogmodon vitianus*
-    - **Distinguishing Qualities:** Vulnerable, terrestrial.
-    - **Name for Photos:** Fiji Snake (1)
-
-6. **Walnut Kukri Snake**
-    - **Scientific Name:** *Oligodon juglandifer*
-    - **Distinguishing Qualities:** Vulnerable, terrestrial.
-    - **Name for Photos:** Walnut Kukri Snake (1)
-
-7. **Lacroix Kukri Snake**
-    - **Scientific Name:** *Oligodon lacroixi*
-    - **Distinguishing Qualities:** Vulnerable, terrestrial.
-    - **Name for Photos:** Lacroix Kukri Snake (1)
-
-8. **Spotted-bellied Short-headed Snake**
-    - **Scientific Name:** *Oligodon modestum*
-    - **Distinguishing Qualities:** Vulnerable, terrestrial.
-    - **Name for Photos:** Spotted-bellied Short-headed Snake (1)
-
-9. **Ophryacus undulatus**
-    - **Scientific Name:** *Ophryacus undulatus*
-    - **Distinguishing Qualities:** Vulnerable, venomous.
-    - **Name for Photos:** Ophryacus undulatus (1)
-
-1. **Shaw's Sea Snake**
-    - **Scientific Name:** *Aipysurus laevis*
-    - **Distinguishing Qualities:** Critically endangered, marine.
-    - **Name for Photos:** Shaw's Sea Snake (1)
+1.  **Santa Catalina Island Rattlesnake**
+    
+    *   **Scientific Name:** _Crotalus catalinensis_
+        
+    *   **Distinguishing Qualities:** Critically endangered, venomous.
+        
+    *   **Name for Photos:** Santa Catalina Island Rattlesnake (227)
+        
+2.  **Bourret's Cat Snake**
+    
+    *   **Scientific Name:** _Boiga bourreti_
+        
+    *   **Distinguishing Qualities:** Endangered, arboreal.
+        
+    *   **Name for Photos:** Bourret's Cat Snake (228)
+        
+3.  **Pulau Tioman Ground Snake**
+    
+    *   **Scientific Name:** _Gongylosoma mukutense_
+        
+    *   **Distinguishing Qualities:** Critically endangered, terrestrial.
+        
+    *   **Name for Photos:** Pulau Tioman Ground Snake (229)
+        
+4.  **Black Racer**
+    
+    *   **Scientific Name:** _Hypsirhynchus ater_
+        
+    *   **Distinguishing Qualities:** Critically endangered, fast-moving.
+        
+    *   **Name for Photos:** Black Racer (230)
+        
+5.  **Lacépède's Ground Snake**
+    
+    *   **Scientific Name:** _Liophis cursor_
+        
+    *   **Distinguishing Qualities:** Critically endangered, terrestrial.
+        
+    *   **Name for Photos:** Lacépède's Ground Snake (231)
+        
+6.  **Ross' Wolf Snake**
+    
+    *   **Scientific Name:** _Lycophidion chrysoprateros_
+        
+    *   **Distinguishing Qualities:** Critically endangered, non-venomous.
+        
+    *   **Name for Photos:** Ross' Wolf Snake (232)
+        
+7.  **Gierra's Blind Snake**
+    
+    *   **Scientific Name:** _Afrotyphlops gierrai_
+        
+    *   **Distinguishing Qualities:** Endangered, burrowing.
+        
+    *   **Name for Photos:** Gierra's Blind Snake (233)
+        
+8.  **Dusky Sea Snake**
+    
+    *   **Scientific Name:** _Aipysurus fuscus_
+        
+    *   **Distinguishing Qualities:** Endangered, marine.
+        
+    *   **Name for Photos:** Dusky Sea Snake (234)
+        
+9.  **Alluaudina mocquardi**
+    
+    *   **Scientific Name:** _Alluaudina mocquardi_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Alluaudina mocquardi (235)
+        
+10.  **Anguila Racer**
+    
+    *   **Scientific Name:** _Alsophis rijgersmaei_
+        
+    *   **Distinguishing Qualities:** Endangered, fast-moving.
+        
+    *   **Name for Photos:** Anguila Racer (236)
+        
+11.  **Orange-bellied Racer**
+    
+    *   **Scientific Name:** _Alsophis rufiventris_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Orange-bellied Racer (237)
+        
+12.  **Somali Garter Snake**
+    
+    *   **Scientific Name:** _Elapsoidea chelazzii_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Somali Garter Snake (238)
+        
+13.  **Black Garter Snake**
+    
+    *   **Scientific Name:** _Elapsoidea nigra_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Black Garter Snake (239)
+        
+14.  **Enhydris vorisi**
+    
+    *   **Scientific Name:** _Enhydris vorisi_
+        
+    *   **Distinguishing Qualities:** Endangered, aquatic.
+        
+    *   **Name for Photos:** Enhydris vorisi (240)
+        
+15.  **Mona Island Boa**
+    
+    *   **Scientific Name:** _Epicrates monensis_
+        
+    *   **Distinguishing Qualities:** Endangered, constrictor.
+        
+    *   **Name for Photos:** Mona Island Boa (241)
+        
+16.  **Pearl-banded Rat Snake**
+    
+    *   **Scientific Name:** _Euprepiophis perlacea_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Pearl-banded Rat Snake (242)
+        
+17.  **Nuevo Leon Graceful Brown Snake**
+    
+    *   **Scientific Name:** _Rhadinaea montana_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Nuevo Leon Graceful Brown Snake (243)
+        
+18.  **Yellow-lined Centipede Snake**
+    
+    *   **Scientific Name:** _Tantilla flavilineata_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Yellow-lined Centipede Snake (244)
+        
+19.  **Rim Rock Crowned Snake**
+    
+    *   **Scientific Name:** _Tantilla oolitica_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Rim Rock Crowned Snake (245)
+        
+20.  **Potosí Centipede Snake**
+    
+    *   **Scientific Name:** _Tantilla shawi_
+        
+    *   **Distinguishing Qualities:** Endangered, terrestrial.
+        
+    *   **Name for Photos:** Potosí Centipede Snake (246)
+        
+21.  **Telescopus hoogstraali**
+    
+    *   **Scientific Name:** _Telescopus hoogstraali_
+        
+    *   **Distinguishing Qualities:** Endangered, nocturnal.
+        
+    *   **Name for Photos:** Telescopus hoogstraali (247)
+        
+22.  **Mexican Garter Snake**
+    
+    *   **Scientific Name:** _Thamnophis melanogaster_
+        
+    *   **Distinguishing Qualities:** Endangered, semi-aquatic.
+        
+    *   **Name for Photos:** Mexican Garter Snake (248)
+        
+23.  **Mendax Garter Snake**
+    
+    *   **Scientific Name:** _Thamnophis mendax_
+        
+    *   **Distinguishing Qualities:** Endangered, semi-aquatic.
+        
+    *   **Name for Photos:** Mendax Garter Snake (249)
+        
+24.  **Southern Hog-nosed Snake**
+    
+    *   **Scientific Name:** _Heterodon simus_
+        
+    *   **Distinguishing Qualities:** Vulnerable, upturned snout.
+        
+    *   **Name for Photos:** Southern Hog-nosed Snake (250)
+        
+25.  **Broad-headed Snake**
+    
+    *   **Scientific Name:** _Hoplocephalus bungaroides_
+        
+    *   **Distinguishing Qualities:** Vulnerable, venomous.
+        
+    *   **Name for Photos:** Broad-headed Snake (251)
+        
+26.  **Lake Taal Snake**
+    
+    *   **Scientific Name:** _Hydrophis semperi_
+        
+    *   **Distinguishing Qualities:** Vulnerable, marine.
+        
+    *   **Name for Photos:** Lake Taal Snake (252)
+        
+27.  **Crocker's Sea Snake**
+    
+    *   **Scientific Name:** _Laticauda crockeri_
+        
+    *   **Distinguishing Qualities:** Vulnerable, marine.
+        
+    *   **Name for Photos:** Crocker's Sea Snake (253)
+        
+28.  **Flat-tail Sea Snake**
+    
+    *   **Scientific Name:** _Laticauda schistorhynchus_
+        
+    *   **Distinguishing Qualities:** Vulnerable, marine.
+        
+    *   **Name for Photos:** Flat-tail Sea Snake (254)
+        
+29.  **Cloud Forest Parrot Snake**
+    
+    *   **Scientific Name:** _Leptophis modestus_
+        
+    *   **Distinguishing Qualities:** Vulnerable, arboreal.
+        
+    *   **Name for Photos:** Cloud Forest Parrot Snake (255)
+        
+30.  **Dwarf Wolf Snake**
+    
+    *   **Scientific Name:** _Lycophidion nanus_
+        
+    *   **Distinguishing Qualities:** Vulnerable, small.
+        
+    *   **Name for Photos:** Dwarf Wolf Snake (256)
+        
+31.  **Ephippifer Coral Snake**
+    
+    *   **Scientific Name:** _Micrurus ephippifer_
+        
+    *   **Distinguishing Qualities:** Vulnerable, venomous.
+        
+    *   **Name for Photos:** Ephippifer Coral Snake (257)
+        
+32.  **Albicornuta Viper**
+    
+    *   **Scientific Name:** _Montivipera albicornuta_
+        
+    *   **Distinguishing Qualities:** Vulnerable, venomous.
+        
+    *   **Name for Photos:** Albicornuta Viper (258)
+        
+33.  **Mandalay Cobra**
+    
+    *   **Scientific Name:** _Naja mandalayensis_
+        
+    *   **Distinguishing Qualities:** Vulnerable, venomous.
+        
+    *   **Name for Photos:** Mandalay Cobra (259)
+        
+34.  **Siamese Cobra**
+    
+    *   **Scientific Name:** _Naja siamensis_
+        
+    *   **Distinguishing Qualities:** Vulnerable, venomous.
+        
+    *   **Name for Photos:** Siamese Cobra (260)
+        
+35.  **Colkhis Water Snake**
+    
+    *   **Scientific Name:** _Natrix megalocephala_
+        
+    *   **Distinguishing Qualities:** Vulnerable, semi-aquatic.
+        
+    *   **Name for Photos:** Colkhis Water Snake (261)
+        
+36.  **Fiji Snake**
+    
+    *   **Scientific Name:** _Ogmodon vitianus_
+        
+    *   **Distinguishing Qualities:** Vulnerable, terrestrial.
+        
+    *   **Name for Photos:** Fiji Snake (262)
+        
+37.  **Walnut Kukri Snake**
+    
+    *   **Scientific Name:** _Oligodon juglandifer_
+        
+    *   **Distinguishing Qualities:** Vulnerable, terrestrial.
+        
+    *   **Name for Photos:** Walnut Kukri Snake (263)
+        
+38.  **Lacroix Kukri Snake**
+    
+    *   **Scientific Name:** _Oligodon lacroixi_
+        
+    *   **Distinguishing Qualities:** Vulnerable, terrestrial.
+        
+    *   **Name for Photos:** Lacroix Kukri Snake (264)
+        
+39.  **Spotted-bellied Short-headed Snake**
+    
+    *   **Scientific Name:** _Oligodon modestum_
+        
+    *   **Distinguishing Qualities:** Vulnerable, terrestrial.
+        
+    *   **Name for Photos:** Spotted-bellied Short-headed Snake (265)
+        
+40.  **Ophryacus undulatus**
+    
+    *   **Scientific Name:** _Ophryacus undulatus_
+        
+    *   **Distinguishing Qualities:** Vulnerable, venomous.
+        
+    *   **Name for Photos:** Ophryacus undulatus (266)
+        
+41.  **Shaw's Sea Snake**
+    
+    *   **Scientific Name:** _Aipysurus laevis_
+        
+    *   **Distinguishing Qualities:** Critically endangered, marine.
+        
+    *   **Name for Photos:** Shaw's Sea Snake (267)
