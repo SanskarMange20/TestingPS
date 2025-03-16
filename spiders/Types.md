@@ -394,4 +394,224 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 
 *   **Image Name**: Spider59, Spider60  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Hadronyche_formidabilis](https://en.wikipedia.org/wiki/Hadronyche_formidabilis)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Hadronyche_formidabilis](https://en.wikipedia.org/wiki/Hadronyche_formidabilis)
+**31. Goliath Birdeater**  
+-----------------  
+
+*   **Scientific Name**: _Theraphosa blondi_  
+
+*   **Distinguished Qualities**: The world's largest spider by mass; capable of preying on small vertebrates, though it primarily feeds on insects.  
+
+*   **Image Name**: Spider61, Spider62  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Theraphosa_blondi](https://en.wikipedia.org/wiki/Theraphosa_blondi)  
+
+**32. Pinktoe Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Avicularia avicularia_  
+
+*   **Distinguished Qualities**: Recognized for its pink-tipped legs and arboreal lifestyle; commonly found in the rainforests of South America.  
+
+*   **Image Name**: Spider63, Spider64  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Avicularia_avicularia](https://en.wikipedia.org/wiki/Avicularia_avicularia)  
+
+**33. Mexican Red-Knee Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Brachypelma smithi_  
+
+*   **Distinguished Qualities**: A popular pet tarantula due to its striking red and black coloration and docile nature.  
+
+*   **Image Name**: Spider65, Spider66  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Brachypelma_smithi](https://en.wikipedia.org/wiki/Brachypelma_smithi)  
+
+**34. Camel Spider**  
+-----------------  
+
+*   **Scientific Name**: _Galeodes_ (Genus)  
+
+*   **Distinguished Qualities**: Not a true spider but a solifuge; known for its incredible speed and large, powerful jaws.  
+
+*   **Image Name**: Spider67, Spider68  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Solifugae](https://en.wikipedia.org/wiki/Solifugae)  
+
+**35. Trapdoor Spider**  
+-----------------  
+
+*   **Scientific Name**: _Ctenizidae_ (Family)  
+
+*   **Distinguished Qualities**: Builds burrows with camouflaged, hinged lids to ambush prey.  
+
+*   **Image Name**: Spider69, Spider70  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Ctenizidae](https://en.wikipedia.org/wiki/Ctenizidae)  
+
+**36. Happy Face Spider**  
+-----------------  
+
+*   **Scientific Name**: _Theridion grallator_  
+
+*   **Distinguished Qualities**: Known for the unique, smiley-face-like markings on its abdomen; native to Hawaii.  
+
+*   **Image Name**: Spider71, Spider72  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Theridion_grallator](https://en.wikipedia.org/wiki/Theridion_grallator)  
+
+**37. Bolas Spider**  
+-----------------  
+
+*   **Scientific Name**: _Mastophora_ (Genus)  
+
+*   **Distinguished Qualities**: Uses a sticky silk "bola" to catch moths by mimicking female moth pheromones.  
+
+*   **Image Name**: Spider73, Spider74  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Mastophora](https://en.wikipedia.org/wiki/Mastophora)  
+
+**38. Net-Casting Spider**  
+-----------------  
+
+*   **Scientific Name**: _Deinopis_ (Genus)  
+
+*   **Distinguished Qualities**: Creates a web net and holds it in its legs to capture unsuspecting prey.  
+
+*   **Image Name**: Spider75, Spider76  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Deinopidae](https://en.wikipedia.org/wiki/Deinopidae)  
+
+**39. Purse Web Spider**  
+-----------------  
+
+*   **Scientific Name**: _Atypus_ (Genus)  
+
+*   **Distinguished Qualities**: Lives in silk tubes buried in the ground and pulls prey inside after ambush.  
+
+*   **Image Name**: Spider77, Spider78  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Atypus](https://en.wikipedia.org/wiki/Atypus)  
+
+**40. Lynx Spider**  
+-----------------  
+
+*   **Scientific Name**: _Oxyopidae_ (Family)  
+
+*   **Distinguished Qualities**: Agile hunters with excellent vision that stalk prey in vegetation instead of using webs.  
+
+*   **Image Name**: Spider79, Spider80  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Oxyopidae](https://en.wikipedia.org/wiki/Oxyopidae)  
+
+**41. Velvet Spider**  
+-----------------  
+
+*   **Scientific Name**: _Eresidae_ (Family)  
+
+*   **Distinguished Qualities**: Known for their soft, velvety appearance and communal nesting behavior.  
+
+*   **Image Name**: Spider81, Spider82  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Eresidae](https://en.wikipedia.org/wiki/Eresidae)  
+
+**42. Giant House Spider**  
+-----------------  
+
+*   **Scientific Name**: _Eratigena atrica_  
+
+*   **Distinguished Qualities**: One of the fastest spiders; often mistaken for the hobo spider due to its size and speed.  
+
+*   **Image Name**: Spider83, Spider84  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Eratigena_atrica](https://en.wikipedia.org/wiki/Eratigena_atrica)  
+
+**43. Feather-Legged Spider**  
+-----------------  
+
+*   **Scientific Name**: _Uloboridae_ (Family)  
+
+*   **Distinguished Qualities**: Unusual for lacking venom; relies on silk-wrapping to subdue prey.  
+
+*   **Image Name**: Spider85, Spider86  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Uloboridae](https://en.wikipedia.org/wiki/Uloboridae)  
+
+**44. Ant-Mimic Spider**  
+-----------------  
+
+*   **Scientific Name**: _Myrmarachne_ (Genus)  
+
+*   **Distinguished Qualities**: Mimics ants in appearance and behavior to avoid predators.  
+
+*   **Image Name**: Spider87, Spider88  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Myrmarachne](https://en.wikipedia.org/wiki/Myrmarachne)  
+
+**45. Pirate Spider**  
+-----------------  
+
+*   **Scientific Name**: _Mimetidae_ (Family)  
+
+*   **Distinguished Qualities**: Specializes in preying on other spiders by mimicking prey vibrations on webs.  
+
+*   **Image Name**: Spider89, Spider90  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Mimetidae](https://en.wikipedia.org/wiki/Mimetidae)  
+
+**46. Spruce-Fir Moss Spider**  
+-----------------  
+
+*   **Scientific Name**: _Microhexura montivaga_  
+
+*   **Distinguished Qualities**: A rare, endangered spider that lives in mossy, high-altitude forests.  
+
+*   **Image Name**: Spider91, Spider92  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Microhexura_montivaga](https://en.wikipedia.org/wiki/Microhexura_montivaga)  
+
+**47. Cave Spider**  
+-----------------  
+
+*   **Scientific Name**: _Meta menardi_  
+
+*   **Distinguished Qualities**: Found in dark caves and tunnels; known for its large, round webs.  
+
+*   **Image Name**: Spider93, Spider94  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Meta_menardi](https://en.wikipedia.org/wiki/Meta_menardi)  
+
+**48. Mirror Spider**  
+-----------------  
+
+*   **Scientific Name**: _Thwaitesia argentiopunctata_  
+
+*   **Distinguished Qualities**: Features reflective, silvery patches on its abdomen that change in appearance.  
+
+*   **Image Name**: Spider95, Spider96  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Thwaitesia_argentiopunctata](https://en.wikipedia.org/wiki/Thwaitesia_argentiopunctata)  
+
+**49. Red-Headed Mouse Spider**  
+-----------------  
+
+*   **Scientific Name**: _Missulena occatoria_  
+
+*   **Distinguished Qualities**: One of the most venomous mouse spiders; males have a striking red head.  
+
+*   **Image Name**: Spider97, Spider98  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Missulena_occatoria](https://en.wikipedia.org/wiki/Missulena_occatoria)  
+
+**50. Chilean Rose Tarantula**  
+-----------------  
+
+*   **Scientific Name**: _Grammostola rosea_  
+
+*   **Distinguished Qualities**: A calm and popular pet tarantula with a pinkish hue.  
+
+*   **Image Name**: Spider99, Spider100  
+
+*   **Sources**: [https://en.wikipedia.org/wiki/Grammostola_rosea](https://en.wikipedia.org/wiki/Grammostola_rosea)  
+
