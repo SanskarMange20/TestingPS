@@ -1699,95 +1699,115 @@
 6.  **Dwarf Wolf Snake**
     
     *   **Scientific Name:** _Lycophidion nanus_
-        
     *   **Distinguishing Qualities:** Vulnerable, small.
-        
-    *   **Name for Photos:** Dwarf Wolf Snake (256)
+    *   **Name for Photos:** Dwarf Wolf Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/f2/Lycodon\_capucinus.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f2/Lycodon_capucinus.jpg)
+        * [https://en.wikipedia.org/wiki/Lycodon\_capucinus](https://en.wikipedia.org/wiki/Lycodon_capucinus)
         
 7.  **Ephippifer Coral Snake**
     
     *   **Scientific Name:** _Micrurus ephippifer_
-        
     *   **Distinguishing Qualities:** Vulnerable, venomous.
-        
-    *   **Name for Photos:** Ephippifer Coral Snake (257)
+    *   **Name for Photos:** Ephippifer Coral Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/7634396/large.jpg](https://static.inaturalist.org/photos/7634396/large.jpg)
+        * [https://www.inaturalist.org/taxa/30570-Micrurus-ephippifer](https://www.inaturalist.org/taxa/30570-Micrurus-ephippifer)
         
 8.  **Albicornuta Viper**
     
     *   **Scientific Name:** _Montivipera albicornuta_
-        
-    *   **Distinguishing Qualities:** Vulnerable, venomous.
-        
-    *   **Name for Photos:** Albicornuta Viper (258)
+    *   **Distinguishing Qualities:** Vulnerable, venomous.   
+    *   **Name for Photos:** Albicornuta Viper (1)
+    *   **Sources:**
+        * [https://c8.alamy.com/comp/AB9CKH/iranian-mountain-viper-persian-mountain-viper-vipera-albicornuta-montivipera-AB9CKH.jpg](https://c8.alamy.com/comp/AB9CKH/iranian-mountain-viper-persian-mountain-viper-vipera-albicornuta-montivipera-AB9CKH.jpg)
+        * [https://en.wikipedia.org/wiki/Montivipera\_raddei\_albicornuta](https://en.wikipedia.org/wiki/Montivipera_raddei_albicornuta)
         
 9.  **Mandalay Cobra**
     
     *   **Scientific Name:** _Naja mandalayensis_
-        
     *   **Distinguishing Qualities:** Vulnerable, venomous.
-        
-    *   **Name for Photos:** Mandalay Cobra (259)
+    *   **Name for Photos:** Mandalay Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naja\_mandalayensis\_(Chao\_Li).jpg/800px-Naja\_mandalayensis\_(Chao\_Li).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naja_mandalayensis_(Chao_Li).jpg/800px-Naja_mandalayensis_(Chao_Li).jpg)
+        * [https://en.wikipedia.org/wiki/Mandalay\_spitting\_cobra](https://en.wikipedia.org/wiki/Mandalay_spitting_cobra)
         
 1.  **Siamese Cobra**
     
     *   **Scientific Name:** _Naja siamensis_
-        
     *   **Distinguishing Qualities:** Vulnerable, venomous.
-        
-    *   **Name for Photos:** Siamese Cobra (260)
+    *   **Name for Photos:** Siamese Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b4/Naja\_siamensis\_by\_Danny\_S..jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Naja_siamensis_by_Danny_S..jpg)
+        * [https://en.wikipedia.org/wiki/Siamese\_spitting\_cobra](https://en.wikipedia.org/wiki/Siamese_spitting_cobra)
         
 2.  **Colkhis Water Snake**
     
     *   **Scientific Name:** _Natrix megalocephala_
-        
     *   **Distinguishing Qualities:** Vulnerable, semi-aquatic.
-        
-    *   **Name for Photos:** Colkhis Water Snake (261)
+    *   **Name for Photos:** Colkhis Water Snake (1)
+    *   **Sources:**
+        * [https://c8.alamy.com/comp/2H406M6/colchis-big-headed-grass-snake-natrix-megalocephala-2H406M6.jpg](https://c8.alamy.com/comp/2H406M6/colchis-big-headed-grass-snake-natrix-megalocephala-2H406M6.jpg)
+        * [https://www.dreamstime.com/colchis-big-headed-grass-snake-natrix-megalocephala-serpent-floats-forked-tongue-determines-distance-to-object-young-head-image194896257](https://www.dreamstime.com/colchis-big-headed-grass-snake-natrix-megalocephala-serpent-floats-forked-tongue-determines-distance-to-object-young-head-image194896257)
         
 3.  **Fiji Snake**
     
     *   **Scientific Name:** _Ogmodon vitianus_
-        
     *   **Distinguishing Qualities:** Vulnerable, terrestrial.
-        
-    *   **Name for Photos:** Fiji Snake (262)
+    *   **Name for Photos:** Fiji Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/84671005/medium.jpg](https://static.inaturalist.org/photos/84671005/medium.jpg)
+        * [https://www.inaturalist.org/taxa/35176-Ogmodon-vitianus](https://www.inaturalist.org/taxa/35176-Ogmodon-vitianus)
         
 4.  **Walnut Kukri Snake**
     
     *   **Scientific Name:** _Oligodon juglandifer_
-        
     *   **Distinguishing Qualities:** Vulnerable, terrestrial.
-        
-    *   **Name for Photos:** Walnut Kukri Snake (263)
+    *   **Name for Photos:** Walnut Kukri Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZfKt9PyIVugsR9ghqss462SJKDrWKEoHeeQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZfKt9PyIVugsR9ghqss462SJKDrWKEoHeeQ&s)
+        * [https://www.inaturalist.org/taxa/29251-Oligodon-juglandifer](https://www.inaturalist.org/taxa/29251-Oligodon-juglandifer)
         
 5.  **Lacroix Kukri Snake**
     
     *   **Scientific Name:** _Oligodon lacroixi_
-        
     *   **Distinguishing Qualities:** Vulnerable, terrestrial.
-        
-    *   **Name for Photos:** Lacroix Kukri Snake (264)
+    *   **Name for Photos:** Lacroix Kukri Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcSsIDguQrxvy-lks2RDvmoyor8lWWB7iVA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcSsIDguQrxvy-lks2RDvmoyor8lWWB7iVA&s)
+        * [https://en.wikipedia.org/wiki/Oligodon\_lacroixi](https://en.wikipedia.org/wiki/Oligodon_lacroixi)
         
 6.  **Spotted-bellied Short-headed Snake**
     
     *   **Scientific Name:** _Oligodon modestum_
-        
     *   **Distinguishing Qualities:** Vulnerable, terrestrial.
-        
-    *   **Name for Photos:** Spotted-bellied Short-headed Snake (265)
+    *   **Name for Photos:** Spotted-bellied Short-headed Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/85808448/large.jpeg](https://inaturalist-open-data.s3.amazonaws.com/photos/85808448/large.jpeg)
+        * [https://en.wikipedia.org/wiki/Oligodon\_modestus](https://en.wikipedia.org/wiki/Oligodon_modestus)
         
 7.  **Ophryacus undulatus**
     
     *   **Scientific Name:** _Ophryacus undulatus_
-        
     *   **Distinguishing Qualities:** Vulnerable, venomous.
+    *   **Name for Photos:** Ophryacus undulatus (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ophryacus\_undulatus\_9458405.jpg/1024px-Ophryacus\_undulatus\_9458405.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ophryacus_undulatus_9458405.jpg/1024px-Ophryacus_undulatus_9458405.jpg)
+        * [https://en.wikipedia.org/wiki/Ophryacus\_undulatus](https://en.wikipedia.org/wiki/Ophryacus_undulatus)
         
-    *   **Name for Photos:** Ophryacus undulatus (266)
-        
-8.  **Shaw's Sea Snake**
+8.  **Olive-brown sea snake**
     
     *   **Scientific Name:** _Aipysurus laevis_
-        
     *   **Distinguishing Qualities:** Critically endangered, marine.
-        
-    *   **Name for Photos:** Shaw's Sea Snake (267)
+    *   **Name for Photos:** Olive-brown sea snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/90/Aipysurus\_laevis.jpg](https://upload.wikimedia.org/wikipedia/commons/9/90/Aipysurus_laevis.jpg)
+        * [https://en.wikipedia.org/wiki/Aipysurus\_laevis](https://en.wikipedia.org/wiki/Aipysurus_laevis)
+
+9.  **Shaw's Sea Snake**
+    *   **Scientific Name:** Hydrophis curtus
+    *   **Distinguishing Qualities:** Viviparous and marine, highly venomous, sexual dimorphism in spines.
+    *   **Name for Photos:** Shaw's Sea Snake (1)
+    *   **Sources:**
+        * [https://erp.lakpura.com/images/LK94AC396B-03-E.JPG](https://erp.lakpura.com/images/LK94AC396B-03-E.JPG)
+        * [https://en.wikipedia.org/wiki/Hydrophis\_curtus](https://en.wikipedia.org/wiki/Hydrophis_curtus)
