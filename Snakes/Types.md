@@ -1654,42 +1654,47 @@
 1.  **Broad-headed Snake**
     
     *   **Scientific Name:** _Hoplocephalus bungaroides_
-        
     *   **Distinguishing Qualities:** Vulnerable, venomous.
-        
-    *   **Name for Photos:** Broad-headed Snake (251)
+    *   **Name for Photos:** Broad-headed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d0/Hoplocephalus\_bungaroides.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Hoplocephalus_bungaroides.jpg)
+        * [https://en.wikipedia.org/wiki/Broad-headed\_snake](https://en.wikipedia.org/wiki/Broad-headed_snake)
         
 2.  **Lake Taal Snake**
     
     *   **Scientific Name:** _Hydrophis semperi_
-        
     *   **Distinguishing Qualities:** Vulnerable, marine.
-        
-    *   **Name for Photos:** Lake Taal Snake (252)
+    *   **Name for Photos:** Lake Taal Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/50408817/large.png](https://inaturalist-open-data.s3.amazonaws.com/photos/50408817/large.png)
+        * [https://www.inaturalist.org/taxa/35212-Hydrophis-semperi](https://www.inaturalist.org/taxa/35212-Hydrophis-semperi)
         
 3.  **Crocker's Sea Snake**
     
     *   **Scientific Name:** _Laticauda crockeri_
-        
     *   **Distinguishing Qualities:** Vulnerable, marine.
-        
-    *   **Name for Photos:** Crocker's Sea Snake (253)
+    *   **Name for Photos:** Crocker's Sea Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrxOKDrArYsQZEWxOfK5sNA173Hjfx80bzGg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrxOKDrArYsQZEWxOfK5sNA173Hjfx80bzGg&s)
+        * [https://www.inaturalist.org/taxa/35242-Laticauda-crockeri](https://www.inaturalist.org/taxa/35242-Laticauda-crockeri)
         
 4.  **Flat-tail Sea Snake**
     
     *   **Scientific Name:** _Laticauda schistorhynchus_
-        
     *   **Distinguishing Qualities:** Vulnerable, marine.
-        
-    *   **Name for Photos:** Flat-tail Sea Snake (254)
+    *   **Name for Photos:** Flat-tail Sea Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d0/Sea\_Snake\_Niue.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Sea_Snake_Niue.jpg)
+        * [https://www.inaturalist.org/taxa/35238-Laticauda-schistorhynchus](https://www.inaturalist.org/taxa/35238-Laticauda-schistorhynchus)
         
 5.  **Cloud Forest Parrot Snake**
     
     *   **Scientific Name:** _Leptophis modestus_
-        
     *   **Distinguishing Qualities:** Vulnerable, arboreal.
-        
-    *   **Name for Photos:** Cloud Forest Parrot Snake (255)
+    *   **Name for Photos:** Cloud Forest Parrot Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m-3VI649VACEQsXEeVLg4zHqbHxoF-M6Dw&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m-3VI649VACEQsXEeVLg4zHqbHxoF-M6Dw&s)
+        * [https://www.inaturalist.org/taxa/29703-Leptophis-modestus](https://www.inaturalist.org/taxa/29703-Leptophis-modestus)
         
 6.  **Dwarf Wolf Snake**
     
