@@ -1573,74 +1573,83 @@
 1.  **Pearl-banded Rat Snake**
     
     *   **Scientific Name:** _Euprepiophis perlacea_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Pearl-banded Rat Snake (242)
+    *   **Name for Photos:** Pearl-banded Rat Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/324569102/original.jpeg](https://inaturalist-open-data.s3.amazonaws.com/photos/324569102/original.jpeg)
+        * [https://en.wikipedia.org/wiki/Euprepiophis\_perlaceus](https://en.wikipedia.org/wiki/Euprepiophis_perlaceus)
         
 2.  **Nuevo Leon Graceful Brown Snake**
     
     *   **Scientific Name:** _Rhadinaea montana_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Nuevo Leon Graceful Brown Snake (243)
+    *   **Name for Photos:** Nuevo Leon Graceful Brown Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/1578839/large.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/1578839/large.jpg)
+        * [https://www.inaturalist.org/taxa/28803-Rhadinaea-montana](https://www.inaturalist.org/taxa/28803-Rhadinaea-montana)
         
 3.  **Yellow-lined Centipede Snake**
     
     *   **Scientific Name:** _Tantilla flavilineata_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Yellow-lined Centipede Snake (244)
+    *   **Name for Photos:** Yellow-lined Centipede Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrilHLel894NqwabfDTrRo1B7JK9QHMagXwA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrilHLel894NqwabfDTrRo1B7JK9QHMagXwA&s)
+        * [https://en.wikipedia.org/wiki/Tantilla\_flavilineata](https://en.wikipedia.org/wiki/Tantilla_flavilineata)
         
 4.  **Rim Rock Crowned Snake**
     
     *   **Scientific Name:** _Tantilla oolitica_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Rim Rock Crowned Snake (245)
+    *   **Name for Photos:** Rim Rock Crowned Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuuB0Y5H-ZeOuKGRJD7RAs46QXfDIJjxMS5jiu5SpKFEwZ5yxETffxtpiWvnSCrF-DUrnaS2Gqm-ky1kIK2ybFXw](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuuB0Y5H-ZeOuKGRJD7RAs46QXfDIJjxMS5jiu5SpKFEwZ5yxETffxtpiWvnSCrF-DUrnaS2Gqm-ky1kIK2ybFXw)
+        * [https://en.wikipedia.org/wiki/Rim\_rock\_crown\_snake](https://en.wikipedia.org/wiki/Rim_rock_crown_snake)
         
 5.  **Potosí Centipede Snake**
     
     *   **Scientific Name:** _Tantilla shawi_
-        
     *   **Distinguishing Qualities:** Endangered, terrestrial.
-        
-    *   **Name for Photos:** Potosí Centipede Snake (246)
+    *   **Name for Photos:** Potosí Centipede Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/65360323/medium.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/65360323/medium.jpg)
+        * [https://reptile-database.reptarium.cz/species?genus=Tantilla&species=shawi](https://reptile-database.reptarium.cz/species?genus=Tantilla&species=shawi)
         
 6.  **Telescopus hoogstraali**
     
     *   **Scientific Name:** _Telescopus hoogstraali_
-        
     *   **Distinguishing Qualities:** Endangered, nocturnal.
-        
-    *   **Name for Photos:** Telescopus hoogstraali (247)
+    *   **Name for Photos:** Telescopus hoogstraali (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_14/Telescopus-hoogstraali-03000045070\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_14/Telescopus-hoogstraali-03000045070_01.jpg)
+        * [https://en.wikipedia.org/wiki/Telescopus\_hoogstraali](https://en.wikipedia.org/wiki/Telescopus_hoogstraali)
         
 7.  **Mexican Garter Snake**
     
     *   **Scientific Name:** _Thamnophis melanogaster_
-        
     *   **Distinguishing Qualities:** Endangered, semi-aquatic.
-        
-    *   **Name for Photos:** Mexican Garter Snake (248)
+    *   **Name for Photos:** Mexican Garter Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Thamnophis\_eques.jpg/800px-Thamnophis\_eques.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Thamnophis_eques.jpg/800px-Thamnophis_eques.jpg)
+        * [https://en.wikipedia.org/wiki/Mexican\_garter\_snake](https://en.wikipedia.org/wiki/Mexican_garter_snake)
         
 8.  **Mendax Garter Snake**
     
     *   **Scientific Name:** _Thamnophis mendax_
-        
     *   **Distinguishing Qualities:** Endangered, semi-aquatic.
-        
-    *   **Name for Photos:** Mendax Garter Snake (249)
+    *   **Name for Photos:** Mendax Garter Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKNthfESn\_difIGkrR7gzfHL\_XnFDpQQ\_5lQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKNthfESn_difIGkrR7gzfHL_XnFDpQQ_5lQ&s)
+        * [https://en.wikipedia.org/wiki/Tamaulipan\_montane\_garter\_snake](https://en.wikipedia.org/wiki/Tamaulipan_montane_garter_snake)
         
 9.  **Southern Hog-nosed Snake**
     
     *   **Scientific Name:** _Heterodon simus_
-        
     *   **Distinguishing Qualities:** Vulnerable, upturned snout.
-        
-    *   **Name for Photos:** Southern Hog-nosed Snake (250)
+    *   **Name for Photos:** Southern Hog-nosed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Adult\_Heterodon\_simus.jpg/1280px-Adult\_Heterodon\_simus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Adult_Heterodon_simus.jpg/1280px-Adult_Heterodon_simus.jpg)
+        * [https://en.wikipedia.org/wiki/Southern\_hognose\_snake](https://en.wikipedia.org/wiki/Southern_hognose_snake)
         
 1.  **Broad-headed Snake**
     
