@@ -1489,7 +1489,7 @@
         * [https://inaturalist-open-data.s3.amazonaws.com/photos/22845/medium.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/22845/medium.jpg)
         * [https://en.wikipedia.org/wiki/Lycodon\_chrysoprateros](https://en.wikipedia.org/wiki/Lycodon_chrysoprateros)
         
-7.  **Gierra's Blind Snake**
+1.  **Gierra's Blind Snake**
     
     *   **Scientific Name:** _Afrotyphlops gierrai_
         
@@ -1497,7 +1497,7 @@
         
     *   **Name for Photos:** Gierra's Blind Snake (233)
         
-8.  **Dusky Sea Snake**
+2.  **Dusky Sea Snake**
     
     *   **Scientific Name:** _Aipysurus fuscus_
         
@@ -1505,7 +1505,7 @@
         
     *   **Name for Photos:** Dusky Sea Snake (234)
         
-9.  **Alluaudina mocquardi**
+3.  **Alluaudina mocquardi**
     
     *   **Scientific Name:** _Alluaudina mocquardi_
         
@@ -1513,7 +1513,7 @@
         
     *   **Name for Photos:** Alluaudina mocquardi (235)
         
-10.  **Anguila Racer**
+4.  **Anguila Racer**
     
     *   **Scientific Name:** _Alsophis rijgersmaei_
         
@@ -1521,7 +1521,7 @@
         
     *   **Name for Photos:** Anguila Racer (236)
         
-11.  **Orange-bellied Racer**
+5.  **Orange-bellied Racer**
     
     *   **Scientific Name:** _Alsophis rufiventris_
         
@@ -1529,7 +1529,7 @@
         
     *   **Name for Photos:** Orange-bellied Racer (237)
         
-12.  **Somali Garter Snake**
+6.  **Somali Garter Snake**
     
     *   **Scientific Name:** _Elapsoidea chelazzii_
         
@@ -1537,7 +1537,7 @@
         
     *   **Name for Photos:** Somali Garter Snake (238)
         
-13.  **Black Garter Snake**
+7.  **Black Garter Snake**
     
     *   **Scientific Name:** _Elapsoidea nigra_
         
@@ -1545,7 +1545,7 @@
         
     *   **Name for Photos:** Black Garter Snake (239)
         
-14.  **Enhydris vorisi**
+8.  **Enhydris vorisi**
     
     *   **Scientific Name:** _Enhydris vorisi_
         
@@ -1553,7 +1553,7 @@
         
     *   **Name for Photos:** Enhydris vorisi (240)
         
-15.  **Mona Island Boa**
+9.  **Mona Island Boa**
     
     *   **Scientific Name:** _Epicrates monensis_
         
@@ -1561,7 +1561,7 @@
         
     *   **Name for Photos:** Mona Island Boa (241)
         
-16.  **Pearl-banded Rat Snake**
+1.  **Pearl-banded Rat Snake**
     
     *   **Scientific Name:** _Euprepiophis perlacea_
         
@@ -1569,7 +1569,7 @@
         
     *   **Name for Photos:** Pearl-banded Rat Snake (242)
         
-17.  **Nuevo Leon Graceful Brown Snake**
+2.  **Nuevo Leon Graceful Brown Snake**
     
     *   **Scientific Name:** _Rhadinaea montana_
         
@@ -1577,7 +1577,7 @@
         
     *   **Name for Photos:** Nuevo Leon Graceful Brown Snake (243)
         
-18.  **Yellow-lined Centipede Snake**
+3.  **Yellow-lined Centipede Snake**
     
     *   **Scientific Name:** _Tantilla flavilineata_
         
@@ -1585,7 +1585,7 @@
         
     *   **Name for Photos:** Yellow-lined Centipede Snake (244)
         
-19.  **Rim Rock Crowned Snake**
+4.  **Rim Rock Crowned Snake**
     
     *   **Scientific Name:** _Tantilla oolitica_
         
@@ -1593,7 +1593,7 @@
         
     *   **Name for Photos:** Rim Rock Crowned Snake (245)
         
-20.  **Potosí Centipede Snake**
+5.  **Potosí Centipede Snake**
     
     *   **Scientific Name:** _Tantilla shawi_
         
@@ -1601,7 +1601,7 @@
         
     *   **Name for Photos:** Potosí Centipede Snake (246)
         
-21.  **Telescopus hoogstraali**
+6.  **Telescopus hoogstraali**
     
     *   **Scientific Name:** _Telescopus hoogstraali_
         
@@ -1609,7 +1609,7 @@
         
     *   **Name for Photos:** Telescopus hoogstraali (247)
         
-22.  **Mexican Garter Snake**
+7.  **Mexican Garter Snake**
     
     *   **Scientific Name:** _Thamnophis melanogaster_
         
@@ -1617,7 +1617,7 @@
         
     *   **Name for Photos:** Mexican Garter Snake (248)
         
-23.  **Mendax Garter Snake**
+8.  **Mendax Garter Snake**
     
     *   **Scientific Name:** _Thamnophis mendax_
         
@@ -1625,7 +1625,7 @@
         
     *   **Name for Photos:** Mendax Garter Snake (249)
         
-24.  **Southern Hog-nosed Snake**
+9.  **Southern Hog-nosed Snake**
     
     *   **Scientific Name:** _Heterodon simus_
         
@@ -1633,7 +1633,7 @@
         
     *   **Name for Photos:** Southern Hog-nosed Snake (250)
         
-25.  **Broad-headed Snake**
+1.  **Broad-headed Snake**
     
     *   **Scientific Name:** _Hoplocephalus bungaroides_
         
@@ -1641,7 +1641,7 @@
         
     *   **Name for Photos:** Broad-headed Snake (251)
         
-26.  **Lake Taal Snake**
+2.  **Lake Taal Snake**
     
     *   **Scientific Name:** _Hydrophis semperi_
         
@@ -1649,7 +1649,7 @@
         
     *   **Name for Photos:** Lake Taal Snake (252)
         
-27.  **Crocker's Sea Snake**
+3.  **Crocker's Sea Snake**
     
     *   **Scientific Name:** _Laticauda crockeri_
         
@@ -1657,7 +1657,7 @@
         
     *   **Name for Photos:** Crocker's Sea Snake (253)
         
-28.  **Flat-tail Sea Snake**
+4.  **Flat-tail Sea Snake**
     
     *   **Scientific Name:** _Laticauda schistorhynchus_
         
@@ -1665,7 +1665,7 @@
         
     *   **Name for Photos:** Flat-tail Sea Snake (254)
         
-29.  **Cloud Forest Parrot Snake**
+5.  **Cloud Forest Parrot Snake**
     
     *   **Scientific Name:** _Leptophis modestus_
         
@@ -1673,7 +1673,7 @@
         
     *   **Name for Photos:** Cloud Forest Parrot Snake (255)
         
-30.  **Dwarf Wolf Snake**
+6.  **Dwarf Wolf Snake**
     
     *   **Scientific Name:** _Lycophidion nanus_
         
@@ -1681,7 +1681,7 @@
         
     *   **Name for Photos:** Dwarf Wolf Snake (256)
         
-31.  **Ephippifer Coral Snake**
+7.  **Ephippifer Coral Snake**
     
     *   **Scientific Name:** _Micrurus ephippifer_
         
@@ -1689,7 +1689,7 @@
         
     *   **Name for Photos:** Ephippifer Coral Snake (257)
         
-32.  **Albicornuta Viper**
+8.  **Albicornuta Viper**
     
     *   **Scientific Name:** _Montivipera albicornuta_
         
@@ -1697,7 +1697,7 @@
         
     *   **Name for Photos:** Albicornuta Viper (258)
         
-33.  **Mandalay Cobra**
+9.  **Mandalay Cobra**
     
     *   **Scientific Name:** _Naja mandalayensis_
         
@@ -1705,7 +1705,7 @@
         
     *   **Name for Photos:** Mandalay Cobra (259)
         
-34.  **Siamese Cobra**
+1.  **Siamese Cobra**
     
     *   **Scientific Name:** _Naja siamensis_
         
@@ -1713,7 +1713,7 @@
         
     *   **Name for Photos:** Siamese Cobra (260)
         
-35.  **Colkhis Water Snake**
+2.  **Colkhis Water Snake**
     
     *   **Scientific Name:** _Natrix megalocephala_
         
@@ -1721,7 +1721,7 @@
         
     *   **Name for Photos:** Colkhis Water Snake (261)
         
-36.  **Fiji Snake**
+3.  **Fiji Snake**
     
     *   **Scientific Name:** _Ogmodon vitianus_
         
@@ -1729,7 +1729,7 @@
         
     *   **Name for Photos:** Fiji Snake (262)
         
-37.  **Walnut Kukri Snake**
+4.  **Walnut Kukri Snake**
     
     *   **Scientific Name:** _Oligodon juglandifer_
         
@@ -1737,7 +1737,7 @@
         
     *   **Name for Photos:** Walnut Kukri Snake (263)
         
-38.  **Lacroix Kukri Snake**
+5.  **Lacroix Kukri Snake**
     
     *   **Scientific Name:** _Oligodon lacroixi_
         
@@ -1745,7 +1745,7 @@
         
     *   **Name for Photos:** Lacroix Kukri Snake (264)
         
-39.  **Spotted-bellied Short-headed Snake**
+6.  **Spotted-bellied Short-headed Snake**
     
     *   **Scientific Name:** _Oligodon modestum_
         
@@ -1753,7 +1753,7 @@
         
     *   **Name for Photos:** Spotted-bellied Short-headed Snake (265)
         
-40.  **Ophryacus undulatus**
+7.  **Ophryacus undulatus**
     
     *   **Scientific Name:** _Ophryacus undulatus_
         
@@ -1761,7 +1761,7 @@
         
     *   **Name for Photos:** Ophryacus undulatus (266)
         
-41.  **Shaw's Sea Snake**
+8.  **Shaw's Sea Snake**
     
     *   **Scientific Name:** _Aipysurus laevis_
         
