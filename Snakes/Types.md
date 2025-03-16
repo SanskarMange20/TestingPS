@@ -1364,6 +1364,7 @@
         * [https://en.wikipedia.org/wiki/Sistrurus\_miliarius\_barbouri](https://en.wikipedia.org/wiki/Sistrurus_miliarius_barbouri)
 
 5. **St. Lucian Racer**
+   
    *   **Scientific Name:** _Liophis ornatus_
    *   **Distinguishing Qualities:** Critically endangered, fast-moving.
    *   **Name for Photos:** St. Lucian Racer (1)
@@ -1371,7 +1372,8 @@
      * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alsophis\_antillensis\_at\_Rosalie-a03.jpg/640px-Alsophis\_antillensis\_at\_Rosalie-a03.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alsophis_antillensis_at_Rosalie-a03.jpg/640px-Alsophis_antillensis_at_Rosalie-a03.jpg)
      * [https://en.wikipedia.org/wiki/Erythrolamprus\_ornatus](https://en.wikipedia.org/wiki/Erythrolamprus_ornatus)
 
-6. **Trang Blind Snake**
+7. **Trang Blind Snake**
+   
    *   **Scientific Name:** _Xenotyphlops trangensis_
    *   **Distinguishing Qualities:** Rare, burrowing.
    *   **Name for Photos:** Trang Blind Snake (1)
@@ -1379,7 +1381,8 @@
        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNp1jVpT7AbK6FNRDFseXamqpOfJoxSLn1W9brBPpjLbu5tly&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNp1jVpT7AbK6FNRDFseXamqpOfJoxSLn1W9brBPpjLbu5tly&s)
        * [https://en.wikipedia.org/wiki/Erythrolamprus\_ornatus](https://en.wikipedia.org/wiki/Erythrolamprus_ornatus)
 
-7. **Roxane’s Blind Snake**
+9. **Roxane’s Blind Snake**
+    
    *   **Scientific Name:** _Xenotyphlops roxaneae_
    *   **Distinguishing Qualities:** Rare, burrowing.
    *   **Name for Photos:** Roxane’s Blind Snake (1)
@@ -1387,7 +1390,8 @@
        * [https://bangkokherps.wordpress.com/wp-content/uploads/2011/04/highcompress-r177984\_a\_roxaneae\_h\_d.jpg](https://bangkokherps.wordpress.com/wp-content/uploads/2011/04/highcompress-r177984_a_roxaneae_h_d.jpg)
        * [https://www.thainationalparks.com/species/argyrophis-roxaneae](https://www.thainationalparks.com/species/argyrophis-roxaneae)
 
-8. **Striped Blind Snake**
+1. **Striped Blind Snake**
+    
    *   **Scientific Name:** _Leptotyphlops striatus_
    *   **Distinguishing Qualities:** Small, striped.
    *   **Name for Photos:** Striped Blind Snake (1)
@@ -1395,7 +1399,8 @@
        * [https://bangkokherps.wordpress.com/wp-content/uploads/2019/10/image1.jpg](https://bangkokherps.wordpress.com/wp-content/uploads/2019/10/image1.jpg)
        * [https://bangkokherps.wordpress.com/snakes/striped-blind-snake/](https://bangkokherps.wordpress.com/snakes/striped-blind-snake/)
 
-9. **Orlov’s Viper**
+2. **Orlov’s Viper**
+   
    *   **Scientific Name:** _Vipera orlovi_
    *   **Distinguishing Qualities:** Venomous, rare.
    *   **Name for Photos:** Orlov’s Viper (1)
@@ -1403,7 +1408,8 @@
        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vipera\_orlovi.jpg/1024px-Vipera\_orlovi.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vipera_orlovi.jpg/1024px-Vipera_orlovi.jpg)
        * [https://www.inaturalist.org/taxa/30913-Vipera-orlovi](https://www.inaturalist.org/taxa/30913-Vipera-orlovi)
 
-1. **Aruban Rattlesnake**
+3. **Aruban Rattlesnake**
+   
    *   **Scientific Name:** _Crotalus unicolor_
    *   **Distinguishing Qualities:** Critically endangered, venomous.
    *   **Name for Photos:** Aruban Rattlesnake (1)
@@ -1411,7 +1417,8 @@
        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aruba\_Island\_Rattlesnake\_(Crotalus\_unicolor).jpg/1024px-Aruba\_Island\_Rattlesnake\_(Crotalus\_unicolor).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aruba_Island_Rattlesnake_(Crotalus_unicolor).jpg/1024px-Aruba_Island_Rattlesnake_(Crotalus_unicolor).jpg)
        * [https://en.wikipedia.org/wiki/Crotalus\_unicolor](https://en.wikipedia.org/wiki/Crotalus_unicolor)
 
-2. **Albany Adder**
+4. **Albany Adder**
+   
    *   **Scientific Name:** _Bitis albanica_
    *   **Distinguishing Qualities:** Rare, venomous.
    *   **Name for Photos:** Albany Adder (1)
@@ -1419,7 +1426,8 @@
        * [https://ptes.org/wp-content/uploads/2018/08/albanyadder-1-e1534422064788.jpg](https://ptes.org/wp-content/uploads/2018/08/albanyadder-1-e1534422064788.jpg)
        * [https://en.wikipedia.org/wiki/Albany\_adder](https://en.wikipedia.org/wiki/Albany_adder)
 
-3. **Short-Nosed Sea Snake**
+5. **Short-Nosed Sea Snake**
+   
     *   **Scientific Name:** _Aipysurus apraefrontalis_
     *   **Distinguishing Qualities:** Critically endangered, marine.
     *   **Name for Photos:** Short-Nosed Sea Snake (1)
@@ -1427,20 +1435,19 @@
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aipysurus\_apraefrontalis\_specimen\_(SAMA\_R68142).jpg/330px-Aipysurus\_apraefrontalis\_specimen\_(SAMA\_R68142).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aipysurus_apraefrontalis_specimen_(SAMA_R68142).jpg/330px-Aipysurus_apraefrontalis_specimen_(SAMA_R68142).jpg)
         * [https://en.wikipedia.org/wiki/Aipysurus\_apraefrontalis](https://en.wikipedia.org/wiki/Aipysurus_apraefrontalis)
 
-1.  **Santa Catalina Island Rattlesnake**
-    
+6.  **Santa Catalina Island Rattlesnake**
+   
     *   **Scientific Name:** _Crotalus catalinensis_
-        
     *   **Distinguishing Qualities:** Critically endangered, venomous.
+    *   **Name for Photos:** Santa Catalina Island Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gfp-santa-cataline-island-rattlesnake.jpg/1200px-Gfp-santa-cataline-island-rattlesnake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gfp-santa-cataline-island-rattlesnake.jpg/1200px-Gfp-santa-cataline-island-rattlesnake.jpg)
+        * [https://en.wikipedia.org/wiki/Crotalus\_catalinensis](https://en.wikipedia.org/wiki/Crotalus_catalinensis)
         
-    *   **Name for Photos:** Santa Catalina Island Rattlesnake (227)
-        
-2.  **Bourret's Cat Snake**
+7.  **Bourret's Cat Snake**
     
     *   **Scientific Name:** _Boiga bourreti_
-        
     *   **Distinguishing Qualities:** Endangered, arboreal.
-        
     *   **Name for Photos:** Bourret's Cat Snake (228)
         
 3.  **Pulau Tioman Ground Snake**
