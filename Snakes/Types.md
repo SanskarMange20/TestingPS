@@ -1811,3 +1811,151 @@
     *   **Sources:**
         * [https://erp.lakpura.com/images/LK94AC396B-03-E.JPG](https://erp.lakpura.com/images/LK94AC396B-03-E.JPG)
         * [https://en.wikipedia.org/wiki/Hydrophis\_curtus](https://en.wikipedia.org/wiki/Hydrophis_curtus)
+
+1.  **Antiguan Racer**
+    
+    *   **Scientific Name:** _Alsophis antiguae_
+    *   **Distinguishing Qualities:** Critically endangered, non-venomous, small and fast-moving.
+    *   **Name for Photos:** Antiguan Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Antiguan\_Racer,\_Female.JPG/1920px-Antiguan\_Racer,\_Female.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Antiguan_Racer,_Female.JPG/1920px-Antiguan_Racer,_Female.JPG)
+        * [https://en.wikipedia.org/wiki/Antiguan\_racer](https://en.wikipedia.org/wiki/Antiguan_racer)
+        
+2.  **Madagascar Leaf-Nosed Snake**
+    
+    *   **Scientific Name:** _Langaha madagascariensis_
+    *   **Distinguishing Qualities:** Leaf-shaped snout, arboreal predator.
+    *   **Name for Photos:** Madagascar Leaf-Nosed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Female\_Langaha\_madagascariensis.jpg/1280px-Female\_Langaha\_madagascariensis.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Female_Langaha_madagascariensis.jpg/1280px-Female_Langaha_madagascariensis.jpg)
+        * [https://en.wikipedia.org/wiki/Langaha\_madagascariensis](https://en.wikipedia.org/wiki/Langaha_madagascariensis)
+        
+3.  **Roxane’s Racer**
+    
+    *   **Scientific Name:** _Platyceps roxane_
+    *   **Distinguishing Qualities:** Rare, slender and fast-moving.
+    *   **Name for Photos:** Roxane’s Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eirenis\_rothii\_טלוא-ראש.JPG/800px-Eirenis\_rothii\_טלוא-ראש.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eirenis_rothii_טלוא-ראש.JPG/800px-Eirenis_rothii_טלוא-ראש.JPG)
+        * [https://en.wikipedia.org/wiki/Eirenis\_rothii](https://en.wikipedia.org/wiki/Eirenis_rothii)
+        
+4.  **Long-nosed Whipsnake**
+    
+    *   **Scientific Name:** _Ahaetulla nasuta_
+    *   **Distinguishing Qualities:** Non-venomous, elongated snout, arboreal.
+    *   **Name for Photos:** Long-nosed Whipsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Davidraju\_Vine\_snake.jpg/1280px-Davidraju\_Vine\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Davidraju_Vine_snake.jpg/1280px-Davidraju_Vine_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Ahaetulla\_nasuta](https://en.wikipedia.org/wiki/Ahaetulla_nasuta)
+        
+5.  **Golden Tree Snake**
+    
+    *   **Scientific Name:** _Chrysopelea ornata_
+    *   **Distinguishing Qualities:** Non-venomous, gliding ability, vibrant green color.
+    *   **Name for Photos:** Golden Tree Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b6/Chrysopelea\_ornata.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b6/Chrysopelea_ornata.jpg)
+        * [https://en.wikipedia.org/wiki/Chrysopelea\_ornata](https://en.wikipedia.org/wiki/Chrysopelea_ornata)
+        
+6.  **Beddome's Cat Snake**
+    
+    *   **Scientific Name:** _Boiga beddomei_
+    *   **Distinguishing Qualities:** Non-venomous, arboreal, distinctive pattern.
+    *   **Name for Photos:** Beddome's Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Beddome’s\_Cat\_Snake\_(boiga\_beddomei)\_from\_Goregaon\_Raigad.jpg/1280px-Beddome’s\_Cat\_Snake\_(boiga\_beddomei)\_from\_Goregaon\_Raigad.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Beddome’s_Cat_Snake_(boiga_beddomei)_from_Goregaon_Raigad.jpg/1280px-Beddome’s_Cat_Snake_(boiga_beddomei)_from_Goregaon_Raigad.jpg)
+        * [https://en.wikipedia.org/wiki/Boiga\_beddomei](https://en.wikipedia.org/wiki/Boiga_beddomei)
+        
+7.  **Spider-tailed Viper**
+    
+    *   **Scientific Name:** _Pseudocerastes urarachnoides_
+    *   **Distinguishing Qualities:** Venomous, unique spider-like tail.
+    *   **Name for Photos:** Spider-tailed Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/27/Pseudocerastes\_urarachnoides\_2018.jpg](https://upload.wikimedia.org/wikipedia/commons/2/27/Pseudocerastes_urarachnoides_2018.jpg)
+        * [https://en.wikipedia.org/wiki/Spider-tailed\_horned\_viper](https://en.wikipedia.org/wiki/Spider-tailed_horned_viper)
+        
+8.  **Shieldtail Snake**
+    
+    *   **Scientific Name:** _Uropeltis spp._
+    *   **Distinguishing Qualities:** Non-venomous, burrowing.
+    *   **Name for Photos:** Uropeltis spp(1)
+    *   **Sources:**
+        * [https://www.researchgate.net/publication/351904072/figure/fig2/AS:1027999621185536@1622105617071/Uropeltis-jerdoni-sp-nov-live-uncollected-individual-Photo-Suchismita-Sahu.png](https://www.researchgate.net/publication/351904072/figure/fig2/AS:1027999621185536@1622105617071/Uropeltis-jerdoni-sp-nov-live-uncollected-individual-Photo-Suchismita-Sahu.png)
+        * [https://www.britannica.com/animal/shieldtail-snake](https://www.britannica.com/animal/shieldtail-snake)
+        
+9.  **Horned Viper**
+    
+    *   **Scientific Name:** _Cerastes cerastes_
+    *   **Distinguishing Qualities:** Venomous, horn-like protrusions.
+    *   **Name for Photos:** Horned Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hornviper\_Cerastes\_cerastes.jpg/1280px-Hornviper\_Cerastes\_cerastes.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hornviper_Cerastes_cerastes.jpg/1280px-Hornviper_Cerastes_cerastes.jpg)
+        * [https://en.wikipedia.org/wiki/Cerastes\_cerastes](https://en.wikipedia.org/wiki/Cerastes_cerastes)
+        
+1.  **Eyelash Viper**
+    
+    *   **Scientific Name:** _Bothriechis schlegelii_
+    *   **Distinguishing Qualities:** Venomous, colorful with eyelash-like scales.
+    *   **Name for Photos:** Eyelash Viper (1)
+        
+1.  **Fea's Viper**
+    
+    *   **Scientific Name:** _Azemiops feae_
+    *   **Distinguishing Qualities:** Rare and venomous.
+    *   **Name for Photos:** Fea's Viper (1)
+        
+3.  **Fifty Pacer**
+    
+    *   **Scientific Name:** _Bothrops lanceolatus_
+    *   **Distinguishing Qualities:** Venomous, aggressive behavior.
+    *   **Name for Photos:** Fifty Pacer (1)
+        
+4.  **Hognosed Viper**
+    
+    *   **Scientific Name:** _Vipera ammodytes_
+    *   **Distinguishing Qualities:** Venomous, horn-like snout.
+    *   **Name for Photos:** Hognosed Viper (1)
+        
+5.  **Jumping Viper**
+    
+    *   **Scientific Name:** _Atropoides nummifer_
+    *   **Distinguishing Qualities:** Venomous, known for jumping behavior.
+    *   **Name for Photos:** Jumping Viper (1)
+        
+6.  **Kaznakov's Viper**
+    
+    *   **Scientific Name:** _Vipera kaznakovi_
+    *   **Distinguishing Qualities:** Rare and venomous.
+    *   **Name for Photos:** Kaznakov's Viper (1)
+        
+7.  **Leaf-nosed Viper**
+    
+    *   **Scientific Name:** _Bothriechis spp._
+    *   **Distinguishing Qualities:** Venomous, leaf-like protrusions.
+    *   **Name for Photos:** Leaf-nosed Viper (1)
+        
+8.  **Levant Viper**
+    
+    *   **Scientific Name:** _Macrovipera lebetina_
+    *   **Distinguishing Qualities:** Venomous and aggressive.
+    *   **Name for Photos:** Levant Viper (1)
+        
+9.  **Long-nosed Viper**
+    
+    *   **Scientific Name:** _Vipera ammodytes_
+    *   **Distinguishing Qualities:** Venomous, distinctive nose horn.
+    *   **Name for Photos:** Long-nosed Viper (1)
+        
+1.  **McMahon's Viper**
+    
+    *   **Scientific Name:** _Eristocophis macmahoni_
+    *   **Distinguishing Qualities:** Rare and venomous.
+    *   **Name for Photos:** McMahon's Viper (1)
+        
+2.  **Mole Viper**
+    
+    *   **Scientific Name:** _Atractaspis spp._
+    *   **Distinguishing Qualities:** Venomous and burrowing.
+    *   **Name for Photos:** Mole Viper (378)
+      
