@@ -1898,64 +1898,88 @@
     *   **Scientific Name:** _Bothriechis schlegelii_
     *   **Distinguishing Qualities:** Venomous, colorful with eyelash-like scales.
     *   **Name for Photos:** Eyelash Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bothriechis\_schlegelii\_from\_Antioquia\_department,\_Colombia,\_in\_life.jpg/800px-Bothriechis\_schlegelii\_from\_Antioquia\_department,\_Colombia,\_in\_life.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bothriechis_schlegelii_from_Antioquia_department,_Colombia,_in_life.jpg/800px-Bothriechis_schlegelii_from_Antioquia_department,_Colombia,_in_life.jpg)
+        * [https://en.wikipedia.org/wiki/Bothriechis\_schlegelii](https://en.wikipedia.org/wiki/Bothriechis_schlegelii)
         
-1.  **Fea's Viper**
+2.  **Fea's Viper**
     
     *   **Scientific Name:** _Azemiops feae_
     *   **Distinguishing Qualities:** Rare and venomous.
     *   **Name for Photos:** Fea's Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Azemiops\_feae.jpg/800px-Azemiops\_feae.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Azemiops_feae.jpg/800px-Azemiops_feae.jpg)
+        * [https://en.wikipedia.org/wiki/Azemiops](https://en.wikipedia.org/wiki/Azemiops)
         
 3.  **Fifty Pacer**
     
     *   **Scientific Name:** _Bothrops lanceolatus_
     *   **Distinguishing Qualities:** Venomous, aggressive behavior.
     *   **Name for Photos:** Fifty Pacer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Trigonocephale.JPG/800px-Trigonocephale.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Trigonocephale.JPG/800px-Trigonocephale.JPG)
+        * [https://en.wikipedia.org/wiki/Bothrops\_lanceolatus](https://en.wikipedia.org/wiki/Bothrops_lanceolatus)
         
 4.  **Hognosed Viper**
     
     *   **Scientific Name:** _Vipera ammodytes_
     *   **Distinguishing Qualities:** Venomous, horn-like snout.
     *   **Name for Photos:** Hognosed Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Porthidium\_nasutum\_(La\_Selva\_Biological\_Station)\_2.jpg/800px-Porthidium\_nasutum\_(La\_Selva\_Biological\_Station)\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Porthidium_nasutum_(La_Selva_Biological_Station)_2.jpg/800px-Porthidium_nasutum_(La_Selva_Biological_Station)_2.jpg)
+        * [https://en.wikipedia.org/wiki/Porthidium\_nasutum](https://en.wikipedia.org/wiki/Porthidium_nasutum)
         
 5.  **Jumping Viper**
     
     *   **Scientific Name:** _Atropoides nummifer_
     *   **Distinguishing Qualities:** Venomous, known for jumping behavior.
     *   **Name for Photos:** Jumping Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metlapilcoatlus\_nummifer.jpg/1200px-Metlapilcoatlus\_nummifer.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metlapilcoatlus_nummifer.jpg/1200px-Metlapilcoatlus_nummifer.jpg)
+        * [https://kids.britannica.com/students/article/jumping-viper/311932](https://kids.britannica.com/students/article/jumping-viper/311932)
         
 6.  **Kaznakov's Viper**
     
     *   **Scientific Name:** _Vipera kaznakovi_
     *   **Distinguishing Qualities:** Rare and venomous.
     *   **Name for Photos:** Kaznakov's Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vipera\_kaznakovi\_(5).jpg/1024px-Vipera\_kaznakovi\_(5).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vipera_kaznakovi_(5).jpg/1024px-Vipera_kaznakovi_(5).jpg)
+        * [https://en.wikipedia.org/wiki/Vipera\_kaznakovi](https://en.wikipedia.org/wiki/Vipera_kaznakovi)
         
 7.  **Leaf-nosed Viper**
     
     *   **Scientific Name:** _Bothriechis spp._
     *   **Distinguishing Qualities:** Venomous, leaf-like protrusions.
     *   **Name for Photos:** Leaf-nosed Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b8/Eristicophis\_macmahonii.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b8/Eristicophis_macmahonii.jpg)
+        * [https://en.wikipedia.org/wiki/Eristicophis](https://en.wikipedia.org/wiki/Eristicophis)
         
 8.  **Levant Viper**
     
     *   **Scientific Name:** _Macrovipera lebetina_
     *   **Distinguishing Qualities:** Venomous and aggressive.
     *   **Name for Photos:** Levant Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d2/Macrovipera\_lebetina\_obtusa03.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d2/Macrovipera_lebetina_obtusa03.jpg)
+        * [https://en.wikipedia.org/wiki/Macrovipera\_lebetinus](https://en.wikipedia.org/wiki/Macrovipera_lebetinus)
         
 9.  **Long-nosed Viper**
     
     *   **Scientific Name:** _Vipera ammodytes_
     *   **Distinguishing Qualities:** Venomous, distinctive nose horn.
     *   **Name for Photos:** Long-nosed Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vipera-ammodytes-ruffoi-weiblich.jpg/1280px-Vipera-ammodytes-ruffoi-weiblich.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vipera-ammodytes-ruffoi-weiblich.jpg/1280px-Vipera-ammodytes-ruffoi-weiblich.jpg)
+        * [https://en.wikipedia.org/wiki/Vipera\_ammodytes](https://en.wikipedia.org/wiki/Vipera_ammodytes)
         
 1.  **McMahon's Viper**
     
     *   **Scientific Name:** _Eristocophis macmahoni_
     *   **Distinguishing Qualities:** Rare and venomous.
     *   **Name for Photos:** McMahon's Viper (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/203706/large.JPG](https://static.inaturalist.org/photos/203706/large.JPG)
+        * [https://www.inaturalist.org/taxa/31077-Eristicophis-macmahoni](https://www.inaturalist.org/taxa/31077-Eristicophis-macmahoni)
         
-2.  **Mole Viper**
-    
-    *   **Scientific Name:** _Atractaspis spp._
-    *   **Distinguishing Qualities:** Venomous and burrowing.
-    *   **Name for Photos:** Mole Viper (378)
-      
