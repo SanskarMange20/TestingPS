@@ -1982,4 +1982,12 @@
     *   **Sources:**
         * [https://static.inaturalist.org/photos/203706/large.JPG](https://static.inaturalist.org/photos/203706/large.JPG)
         * [https://www.inaturalist.org/taxa/31077-Eristicophis-macmahoni](https://www.inaturalist.org/taxa/31077-Eristicophis-macmahoni)
-        
+
+2.  **Mole Viper**
+    
+    *   **Scientific Name:** _Atractaspis spp._
+    *   **Distinguishing Qualities:** Venomous and burrowing.
+    *   **Name for Photos:** Mole Viper (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/46701/medium.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/46701/medium.jpg)
+        * [https://www.inaturalist.org/guide\_taxa/696217](https://www.inaturalist.org/guide_taxa/696217)
