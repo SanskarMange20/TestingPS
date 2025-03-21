@@ -1997,42 +1997,63 @@
     *   **Scientific Name:** Vipera ammodytes
     *   **Distinguishing Qualities:** Venomous; horn-like protrusion on the snout.
     *   **Name for Photos:** Nose-horned Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vipera-ammodytes-ruffoi-weiblich.jpg/1280px-Vipera-ammodytes-ruffoi-weiblich.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vipera-ammodytes-ruffoi-weiblich.jpg/1280px-Vipera-ammodytes-ruffoi-weiblich.jpg)
+        * [https://en.wikipedia.org/wiki/Vipera\_ammodytes](https://en.wikipedia.org/wiki/Vipera_ammodytes)
 
 4.  **Palestine Viper**
     
     *   **Scientific Name:** _Daboia palaestinae_
     *   **Distinguishing Qualities:** Venomous; aggressive behavior.
-    *   **Name for Photos:** Palestine Viper (380)
+    *   **Name for Photos:** Palestine Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vipera\_palaestina.jpg/1024px-Vipera\_palaestina.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vipera_palaestina.jpg/1024px-Vipera_palaestina.jpg)
+        * [https://en.wikipedia.org/wiki/Daboia\_palaestinae](https://en.wikipedia.org/wiki/Daboia_palaestinae)
         
 5.  **Pallas' Viper**
     
     *   **Scientific Name:** _Gloydius halys_
     *   **Distinguishing Qualities:** Venomous; rare species.
-    *   **Name for Photos:** Pallas' Viper (381)
+    *   **Name for Photos:** Pallas' Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Щитомордник\_на\_Большой\_Байкальской\_тропе.jpg/800px-Щитомордник\_на\_Большой\_Байкальской\_тропе.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Щитомордник_на_Большой_Байкальской_тропе.jpg/800px-Щитомордник_на_Большой_Байкальской_тропе.jpg)
+        * [https://en.wikipedia.org/wiki/Gloydius\_halys](https://en.wikipedia.org/wiki/Gloydius_halys)
         
 6.  **Palm Viper**
     
     *   **Scientific Name:** _Bothriechis spp._
     *   **Distinguishing Qualities:** Venomous; arboreal with vibrant coloration.
-    *   **Name for Photos:** Palm Viper (382)
+    *   **Name for Photos:** Palm Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bothriechis\_nigroviridis\_(1).jpg/1024px-Bothriechis\_nigroviridis\_(1).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bothriechis_nigroviridis_(1).jpg/1024px-Bothriechis_nigroviridis_(1).jpg)
+        * [https://en.wikipedia.org/wiki/Bothriechis](https://en.wikipedia.org/wiki/Bothriechis)
         
 7.  **Banded Pit Viper**
     
     *   **Scientific Name:** _Trimeresurus fasciatus_
     *   **Distinguishing Qualities:** Venomous; arboreal with banded patterns.
-    *   **Name for Photos:** Banded Pit Viper (383)
+    *   **Name for Photos:** Banded Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/27/Tropidolaemus\_laticinctus\_juvenile.jpg](https://upload.wikimedia.org/wikipedia/commons/2/27/Tropidolaemus_laticinctus_juvenile.jpg)
+        * [https://en.wikipedia.org/wiki/Tropidolaemus\_laticinctus](https://en.wikipedia.org/wiki/Tropidolaemus_laticinctus)
         
 8.  **Bamboo Pit Viper**
     
     *   **Scientific Name:** _Trimeresurus gramineus_
     *   **Distinguishing Qualities:** Venomous; green in color with heat-sensing pits.
-    *   **Name for Photos:** Bamboo Pit Viper (384)
+    *   **Name for Photos:** Bamboo Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bamboo\_Pit\_Viper\_macrogiants.jpg/1280px-Bamboo\_Pit\_Viper\_macrogiants.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bamboo_Pit_Viper_macrogiants.jpg/1280px-Bamboo_Pit_Viper_macrogiants.jpg)
+        * [https://en.wikipedia.org/wiki/Craspedocephalus\_gramineus](https://en.wikipedia.org/wiki/Craspedocephalus_gramineus)
         
 9.  **Barbour's Pit Viper**
     
     *   **Scientific Name:** _Trimeresurus barbouri_
     *   **Distinguishing Qualities:** Rare; venomous species found in Southeast Asia.
-    *   **Name for Photos:** Barbour's Pit Viper (385)
+    *   **Name for Photos:** Barbour's Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Trimeresurus\_albolabris,\_White-lipped\_pit\_viper\_(female)\_-\_Kaeng\_Krachan\_National\_Park\_(27493423545).jpg/1280px-Trimeresurus\_albolabris,\_White-lipped\_pit\_viper\_(female)\_-\_Kaeng\_Krachan\_National\_Park\_(27493423545).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Trimeresurus_albolabris,_White-lipped_pit_viper_(female)_-_Kaeng_Krachan_National_Park_(27493423545).jpg/1280px-Trimeresurus_albolabris,_White-lipped_pit_viper_(female)_-_Kaeng_Krachan_National_Park_(27493423545).jpg)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_albolabris](https://en.wikipedia.org/wiki/Trimeresurus_albolabris)
         
 1.  **Black-tailed Horned Pit Viper**
     
@@ -2106,43 +2127,37 @@
     *   **Distinguishing Qualities:** Venomous; horn-like protrusions.
     *   **Name for Photos:** Arabian Horned Viper (397)
 
-4.  **Nose-horned Viper**
-    
-    *   **Scientific Name:** _Vipera ammodytes_
-    *   **Distinguishing Qualities:** Venomous; horn-like protrusion on the snout.
-    *   **Name for Photos:** Nose-horned Viper (379)
-
-5.  **Banded Water Cobra**
+4.  **Banded Water Cobra**
     
     *   **Scientific Name:** _Naja annulata_
     *   **Distinguishing Qualities:** Venomous; semi-aquatic with banded pattern.
     *   **Name for Photos:** Banded Water Cobra (1)
 
-6.  **Black-necked Cobra**
+5.  **Black-necked Cobra**
     
     *   **Scientific Name:** _Naja nigricincta_
     *   **Distinguishing Qualities:** Venomous; hooded when threatened.
     *   **Name for Photos:** Black-necked Cobra (399)
         
-7.  **Black-necked Spitting Cobra**
+6.  **Black-necked Spitting Cobra**
     
     *   **Scientific Name:** _Naja nigricincta_
     *   **Distinguishing Qualities:** Venomous; spitting behavior.
     *   **Name for Photos:** Black-necked Spitting Cobra (400)
         
-8.  **Black Tree Cobra**
+7.  **Black Tree Cobra**
     
     *   **Scientific Name:** _Naja melanocephala_
     *   **Distinguishing Qualities:** Venomous; arboreal with black coloration.
     *   **Name for Photos:** Black Tree Cobra (401)
         
-9.  **Burrowing Cobra**
+8.  **Burrowing Cobra**
     
     *   **Scientific Name:** _Naja anchietae_
     *   **Distinguishing Qualities:** Venomous; burrowing behavior.
     *   **Name for Photos:** Burrowing Cobra (402)
         
-1.  **Caspian Cobra**
+9.  **Caspian Cobra**
     
     *   **Scientific Name:** _Naja oxiana_
     *   **Distinguishing Qualities:** Venomous; hooded when threatened.
