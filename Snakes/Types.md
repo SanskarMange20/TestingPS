@@ -2059,31 +2059,46 @@
     
     *   **Scientific Name:** _Crotalus molossus_
     *   **Distinguishing Qualities:** Venomous pit viper; distinctive black tail.
-    *   **Name for Photos:** Black-tailed Horned Pit Viper (386)
+    *   **Name for Photos:** Black-tailed Horned Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mixcoatlus\_melanurus.JPG/1024px-Mixcoatlus\_melanurus.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mixcoatlus_melanurus.JPG/1024px-Mixcoatlus_melanurus.JPG)
+        * [https://en.wikipedia.org/wiki/Mixcoatlus\_melanurus](https://en.wikipedia.org/wiki/Mixcoatlus_melanurus)
         
 2.  **Bornean Pit Viper**
     
     *   **Scientific Name:** _Trimeresurus borneensis_
     *   **Distinguishing Qualities:** Arboreal; venomous with a distinct pattern.
-    *   **Name for Photos:** Bornean Pit Viper (387)
+    *   **Name for Photos:** Bornean Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bornean\_Keeled\_Green\_Pit\_Viper\_(Tropidolaemus\_subannulatus)\_(8219409591).jpg/1024px-Bornean\_Keeled\_Green\_Pit\_Viper\_(Tropidolaemus\_subannulatus)\_(8219409591).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bornean_Keeled_Green_Pit_Viper_(Tropidolaemus_subannulatus)_(8219409591).jpg/1024px-Bornean_Keeled_Green_Pit_Viper_(Tropidolaemus_subannulatus)_(8219409591).jpg)
+        * [https://en.wikipedia.org/wiki/Tropidolaemus\_subannulatus](https://en.wikipedia.org/wiki/Tropidolaemus_subannulatus)
         
 3.  **Brongersma's Pit Viper**
     
     *   **Scientific Name:** _Trimeresurus brongersmai_
     *   **Distinguishing Qualities:** Rare; venomous species found in Southeast Asia.
-    *   **Name for Photos:** Brongersma's Pit Viper (388)
+    *   **Name for Photos:** Brongersma's Pit Viper (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/6288410/large.jpg](https://static.inaturalist.org/photos/6288410/large.jpg)
+        * [https://www.inaturalist.org/taxa/1304705-Craspedocephalus-brongersmai](https://www.inaturalist.org/taxa/1304705-Craspedocephalus-brongersmai)
         
 4.  **Brown Spotted Pit Viper**
     
     *   **Scientific Name:** _Protobothrops mucrosquamatus_
     *   **Distinguishing Qualities:** Venomous; arboreal; brown spotted pattern.
-    *   **Name for Photos:** Brown Spotted Pit Viper (389)
+    *   **Name for Photos:** Brown Spotted Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trimeresurus\_mucrosquamatus\_Taiwan.jpg/1280px-Trimeresurus\_mucrosquamatus\_Taiwan.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trimeresurus_mucrosquamatus_Taiwan.jpg/1280px-Trimeresurus_mucrosquamatus_Taiwan.jpg)
+        * [https://en.wikipedia.org/wiki/Protobothrops\_mucrosquamatus](https://en.wikipedia.org/wiki/Protobothrops_mucrosquamatus)
         
 5.  **Cantor's Pit Viper**
     
     *   **Scientific Name:** _Trimeresurus cantori_
     *   **Distinguishing Qualities:** Venomous; rare; found in Southeast Asia.
-    *   **Name for Photos:** Cantor's Pit Viper (390)
+    *   **Name for Photos:** Cantor's Pit Viper (1)
+    *   **Sources:**
+        * [https://indiabiodiversity.org/files-api/api/get/raw/img//Trimeresurus cantori/751.JPG](https://indiabiodiversity.org/files-api/api/get/raw/img//Trimeresurus cantori/751.JPG)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_cantori](https://en.wikipedia.org/wiki/Trimeresurus_cantori)
         
 6.  **Black-tailed Rattlesnake**
     
