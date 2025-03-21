@@ -2097,7 +2097,7 @@
     *   **Distinguishing Qualities:** Venomous; rare; found in Southeast Asia.
     *   **Name for Photos:** Cantor's Pit Viper (1)
     *   **Sources:**
-        * [https://indiabiodiversity.org/files-api/api/get/raw/img//Trimeresurus cantori/751.JPG](https://indiabiodiversity.org/files-api/api/get/raw/img//Trimeresurus cantori/751.JPG)
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFr9drNElWCj4NUzCubAbK3elWKzUgHtgQvA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFr9drNElWCj4NUzCubAbK3elWKzUgHtgQvA&s)
         * [https://en.wikipedia.org/wiki/Trimeresurus\_cantori](https://en.wikipedia.org/wiki/Trimeresurus_cantori)
         
 6.  **Black-tailed Rattlesnake**
