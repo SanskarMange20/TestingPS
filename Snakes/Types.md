@@ -2207,3 +2207,101 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/8/86/Naja\_oxiana\_Caspian\_cobra\_in\_a\_defensive\_posture.jpg](https://upload.wikimedia.org/wikipedia/commons/8/86/Naja_oxiana_Caspian_cobra_in_a_defensive_posture.jpg)
         * [https://en.wikipedia.org/wiki/Caspian\_cobra](https://en.wikipedia.org/wiki/Caspian_cobra)
+
+    
+1.  **Albino Ball Python**
+
+    *   **Scientific Name:** _Python regius_ (Albino Morph)
+    *   **Distinguishing Qualities:** Non-venomous, constrictor, albino coloration with yellow and white patterns.
+    *   **Name for Photos:** Albino Ball Python
+    
+
+2.  **King Rat Snake**
+
+    *   **Scientific Name:** _Elaphe carinata_
+    *   **Distinguishing Qualities:** Non-venomous, large constrictor, known for its aggressive behavior when threatened.
+    *   **Name for Photos:** King Rat Snake
+    
+
+3.  **Eastern Indigo Snake**
+
+    *   **Scientific Name:** _Drymarchon couperi_
+    *   **Distinguishing Qualities:** Non-venomous, glossy black scales, one of the longest native snakes in North America.
+    *   **Name for Photos:** Eastern Indigo Snake
+    
+
+4.  **Golden Lancehead Viper**
+
+    *   **Scientific Name:** _Bothrops insularis_
+    *   **Distinguishing Qualities:** Venomous, endemic to Brazil's Ilha da Queimada Grande, golden coloration.
+    *   **Name for Photos:** Golden Lancehead Viper
+    
+
+5.  **Mangshan Pit Viper**
+
+    *   **Scientific Name:** _Protobothrops mangshanensis_
+    *   **Distinguishing Qualities:** Venomous, large and heavy-bodied with green and brown camouflage patterns.
+    *   **Name for Photos:** Mangshan Pit Viper
+    
+
+6.  **Barbados Threadsnake**
+
+    *   **Scientific Name:** _Tetracheilostoma carlae_
+    *   **Distinguishing Qualities:** World's smallest snake species, non-venomous, slender and thread-like.
+    *   **Name for Photos:** Barbados Threadsnake
+    
+
+7.  **Spotted Bush Snake**
+
+    *   **Scientific Name:** _Philothamnus semivariegatus_
+    *   **Distinguishing Qualities:** Non-venomous, bright green with black spots, excellent climber.
+    *   **Name for Photos:** Spotted Bush Snake
+    
+
+8.  **Western Green Mamba**
+
+    *   **Scientific Name:** _Dendroaspis viridis_
+    *   **Distinguishing Qualities:** Highly venomous, arboreal, bright green coloration.
+    *   **Name for Photos:** Western Green Mamba
+    
+
+9.  **Horned Adder**
+
+    *   **Scientific Name:** _Bitis caudalis_
+    *   **Distinguishing Qualities:** Venomous, small with horn-like scales above its eyes.
+    *   **Name for Photos:** Horned Adder
+    
+
+1.  **Black-headed Python**
+
+    *   **Scientific Name:** _Aspidites melanocephalus_
+    *   **Distinguishing Qualities:** Non-venomous, black head with a pale body and dark bands.
+    *   **Name for Photos:** Black-headed Python
+    
+
+2.  **Calabar Burrowing Python**
+
+    *   **Scientific Name:** _Calabaria reinhardtii_
+    *   **Distinguishing Qualities:** Non-venomous, small and stout-bodied burrower with shiny scales.
+    *   **Name for Photos:** Calabar Burrowing Python
+    
+
+3.  **Cape File Snake**
+
+    *   **Scientific Name:** _Mehelya capensis_
+    *   **Distinguishing Qualities:** Non-venomous, smooth scales resembling a file texture; feeds on other snakes.
+    *   **Name for Photos:** Cape File Snake
+    
+
+4.  **Indian Egg-Eating Snake**
+   
+    *   **Scientific Name:** _Elachistodon westermanni_
+    *   **Distinguishing Qualities:** Non-venomous; specialized in eating bird eggs using bony projections in its mouth to crack shells.
+    *   **Name for Photos:** Indian Egg-Eating Snake
+    
+
+5.  **Tiger Keelback Snake**
+
+    *   **Scientific Name:** _Rhabdophis tigrinus_
+    *   **Distinguishing Qualities:** Mildly venomous; bright orange neck markings; can store toxins from its prey (toxic amphibians).
+    *   **Name for Photos:** Tiger Keelback Snake
