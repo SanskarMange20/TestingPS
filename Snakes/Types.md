@@ -2104,25 +2104,37 @@
     
     *   **Scientific Name:** _Crotalus molossus_
     *   **Distinguishing Qualities:** Venomous; pit viper; distinctive black tail.
-    *   **Name for Photos:** Black-tailed Rattlesnake (391)
+    *   **Name for Photos:** Black-tailed Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Crotalus\_molossus\_molossus2.jpg/1024px-Crotalus\_molossus\_molossus2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Crotalus_molossus_molossus2.jpg/1024px-Crotalus_molossus_molossus2.jpg)
+        * [https://en.wikipedia.org/wiki/Black-tailed\_rattlesnake](https://en.wikipedia.org/wiki/Black-tailed_rattlesnake)
         
 7.  **Eastern Diamondback Rattlesnake**
     
     *   **Scientific Name:** _Crotalus adamanteus_
     *   **Distinguishing Qualities:** Largest rattlesnake; venomous; diamond pattern.
-    *   **Name for Photos:** Eastern Diamondback Rattlesnake (392)
+    *   **Name for Photos:** Eastern Diamondback Rattlesnake (1)
+    *   **Sources:**
+        * [https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/116/2020/08/IMG\_0403.jpg](https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/116/2020/08/IMG_0403.jpg)
+        * [https://www.floridamuseum.ufl.edu/florida-snake-id/snake/eastern-diamond-backed-rattlesnake/](https://www.floridamuseum.ufl.edu/florida-snake-id/snake/eastern-diamond-backed-rattlesnake/)
         
 8.  **Massasauga**
     
     *   **Scientific Name:** _Sistrurus catenatus_
     *   **Distinguishing Qualities:** Small; venomous; secretive nature.
-    *   **Name for Photos:** Massasauga (393)
+    *   **Name for Photos:** Massasauga (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/3c/Sistrurus\_catenatus\_catenatus.JPG](https://upload.wikimedia.org/wikipedia/commons/3/3c/Sistrurus_catenatus_catenatus.JPG)
+        * [https://en.wikipedia.org/wiki/Eastern\_massasauga](https://en.wikipedia.org/wiki/Eastern_massasauga)
         
 9.  **Timber Rattlesnake**
     
     *   **Scientific Name:** _Crotalus horridus_
     *   **Distinguishing Qualities:** Venomous; pit viper; distinctive rattle.
-    *   **Name for Photos:** Timber Rattlesnake (394)
+    *   **Name for Photos:** Timber Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ZollmanTimberRattlesnake.jpg/1280px-ZollmanTimberRattlesnake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ZollmanTimberRattlesnake.jpg/1280px-ZollmanTimberRattlesnake.jpg)
+        * [https://simple.wikipedia.org/wiki/Timber\_rattlesnake](https://simple.wikipedia.org/wiki/Timber_rattlesnake)
         
 1.  **African Beaked Snake**
     
