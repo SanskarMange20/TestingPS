@@ -2140,52 +2140,70 @@
     
     *   **Scientific Name:** _Rhamphiophis oxyrhynchus_
     *   **Distinguishing Qualities:** Non-venomous; terrestrial; beaked snout.
-    *   **Name for Photos:** African Beaked Snake (395)
+    *   **Name for Photos:** African Beaked Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rufous\_beaked\_snake\_(Rhamphiophis\_oxyrhynchus)\_2.jpg/1280px-Rufous\_beaked\_snake\_(Rhamphiophis\_oxyrhynchus)\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rufous_beaked_snake_(Rhamphiophis_oxyrhynchus)_2.jpg/1280px-Rufous_beaked_snake_(Rhamphiophis_oxyrhynchus)_2.jpg)
+        * [https://en.wikipedia.org/wiki/Rufous\_beaked\_snake](https://en.wikipedia.org/wiki/Rufous_beaked_snake)
         
 2.  **Andaman Cobra**
     
     *   **Scientific Name:** _Naja sagittifera_
     *   **Distinguishing Qualities:** Venomous; hooded when threatened.
-    *   **Name for Photos:** Andaman Cobra (396)
+    *   **Name for Photos:** Andaman Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/N\_sagittifera2.jpg/1280px-N\_sagittifera2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/N_sagittifera2.jpg/1280px-N_sagittifera2.jpg)
+        * [https://en.wikipedia.org/wiki/Andaman\_cobra](https://en.wikipedia.org/wiki/Andaman_cobra)
         
 3.  **Arabian Horned Viper**
     
     *   **Scientific Name:** _Cerastes gasperettii_
     *   **Distinguishing Qualities:** Venomous; horn-like protrusions.
-    *   **Name for Photos:** Arabian Horned Viper (397)
+    *   **Name for Photos:** Arabian Horned Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/73/Cerastes\_gasperetti\_(hornless).jpg](https://upload.wikimedia.org/wikipedia/commons/7/73/Cerastes_gasperetti_(hornless).jpg)
+        * [https://en.wikipedia.org/wiki/Cerastes\_gasperettii](https://en.wikipedia.org/wiki/Cerastes_gasperettii)
 
 4.  **Banded Water Cobra**
     
     *   **Scientific Name:** _Naja annulata_
     *   **Distinguishing Qualities:** Venomous; semi-aquatic with banded pattern.
     *   **Name for Photos:** Banded Water Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/5e/Boulengerina\_annulata\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5e/Boulengerina_annulata_2.jpg)
+        * [https://en.wikipedia.org/wiki/Naja\_annulata](https://en.wikipedia.org/wiki/Naja_annulata)
 
-5.  **Black-necked Cobra**
-    
-    *   **Scientific Name:** _Naja nigricincta_
-    *   **Distinguishing Qualities:** Venomous; hooded when threatened.
-    *   **Name for Photos:** Black-necked Cobra (399)
-        
-6.  **Black-necked Spitting Cobra**
+5.  **Black-necked Spitting Cobra**
     
     *   **Scientific Name:** _Naja nigricincta_
     *   **Distinguishing Qualities:** Venomous; spitting behavior.
-    *   **Name for Photos:** Black-necked Spitting Cobra (400)
+    *   **Name for Photos:** Black-necked Spitting Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d8/Naja\_nigricollis\_(Warren\_Klein).jpg](https://upload.wikimedia.org/wikipedia/commons/d/d8/Naja_nigricollis_(Warren_Klein).jpg)
+        * [https://en.wikipedia.org/wiki/Black-necked\_spitting\_cobra](https://en.wikipedia.org/wiki/Black-necked_spitting_cobra)
         
-7.  **Black Tree Cobra**
+6.  **Black Tree Cobra**
     
     *   **Scientific Name:** _Naja melanocephala_
     *   **Distinguishing Qualities:** Venomous; arboreal with black coloration.
-    *   **Name for Photos:** Black Tree Cobra (401)
+    *   **Name for Photos:** Black Tree Cobra (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/405330214/original.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/405330214/original.jpg)
+        * [https://www.inaturalist.org/taxa/30474-Pseudohaje-nigra](https://www.inaturalist.org/taxa/30474-Pseudohaje-nigra)
         
-8.  **Burrowing Cobra**
+7.  **Burrowing Cobra**
     
     *   **Scientific Name:** _Naja anchietae_
     *   **Distinguishing Qualities:** Venomous; burrowing behavior.
-    *   **Name for Photos:** Burrowing Cobra (402)
+    *   **Name for Photos:** Burrowing Cobra (1)
+    *   **Sources:**
+        * [https://nplimages.infradoxxs.com/cache/pcache2/01391160.jpg](https://nplimages.infradoxxs.com/cache/pcache2/01391160.jpg)
+        * [https://en.wikipedia.org/wiki/Many-banded\_snake](https://en.wikipedia.org/wiki/Many-banded_snake)
         
-9.  **Caspian Cobra**
+8.  **Caspian Cobra**
     
     *   **Scientific Name:** _Naja oxiana_
     *   **Distinguishing Qualities:** Venomous; hooded when threatened.
-    *   **Name for Photos:** Caspian Cobra (403)
+    *   **Name for Photos:** Caspian Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/8/86/Naja\_oxiana\_Caspian\_cobra\_in\_a\_defensive\_posture.jpg](https://upload.wikimedia.org/wikipedia/commons/8/86/Naja_oxiana_Caspian_cobra_in_a_defensive_posture.jpg)
+        * [https://en.wikipedia.org/wiki/Caspian\_cobra](https://en.wikipedia.org/wiki/Caspian_cobra)
