@@ -244,28 +244,27 @@
 244. **Black Tree Cobra**
 245. **Burrowing Cobra**
 246. **Caspian Cobra**
-247. **Langaha Madagascariensis**
-248. **Albino Ball Python**
-249. **King Rat Snake**
-250. **Eastern Indigo Snake**
-251. **Golden Lancehead Viper**
-252. **Mangshan Pit Viper**
-253. **Barbados Threadsnake**
-254. **Spotted Bush Snake**
-255. **Western Green Mamba**
-256. **Horned Adder**
-257. **Black-headed Python**
-258. **Calabar Burrowing Python**
-259. **Cape File Snake**
-260. **Indian Egg-Eating Snake**
-261. **Tiger Keelback Snake**
-262. **Himalayan Pit Viper**
-263. **Rough-scaled Sand Boa**
-264. **Mole Kingsnake**
-265. **Eastern Hognose Snake**
-266. **Red Sand Boa**
-267. **Pygmy Rattlesnake**
-268. **Blunt-headed Tree Snake**
-269. **Mexican Black Kingsnake**
-270. **Boiga Dendrophila**
-271. **Dumeril’s Boa**
+247. **Albino Ball Python**
+248. **King Rat Snake**
+249. **Eastern Indigo Snake**
+250. **Golden Lancehead Viper**
+251. **Mangshan Pit Viper**
+252. **Barbados Threadsnake**
+253. **Spotted Bush Snake**
+254. **Western Green Mamba**
+255. **Horned Adder**
+256. **Black-headed Python**
+257. **Calabar Burrowing Python**
+258. **Cape File Snake**
+259. **Indian Egg-Eating Snake**
+260. **Tiger Keelback Snake**
+261. **Himalayan Pit Viper**
+262. **Rough-scaled Sand Boa**
+263. **Mole Kingsnake**
+264. **Eastern Hognose Snake**
+265. **Red Sand Boa**
+266. **Pygmy Rattlesnake**
+267. **Blunt-headed Tree Snake**
+268. **Mexican Black Kingsnake**
+269. **Boiga Dendrophila**
+270. **Dumeril’s Boa**
