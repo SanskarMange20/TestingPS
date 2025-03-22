@@ -240,8 +240,7 @@
 240. **Andaman Cobra**
 241. **Arabian Horned Viper**
 242. **Banded Water Cobra**
-243. **Black-necked Cobra**
-244. **Black-necked Spitting Cobra**
-245. **Black Tree Cobra**
-246. **Burrowing Cobra**
-247. **Caspian Cobra**
+243. **Black-necked Spitting Cobra**
+244. **Black Tree Cobra**
+245. **Burrowing Cobra**
+246. **Caspian Cobra**
