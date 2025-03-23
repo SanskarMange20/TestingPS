@@ -2386,7 +2386,7 @@
     *   **Name for Photos:** Pygmy Rattlesnake (1)
     *   **Sources:**
         * [https://www.tn.gov/content/dam/tn/twra/images/reptiles/pygmy-rattlesnake/pygmy-rattlesnake.jpg](https://www.tn.gov/content/dam/tn/twra/images/reptiles/pygmy-rattlesnake/pygmy-rattlesnake.jpg)
-        * [https://www.tn.gov/twra/wildlife/reptiles/snakes/pygmy-rattlesnake.html#:~:text=The Pygmy Rattlesnake (also Pigmy,County to the southern border.](https://www.tn.gov/twra/wildlife/reptiles/snakes/pygmy-rattlesnake.html#:~:text=The Pygmy Rattlesnake (also Pigmy,County to the southern border.)
+        * [https://en.wikipedia.org/wiki/Sistrurus\_miliarius\_barbouri](https://en.wikipedia.org/wiki/Sistrurus_miliarius_barbouri)
     
 3.  **Blunt-headed Tree Snake**
 
@@ -2395,7 +2395,7 @@
     *   **Name for Photos:** Blunt-headed Tree (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Imantodes\_cenchoa\_(Yasuni).jpg/1280px-Imantodes\_cenchoa\_(Yasuni).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Imantodes_cenchoa_(Yasuni).jpg/1280px-Imantodes_cenchoa_(Yasuni).jpg)
-        * [https://en.wikipedia.org/wiki/Imantodes\_cenchoa#:~:text=The blunthead tree snake is arboreal.,1,700 m (5,600 ft).](https://en.wikipedia.org/wiki/Imantodes_cenchoa#:~:text=The blunthead tree snake is arboreal.,1,700 m (5,600 ft).)
+        * [https://en.wikipedia.org/wiki/Imantodes\_cenchoa](https://en.wikipedia.org/wiki/Imantodes_cenchoa)
 
 4.  **Mexican Black Kingsnake**
 
@@ -2404,7 +2404,7 @@
     *   **Name for Photos:** Mexican Black Kingsnake (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/0/06/Adult-mexican-black-kingsnake.png](https://upload.wikimedia.org/wikipedia/commons/0/06/Adult-mexican-black-kingsnake.png)
-        * [https://en.wikipedia.org/wiki/Mexican\_black\_kingsnake#:~:text=Mexican black kingsnakes.-,Description and behaviour,to various kinds of venom.](https://en.wikipedia.org/wiki/Mexican_black_kingsnake#:~:text=Mexican black kingsnakes.-,Description and behaviour,to various kinds of venom.)
+        * [https://en.wikipedia.org/wiki/Mexican\_black\_kingsnake](https://en.wikipedia.org/wiki/Mexican_black_kingsnake)
     
 5.  **Boiga dendrophila (Mangrove Cat Snake)**
 
@@ -2413,7 +2413,7 @@
         *   **Name for Photos:** Boiga dendrophila (1)
         *   **Sources:**
             * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mangrovennachtbaumnatter\_(Boiga\_dendrophila).JPG/1280px-Mangrovennachtbaumnatter\_(Boiga\_dendrophila).JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mangrovennachtbaumnatter_(Boiga_dendrophila).JPG/1280px-Mangrovennachtbaumnatter_(Boiga_dendrophila).JPG)
-            * [https://en.wikipedia.org/wiki/Boiga\_dendrophila#:~:text=Boiga dendrophila, commonly called the,It is considered mildly venomous.](https://en.wikipedia.org/wiki/Boiga_dendrophila#:~:text=Boiga dendrophila, commonly called the,It is considered mildly venomous.)
+            * [https://en.wikipedia.org/wiki/Boiga\_dendrophila](https://en.wikipedia.org/wiki/Boiga_dendrophila)
 
 6.  **Dumeril’s Boa**
 
