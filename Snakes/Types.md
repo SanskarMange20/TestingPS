@@ -2423,3 +2423,59 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dumeril's\_Madagascar\_ground\_boa\_(Acrantophis\_dumerili)\_male\_Reniala.jpg/1280px-Dumeril's\_Madagascar\_ground\_boa\_(Acrantophis\_dumerili)\_male\_Reniala.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dumeril's_Madagascar_ground_boa_(Acrantophis_dumerili)_male_Reniala.jpg/1280px-Dumeril's_Madagascar_ground_boa_(Acrantophis_dumerili)_male_Reniala.jpg)
         * [https://en.wikipedia.org/wiki/Acrantophis\_dumerili](https://en.wikipedia.org/wiki/Acrantophis_dumerili)
+
+7.  **Jameson's Mamba**
+
+    *   **Scientific Name:** _Dendroaspis jamesoni_
+    *   **Distinguishing Qualities:** Highly venomous, slender arboreal snake with green upper parts and cream underparts. Found in equatorial Africa, it preys on birds and mammals.
+    *   **Name for Photos:** Jameson's Mamba(1)
+    
+
+8.  **Bushmaster**
+
+    *   **Scientific Name:** _Lachesis muta_
+    *   **Distinguishing Qualities:** Venomous, largest pit viper in the Americas. Found in tropical rainforests of Central and South America.
+    *   **Name for Photos:** Bushmaster(1)
+    
+
+9.  **Vine Snake**
+
+    *   **Scientific Name:** _Ahaetulla nasuta_
+    *   **Distinguishing Qualities:** Mildly venomous, slender green snake with an elongated snout. Known as the "eye-plucker" in folklore.
+    *   **Name for Photos:** Vine Snake(1)
+    
+
+1.  **Rubber Boa**
+
+    *   **Scientific Name:** _Charina bottae_
+    *   **Distinguishing Qualities:** Non-venomous, small boa with smooth, rubbery skin. Found in North America, it inhabits cool, moist environments.
+    *   **Name for Photos:** Rubber Boa[5](https://en.wikipedia.org/wiki/Rubber_boa)
+    
+
+2.  **Rinkhals**
+
+    *   **Scientific Name:** _Hemachatus haemachatus_
+    *   **Distinguishing Qualities:** Venomous spitting snake with a black-and-white ringed neck. Found in southern Africa.
+    *   **Name for Photos:** Rinkhals (Ring-necked Spitting Cobra)[6](https://en.wikipedia.org/wiki/Rinkhals)
+    
+
+1.  **Stiletto Snake**
+
+    *   **Scientific Name:** _Atractaspis bibronii_
+    *   **Distinguishing Qualities:** Venomous burrowing snake with sideways-firing fangs. Found in sub-Saharan Africa.
+    *   **Name for Photos:** Stiletto Snake
+    
+
+2.  **Flying Snake**
+
+    *   **Scientific Name:** _Chrysopelea paradisi_
+    *   **Distinguishing Qualities:** Mildly venomous, arboreal snake capable of gliding between trees by flattening its body.
+    *   **Name for Photos:** Flying Snake
+    
+
+3.  **Egg-eating Snake**
+
+    *   **Scientific Name:** _Dasypeltis scabra_
+    *   **Distinguishing Qualities:** Non-venomous snake specialized in eating bird eggs by cracking them with bony projections in its throat.
+    *   **Name for Photos:** Egg-eating Snake
+    
