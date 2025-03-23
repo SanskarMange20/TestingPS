@@ -277,3 +277,12 @@
 277. **Stiletto Snake**
 278. **Flying Snake**
 279. **Egg-eating Snake**
+280. **Saint Lucia Racer**
+281. **Orlov’s Viper**
+282. **Tancitaran Dusky Rattlesnake**
+283. **Wagner's Viper**
+284. **Sahul Reef Snake**
+285. **Wagler's Pit Viper**
+286. **Philippine Cobra**
+287. **Sunda Keelback Snake**
+288. **Rhinoceros Viper** 
