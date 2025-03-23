@@ -268,21 +268,18 @@
 268. **Mexican Black Kingsnake**
 269. **Boiga Dendrophila**
 270. **Dumeril’s Boa**
-271. **Javan Wart Snake**
-272. **Jameson's Mamba**
-273. **Bushmaster**
-274. **Vine Snake**
-275. **Rubber Boa**
-276. **Rinkhals**
-277. **Stiletto Snake**
-278. **Flying Snake**
-279. **Egg-eating Snake**
-280. **Saint Lucia Racer**
-281. **Orlov’s Viper**
-282. **Tancitaran Dusky Rattlesnake**
-283. **Wagner's Viper**
-284. **Sahul Reef Snake**
-285. **Wagler's Pit Viper**
-286. **Philippine Cobra**
-287. **Sunda Keelback Snake**
-288. **Rhinoceros Viper** 
+271. **Jameson's Mamba**
+272. **Bushmaster**
+273. **Vine Snake**
+274. **Rubber Boa**
+275. **Rinkhals**
+276. **Stiletto Snake**
+277. **Flying Snake**
+278. **Egg-eating Snake**
+279. **Tancitaran Dusky Rattlesnake**
+280. **Wagner's Viper**
+281. **Sahul Reef Snake**
+282. **Wagler's Pit Viper**
+283. **Philippine Cobra**
+284. **Sunda Keelback Snake**
+285. **Rhinoceros Viper** 
