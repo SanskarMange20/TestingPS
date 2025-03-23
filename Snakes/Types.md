@@ -2496,25 +2496,15 @@
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eierschlange\_frisst\_Zwergwachtelei.jpg/800px-Eierschlange\_frisst\_Zwergwachtelei.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eierschlange_frisst_Zwergwachtelei.jpg/800px-Eierschlange_frisst_Zwergwachtelei.jpg)
         * [https://en.wikipedia.org/wiki/Dasypeltis\_scabra](https://en.wikipedia.org/wiki/Dasypeltis_scabra)
     
-6.  **Saint Lucia Racer**
-
-    *   **Scientific Name:** _Erythrolamprus ornatus_
-    *   **Distinguishing Qualities:** Non-venomous; rarest snake in the world with fewer than 20 individuals left; pale gray or light brown body with darker markings for camouflage.
-    *   **Name for Photos:** Saint Lucia Racer   
-
-7.  **Orlov’s Viper**
-
-    *   **Scientific Name:** _Vipera orlovi_
-    *   **Distinguishing Qualities:** Venomous; critically endangered; found in rocky habitats near the Black Sea region of Russia.
-    *   **Name for Photos:** Orlov’s Viper
-    
 8.  **Tancitaran Dusky Rattlesnake**
 
     *   **Scientific Name:** _Crotalus tancitarensis_
     *   **Distinguishing Qualities:** Venomous; endemic to Mexico's pine-oak forests; small size and volcanic habitat preference.
-    *   **Name for Photos:** Tancitaran Dusky Rattlesnake
+    *   **Name for Photos:** Tancitaran Dusky Rattlesnake (1)
+    *   **Sources:**
+        * [https://static.wixstatic.com/media/3b63fc\_43326eff309e44e09fca98d47c690606~mv2.jpg/v1/fill/w\_1080,h\_811,al\_c,q\_85/92943981\_2747765508844008\_25979580630255.jpg](https://static.wixstatic.com/media/3b63fc_43326eff309e44e09fca98d47c690606~mv2.jpg/v1/fill/w_1080,h_811,al_c,q_85/92943981_2747765508844008_25979580630255.jpg)
+        * [https://www.savethebuzztails.org/species-accounts/tancitaran-dusky-rattlesnake](https://www.savethebuzztails.org/species-accounts/tancitaran-dusky-rattlesnake)
     
-
 9.  **Wagner's Viper**
 
     *   **Scientific Name:** _Montivipera wagneri_
