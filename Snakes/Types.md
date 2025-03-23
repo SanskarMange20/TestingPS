@@ -2496,3 +2496,62 @@
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eierschlange\_frisst\_Zwergwachtelei.jpg/800px-Eierschlange\_frisst\_Zwergwachtelei.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eierschlange_frisst_Zwergwachtelei.jpg/800px-Eierschlange_frisst_Zwergwachtelei.jpg)
         * [https://en.wikipedia.org/wiki/Dasypeltis\_scabra](https://en.wikipedia.org/wiki/Dasypeltis_scabra)
     
+6.  **Saint Lucia Racer**
+
+    *   **Scientific Name:** _Erythrolamprus ornatus_
+    *   **Distinguishing Qualities:** Non-venomous; rarest snake in the world with fewer than 20 individuals left; pale gray or light brown body with darker markings for camouflage.
+    *   **Name for Photos:** Saint Lucia Racer   
+
+7.  **Orlov’s Viper**
+
+    *   **Scientific Name:** _Vipera orlovi_
+    *   **Distinguishing Qualities:** Venomous; critically endangered; found in rocky habitats near the Black Sea region of Russia.
+    *   **Name for Photos:** Orlov’s Viper
+    
+8.  **Tancitaran Dusky Rattlesnake**
+
+    *   **Scientific Name:** _Crotalus tancitarensis_
+    *   **Distinguishing Qualities:** Venomous; endemic to Mexico's pine-oak forests; small size and volcanic habitat preference.
+    *   **Name for Photos:** Tancitaran Dusky Rattlesnake
+    
+
+9.  **Wagner's Viper**
+
+    *   **Scientific Name:** _Montivipera wagneri_
+    *   **Distinguishing Qualities:** Venomous; critically endangered due to habitat loss and overcollection; found in Turkey's mountainous regions.
+    *   **Name for Photos:** Wagner's Viper
+    
+
+1.  **Sahul Reef Snake**
+
+    *   **Scientific Name:** _Hydrophis elegans_
+    *   **Distinguishing Qualities:** Venomous marine snake; found in shallow coastal waters around Australia and New Guinea; threatened by habitat degradation.
+    *   **Name for Photos:** Sahul Reef Snake
+    
+
+2.  **Wagler's Pit Viper**
+
+    *   **Scientific Name:** _Tropidolaemus wagleri_
+    *   **Distinguishing Qualities:** Venomous; arboreal snake with green and black coloration; native to Southeast Asia's tropical forests.
+    *   **Name for Photos:** Wagler's Pit Viper
+    
+
+3.  **Philippine Cobra**
+
+    *   **Scientific Name:** _Naja philippinensis_
+    *   **Distinguishing Qualities:** Highly venomous; known for spitting venom accurately; endemic to the Philippines.
+    *   **Name for Photos:** Philippine Cobra
+    
+
+4.  **Sunda Keelback Snake**
+
+    *   **Scientific Name:** _Rhabdophis subminiatus_
+    *   **Distinguishing Qualities:** Mildly venomous; striking coloration with aquatic habits; found in Southeast Asia.
+    *   **Name for Photos:** Sunda Keelback Snake
+    
+
+5.  **Rhinoceros Viper**
+
+    *   **Scientific Name:** _Bitis nasicornis_
+    *   **Distinguishing Qualities:** Venomous; horn-like scales on its nose and vibrant coloration patterns; native to Central and West Africa.
+    *   **Name for Photos:** Rhinoceros Viper
