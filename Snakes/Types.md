@@ -2339,62 +2339,87 @@
     *   **Scientific Name:** _Gloydius himalayanus_
     *   **Distinguishing Qualities:** Venomous; found in the Himalayas at altitudes up to 4900m, making it the highest-living snake. Brown mottled body with transverse bars.
     *   **Name for Photos:** Himalayan Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gloydius\_himalayanus\_189212012.jpg/1280px-Gloydius\_himalayanus\_189212012.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gloydius_himalayanus_189212012.jpg/1280px-Gloydius_himalayanus_189212012.jpg)
+        * [https://en.wikipedia.org/wiki/Gloydius\_himalayanus](https://en.wikipedia.org/wiki/Gloydius_himalayanus)
     
 7.  **Rough-scaled Sand Boa**
 
     *   **Scientific Name:** _Eryx conicus_
     *   **Distinguishing Qualities:** Non-venomous; fossorial, cylindrical body with shovel-like snout for burrowing. Found in arid regions of South Asia.
     *   **Name for Photos:** Rough-scaled Sand Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/71/Russells\_Boa.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Russells_Boa.jpg)
+        * [https://en.wikipedia.org/wiki/Eryx\_conicus](https://en.wikipedia.org/wiki/Eryx_conicus)
     
 8.  **Mole Kingsnake**
 
     *   **Scientific Name:** _Lampropeltis calligaster rhombomaculata_
     *   **Distinguishing Qualities:** Non-venomous; secretive burrower with reddish-brown blotches and yellowish ventral surface.
     *   **Name for Photos:** Mole Kingsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lampropeltis\_rhombomaculata.jpg/1280px-Lampropeltis\_rhombomaculata.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lampropeltis_rhombomaculata.jpg/1280px-Lampropeltis_rhombomaculata.jpg)
+        * [https://en.wikipedia.org/wiki/Lampropeltis\_rhombomaculata](https://en.wikipedia.org/wiki/Lampropeltis_rhombomaculata)
 
 9.  **Eastern Hognose Snake**
     
     *   **Scientific Name:** _Heterodon platirhinos_
     *   **Distinguishing Qualities:** Mildly venomous; upturned snout helps burrow through sand. Known for dramatic defensive displays like playing dead.
     *   **Name for Photos:** Eastern Hognose Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/14/Eastern\_Hognose\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/1/14/Eastern_Hognose_Snake.jpg
+        * [https://en.wikipedia.org/wiki/Eastern\_hognose\_snake](https://en.wikipedia.org/wiki/Eastern_hognose_snake)
 
 1.  **Red Sand Boa**
 
     *   **Scientific Name:** _Eryx johnii_
     *   **Distinguishing Qualities:** Non-venomous; stout-bodied constrictor with reddish coloration, adapted to burrowing in loose soil.
     *   **Name for Photos:** Red Sand Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eryx\_johniii.jpg/1920px-Eryx\_johniii.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eryx_johniii.jpg/1920px-Eryx_johniii.jpg)
+        * [https://en.wikipedia.org/wiki/Eryx\_johnii](https://en.wikipedia.org/wiki/Eryx_johnii)
     
-
 2.  **Pygmy Rattlesnake**
 
     *   **Scientific Name:** _Sistrurus miliarius barbouri_
     *   **Distinguishing Qualities:** Venomous; small rattlesnake species with a distinctive rattle and gray or brown body with dark spots.
     *   **Name for Photos:** Pygmy Rattlesnake (1)
+    *   **Sources:**
+        * [https://www.tn.gov/content/dam/tn/twra/images/reptiles/pygmy-rattlesnake/pygmy-rattlesnake.jpg](https://www.tn.gov/content/dam/tn/twra/images/reptiles/pygmy-rattlesnake/pygmy-rattlesnake.jpg)
+        * [https://www.tn.gov/twra/wildlife/reptiles/snakes/pygmy-rattlesnake.html#:~:text=The Pygmy Rattlesnake (also Pigmy,County to the southern border.](https://www.tn.gov/twra/wildlife/reptiles/snakes/pygmy-rattlesnake.html#:~:text=The Pygmy Rattlesnake (also Pigmy,County to the southern border.)
     
-
 3.  **Blunt-headed Tree Snake**
 
     *   **Scientific Name:** _Imantodes cenchoa_
     *   **Distinguishing Qualities:** Non-venomous; slender arboreal snake with a blunt head and large eyes, adapted to nocturnal hunting.
-    *   **Name for Photos:** Blunt-headed Tree Snake (1)
-    
+    *   **Name for Photos:** Blunt-headed Tree (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Imantodes\_cenchoa\_(Yasuni).jpg/1280px-Imantodes\_cenchoa\_(Yasuni).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Imantodes_cenchoa_(Yasuni).jpg/1280px-Imantodes_cenchoa_(Yasuni).jpg)
+        * [https://en.wikipedia.org/wiki/Imantodes\_cenchoa#:~:text=The blunthead tree snake is arboreal.,1,700 m (5,600 ft).](https://en.wikipedia.org/wiki/Imantodes_cenchoa#:~:text=The blunthead tree snake is arboreal.,1,700 m (5,600 ft).)
 
 4.  **Mexican Black Kingsnake**
 
     *   **Scientific Name:** _Lampropeltis getula nigrita_
     *   **Distinguishing Qualities:** Non-venomous; solid black constrictor known for eating other snakes, including venomous ones.
     *   **Name for Photos:** Mexican Black Kingsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/0/06/Adult-mexican-black-kingsnake.png](https://upload.wikimedia.org/wikipedia/commons/0/06/Adult-mexican-black-kingsnake.png)
+        * [https://en.wikipedia.org/wiki/Mexican\_black\_kingsnake#:~:text=Mexican black kingsnakes.-,Description and behaviour,to various kinds of venom.](https://en.wikipedia.org/wiki/Mexican_black_kingsnake#:~:text=Mexican black kingsnakes.-,Description and behaviour,to various kinds of venom.)
     
-
 5.  **Boiga dendrophila (Mangrove Cat Snake)**
 
     *   **Scientific Name:** _Boiga dendrophila_
     *   **Distinguishing Qualities:** Mildly venomous; arboreal snake with striking black and yellow bands, found in mangrove forests.
-    *   **Name for Photos:** Boiga dendrophila (1)
-    
+        *   **Name for Photos:** Boiga dendrophila (1)
+        *   **Sources:**
+            * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mangrovennachtbaumnatter\_(Boiga\_dendrophila).JPG/1280px-Mangrovennachtbaumnatter\_(Boiga\_dendrophila).JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mangrovennachtbaumnatter_(Boiga_dendrophila).JPG/1280px-Mangrovennachtbaumnatter_(Boiga_dendrophila).JPG)
+            * [https://en.wikipedia.org/wiki/Boiga\_dendrophila#:~:text=Boiga dendrophila, commonly called the,It is considered mildly venomous.](https://en.wikipedia.org/wiki/Boiga_dendrophila#:~:text=Boiga dendrophila, commonly called the,It is considered mildly venomous.)
 
 6.  **Dumeril’s Boa**
 
     *   **Scientific Name:** _Acrantophis dumerili_
     *   **Distinguishing Qualities:** Non-venomous; heavy-bodied constrictor native to Madagascar, with earthy coloration for camouflage.
     *   **Name for Photos:** Dumeril’s Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dumeril's\_Madagascar\_ground\_boa\_(Acrantophis\_dumerili)\_male\_Reniala.jpg/1280px-Dumeril's\_Madagascar\_ground\_boa\_(Acrantophis\_dumerili)\_male\_Reniala.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dumeril's_Madagascar_ground_boa_(Acrantophis_dumerili)_male_Reniala.jpg/1280px-Dumeril's_Madagascar_ground_boa_(Acrantophis_dumerili)_male_Reniala.jpg)
+        * [https://en.wikipedia.org/wiki/Acrantophis\_dumerili](https://en.wikipedia.org/wiki/Acrantophis_dumerili)
