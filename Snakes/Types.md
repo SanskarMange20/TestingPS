@@ -2509,39 +2509,52 @@
 
     *   **Scientific Name:** _Montivipera wagneri_
     *   **Distinguishing Qualities:** Venomous; critically endangered due to habitat loss and overcollection; found in Turkey's mountainous regions.
-    *   **Name for Photos:** Wagner's Viper
+    *   **Name for Photos:** Wagner's Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/eb/Montivipera\_wagneri.jpg](https://upload.wikimedia.org/wikipedia/commons/e/eb/Montivipera_wagneri.jpg)
+        * [https://en.wikipedia.org/wiki/Wagner's\_viper](https://en.wikipedia.org/wiki/Wagner's_viper)
     
-
 1.  **Sahul Reef Snake**
 
     *   **Scientific Name:** _Hydrophis elegans_
     *   **Distinguishing Qualities:** Venomous marine snake; found in shallow coastal waters around Australia and New Guinea; threatened by habitat degradation.
-    *   **Name for Photos:** Sahul Reef Snake
-    
+    *   **Name for Photos:** Sahul Reef Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/dc/Hydrophis\_elegans\_14681561\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/d/dc/Hydrophis_elegans_14681561_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Hydrophis\_elegans](https://en.wikipedia.org/wiki/Hydrophis_elegans)
 
 2.  **Wagler's Pit Viper**
 
     *   **Scientific Name:** _Tropidolaemus wagleri_
     *   **Distinguishing Qualities:** Venomous; arboreal snake with green and black coloration; native to Southeast Asia's tropical forests.
-    *   **Name for Photos:** Wagler's Pit Viper
+    *   **Name for Photos:** Wagler's Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tropidolaemus\_wagleri,\_Wagler's\_palm\_pit\_viper\_-\_Takua\_Pa\_District,\_Phang-nga\_Province\_(48238132136).jpg/1280px-Tropidolaemus\_wagleri,\_Wagler's\_palm\_pit\_viper\_-\_Takua\_Pa\_District,\_Phang-nga\_Province\_(48238132136).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tropidolaemus_wagleri,_Wagler's_palm_pit_viper_-_Takua_Pa_District,_Phang-nga_Province_(48238132136).jpg/1280px-Tropidolaemus_wagleri,_Wagler's_palm_pit_viper_-_Takua_Pa_District,_Phang-nga_Province_(48238132136).jpg)
+        * [https://en.wikipedia.org/wiki/Tropidolaemus\_wagleri](https://en.wikipedia.org/wiki/Tropidolaemus_wagleri)
     
-
 3.  **Philippine Cobra**
 
     *   **Scientific Name:** _Naja philippinensis_
     *   **Distinguishing Qualities:** Highly venomous; known for spitting venom accurately; endemic to the Philippines.
-    *   **Name for Photos:** Philippine Cobra
-    
+    *   **Name for Photos:** Philippine Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/25/Naja\_philippinensis.png](https://upload.wikimedia.org/wikipedia/commons/2/25/Naja_philippinensis.png)
+        * [https://en.wikipedia.org/wiki/Philippine\_cobra](https://en.wikipedia.org/wiki/Philippine_cobra)
 
 4.  **Sunda Keelback Snake**
 
     *   **Scientific Name:** _Rhabdophis subminiatus_
     *   **Distinguishing Qualities:** Mildly venomous; striking coloration with aquatic habits; found in Southeast Asia.
-    *   **Name for Photos:** Sunda Keelback Snake
+    *   **Name for Photos:** Sunda Keelback Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rhabdop\_submin\_080217-4693\_ipb.jpg/1024px-Rhabdop\_submin\_080217-4693\_ipb.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rhabdop_submin_080217-4693_ipb.jpg/1024px-Rhabdop_submin_080217-4693_ipb.jpg)
+        * [https://en.wikipedia.org/wiki/Rhabdophis](https://en.wikipedia.org/wiki/Rhabdophis)
     
-
 5.  **Rhinoceros Viper**
 
     *   **Scientific Name:** _Bitis nasicornis_
     *   **Distinguishing Qualities:** Venomous; horn-like scales on its nose and vibrant coloration patterns; native to Central and West Africa.
-    *   **Name for Photos:** Rhinoceros Viper
+    *   **Name for Photos:** Rhinoceros Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bitis\_nasicornis\_Nashornviper\_(cropped).jpg/1280px-Bitis\_nasicornis\_Nashornviper\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bitis_nasicornis_Nashornviper_(cropped).jpg/1280px-Bitis_nasicornis_Nashornviper_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Bitis\_nasicornis](https://en.wikipedia.org/wiki/Bitis_nasicornis)
