@@ -2428,54 +2428,71 @@
 
     *   **Scientific Name:** _Dendroaspis jamesoni_
     *   **Distinguishing Qualities:** Highly venomous, slender arboreal snake with green upper parts and cream underparts. Found in equatorial Africa, it preys on birds and mammals.
-    *   **Name for Photos:** Jameson's Mamba(1)
-    
+    *   **Name for Photos:** Jameson's Mamba (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Black-tailed\_Jameson's\_Mamba\_(Dendroaspis\_jamesoni\_kaimosae).jpg/1024px-Black-tailed\_Jameson's\_Mamba\_(Dendroaspis\_jamesoni\_kaimosae).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Black-tailed_Jameson's_Mamba_(Dendroaspis_jamesoni_kaimosae).jpg/1024px-Black-tailed_Jameson's_Mamba_(Dendroaspis_jamesoni_kaimosae).jpg)
+        * [https://en.wikipedia.org/wiki/Jameson's\_mamba](https://en.wikipedia.org/wiki/Jameson's_mamba)
 
 8.  **Bushmaster**
 
     *   **Scientific Name:** _Lachesis muta_
     *   **Distinguishing Qualities:** Venomous, largest pit viper in the Americas. Found in tropical rainforests of Central and South America.
-    *   **Name for Photos:** Bushmaster(1)
+    *   **Name for Photos:** Bushmaster (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lachesis\_muta\_muta.jpg/1280px-Lachesis\_muta\_muta.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lachesis_muta_muta.jpg/1280px-Lachesis_muta_muta.jpg)
+        * [https://en.wikipedia.org/wiki/Lachesis\_(genus)](https://en.wikipedia.org/wiki/Lachesis_(genus))
     
-
 9.  **Vine Snake**
 
     *   **Scientific Name:** _Ahaetulla nasuta_
     *   **Distinguishing Qualities:** Mildly venomous, slender green snake with an elongated snout. Known as the "eye-plucker" in folklore.
-    *   **Name for Photos:** Vine Snake(1)
+    *   **Name for Photos:** Vine Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ahaetulla\_mycterizans,\_Malayan\_green\_whip\_snake\_-\_Khao\_Phra\_-\_Bang\_Khram\_Wildlife\_Sanctuary\_(46060345834).jpg/1280px-Ahaetulla\_mycterizans,\_Malayan\_green\_whip\_snake\_-\_Khao\_Phra\_-\_Bang\_Khram\_Wildlife\_Sanctuary\_(46060345834).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ahaetulla_mycterizans,_Malayan_green_whip_snake_-_Khao_Phra_-_Bang_Khram_Wildlife_Sanctuary_(46060345834).jpg/1280px-Ahaetulla_mycterizans,_Malayan_green_whip_snake_-_Khao_Phra_-_Bang_Khram_Wildlife_Sanctuary_(46060345834).jpg)
+        * [https://en.wikipedia.org/wiki/Ahaetulla\_mycterizans](https://en.wikipedia.org/wiki/Ahaetulla_mycterizans)
     
-
 1.  **Rubber Boa**
 
     *   **Scientific Name:** _Charina bottae_
     *   **Distinguishing Qualities:** Non-venomous, small boa with smooth, rubbery skin. Found in North America, it inhabits cool, moist environments.
-    *   **Name for Photos:** Rubber Boa[5](https://en.wikipedia.org/wiki/Rubber_boa)
+    *   **Name for Photos:** Rubber Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Charina\_bottae\_190641848.jpg/1280px-Charina\_bottae\_190641848.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Charina_bottae_190641848.jpg/1280px-Charina_bottae_190641848.jpg)
+        * [https://en.wikipedia.org/wiki/Rubber\_boa](https://en.wikipedia.org/wiki/Rubber_boa)
     
-
 2.  **Rinkhals**
 
     *   **Scientific Name:** _Hemachatus haemachatus_
     *   **Distinguishing Qualities:** Venomous spitting snake with a black-and-white ringed neck. Found in southern Africa.
-    *   **Name for Photos:** Rinkhals (Ring-necked Spitting Cobra)[6](https://en.wikipedia.org/wiki/Rinkhals)
-    
+    *   **Name for Photos:** Rinkhals (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rinkhals2.jpg/800px-Rinkhals2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rinkhals2.jpg/800px-Rinkhals2.jpg)
+        * [https://en.wikipedia.org/wiki/Rinkhals](https://en.wikipedia.org/wiki/Rinkhals)
 
-1.  **Stiletto Snake**
+3.  **Stiletto Snake**
 
     *   **Scientific Name:** _Atractaspis bibronii_
     *   **Distinguishing Qualities:** Venomous burrowing snake with sideways-firing fangs. Found in sub-Saharan Africa.
-    *   **Name for Photos:** Stiletto Snake
+    *   **Name for Photos:** Stiletto Snake(1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Atractaspis\_engaddensis.jpg/1024px-Atractaspis\_engaddensis.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Atractaspis_engaddensis.jpg/1024px-Atractaspis_engaddensis.jpg)
+        * [https://en.wikipedia.org/wiki/Atractaspis](https://en.wikipedia.org/wiki/Atractaspis)
     
-
-2.  **Flying Snake**
+4.  **Flying Snake**
 
     *   **Scientific Name:** _Chrysopelea paradisi_
     *   **Distinguishing Qualities:** Mildly venomous, arboreal snake capable of gliding between trees by flattening its body.
-    *   **Name for Photos:** Flying Snake
-    
+    *   **Name for Photos:** Flying Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b6/Chrysopelea\_ornata.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b6/Chrysopelea_ornata.jpg)
+        * [https://en.wikipedia.org/wiki/Chrysopelea](https://en.wikipedia.org/wiki/Chrysopelea)
 
-3.  **Egg-eating Snake**
+5.  **Egg-eating Snake**
 
     *   **Scientific Name:** _Dasypeltis scabra_
     *   **Distinguishing Qualities:** Non-venomous snake specialized in eating bird eggs by cracking them with bony projections in its throat.
-    *   **Name for Photos:** Egg-eating Snake
+    *   **Name for Photos:** Egg-eating Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eierschlange\_frisst\_Zwergwachtelei.jpg/800px-Eierschlange\_frisst\_Zwergwachtelei.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eierschlange_frisst_Zwergwachtelei.jpg/800px-Eierschlange_frisst_Zwergwachtelei.jpg)
+        * [https://en.wikipedia.org/wiki/Dasypeltis\_scabra](https://en.wikipedia.org/wiki/Dasypeltis_scabra)
     
