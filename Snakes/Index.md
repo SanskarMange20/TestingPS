@@ -268,3 +268,12 @@
 268. **Mexican Black Kingsnake**
 269. **Boiga Dendrophila**
 270. **Dumeril’s Boa**
+271. **Javan Wart Snake**
+272. **Jameson's Mamba**
+273. **Bushmaster**
+274. **Vine Snake**
+275. **Rubber Boa**
+276. **Rinkhals**
+277. **Stiletto Snake**
+278. **Flying Snake**
+279. **Egg-eating Snake**
