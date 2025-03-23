@@ -2333,3 +2333,68 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rhabdophis\_tigrinus\_IMG\_6559.retouch.JPG/1024px-Rhabdophis\_tigrinus\_IMG\_6559.retouch.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rhabdophis_tigrinus_IMG_6559.retouch.JPG/1024px-Rhabdophis_tigrinus_IMG_6559.retouch.JPG)
         * [https://en.wikipedia.org/wiki/Rhabdophis\_tigrinus](https://en.wikipedia.org/wiki/Rhabdophis_tigrinus)
+
+6.  **Himalayan Pit Viper**
+
+    *   **Scientific Name:** _Gloydius himalayanus_
+    *   **Distinguishing Qualities:** Venomous; found in the Himalayas at altitudes up to 4900m, making it the highest-living snake. Brown mottled body with transverse bars.
+    *   **Name for Photos:** Himalayan Pit Viper (1)
+    
+7.  **Rough-scaled Sand Boa**
+
+    *   **Scientific Name:** _Eryx conicus_
+    *   **Distinguishing Qualities:** Non-venomous; fossorial, cylindrical body with shovel-like snout for burrowing. Found in arid regions of South Asia.
+    *   **Name for Photos:** Rough-scaled Sand Boa (1)
+    
+8.  **Mole Kingsnake**
+
+    *   **Scientific Name:** _Lampropeltis calligaster rhombomaculata_
+    *   **Distinguishing Qualities:** Non-venomous; secretive burrower with reddish-brown blotches and yellowish ventral surface.
+    *   **Name for Photos:** Mole Kingsnake (1)
+
+9.  **Eastern Hognose Snake**
+    
+    *   **Scientific Name:** _Heterodon platirhinos_
+    *   **Distinguishing Qualities:** Mildly venomous; upturned snout helps burrow through sand. Known for dramatic defensive displays like playing dead.
+    *   **Name for Photos:** Eastern Hognose Snake (1)
+
+1.  **Red Sand Boa**
+
+    *   **Scientific Name:** _Eryx johnii_
+    *   **Distinguishing Qualities:** Non-venomous; stout-bodied constrictor with reddish coloration, adapted to burrowing in loose soil.
+    *   **Name for Photos:** Red Sand Boa (1)
+    
+
+2.  **Pygmy Rattlesnake**
+
+    *   **Scientific Name:** _Sistrurus miliarius barbouri_
+    *   **Distinguishing Qualities:** Venomous; small rattlesnake species with a distinctive rattle and gray or brown body with dark spots.
+    *   **Name for Photos:** Pygmy Rattlesnake (1)
+    
+
+3.  **Blunt-headed Tree Snake**
+
+    *   **Scientific Name:** _Imantodes cenchoa_
+    *   **Distinguishing Qualities:** Non-venomous; slender arboreal snake with a blunt head and large eyes, adapted to nocturnal hunting.
+    *   **Name for Photos:** Blunt-headed Tree Snake (1)
+    
+
+4.  **Mexican Black Kingsnake**
+
+    *   **Scientific Name:** _Lampropeltis getula nigrita_
+    *   **Distinguishing Qualities:** Non-venomous; solid black constrictor known for eating other snakes, including venomous ones.
+    *   **Name for Photos:** Mexican Black Kingsnake (1)
+    
+
+5.  **Boiga dendrophila (Mangrove Cat Snake)**
+
+    *   **Scientific Name:** _Boiga dendrophila_
+    *   **Distinguishing Qualities:** Mildly venomous; arboreal snake with striking black and yellow bands, found in mangrove forests.
+    *   **Name for Photos:** Boiga dendrophila (1)
+    
+
+6.  **Dumeril’s Boa**
+
+    *   **Scientific Name:** _Acrantophis dumerili_
+    *   **Distinguishing Qualities:** Non-venomous; heavy-bodied constrictor native to Madagascar, with earthy coloration for camouflage.
+    *   **Name for Photos:** Dumeril’s Boa (1)
