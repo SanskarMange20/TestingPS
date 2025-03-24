@@ -313,13 +313,12 @@
 313. **Trans-Pecos Rat Snake**
 314. **Twig Snake**
 315. **Variable Coral Snake**
-316. **Western Coachwhip**
+316. **Black File Snake**
 317. **White-bellied Mangrove Snake**
 318. **Wolf Snake**
 319. **Yellow Rat Snake**
-320. **Zanzibar File Snake**
-321. **Eastern Ribbon Snake**
-322. **False Coral Snake**
-323. **Mexican Parrot Snake**
-324. **Malagasy Ground Boa**
-325. **Philippine Pit Viper**
+320. **Eastern Ribbon Snake**
+321. **False Coral Snake**
+322. **Mexican Parrot Snake**
+323. **Malagasy Ground Boa**
+324. **Philippine Pit Viper**
