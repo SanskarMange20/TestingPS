@@ -282,4 +282,45 @@
 282. **Wagler's Pit Viper**
 283. **Philippine Cobra**
 284. **Sunda Keelback Snake**
-285. **Rhinoceros Viper** 
+285. **Rhinoceros Viper**
+286. **Bandy-bandy**
+287. **Blue Malayan Coral Snake**
+288. **Cape Wolf Snake**
+289. **Dog-toothed Cat Snake**
+290. **Eastern Green Snake**
+291. **False Water Cobra**
+292. **File Snake**
+293. **Formosan Odd-scaled Snake**
+294. **Glossy Snake**
+295. **Green Cat Snake**
+296. **Indochinese Rat Snake**
+297. **Kukri Snake**
+298. **Ladder Snake**
+299. **Many-banded Krait**
+300. **Narrow-headed Gartersnake**
+301. **Painted Keelback**
+302. **Peruvian Racer**
+303. **Plain-bellied Water Snake**
+304. **Prairie Kingsnake**
+305. **Rough Earth Snake**
+306. **Sand Viper**
+307. **Shovel-nosed Snake**
+308. **Smooth Green Snake**
+309. **Speckled Racer**
+310. **Spiny-headed Sea Snake**
+311. **Stephens' Banded Snake**
+312. **Taita Hills Reed Snake**
+313. **Trans-Pecos Rat Snake**
+314. **Twig Snake**
+315. **Variable Coral Snake**
+316. **Western Coachwhip**
+317. **White-bellied Mangrove Snake**
+318. **Wolf Snake**
+319. **Yellow Rat Snake**
+320. **Zanzibar File Snake**
+321. **Eastern Ribbon Snake**
+322. **False Coral Snake**
+323. **Mexican Parrot Snake**
+324. **Malagasy Ground Boa**
+325. **Philippine Pit Viper**
+326. **Saharan Sand Viper**
