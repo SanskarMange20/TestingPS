@@ -303,7 +303,7 @@
 303. **Plain-bellied Water Snake**
 304. **Prairie Kingsnake**
 305. **Rough Earth Snake**
-306. **Sand Viper**
+306. **Sahara Sand Viper**
 307. **Shovel-nosed Snake**
 308. **Smooth Green Snake**
 309. **Speckled Racer**
@@ -323,4 +323,3 @@
 323. **Mexican Parrot Snake**
 324. **Malagasy Ground Boa**
 325. **Philippine Pit Viper**
-326. **Saharan Sand Viper**
