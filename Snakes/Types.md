@@ -2807,76 +2807,106 @@
     *   **Scientific Name:** _Bogertophis subocularis_
     *   **Distinguishing Qualities:** Non-venomous, with large eyes and a sandy yellow coloration. Native to the southwestern US.
     *   **Name for Photos:** Trans-Pecos Rat Snake (1)
+    *   **Snakes:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/5e/Trans-Pecos\_Rat\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5e/Trans-Pecos_Rat_Snake.jpg)
+        * [https://en.wikipedia.org/wiki/Trans-Pecos\_rat\_snake](https://en.wikipedia.org/wiki/Trans-Pecos_rat_snake)
     
 7.  **Twig Snake**
 
     *   **Scientific Name:** _Thelotornis spp._
     *   **Distinguishing Qualities:** Venomous, slender snake that resembles a twig. Has a distinctive green and brown coloration.
     *   **Name for Photos:** Twig Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vine\_Snake\_(Thelotornis\_capensis)\_(6011690147).jpg/1280px-Vine\_Snake\_(Thelotornis\_capensis)\_(6011690147).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vine_Snake_(Thelotornis_capensis)_(6011690147).jpg/1280px-Vine_Snake_(Thelotornis_capensis)_(6011690147).jpg)
+        * [https://en.wikipedia.org/wiki/Twig\_snake](https://en.wikipedia.org/wiki/Twig_snake)
     
 8.  **Variable Coral Snake**
 
     *   **Scientific Name:** _Micrurus diastema_
     *   **Distinguishing Qualities:** Highly venomous, with a variable pattern of red, black, and yellow bands. Found in Central America.
     *   **Name for Photos:** Variable Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/26/Micrurus\_diastema.jpeg](https://upload.wikimedia.org/wikipedia/commons/2/26/Micrurus_diastema.jpeg)
+        * [https://en.wikipedia.org/wiki/Micrurus\_diastema](https://en.wikipedia.org/wiki/Micrurus_diastema)
 
-9.  **Western Coachwhip**
+9.  **Black File Snake**
 
-    *   **Scientific Name:** _Masticophis flagellum_
-    *   **Distinguishing Qualities:** Non-venomous, slender, and fast-moving snake. Typically tan or brown, resembling a braided whip.
-    *   **Name for Photos:** Western Coachwhip (1)
+    *   **Scientific Name:** _Mehelya poensis_
+    *   **Distinguishing Qualities:** Non-venomous, black, with rough, file-like scales.
+    *   **Name for Photos:** Black File Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d6/Gonionotophis\_nyassae.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d6/Gonionotophis_nyassae.jpg)
+        * [https://en.wikipedia.org/wiki/Black\_file\_snake](https://en.wikipedia.org/wiki/Black_file_snake)
     
 1.  **White-bellied Mangrove Snake**
 
-    *   **Scientific Name:** _Boiga dendrophila_
+    *   **Scientific Name:** _Fordonia leucobalia_
     *   **Distinguishing Qualities:** Mildly venomous, with a glossy black body and white belly. Prefers mangrove forests and coastal habitats.
     *   **Name for Photos:** White-bellied Mangrove Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/2276633/large.JPG](https://static.inaturalist.org/photos/2276633/large.JPG)
+        * [https://www.inaturalist.org/taxa/30089-Fordonia-leucobalia](https://www.inaturalist.org/taxa/30089-Fordonia-leucobalia)
     
 2.  **Wolf Snake**
 
-    *   **Scientific Name:** _Lycodon spp._
+    *   **Scientific Name:** _Lycodon aulicus_
     *   **Distinguishing Qualities:** Non-venomous, with a slender body and a resemblance to kraits. Commonly found in Southeast Asia.
     *   **Name for Photos:** Wolf Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Davidraju\_IMG\_7225.jpg/1280px-Davidraju\_IMG\_7225.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Davidraju_IMG_7225.jpg/1280px-Davidraju_IMG_7225.jpg)
+        * [https://en.wikipedia.org/wiki/Lycodon\_aulicus](https://en.wikipedia.org/wiki/Lycodon_aulicus)
     
 3.  **Yellow Rat Snake**
 
     *   **Scientific Name:** _Pantherophis alleghaniensis quadrivittata_
     *   **Distinguishing Qualities:** Non-venomous, with yellow or orange scales and four dark stripes. Native to the southeastern US.
     *   **Name for Photos:** Yellow Rat Snake (1)
+    *   **Sources:**
+        * [https://seaworld.org/-/media/migrated-media/seaworld-dotorg/images/animal-bytes/listing-images/reptiles/yellow\_rat\_snake\_357x229.jpg?h=229&w=357&la=en&hash=9B92DC1A433D292DFEC99BA8CD071492](https://seaworld.org/-/media/migrated-media/seaworld-dotorg/images/animal-bytes/listing-images/reptiles/yellow_rat_snake_357x229.jpg?h=229&w=357&la=en&hash=9B92DC1A433D292DFEC99BA8CD071492)
+        * [https://seaworld.org/animals/facts/reptiles/yellow-rat-snake/](https://seaworld.org/animals/facts/reptiles/yellow-rat-snake/)
     
-4.  **Zanzibar File Snake**
-
-    *   **Scientific Name:** _Mehelya laurenti_
-    *   **Distinguishing Qualities:** Non-venomous, with a rough, keeled texture on its scales. Found in East African forests.
-    *   **Name for Photos:** Zanzibar File Snake (1)
-    
-5.  **Eastern Ribbon Snake**
+4.  **Eastern Ribbon Snake**
 
     *   **Scientific Name:** _Thamnophis sauritus_
     *   **Distinguishing Qualities:** Non-venomous, slender, with distinct yellow stripes. Found near freshwater habitats.
     *   **Name for Photos:** Eastern Ribbon Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eastern\_ribbon\_snake.jpg/1280px-Eastern\_ribbon\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eastern_ribbon_snake.jpg/1280px-Eastern_ribbon_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Thamnophis\_saurita](https://en.wikipedia.org/wiki/Thamnophis_saurita)
     
-6.  **False Coral Snake**
+5.  **False Coral Snake**
 
     *   **Scientific Name:** _Oxyrhopus spp._
     *   **Distinguishing Qualities:** Non-venomous, mimics venomous coral snakes with red, black, and yellow bands. Native to South America.
     *   **Name for Photos:** False Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oxyrhopus\_melanogenys.jpg/1280px-Oxyrhopus\_melanogenys.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oxyrhopus_melanogenys.jpg/1280px-Oxyrhopus_melanogenys.jpg)
+        * [https://en.wikipedia.org/wiki/Oxyrhopus](https://en.wikipedia.org/wiki/Oxyrhopus)
     
-7.  **Mexican Parrot Snake**
+6.  **Mexican Parrot Snake**
 
     *   **Scientific Name:** _Leptophis mexicanus_
     *   **Distinguishing Qualities:** Non-venomous, bright green with a slender body. Found in Central America’s forests.
     *   **Name for Photos:** Mexican Parrot Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leptophis\_mexicanus.jpg/1280px-Leptophis\_mexicanus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leptophis_mexicanus.jpg/1280px-Leptophis_mexicanus.jpg)
+        * [https://en.wikipedia.org/wiki/Leptophis\_mexicanus](https://en.wikipedia.org/wiki/Leptophis_mexicanus)
     
-8.  **Malagasy Ground Boa**
+7.  **Malagasy Ground Boa**
 
     *   **Scientific Name:** _Acrantophis madagascariensis_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor. Native to Madagascar, often with brown and gray markings.
     *   **Name for Photos:** Malagasy Ground Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Madagascar\_ground\_boa\_(Acrantophis\_madagascariensis)\_Lokobe.jpg/1280px-Madagascar\_ground\_boa\_(Acrantophis\_madagascariensis)\_Lokobe.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Madagascar_ground_boa_(Acrantophis_madagascariensis)_Lokobe.jpg/1280px-Madagascar_ground_boa_(Acrantophis_madagascariensis)_Lokobe.jpg)
+        * [https://en.wikipedia.org/wiki/Acrantophis\_madagascariensis](https://en.wikipedia.org/wiki/Acrantophis_madagascariensis)
     
-9.  **Philippine Pit Viper**
+8.  **Philippine Pit Viper**
 
     *   **Scientific Name:** _Trimeresurus flavomaculatus_
     *   **Distinguishing Qualities:** Venomous, green with yellowish patterns. Arboreal, found in the Philippines' forests.
     *   **Name for Photos:** Philippine Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trimeresurus\_flavomaculatus\_(KU\_330049)\_from\_mid-elevation,\_Mt.\_Cagua\_-\_ZooKeys-266-001-g098.jpg/1280px-Trimeresurus\_flavomaculatus\_(KU\_330049)\_from\_mid-elevation,\_Mt.\_Cagua\_-\_ZooKeys-266-001-g098.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trimeresurus_flavomaculatus_(KU_330049)_from_mid-elevation,_Mt._Cagua_-_ZooKeys-266-001-g098.jpg/1280px-Trimeresurus_flavomaculatus_(KU_330049)_from_mid-elevation,_Mt._Cagua_-_ZooKeys-266-001-g098.jpg)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_flavomaculatus](https://en.wikipedia.org/wiki/Trimeresurus_flavomaculatus)
     
