@@ -2558,3 +2558,66 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bitis\_nasicornis\_Nashornviper\_(cropped).jpg/1280px-Bitis\_nasicornis\_Nashornviper\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bitis_nasicornis_Nashornviper_(cropped).jpg/1280px-Bitis_nasicornis_Nashornviper_(cropped).jpg)
         * [https://en.wikipedia.org/wiki/Bitis\_nasicornis](https://en.wikipedia.org/wiki/Bitis_nasicornis)
+
+6.  **Bandy-bandy**
+
+    *   **Scientific Name:** _Vermicella spp._
+    *   **Distinguishing Qualities:** Small, non-venomous snake known for its striking black and white banded appearance. Primarily nocturnal.
+    *   **Name for Photos:** Bandy-bandy (1)
+    
+7.  **Blue Malayan Coral Snake**
+
+    *   **Scientific Name:** _Calliophis bivirgatus_
+    *   **Distinguishing Qualities:** Bright blue body with a striking red head and tail. Highly venomous with a neurotoxic venom.
+    *   **Name for Photos:** Blue Malayan Coral Snake (1)
+    
+8.  **Cape Wolf Snake**
+
+    *   **Scientific Name:** _Lycophidion capense_
+    *   **Distinguishing Qualities:** Non-venomous with a slender body and smooth scales. Often mistaken for other venomous snakes due to its appearance.
+    *   **Name for Photos:** Cape Wolf Snake (1)
+    
+9.  **Dog-toothed Cat Snake**
+
+    *   **Scientific Name:** _Boiga cynodon_
+    *   **Distinguishing Qualities:** Arboreal and mildly venomous. Recognized for its large eyes and dog-like tooth structure.
+    *   **Name for Photos:** Dog-toothed Cat Snake (1)
+    
+1.  **Eastern Green Snake**
+
+    *   **Scientific Name:** _Opheodrys aestivus_
+    *   **Distinguishing Qualities:** Small, slender, and bright green. Non-venomous and commonly found in shrubs and trees.
+    *   **Name for Photos:** Eastern Green Snake (1)
+    
+2.  **False Water Cobra**
+
+    *   **Scientific Name:** _Hydrodynastes gigas_
+    *   **Distinguishing Qualities:** Can flatten its neck to mimic a cobra but is non-venomous. Native to South America.
+    *   **Name for Photos:** False Water Cobra (1)
+    
+
+3.  **File Snake**
+
+    *   **Scientific Name:** _Acrochordus spp._
+    *   **Distinguishing Qualities:** Aquatic with rough, loose skin. Non-venomous and often found in freshwater rivers.
+    *   **Name for Photos:** File Snake (1)
+    
+4.  **Formosan Odd-scaled Snake**
+
+    *   **Scientific Name:** _Achalinus formosanus_
+    *   **Distinguishing Qualities:** Features unusual iridescent scales. Non-venomous and endemic to Taiwan.
+    *   **Name for Photos:** Formosan Odd-scaled Snake (1)
+    
+
+5.  **Glossy Snake**
+
+    *   **Scientific Name:** _Arizona elegans_
+    *   **Distinguishing Qualities:** Smooth, glossy scales with a tan or brown coloration. Non-venomous and commonly found in deserts.
+    *   **Name for Photos:** Glossy Snake (1)
+    
+
+6.  **Green Cat Snake**
+
+    *   **Scientific Name:** _Boiga cyanea_
+    *   **Distinguishing Qualities:** Arboreal with large, cat-like eyes. Mildly venomous but harmless to humans.
+    *   **Name for Photos:** Green Cat Snake (1)
