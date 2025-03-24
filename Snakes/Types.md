@@ -2739,64 +2739,81 @@
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rough\_earth\_snake\_(Virginia\_striatula).jpg/1280px-Rough\_earth\_snake\_(Virginia\_striatula).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rough_earth_snake_(Virginia_striatula).jpg/1280px-Rough_earth_snake_(Virginia_striatula).jpg)
         * [https://en.wikipedia.org/wiki/Virginia\_striatula](https://en.wikipedia.org/wiki/Virginia_striatula)
 
-8.  **Sand Viper**
+8.  **Sahara Sand Viper**
 
-    *   **Scientific Name:** _Vipera ammodytes_
+    *   **Scientific Name:** _Cerastes vipera_
     *   **Distinguishing Qualities:** Venomous snake with a characteristic upturned snout. Commonly found in rocky, arid regions of Europe.
-    *   **Name for Photos:** Sand Viper (1)
+    *   **Name for Photos:** Sahara Sand Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a6/Cerastes\_vipera.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a6/Cerastes_vipera.jpg)
+        * [https://en.wikipedia.org/wiki/Cerastes\_vipera](https://en.wikipedia.org/wiki/Cerastes_vipera)
     
-
 9.  **Shovel-nosed Snake**
 
     *   **Scientific Name:** _Chionactis spp._
     *   **Distinguishing Qualities:** Small, non-venomous snake with a flattened head adapted for burrowing in sandy deserts.
     *   **Name for Photos:** Shovel-nosed Snake (1)
+    *   **Sources:**
+        * [https://www.fws.gov/sites/default/files/styles/facebook\_1200x630/public/banner\_images/2022-03/TucsonShovel-nosedCreditHerpMapper.jpg?h=ea0c355c&itok=R6Xf9SeX](https://www.fws.gov/sites/default/files/styles/facebook_1200x630/public/banner_images/2022-03/TucsonShovel-nosedCreditHerpMapper.jpg?h=ea0c355c&itok=R6Xf9SeX)
+        * [https://www.fws.gov/species/tucson-shovel-nosed-snake-chionactis-occipitalis-klauberi](https://www.fws.gov/species/tucson-shovel-nosed-snake-chionactis-occipitalis-klauberi)
     
 1.  **Smooth Green Snake**
 
     *   **Scientific Name:** _Opheodrys vernalis_
     *   **Distinguishing Qualities:** Bright green, slender, non-venomous snake. Prefers grassy meadows and wetlands.
-    *   **Name for Photos:** Smooth Green Snake (1)  
+    *   **Name for Photos:** Smooth Green Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Smooth\_Green\_Snake\_(Opheodrys\_vernalis).jpg/1024px-Smooth\_Green\_Snake\_(Opheodrys\_vernalis).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Smooth_Green_Snake_(Opheodrys_vernalis).jpg/1024px-Smooth_Green_Snake_(Opheodrys_vernalis).jpg)
+        * [https://en.wikipedia.org/wiki/Smooth\_green\_snake](https://en.wikipedia.org/wiki/Smooth_green_snake)
 
 2.  **Speckled Racer**
 
     *   **Scientific Name:** _Drymobius margaritiferus_
     *   **Distinguishing Qualities:** Fast-moving, non-venomous snake with black scales speckled with blue or green. Native to Central America.
     *   **Name for Photos:** Speckled Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Drymobius\_margaritiferus,\_Northern\_Speckled\_Racer,\_Tamaulipas.jpg/1920px-Drymobius\_margaritiferus,\_Northern\_Speckled\_Racer,\_Tamaulipas.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Drymobius_margaritiferus,_Northern_Speckled_Racer,_Tamaulipas.jpg/1920px-Drymobius_margaritiferus,_Northern_Speckled_Racer,_Tamaulipas.jpg)
+        * [https://en.wikipedia.org/wiki/Drymobius\_margaritiferus](https://en.wikipedia.org/wiki/Drymobius_margaritiferus)
 
 3.  **Spiny-headed Sea Snake**
 
     *   **Scientific Name:** _Hydrophis stricticollis_
     *   **Distinguishing Qualities:** Venomous, with a characteristic spiny or ridged head. Lives in coastal waters of the Indo-Pacific.
     *   **Name for Photos:** Spiny-headed Sea Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Acalyptus\_superciliosus.jpg/1280px-Acalyptus\_superciliosus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Acalyptus_superciliosus.jpg/1280px-Acalyptus_superciliosus.jpg)
+        * [https://en.wikipedia.org/wiki/Hydrophis\_peronii](https://en.wikipedia.org/wiki/Hydrophis_peronii)
     
 4.  **Stephens' Banded Snake**
 
     *   **Scientific Name:** _Hoplocephalus stephensii_
     *   **Distinguishing Qualities:** Venomous, arboreal snake with black and yellow bands. Native to Australia.
     *   **Name for Photos:** Stephens' Banded Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Stephen's\_Banded\_Snake\_(Hoplocephalus\_stephensii)\_(10559871275).jpg/1280px-Stephen's\_Banded\_Snake\_(Hoplocephalus\_stephensii)\_(10559871275).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Stephen's_Banded_Snake_(Hoplocephalus_stephensii)_(10559871275).jpg/1280px-Stephen's_Banded_Snake_(Hoplocephalus_stephensii)_(10559871275).jpg)
+        * [https://en.wikipedia.org/wiki/Stephens's\_banded\_snake](https://en.wikipedia.org/wiki/Stephens's_banded_snake)
     
 5.  **Taita Hills Reed Snake**
 
-    *   **Scientific Name:** _Macroprotodon taitaensis_
+    *   **Scientific Name:** _Amblyodipsas teitana_
     *   **Distinguishing Qualities:** Small, non-venomous, and nocturnal. Found in the Taita Hills of Kenya.
     *   **Name for Photos:** Taita Hills Reed Snake (1)
+    *   **Sources:**
+        * [https://kenyaherpetologytours.com/wp-content/uploads/2024/06/20240612-smallslider-snake-04-3000x1996-1-scaled.jpg](https://kenyaherpetologytours.com/wp-content/uploads/2024/06/20240612-smallslider-snake-04-3000x1996-1-scaled.jpg)
+        * [https://en.wikipedia.org/wiki/Amblyodipsas\_teitana](https://en.wikipedia.org/wiki/Amblyodipsas_teitana)
     
-
 6.  **Trans-Pecos Rat Snake**
 
     *   **Scientific Name:** _Bogertophis subocularis_
     *   **Distinguishing Qualities:** Non-venomous, with large eyes and a sandy yellow coloration. Native to the southwestern US.
     *   **Name for Photos:** Trans-Pecos Rat Snake (1)
     
-
 7.  **Twig Snake**
 
     *   **Scientific Name:** _Thelotornis spp._
     *   **Distinguishing Qualities:** Venomous, slender snake that resembles a twig. Has a distinctive green and brown coloration.
     *   **Name for Photos:** Twig Snake (1)
     
-
 8.  **Variable Coral Snake**
 
     *   **Scientific Name:** _Micrurus diastema_
@@ -2809,14 +2826,12 @@
     *   **Distinguishing Qualities:** Non-venomous, slender, and fast-moving snake. Typically tan or brown, resembling a braided whip.
     *   **Name for Photos:** Western Coachwhip (1)
     
-
 1.  **White-bellied Mangrove Snake**
 
     *   **Scientific Name:** _Boiga dendrophila_
     *   **Distinguishing Qualities:** Mildly venomous, with a glossy black body and white belly. Prefers mangrove forests and coastal habitats.
     *   **Name for Photos:** White-bellied Mangrove Snake (1)
     
-
 2.  **Wolf Snake**
 
     *   **Scientific Name:** _Lycodon spp._
@@ -2835,44 +2850,33 @@
     *   **Distinguishing Qualities:** Non-venomous, with a rough, keeled texture on its scales. Found in East African forests.
     *   **Name for Photos:** Zanzibar File Snake (1)
     
-
 5.  **Eastern Ribbon Snake**
 
     *   **Scientific Name:** _Thamnophis sauritus_
     *   **Distinguishing Qualities:** Non-venomous, slender, with distinct yellow stripes. Found near freshwater habitats.
     *   **Name for Photos:** Eastern Ribbon Snake (1)
     
-
 6.  **False Coral Snake**
 
     *   **Scientific Name:** _Oxyrhopus spp._
     *   **Distinguishing Qualities:** Non-venomous, mimics venomous coral snakes with red, black, and yellow bands. Native to South America.
     *   **Name for Photos:** False Coral Snake (1)
     
-
 7.  **Mexican Parrot Snake**
 
     *   **Scientific Name:** _Leptophis mexicanus_
     *   **Distinguishing Qualities:** Non-venomous, bright green with a slender body. Found in Central America’s forests.
     *   **Name for Photos:** Mexican Parrot Snake (1)
     
-
 8.  **Malagasy Ground Boa**
 
     *   **Scientific Name:** _Acrantophis madagascariensis_
     *   **Distinguishing Qualities:** Large, non-venomous constrictor. Native to Madagascar, often with brown and gray markings.
     *   **Name for Photos:** Malagasy Ground Boa (1)
     
-
 9.  **Philippine Pit Viper**
 
     *   **Scientific Name:** _Trimeresurus flavomaculatus_
     *   **Distinguishing Qualities:** Venomous, green with yellowish patterns. Arboreal, found in the Philippines' forests.
     *   **Name for Photos:** Philippine Pit Viper (1)
     
-
-1.  **Saharan Sand Viper**
-
-    *   **Scientific Name:** _Cerastes vipera_
-    *   **Distinguishing Qualities:** Venomous, small, and well-camouflaged in sandy deserts. Recognized by its sidewinding movement and pale, sandy coloration.
-    *   **Name for Photos:** Saharan Sand Viper (1)
