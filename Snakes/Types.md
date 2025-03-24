@@ -2648,3 +2648,63 @@
     *   **Sources:**
         * [https://www.indianreptiles.org/sites/indianreptiles.org/files/459\_2118-951-5a5eecdbb8957-1.jpg](https://www.indianreptiles.org/sites/indianreptiles.org/files/459_2118-951-5a5eecdbb8957-1.jpg)
         * [https://www.ecologyasia.com/verts/snakes/green\_cat-snake.htm](https://www.ecologyasia.com/verts/snakes/green_cat-snake.htm)
+
+7.  **Indochinese Rat Snake**
+
+    *   **Scientific Name:** _Ptyas korros_
+    *   **Distinguishing Qualities:** Large, non-venomous snake with a slender body and olive-brown coloration. Often found in rice paddies and fields.
+    *   **Name for Photos:** Indochinese Rat Snake (1)    
+
+8.  **Kukri Snake**
+
+    *   **Scientific Name:** _Oligodon spp._
+    *   **Distinguishing Qualities:** Named after the Kukri knife due to its curved teeth. Non-venomous and primarily preys on eggs.
+    *   **Name for Photos:** Kukri Snake (1)    
+
+9.  **Ladder Snake**
+
+    *   **Scientific Name:** _Zamenis scalaris_
+    *   **Distinguishing Qualities:** Distinct ladder-like markings on its back. Non-venomous and commonly found in Western Europe.
+    *   **Name for Photos:** Ladder Snake (1)   
+
+1.  **Many-banded Krait**
+
+    *   **Scientific Name:** _Bungarus multicinctus_
+    *   **Distinguishing Qualities:** Highly venomous with alternating black and white bands. Nocturnal and typically found near water.
+    *   **Name for Photos:** Many-banded Krait (1)    
+
+2.  **Narrow-headed Gartersnake**
+
+    *   **Scientific Name:** _Thamnophis rufipunctatus_
+    *   **Distinguishing Qualities:** Aquatic, with a slender body and narrow head. Non-venomous and endemic to the southwestern US.
+    *   **Name for Photos:** Narrow-headed Gartersnake (1)    
+
+3.  **Painted Keelback**
+
+    *   **Scientific Name:** _Xenochrophis cerasogaster_
+    *   **Distinguishing Qualities:** Medium-sized, mildly venomous snake with a bright greenish body and striking patterns.
+    *   **Name for Photos:** Painted Keelback (1)    
+
+4.  **Peruvian Racer**
+
+    *   **Scientific Name:** _Mastigodryas peruvianus_
+    *   **Distinguishing Qualities:** Fast-moving, non-venomous snake with a slender build. Often found in Peruvian forests.
+    *   **Name for Photos:** Peruvian Racer (1)    
+
+5.  **Plain-bellied Water Snake**
+
+    *   **Scientific Name:** _Nerodia erythrogaster_
+    *   **Distinguishing Qualities:** Non-venomous, with a distinctive unpatterned belly. Often seen in freshwater habitats.
+    *   **Name for Photos:** Plain-bellied Water Snake (1)    
+
+6.  **Prairie Kingsnake**
+
+    *   **Scientific Name:** _Lampropeltis calligaster_
+    *   **Distinguishing Qualities:** Non-venomous constrictor with a light brown body and darker blotches. Found in grasslands.
+    *   **Name for Photos:** Prairie Kingsnake (1)    
+
+7.  **Rough Earth Snake**
+
+    *   **Scientific Name:** _Haldea striatula_
+    *   **Distinguishing Qualities:** Small, brown, non-venomous snake with rough, keeled scales. Burrows in loose soil.
+    *   **Name for Photos:** Rough Earth Snake (1)
