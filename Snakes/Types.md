@@ -2564,60 +2564,87 @@
     *   **Scientific Name:** _Vermicella spp._
     *   **Distinguishing Qualities:** Small, non-venomous snake known for its striking black and white banded appearance. Primarily nocturnal.
     *   **Name for Photos:** Bandy-bandy (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eastern\_Bandy-bandy,\_Vermicella\_annulata\_(23111409351).jpg/1920px-Eastern\_Bandy-bandy,\_Vermicella\_annulata\_(23111409351).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eastern_Bandy-bandy,_Vermicella_annulata_(23111409351).jpg/1920px-Eastern_Bandy-bandy,_Vermicella_annulata_(23111409351).jpg)
+        * [https://en.wikipedia.org/wiki/Bandy-bandy](https://en.wikipedia.org/wiki/Bandy-bandy)
     
 7.  **Blue Malayan Coral Snake**
 
     *   **Scientific Name:** _Calliophis bivirgatus_
     *   **Distinguishing Qualities:** Bright blue body with a striking red head and tail. Highly venomous with a neurotoxic venom.
     *   **Name for Photos:** Blue Malayan Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue\_Malayan\_Coral\_Snake\_from\_Singapore.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Malayan_Coral_Snake_from_Singapore.jpg)
+        * [https://en.wikipedia.org/wiki/Calliophis\_bivirgatus](https://en.wikipedia.org/wiki/Calliophis_bivirgatus)
     
 8.  **Cape Wolf Snake**
 
     *   **Scientific Name:** _Lycophidion capense_
     *   **Distinguishing Qualities:** Non-venomous with a slender body and smooth scales. Often mistaken for other venomous snakes due to its appearance.
     *   **Name for Photos:** Cape Wolf Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cape\_Wolf\_Snake\_(Lycophidion\_capense)\_(16199625893).jpg/1280px-Cape\_Wolf\_Snake\_(Lycophidion\_capense)\_(16199625893).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cape_Wolf_Snake_(Lycophidion_capense)_(16199625893).jpg/1280px-Cape_Wolf_Snake_(Lycophidion_capense)_(16199625893).jpg)
+        * [https://en.wikipedia.org/wiki/Cape\_wolf\_snake](https://en.wikipedia.org/wiki/Cape_wolf_snake)
     
 9.  **Dog-toothed Cat Snake**
 
     *   **Scientific Name:** _Boiga cynodon_
     *   **Distinguishing Qualities:** Arboreal and mildly venomous. Recognized for its large eyes and dog-like tooth structure.
     *   **Name for Photos:** Dog-toothed Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Boiga\_Cynodon\_Cameron\_Highlands.JPG/1024px-Boiga\_Cynodon\_Cameron\_Highlands.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Boiga_Cynodon_Cameron_Highlands.JPG/1024px-Boiga_Cynodon_Cameron_Highlands.JPG)
+        * [https://en.wikipedia.org/wiki/Boiga\_cynodon](https://en.wikipedia.org/wiki/Boiga_cynodon)
     
 1.  **Eastern Green Snake**
 
     *   **Scientific Name:** _Opheodrys aestivus_
     *   **Distinguishing Qualities:** Small, slender, and bright green. Non-venomous and commonly found in shrubs and trees.
     *   **Name for Photos:** Eastern Green Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/6/66/Green\_mamba.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Green_mamba.jpg)
+        * [https://en.wikipedia.org/wiki/Eastern\_green\_mamba](https://en.wikipedia.org/wiki/Eastern_green_mamba)
     
 2.  **False Water Cobra**
 
     *   **Scientific Name:** _Hydrodynastes gigas_
     *   **Distinguishing Qualities:** Can flatten its neck to mimic a cobra but is non-venomous. Native to South America.
     *   **Name for Photos:** False Water Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/c/cf/Hydrodynastes\_gigas,\_male.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cf/Hydrodynastes_gigas,_male.jpg)
+        * [https://en.wikipedia.org/wiki/Hydrodynastes\_gigas](https://en.wikipedia.org/wiki/Hydrodynastes_gigas)
     
-
 3.  **File Snake**
 
     *   **Scientific Name:** _Acrochordus spp._
     *   **Distinguishing Qualities:** Aquatic with rough, loose skin. Non-venomous and often found in freshwater rivers.
     *   **Name for Photos:** File Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Arafura\_file\_snake\_(Acrochordus\_arafurae)\_in\_captivity.jpg/1024px-Arafura\_file\_snake\_(Acrochordus\_arafurae)\_in\_captivity.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Arafura_file_snake_(Acrochordus_arafurae)_in_captivity.jpg/1024px-Arafura_file_snake_(Acrochordus_arafurae)_in_captivity.jpg)
+        * [https://en.wikipedia.org/wiki/Acrochordus\_arafurae](https://en.wikipedia.org/wiki/Acrochordus_arafurae)
     
 4.  **Formosan Odd-scaled Snake**
 
     *   **Scientific Name:** _Achalinus formosanus_
     *   **Distinguishing Qualities:** Features unusual iridescent scales. Non-venomous and endemic to Taiwan.
     *   **Name for Photos:** Formosan Odd-scaled Snake (1)
-    
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/9b/Achalinus\_formosanus\_formosanus\_full\_body\_shot.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9b/Achalinus_formosanus_formosanus_full_body_shot.jpg)
+        * [https://en.wikipedia.org/wiki/Achalinus\_formosanus](https://en.wikipedia.org/wiki/Achalinus_formosanus)
 
 5.  **Glossy Snake**
 
     *   **Scientific Name:** _Arizona elegans_
     *   **Distinguishing Qualities:** Smooth, glossy scales with a tan or brown coloration. Non-venomous and commonly found in deserts.
     *   **Name for Photos:** Glossy Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b5/Arizona\_elegans\_occidentalis.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b5/Arizona_elegans_occidentalis.jpg)
+        * [https://en.wikipedia.org/wiki/Glossy\_snake](https://en.wikipedia.org/wiki/Glossy_snake)
     
-
 6.  **Green Cat Snake**
 
     *   **Scientific Name:** _Boiga cyanea_
     *   **Distinguishing Qualities:** Arboreal with large, cat-like eyes. Mildly venomous but harmless to humans.
     *   **Name for Photos:** Green Cat Snake (1)
+    *   **Sources:**
+        * [https://www.indianreptiles.org/sites/indianreptiles.org/files/459\_2118-951-5a5eecdbb8957-1.jpg](https://www.indianreptiles.org/sites/indianreptiles.org/files/459_2118-951-5a5eecdbb8957-1.jpg)
+        * [https://www.ecologyasia.com/verts/snakes/green\_cat-snake.htm#:~:text=Green Cat Snake - Boiga cyanea&text=The unmistakable Green Cat Snake,for prey such as geckos.](https://www.ecologyasia.com/verts/snakes/green_cat-snake.htm#:~:text=Green Cat Snake - Boiga cyanea&text=The unmistakable Green Cat Snake,for prey such as geckos.)
