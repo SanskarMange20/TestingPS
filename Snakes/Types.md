@@ -2647,4 +2647,4 @@
     *   **Name for Photos:** Green Cat Snake (1)
     *   **Sources:**
         * [https://www.indianreptiles.org/sites/indianreptiles.org/files/459\_2118-951-5a5eecdbb8957-1.jpg](https://www.indianreptiles.org/sites/indianreptiles.org/files/459_2118-951-5a5eecdbb8957-1.jpg)
-        * [https://www.ecologyasia.com/verts/snakes/green\_cat-snake.htm#:~:text=Green Cat Snake - Boiga cyanea&text=The unmistakable Green Cat Snake,for prey such as geckos.](https://www.ecologyasia.com/verts/snakes/green_cat-snake.htm#:~:text=Green Cat Snake - Boiga cyanea&text=The unmistakable Green Cat Snake,for prey such as geckos.)
+        * [https://www.ecologyasia.com/verts/snakes/green\_cat-snake.htm](https://www.ecologyasia.com/verts/snakes/green_cat-snake.htm)
