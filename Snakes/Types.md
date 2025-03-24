@@ -2653,58 +2653,88 @@
 
     *   **Scientific Name:** _Ptyas korros_
     *   **Distinguishing Qualities:** Large, non-venomous snake with a slender body and olive-brown coloration. Often found in rice paddies and fields.
-    *   **Name for Photos:** Indochinese Rat Snake (1)    
+    *   **Name for Photos:** Indochinese Rat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/44/Ptyas\_korros-\_Indochinese\_rat\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Ptyas_korros-_Indochinese_rat_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Ptyas\_korros](https://en.wikipedia.org/wiki/Ptyas_korros)
 
 8.  **Kukri Snake**
 
     *   **Scientific Name:** _Oligodon spp._
     *   **Distinguishing Qualities:** Named after the Kukri knife due to its curved teeth. Non-venomous and primarily preys on eggs.
-    *   **Name for Photos:** Kukri Snake (1)    
+    *   **Name for Photos:** Kukri Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Russell's\_Kukri\_from\_South\_Bengal..jpg/1024px-Russell's\_Kukri\_from\_South\_Bengal..jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Russell's_Kukri_from_South_Bengal..jpg/1024px-Russell's_Kukri_from_South_Bengal..jpg)
+        * [https://en.wikipedia.org/wiki/Oligodon\_russelius](https://en.wikipedia.org/wiki/Oligodon_russelius)
 
 9.  **Ladder Snake**
 
     *   **Scientific Name:** _Zamenis scalaris_
     *   **Distinguishing Qualities:** Distinct ladder-like markings on its back. Non-venomous and commonly found in Western Europe.
-    *   **Name for Photos:** Ladder Snake (1)   
+    *   **Name for Photos:** Ladder Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rhinechis\_scalaris\_cropped.jpg/1024px-Rhinechis\_scalaris\_cropped.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rhinechis_scalaris_cropped.jpg/1024px-Rhinechis_scalaris_cropped.jpg)
+        * [https://en.wikipedia.org/wiki/Ladder\_snake](https://en.wikipedia.org/wiki/Ladder_snake)
 
 1.  **Many-banded Krait**
 
     *   **Scientific Name:** _Bungarus multicinctus_
     *   **Distinguishing Qualities:** Highly venomous with alternating black and white bands. Nocturnal and typically found near water.
-    *   **Name for Photos:** Many-banded Krait (1)    
+    *   **Name for Photos:** Many-banded Krait (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/8/84/Bungarus\_multicinctus.jpg](https://upload.wikimedia.org/wikipedia/commons/8/84/Bungarus_multicinctus.jpg)
+        * [https://en.wikipedia.org/wiki/Many-banded\_krait](https://en.wikipedia.org/wiki/Many-banded_krait)    
 
 2.  **Narrow-headed Gartersnake**
 
     *   **Scientific Name:** _Thamnophis rufipunctatus_
     *   **Distinguishing Qualities:** Aquatic, with a slender body and narrow head. Non-venomous and endemic to the southwestern US.
-    *   **Name for Photos:** Narrow-headed Gartersnake (1)    
+    *   **Name for Photos:** Narrow-headed Gartersnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d0/Narrowhead\_garter\_snake\_Thamnophis\_rufipunctatus.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Narrowhead_garter_snake_Thamnophis_rufipunctatus.jpg)
+        * [https://en.wikipedia.org/wiki/Narrow-headed\_garter\_snake](https://en.wikipedia.org/wiki/Narrow-headed_garter_snake)
 
 3.  **Painted Keelback**
 
     *   **Scientific Name:** _Xenochrophis cerasogaster_
     *   **Distinguishing Qualities:** Medium-sized, mildly venomous snake with a bright greenish body and striking patterns.
-    *   **Name for Photos:** Painted Keelback (1)    
+    *   **Name for Photos:** Painted Keelback (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/10/Painted\_Keelback\_from\_Kolkata,\_West\_Bengal\_(India).jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/Painted_Keelback_from_Kolkata,_West_Bengal_(India).jpg)
+        * [https://en.wikipedia.org/wiki/Xenochrophis\_cerasogaster](https://en.wikipedia.org/wiki/Xenochrophis_cerasogaster) 
 
 4.  **Peruvian Racer**
 
     *   **Scientific Name:** _Mastigodryas peruvianus_
     *   **Distinguishing Qualities:** Fast-moving, non-venomous snake with a slender build. Often found in Peruvian forests.
-    *   **Name for Photos:** Peruvian Racer (1)    
+    *   **Name for Photos:** Peruvian Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/31/Mastigodryas\_boddaerti02.jpg](https://upload.wikimedia.org/wikipedia/commons/3/31/Mastigodryas_boddaerti02.jpg)
+        * [https://en.wikipedia.org/wiki/Mastigodryas\_boddaerti](https://en.wikipedia.org/wiki/Mastigodryas_boddaerti)
 
 5.  **Plain-bellied Water Snake**
 
     *   **Scientific Name:** _Nerodia erythrogaster_
     *   **Distinguishing Qualities:** Non-venomous, with a distinctive unpatterned belly. Often seen in freshwater habitats.
-    *   **Name for Photos:** Plain-bellied Water Snake (1)    
+    *   **Name for Photos:** Plain-bellied Water Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/35/Nerodia\_erythrogasterPCSL03705B.jpg](https://upload.wikimedia.org/wikipedia/commons/3/35/Nerodia_erythrogasterPCSL03705B.jpg)
+        * [https://en.wikipedia.org/wiki/Nerodia\_erythrogaster](https://en.wikipedia.org/wiki/Nerodia_erythrogaster)   
 
 6.  **Prairie Kingsnake**
 
     *   **Scientific Name:** _Lampropeltis calligaster_
     *   **Distinguishing Qualities:** Non-venomous constrictor with a light brown body and darker blotches. Found in grasslands.
-    *   **Name for Photos:** Prairie Kingsnake (1)    
+    *   **Name for Photos:** Prairie Kingsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/96/Lampropeltis\_calligaster\_calligaster.jpg](https://upload.wikimedia.org/wikipedia/commons/9/96/Lampropeltis_calligaster_calligaster.jpg)
+        * [https://en.wikipedia.org/wiki/Lampropeltis\_calligaster](https://en.wikipedia.org/wiki/Lampropeltis_calligaster)
 
 7.  **Rough Earth Snake**
 
     *   **Scientific Name:** _Haldea striatula_
     *   **Distinguishing Qualities:** Small, brown, non-venomous snake with rough, keeled scales. Burrows in loose soil.
     *   **Name for Photos:** Rough Earth Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rough\_earth\_snake\_(Virginia\_striatula).jpg/1280px-Rough\_earth\_snake\_(Virginia\_striatula).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rough_earth_snake_(Virginia_striatula).jpg/1280px-Rough_earth_snake_(Virginia_striatula).jpg)
+        * [https://en.wikipedia.org/wiki/Virginia\_striatula](https://en.wikipedia.org/wiki/Virginia_striatula)
