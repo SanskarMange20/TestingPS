@@ -2910,3 +2910,65 @@
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trimeresurus\_flavomaculatus\_(KU\_330049)\_from\_mid-elevation,\_Mt.\_Cagua\_-\_ZooKeys-266-001-g098.jpg/1280px-Trimeresurus\_flavomaculatus\_(KU\_330049)\_from\_mid-elevation,\_Mt.\_Cagua\_-\_ZooKeys-266-001-g098.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trimeresurus_flavomaculatus_(KU_330049)_from_mid-elevation,_Mt._Cagua_-_ZooKeys-266-001-g098.jpg/1280px-Trimeresurus_flavomaculatus_(KU_330049)_from_mid-elevation,_Mt._Cagua_-_ZooKeys-266-001-g098.jpg)
         * [https://en.wikipedia.org/wiki/Trimeresurus\_flavomaculatus](https://en.wikipedia.org/wiki/Trimeresurus_flavomaculatus)
     
+9.  **Arabian Sand Boa**
+    
+    *   **Scientific Name:** _Eryx jayakari_
+    *   **Distinguishing Qualities:** Small, burrowing snake with a short, blunt head.
+    *   **Name for Photos:** Arabian Sand Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/5f/Eryx\_jayakari\_by\_Omid\_Mozaffari.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5f/Eryx_jayakari_by_Omid_Mozaffari.jpg)
+        * [https://en.wikipedia.org/wiki/Eryx\_jayakari](https://en.wikipedia.org/wiki/Eryx_jayakari)
+        
+1.  **Balkan Whip Snake**
+    
+    *   **Scientific Name:** _Hierophis gemonensis_
+    *   **Distinguishing Qualities:** Fast-moving, slender snake with a light brown body.
+    *   **Name for Photos:** Balkan Whip Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hierophis\_gemonensis\_282216626.jpg/1024px-Hierophis\_gemonensis\_282216626.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hierophis_gemonensis_282216626.jpg/1024px-Hierophis_gemonensis_282216626.jpg)
+        * [https://en.wikipedia.org/wiki/Balkan\_whip\_snake](https://en.wikipedia.org/wiki/Balkan_whip_snake)
+        
+2.  **Smooth earth snake**
+    
+    *   **Scientific Name:** _Virginia valeriae_
+    *   **Distinguishing Qualities:** Non-venomous, smooth-scaled with a slender body and a dark stripe.
+    *   **Name for Photos:** Smooth earth snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/7a/Iowaherps-virginia\_valeriae\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/7/7a/Iowaherps-virginia_valeriae_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Smooth\_earth\_snake](https://en.wikipedia.org/wiki/Smooth_earth_snake)
+        
+4.  **Mangrove Pit Viper**
+    
+    *   **Scientific Name:** _Trimeresurus purpureomaculatus_
+    *   **Distinguishing Qualities:** Venomous, dark brown to black, often found in mangroves.
+    *   **Name for Photos:** Mangrove Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mangrove\_Pit\_Viper.jpg/1024px-Mangrove\_Pit\_Viper.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mangrove_Pit_Viper.jpg/1024px-Mangrove_Pit_Viper.jpg)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_purpureomaculatus](https://en.wikipedia.org/wiki/Trimeresurus_purpureomaculatus)
+        
+5.  **Seychelles Wolf Snake**
+    
+    *   **Scientific Name:** _Lycognathophis seychellensis_
+    *   **Distinguishing Qualities:** Non-venomous, slender, grayish-brown with a smooth body.
+    *   **Name for Photos:** Seychelles Wolf Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lycognathophis\_seychellensis\_310595.jpg/1280px-Lycognathophis\_seychellensis\_310595.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lycognathophis_seychellensis_310595.jpg/1280px-Lycognathophis_seychellensis_310595.jpg)
+        * [https://en.wikipedia.org/wiki/Seychelles\_wolf\_snake](https://en.wikipedia.org/wiki/Seychelles_wolf_snake)
+        
+6.  **Usambara Vine Snake**
+
+    *   **Scientific Name:** _Thelotornis usambaricus_
+    *   **Distinguishing Qualities:** Slender body, elongated snout, camouflages well in foliage.
+    *   **Name for Photos:** Usambara Vine Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thelotornis\_usambaricus.jpg/800px-Thelotornis\_usambaricus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thelotornis_usambaricus.jpg/800px-Thelotornis_usambaricus.jpg)
+        * [https://en.wikipedia.org/wiki/Usambara\_vine\_snake](https://en.wikipedia.org/wiki/Usambara_vine_snake)
+        
+8.  **Vietnamese Blue Krait**
+    
+    *   **Scientific Name:** _Bungarus caeruleus_
+    *   **Distinguishing Qualities:** Highly venomous, black with bright blue bands.
+    *   **Name for Photos:** Vietnamese Blue Krait (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bungar\_candi\_120608-0343\_krw.jpg/1280px-Bungar\_candi\_120608-0343\_krw.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bungar_candi_120608-0343_krw.jpg/1280px-Bungar_candi_120608-0343_krw.jpg)
+        * [https://en.wikipedia.org/wiki/Bungarus\_candidus](https://en.wikipedia.org/wiki/Bungarus_candidus)
