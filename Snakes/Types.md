@@ -2738,3 +2738,141 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rough\_earth\_snake\_(Virginia\_striatula).jpg/1280px-Rough\_earth\_snake\_(Virginia\_striatula).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rough_earth_snake_(Virginia_striatula).jpg/1280px-Rough_earth_snake_(Virginia_striatula).jpg)
         * [https://en.wikipedia.org/wiki/Virginia\_striatula](https://en.wikipedia.org/wiki/Virginia_striatula)
+
+8.  **Sand Viper**
+
+    *   **Scientific Name:** _Vipera ammodytes_
+    *   **Distinguishing Qualities:** Venomous snake with a characteristic upturned snout. Commonly found in rocky, arid regions of Europe.
+    *   **Name for Photos:** Sand Viper (1)
+    
+
+9.  **Shovel-nosed Snake**
+
+    *   **Scientific Name:** _Chionactis spp._
+    *   **Distinguishing Qualities:** Small, non-venomous snake with a flattened head adapted for burrowing in sandy deserts.
+    *   **Name for Photos:** Shovel-nosed Snake (1)
+    
+1.  **Smooth Green Snake**
+
+    *   **Scientific Name:** _Opheodrys vernalis_
+    *   **Distinguishing Qualities:** Bright green, slender, non-venomous snake. Prefers grassy meadows and wetlands.
+    *   **Name for Photos:** Smooth Green Snake (1)  
+
+2.  **Speckled Racer**
+
+    *   **Scientific Name:** _Drymobius margaritiferus_
+    *   **Distinguishing Qualities:** Fast-moving, non-venomous snake with black scales speckled with blue or green. Native to Central America.
+    *   **Name for Photos:** Speckled Racer (1)
+
+3.  **Spiny-headed Sea Snake**
+
+    *   **Scientific Name:** _Hydrophis stricticollis_
+    *   **Distinguishing Qualities:** Venomous, with a characteristic spiny or ridged head. Lives in coastal waters of the Indo-Pacific.
+    *   **Name for Photos:** Spiny-headed Sea Snake (1)
+    
+4.  **Stephens' Banded Snake**
+
+    *   **Scientific Name:** _Hoplocephalus stephensii_
+    *   **Distinguishing Qualities:** Venomous, arboreal snake with black and yellow bands. Native to Australia.
+    *   **Name for Photos:** Stephens' Banded Snake (1)
+    
+5.  **Taita Hills Reed Snake**
+
+    *   **Scientific Name:** _Macroprotodon taitaensis_
+    *   **Distinguishing Qualities:** Small, non-venomous, and nocturnal. Found in the Taita Hills of Kenya.
+    *   **Name for Photos:** Taita Hills Reed Snake (1)
+    
+
+6.  **Trans-Pecos Rat Snake**
+
+    *   **Scientific Name:** _Bogertophis subocularis_
+    *   **Distinguishing Qualities:** Non-venomous, with large eyes and a sandy yellow coloration. Native to the southwestern US.
+    *   **Name for Photos:** Trans-Pecos Rat Snake (1)
+    
+
+7.  **Twig Snake**
+
+    *   **Scientific Name:** _Thelotornis spp._
+    *   **Distinguishing Qualities:** Venomous, slender snake that resembles a twig. Has a distinctive green and brown coloration.
+    *   **Name for Photos:** Twig Snake (1)
+    
+
+8.  **Variable Coral Snake**
+
+    *   **Scientific Name:** _Micrurus diastema_
+    *   **Distinguishing Qualities:** Highly venomous, with a variable pattern of red, black, and yellow bands. Found in Central America.
+    *   **Name for Photos:** Variable Coral Snake (1)
+
+9.  **Western Coachwhip**
+
+    *   **Scientific Name:** _Masticophis flagellum_
+    *   **Distinguishing Qualities:** Non-venomous, slender, and fast-moving snake. Typically tan or brown, resembling a braided whip.
+    *   **Name for Photos:** Western Coachwhip (1)
+    
+
+1.  **White-bellied Mangrove Snake**
+
+    *   **Scientific Name:** _Boiga dendrophila_
+    *   **Distinguishing Qualities:** Mildly venomous, with a glossy black body and white belly. Prefers mangrove forests and coastal habitats.
+    *   **Name for Photos:** White-bellied Mangrove Snake (1)
+    
+
+2.  **Wolf Snake**
+
+    *   **Scientific Name:** _Lycodon spp._
+    *   **Distinguishing Qualities:** Non-venomous, with a slender body and a resemblance to kraits. Commonly found in Southeast Asia.
+    *   **Name for Photos:** Wolf Snake (1)
+    
+3.  **Yellow Rat Snake**
+
+    *   **Scientific Name:** _Pantherophis alleghaniensis quadrivittata_
+    *   **Distinguishing Qualities:** Non-venomous, with yellow or orange scales and four dark stripes. Native to the southeastern US.
+    *   **Name for Photos:** Yellow Rat Snake (1)
+    
+4.  **Zanzibar File Snake**
+
+    *   **Scientific Name:** _Mehelya laurenti_
+    *   **Distinguishing Qualities:** Non-venomous, with a rough, keeled texture on its scales. Found in East African forests.
+    *   **Name for Photos:** Zanzibar File Snake (1)
+    
+
+5.  **Eastern Ribbon Snake**
+
+    *   **Scientific Name:** _Thamnophis sauritus_
+    *   **Distinguishing Qualities:** Non-venomous, slender, with distinct yellow stripes. Found near freshwater habitats.
+    *   **Name for Photos:** Eastern Ribbon Snake (1)
+    
+
+6.  **False Coral Snake**
+
+    *   **Scientific Name:** _Oxyrhopus spp._
+    *   **Distinguishing Qualities:** Non-venomous, mimics venomous coral snakes with red, black, and yellow bands. Native to South America.
+    *   **Name for Photos:** False Coral Snake (1)
+    
+
+7.  **Mexican Parrot Snake**
+
+    *   **Scientific Name:** _Leptophis mexicanus_
+    *   **Distinguishing Qualities:** Non-venomous, bright green with a slender body. Found in Central America’s forests.
+    *   **Name for Photos:** Mexican Parrot Snake (1)
+    
+
+8.  **Malagasy Ground Boa**
+
+    *   **Scientific Name:** _Acrantophis madagascariensis_
+    *   **Distinguishing Qualities:** Large, non-venomous constrictor. Native to Madagascar, often with brown and gray markings.
+    *   **Name for Photos:** Malagasy Ground Boa (1)
+    
+
+9.  **Philippine Pit Viper**
+
+    *   **Scientific Name:** _Trimeresurus flavomaculatus_
+    *   **Distinguishing Qualities:** Venomous, green with yellowish patterns. Arboreal, found in the Philippines' forests.
+    *   **Name for Photos:** Philippine Pit Viper (1)
+    
+
+1.  **Saharan Sand Viper**
+
+    *   **Scientific Name:** _Cerastes vipera_
+    *   **Distinguishing Qualities:** Venomous, small, and well-camouflaged in sandy deserts. Recognized by its sidewinding movement and pale, sandy coloration.
+    *   **Name for Photos:** Saharan Sand Viper (1)
