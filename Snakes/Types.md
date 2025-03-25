@@ -2972,3 +2972,66 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bungar\_candi\_120608-0343\_krw.jpg/1280px-Bungar\_candi\_120608-0343\_krw.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bungar_candi_120608-0343_krw.jpg/1280px-Bungar_candi_120608-0343_krw.jpg)
         * [https://en.wikipedia.org/wiki/Bungarus\_candidus](https://en.wikipedia.org/wiki/Bungarus_candidus)
+
+9.  **Elegant Coral Snake** 
+
+    *   **Scientific Name:** _Micrurus elegans_
+    *   **Distinguishing Qualities:** A brightly colored, venomous snake with characteristic red, black, and yellow banding. It is often mistaken for non-venomous mimics.
+    *   **Name for Photos:** Elegant Coral Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/1520086/large.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/1520086/large.jpg)
+        * [https://en.wikipedia.org/wiki/Elegant\_coral\_snake](https://en.wikipedia.org/wiki/Elegant_coral_snake)
+
+1.  **Lined Snake**
+
+    *   **Scientific Name:** _Tropidoclonion lineatum_
+    *   **Distinguishing Qualities:** A small, non-venomous snake with pale stripes running along its dark gray or brown body. Often found in grasslands and suburban areas.
+    *   **Name for Photos:** Lined Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/f2/Tropidoclonion\_lineatum\_texanum.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f2/Tropidoclonion_lineatum_texanum.jpg)
+        * [https://en.wikipedia.org/wiki/Tropidoclonion](https://en.wikipedia.org/wiki/Tropidoclonion)
+
+2.  **Madagascar Tree Boa** 
+
+    *   **Scientific Name:** _Sanzinia madagascariensis_
+    *   **Distinguishing Qualities:** A non-venomous constrictor native to Madagascar. It has a robust body with dark patterns that provide excellent camouflage in trees.
+    *   **Name for Photos:** Madagascar Tree Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Madagascar\_Ground\_Boa\_(Sanzinia\_madagascariensis)\_(7629832256).jpg/1024px-Madagascar\_Ground\_Boa\_(Sanzinia\_madagascariensis)\_(7629832256).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Madagascar_Ground_Boa_(Sanzinia_madagascariensis)_(7629832256).jpg/1024px-Madagascar_Ground_Boa_(Sanzinia_madagascariensis)_(7629832256).jpg)
+        * [https://en.wikipedia.org/wiki/Sanzinia\_madagascariensis](https://en.wikipedia.org/wiki/Sanzinia_madagascariensis)
+    
+3.  **Black-headed Bushmaster**
+
+    *   **Scientific Name:** _Lachesis melanocephala_
+    *   **Distinguishing Qualities:** A venomous pit viper with a distinctive black head. Known for its large size and powerful venom, it inhabits Central American rainforests.
+    *   **Name for Photos:** Black-headed Bushmaster (1)
+    *   **Sources:**
+        * [https://www.speciesconservation.org/grant-files/phpThumb/phpThumb.php?src=https://www.speciesconservation.org//grant-files/species-photographs/species-photo-12217.jpg&w=800&hash=8ab707a36ff7af2722f5b770a69556a6](https://www.speciesconservation.org/grant-files/phpThumb/phpThumb.php?src=https://www.speciesconservation.org//grant-files/species-photographs/species-photo-12217.jpg&w=800&hash=8ab707a36ff7af2722f5b770a69556a6)
+        * [https://www.speciesconservation.org/case-studies-projects/black-headed-bushmaster/7065](https://www.speciesconservation.org/case-studies-projects/black-headed-bushmaster/7065)
+    
+4.  **Mexican Burrowing Python** 
+
+    *   **Scientific Name:** _Loxocemus bicolor_
+    *   **Distinguishing Qualities:** A small, burrowing, non-venomous snake with a stout body and a shiny, dark brown or black coloration. Often mistaken for other burrowing snakes.
+    *   **Name for Photos:** Mexican Burrowing Python (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/1e/Loxocemus\_bicolor.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1e/Loxocemus_bicolor.jpg)
+        * [https://en.wikipedia.org/wiki/Loxocemus](https://en.wikipedia.org/wiki/Loxocemus)
+    
+5.  **Blanding's Tree Snake**
+
+    *   **Scientific Name:** _Boiga blandingii_
+    *   **Distinguishing Qualities:** A rear-fanged, mildly venomous snake with a slender body and large eyes. Active at night, often preying on birds and small mammals.
+    *   **Name for Photos:** Blanding's Tree Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b5/Toxicodryas\_blandingii.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b5/Toxicodryas_blandingii.jpg)
+        * [https://en.wikipedia.org/wiki/Toxicodryas\_blandingii](https://en.wikipedia.org/wiki/Toxicodryas_blandingii)
+    
+6.  **Western Ribbon Snake** 
+
+    *   **Scientific Name:** _Thamnophis proximus_
+    *   **Distinguishing Qualities:** A slender, non-venomous snake with a long tail and distinctive stripes. It prefers aquatic habitats and is often found near ponds and streams.
+    *   **Name for Photos:** Western Ribbon Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thamnophis\_proximus.jpg/1024px-Thamnophis\_proximus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thamnophis_proximus.jpg/1024px-Thamnophis_proximus.jpg)
+        * [https://en.wikipedia.org/wiki/Thamnophis\_proximus](https://en.wikipedia.org/wiki/Thamnophis_proximus)
