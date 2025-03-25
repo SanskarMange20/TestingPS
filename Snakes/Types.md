@@ -3035,3 +3035,93 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thamnophis\_proximus.jpg/1024px-Thamnophis\_proximus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thamnophis_proximus.jpg/1024px-Thamnophis_proximus.jpg)
         * [https://en.wikipedia.org/wiki/Thamnophis\_proximus](https://en.wikipedia.org/wiki/Thamnophis_proximus)
+
+7.  **Banded Sea Krait**
+
+    *   **Scientific Name:** _Laticauda colubrina_
+    *   **Distinguishing Qualities:** A venomous sea snake with black bands on a pale blue or yellow body. It is amphibious, spending time both on land and in the ocean.
+    *   **Name for Photos:** Banded Sea Krait (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Banded\_Sea\_Krait\_(Laticauda\_colubrina)\_(14641328165).jpg/1280px-Banded\_Sea\_Krait\_(Laticauda\_colubrina)\_(14641328165).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Banded_Sea_Krait_(Laticauda_colubrina)_(14641328165).jpg/1280px-Banded_Sea_Krait_(Laticauda_colubrina)_(14641328165).jpg)
+        * [https://en.wikipedia.org/wiki/Yellow-lipped\_sea\_krait](https://en.wikipedia.org/wiki/Yellow-lipped_sea_krait)
+    
+8.  **Boiga Nigriceps**
+
+    *   **Scientific Name:** _Boiga nigriceps_
+    *   **Distinguishing Qualities:** A mildly venomous snake with a dark head and slender body. It is nocturnal and commonly found in forests.
+    *   **Name for Photos:** Boiga Nigriceps (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boiga\_nigriceps,\_Red\_cat\_snake.jpg/1280px-Boiga\_nigriceps,\_Red\_cat\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boiga_nigriceps,_Red_cat_snake.jpg/1280px-Boiga_nigriceps,_Red_cat_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Boiga\_nigriceps](https://en.wikipedia.org/wiki/Boiga_nigriceps)
+    
+9.  **Green Keelback** 
+
+    *   **Scientific Name:** _Rhabdophis nigrocinctus_
+    *   **Distinguishing Qualities:** A mildly venomous snake with vibrant green coloration and a distinct black band around its neck. It prefers moist, grassy areas.
+    *   **Name for Photos:** Green Keelback (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/71/Macropisthodon\_plumbicolor-Dandeli.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Macropisthodon_plumbicolor-Dandeli.jpg)
+        * [https://en.wikipedia.org/wiki/Rhabdophis\_plumbicolor](https://en.wikipedia.org/wiki/Rhabdophis_plumbicolor)
+    
+1.  **Texas Blind Snake** 
+
+    *   **Scientific Name:** _Leptotyphlops dulcis_
+    *   **Distinguishing Qualities:** A small, worm-like snake with smooth, shiny scales. It lives underground, feeding on ants and termites.
+    *   **Name for Photos:** Texas Blind Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/97834933/large.jpg](https://static.inaturalist.org/photos/97834933/large.jpg)
+        * [https://kids.britannica.com/students/article/Texas-blind-snake/313819](https://kids.britannica.com/students/article/Texas-blind-snake/313819)
+    
+2.  **White-lipped Snake** 
+
+    *   **Scientific Name:** _Drysdalia coronoides_
+    *   **Distinguishing Qualities:** A slender, venomous snake with a distinctive white stripe on its upper lip. It is typically found in cooler, moist habitats.
+    *   **Name for Photos:** White-lipped Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/72576619/large.jpeg](https://static.inaturalist.org/photos/72576619/large.jpeg)
+        * [https://www.inaturalist.org/taxa/99620-Drysdalia-coronoides](https://www.inaturalist.org/taxa/99620-Drysdalia-coronoides)
+    
+3.  **Mexican Short-tailed Snake** 
+
+    *   **Scientific Name:** _Sympholis lippiens_
+    *   **Distinguishing Qualities:** A small, burrowing snake with a short tail and smooth scales. It is rarely seen above ground.
+    *   **Name for Photos:** Mexican Short-tailed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mexican\_Short-tailed\_Snake\_(Sympholis\_lippiens).jpg/1280px-Mexican\_Short-tailed\_Snake\_(Sympholis\_lippiens).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mexican_Short-tailed_Snake_(Sympholis_lippiens).jpg/1280px-Mexican_Short-tailed_Snake_(Sympholis_lippiens).jpg)
+        * [https://en.wikipedia.org/wiki/Sympholis](https://en.wikipedia.org/wiki/Sympholis)
+    
+4.  **Oaxacan Dwarf Boa** 
+
+    *   **Scientific Name:** _Exiliboa placata_
+    *   **Distinguishing Qualities:** A small, non-venomous boa with a slender, elongated body resembling a twig. It is endemic to Central America.
+    *   **Name for Photos:** Oaxacan Dwarf Boa (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/311154797/original.jpeg](https://inaturalist-open-data.s3.amazonaws.com/photos/311154797/original.jpeg)
+        * [https://www.inaturalist.org/taxa/32346-Exiliboa-placata](https://www.inaturalist.org/taxa/32346-Exiliboa-placata)
+    
+5.  **Cape Coral Snake** 
+
+    *   **Scientific Name:** _Aspidelaps lubricus_
+    *   **Distinguishing Qualities:** A venomous snake with striking red, black, and yellow bands. It is native to arid regions of southern Africa.
+    *   **Name for Photos:** Cape Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/36/Aspidelaps\_lubricus\_cropped.jpg](https://upload.wikimedia.org/wikipedia/commons/3/36/Aspidelaps_lubricus_cropped.jpg)
+        * [https://en.wikipedia.org/wiki/Aspidelaps\_lubricus](https://en.wikipedia.org/wiki/Aspidelaps_lubricus)
+    
+6.  **Sri Lankan Pit Viper** 
+
+    *   **Scientific Name:** _Trimeresurus trigonocephalus_
+    *   **Distinguishing Qualities:** A venomous pit viper with a bright green body and triangular head. It is arboreal and typically found in Sri Lankan forests.
+    *   **Name for Photos:** Sri Lankan Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sri\_Lanka\_Green\_Pit\_Viper.jpg/1280px-Sri\_Lanka\_Green\_Pit\_Viper.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sri_Lanka_Green_Pit_Viper.jpg/1280px-Sri_Lanka_Green_Pit_Viper.jpg)
+        * [https://en.wikipedia.org/wiki/Craspedocephalus\_trigonocephalus](https://en.wikipedia.org/wiki/Craspedocephalus_trigonocephalus)
+    
+7.  **Rainbow Mud Snake** 
+
+    *   **Scientific Name:** _Farancia erytrogramma_
+    *   **Distinguishing Qualities:** A non-venomous aquatic snake with iridescent scales and a red belly. It thrives in swamps and wetlands.
+    *   **Name for Photos:** Rainbow Mud Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Farancia\_erytrogramma\_(rainbow\_snake).jpg/1024px-Farancia\_erytrogramma\_(rainbow\_snake).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Farancia_erytrogramma_(rainbow_snake).jpg/1024px-Farancia_erytrogramma_(rainbow_snake).jpg)
+        * [https://en.wikipedia.org/wiki/Farancia\_erytrogramma](https://en.wikipedia.org/wiki/Farancia_erytrogramma)
