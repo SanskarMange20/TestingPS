@@ -329,3 +329,10 @@
 329. **Seychelles Wolf Snake**
 330. **Usambara Vine Snake**
 331. **Vietnamese Blue Krait**
+332. **Elegant Coral Snake** 
+333. **Lined Snake** 
+334. **Madagascar Tree Boa** 
+335. **Black-headed Bushmaster** 
+336. **Mexican Burrowing Python** 
+337. **Blanding's Tree Snake**
+338. **Western Ribbon Snake**
