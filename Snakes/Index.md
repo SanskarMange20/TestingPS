@@ -336,3 +336,13 @@
 336. **Mexican Burrowing Python** 
 337. **Blanding's Tree Snake**
 338. **Western Ribbon Snake**
+339. **Banded Sea Krait**
+340. **Boiga Nigriceps** 
+341. **Green Keelback** 
+342. **Texas Blind Snake**
+343. **White-lipped Snake** 
+344. **Mexican Short-tailed Snake** 
+345. **Oaxacan Dwarf Boa** 
+346. **Cape Coral Snake** 
+347. **Sri Lankan Pit Viper** 
+348. **Rainbow Mud Snake** 
