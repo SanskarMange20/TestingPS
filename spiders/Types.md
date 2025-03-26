@@ -1,4 +1,4 @@
-1. Banded Garden Spider
+![image](https://github.com/user-attachments/assets/555513e8-89aa-4963-b248-91792e35dd75)1. Banded Garden Spider
 -----------------------
 
 *   **Scientific Name**: _Argiope trifasciata_
@@ -327,9 +327,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 
 *   **Sources**: (https://en.wikipedia.org/wiki/Olios_giganteus#:~:text=Characteristics,be%20up%20to%203%20inches.)
   https://en.wikipedia.org/wiki/Olios_giganteus#/media/File:Olios_giganteus_-_Flickr_-_andrey_zharkikh.jpg
-
+  https://inaturalist-open-data.s3.amazonaws.com/photos/2229/large.jpg
   
-
 **25. Ogre-Faced Spider**  
 -----------------  
 
@@ -340,6 +339,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider49, Spider50  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Deinopidae](https://en.wikipedia.org/wiki/Deinopidae)  
+https://static.inaturalist.org/photos/256444356/large.jpeg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrIhxFTbz2pRL9E1KHpU0X5D__MXo96y9KQ&s
 
 **26. Peacock Spider**  
 -----------------  
@@ -350,7 +351,9 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 
 *   **Image Name**: Spider51, Spider52  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Maratus](https://en.wikipedia.org/wiki/Maratus)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Maratus](https://en.wikipedia.org/wiki/Maratus)
+  https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MalePeacockSpider.jpg/375px-MalePeacockSpider.jpg
+https://static.inaturalist.org/photos/102967423/large.jpeg
 
 **27. Brazilian Wandering Spider**  
 -----------------  
@@ -362,6 +365,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider53, Spider54  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Phoneutria](https://en.wikipedia.org/wiki/Phoneutria)  
+https://upload.wikimedia.org/wikipedia/commons/9/9b/Aranha_armadeira%28Phoneutria_nigriventer%29_por_Rodrigo_Tetsuo_Argenton_%284%29.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLfemf0h7wrjByPclIXxC0gco76Sa8qOmng&s
 
 **28. Redback Spider**  
 -----------------  
@@ -373,6 +378,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider55, Spider56  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Latrodectus_hasseltii](https://en.wikipedia.org/wiki/Latrodectus_hasseltii)  
+https://upload.wikimedia.org/wikipedia/commons/8/8f/Latrodectus_hasseltii_close.jpg
+https://media.australian.museum/media/dd/images/Some_image.width-1600.c3b240b.jpg
 
 **29. Sydney Funnel-Web Spider**  
 -----------------  
@@ -384,6 +391,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider57, Spider58  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Atrax_robustus](https://en.wikipedia.org/wiki/Atrax_robustus)  
+https://media.australian.museum/media/dd/thumbnails/images/Atrax_robustus_male_Wahroonga2_Ramon_Mascord..width-1600.8c791c5.jpg
+https://media.australian.museum/media/dd/thumbnails/images/Atrax_robustus_captivity_from_West_Pennant_Hi.width-1600.9d8a94b.jpg
 
 **30. Northern Tree Funnel-Web Spider**  
 -----------------  
@@ -395,7 +404,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider59, Spider60  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Hadronyche_formidabilis](https://en.wikipedia.org/wiki/Hadronyche_formidabilis)
-
+https://upload.wikimedia.org/wikipedia/commons/c/c0/AustralianMuseum_spider_specimen_19.JPG
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/AustralianMuseum_spider_specimen_20.JPG/250px-AustralianMuseum_spider_specimen_20.JPG
   
 **31. Goliath Birdeater**  
 -----------------  
@@ -407,6 +417,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider61, Spider62  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Theraphosa_blondi](https://en.wikipedia.org/wiki/Theraphosa_blondi)  
+https://upload.wikimedia.org/wikipedia/commons/f/fa/Theraphosa_blondi_MHNT.jpg
+https://www.newlands.ie/cdn/shop/files/29d1376e4f3ed1649b1b4ae11e435d83.jpg?v=1705950186
 
 **32. Pinktoe Tarantula**  
 -----------------  
@@ -418,6 +430,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider63, Spider64  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Avicularia_avicularia](https://en.wikipedia.org/wiki/Avicularia_avicularia)  
+https://upload.wikimedia.org/wikipedia/commons/4/43/AVICULARIA_AVICULARIA.JPG
+https://www.mymonsters.co.za/wp-content/uploads/2018/07/AVIAVIMF.jpg
 
 **33. Mexican Red-Knee Tarantula**  
 -----------------  
@@ -429,6 +443,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider65, Spider66  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Brachypelma_smithi](https://en.wikipedia.org/wiki/Brachypelma_smithi)  
+https://upload.wikimedia.org/wikipedia/commons/9/9f/Brachypelma_smithi_%28F._O._Pickard-Cambridge%2C_1897%29.jpg
+https://www.thesprucepets.com/thmb/_VAUmGB6CKIPw-TL9NVA8JFCoCc=/2000x0/filters:no_upscale():strip_icc()/GettyImages-609850276-5816b9023df78cc2e8107200.jpg
 
 **34. Camel Spider**  
 -----------------  
@@ -440,6 +456,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider67, Spider68  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Solifugae](https://en.wikipedia.org/wiki/Solifugae)  
+https://www.ead.gov.ae/-/media/Project/EAD/EAD/Biodiversity/NewImages/Invertebrates/Camel-spider-resized.jpg
+https://www.onlinepestcontrol.com/wp-content/uploads/2015/07/windscorp-L-300x209.jpg
 
 **35. Trapdoor Spider**  
 -----------------  
@@ -451,6 +469,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider69, Spider70  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Ctenizidae](https://en.wikipedia.org/wiki/Ctenizidae)  
+https://upload.wikimedia.org/wikipedia/commons/a/ab/Corsican_Trapdoor_Spider_%28Cteniza_sauvagesi%29_%2816586173944%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/ad/Ummidia_sp.jpg
 
 **36. Happy Face Spider**  
 -----------------  
@@ -462,6 +482,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider71, Spider72  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Theridion_grallator](https://en.wikipedia.org/wiki/Theridion_grallator)  
+https://inaturalist-open-data.s3.amazonaws.com/photos/240680116/medium.jpeg
+https://inaturalist-open-data.s3.amazonaws.com/photos/301415828/medium.jpeg
 
 **37. Bolas Spider**  
 -----------------  
@@ -473,6 +495,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider73, Spider74  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Mastophora](https://en.wikipedia.org/wiki/Mastophora)  
+https://upload.wikimedia.org/wikipedia/commons/d/db/Mastophora_hutchinsoni_%E2%99%80_%2848448404301%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e6/Bolas_Spider%2C_Mastophora_phrynosoma_-_Julie_Metz_Wetlands%2C_Woodbridge%2C_Virginia.jpg
 
 **38. Net-Casting Spider**  
 -----------------  
@@ -484,6 +508,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider75, Spider76  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Deinopidae](https://en.wikipedia.org/wiki/Deinopidae)  
+https://cdn.jlrexplore.com/uploads/2022/11/960_Banner-6907.jpg  
+https://npr.brightspotcdn.com/dims4/default/dcb8631/2147483647/strip/true/crop/580x580+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2Ffa%2Fed07b6514a47945861d0a6fd7cc5%2Fbug-bytes-54-net-casting-spider.jpg
 
 **39. Purse Web Spider**  
 -----------------  
@@ -494,7 +520,9 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 
 *   **Image Name**: Spider77, Spider78  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Atypus](https://en.wikipedia.org/wiki/Atypus)  
+*   **Sources**: [https://en.wikipedia.org/wiki/Atypus](https://en.wikipedia.org/wiki/Atypus)
+https://upload.wikimedia.org/wikipedia/commons/5/5c/Atypus_affinis_natur.jpg
+https://www.susqu.edu/live/image/gid/8/width/1260/height/630/crop/1/10367_purseweb.jpg
 
 **40. Lynx Spider**  
 -----------------  
@@ -506,6 +534,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider79, Spider80  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Oxyopidae](https://en.wikipedia.org/wiki/Oxyopidae)  
+https://upload.wikimedia.org/wikipedia/commons/1/19/Oxyopes_salticus_female_01.jpg
+https://en-academic.com/pictures/enwiki/76/Lynx_spider_-_Oxyopes_sp.jpg
 
 **41. Velvet Spider**  
 -----------------  
@@ -517,6 +547,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider81, Spider82  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Eresidae](https://en.wikipedia.org/wiki/Eresidae)  
+https://upload.wikimedia.org/wikipedia/commons/3/31/Eresus_fg03.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9-7xhIo0XDK23p9KYWF9DwAyNwa07MEJaA&s
 
 **42. Giant House Spider**  
 -----------------  
@@ -528,6 +560,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider83, Spider84  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Eratigena_atrica](https://en.wikipedia.org/wiki/Eratigena_atrica)  
+https://upload.wikimedia.org/wikipedia/commons/3/35/Hausspinne_Tegenaria_atrica.jpg
+https://warehouse1.indicia.org.uk/upload/15/17/09/o_1c4st21gg3n72cq10ta76d1r19b.jpg
 
 **43. Feather-Legged Spider**  
 -----------------  
@@ -539,6 +573,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider85, Spider86  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Uloboridae](https://en.wikipedia.org/wiki/Uloboridae)  
+https://c8.alamy.com/comp/EBHTF0/female-hothouse-featherleg-spider-uloborus-plumipes-on-white-background-EBHTF0.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/January_Sales_%2849315388508%29.jpg/1200px-January_Sales_%2849315388508%29.jpg
 
 **44. Ant-Mimic Spider**  
 -----------------  
@@ -550,6 +586,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider87, Spider88  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Myrmarachne](https://en.wikipedia.org/wiki/Myrmarachne)  
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Myrmarachne_sp.jpg/1200px-Myrmarachne_sp.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHvYtY8v5cP8z2vikFZ2QfWRbNyGYw0LRkrA&s
 
 **45. Pirate Spider**  
 -----------------  
@@ -561,6 +599,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider89, Spider90  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Mimetidae](https://en.wikipedia.org/wiki/Mimetidae)  
+https://upload.wikimedia.org/wikipedia/commons/6/65/Ero_aphana_female_side.jpg
+https://warehouse1.indicia.org.uk/upload/med-o_1hf2987ao1pnj1unk8ocl62ffo4b.jpg
 
 **46. Spruce-Fir Moss Spider**  
 -----------------  
@@ -572,6 +612,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider91, Spider92  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Microhexura_montivaga](https://en.wikipedia.org/wiki/Microhexura_montivaga)  
+https://upload.wikimedia.org/wikipedia/commons/3/39/Spruce_Fir_Moss_Spider.jpg
+https://wncmagazine.com/sites/default/files/Microhexura_montivaga_with_egg_sac.jpg
 
 **47. Cave Spider**  
 -----------------  
@@ -583,6 +625,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider93, Spider94  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Meta_menardi](https://en.wikipedia.org/wiki/Meta_menardi)  
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Meta_menardi.jpg/1200px-Meta_menardi.jpg
+https://srs.britishspiders.org.uk/cache/cf8c4ad0_snap.jpg
 
 **48. Mirror Spider**  
 -----------------  
@@ -594,6 +638,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider95, Spider96  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Thwaitesia_argentiopunctata](https://en.wikipedia.org/wiki/Thwaitesia_argentiopunctata)  
+https://upload.wikimedia.org/wikipedia/commons/b/bf/Thwaitesia_Spider_on_White_Beech_leaf.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9MXHYdoCbot-10qNBaV1QlGnuS80lSIjFYg&s
 
 **49. Red-Headed Mouse Spider**  
 -----------------  
@@ -605,6 +651,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider97, Spider98  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Missulena_occatoria](https://en.wikipedia.org/wiki/Missulena_occatoria)  
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Male_Missulena_occatoria_spider_-_cropped.JPG/1200px-Male_Missulena_occatoria_spider_-_cropped.JPG
+https://media.australian.museum/media/dd/images/Some_image.width-1200.af2b0aa.jpg
 
 **50. Chilean Rose Tarantula**  
 -----------------  
@@ -616,6 +664,8 @@ https://en.wikipedia.org/wiki/Missulena#/media/File:Mouse_spider02.jpg
 *   **Image Name**: Spider99, Spider100  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Grammostola_rosea](https://en.wikipedia.org/wiki/Grammostola_rosea)  
+https://upload.wikimedia.org/wikipedia/commons/2/22/Grammostola_rosea_adult_weiblich.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 
 **51. Fringed Ornamental Tarantula**  
 -----------------  
