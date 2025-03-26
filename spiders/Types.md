@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/555513e8-89aa-4963-b248-91792e35dd75)1. Banded Garden Spider
+1. Banded Garden Spider
 -----------------------
 
 *   **Scientific Name**: _Argiope trifasciata_
