@@ -677,8 +677,8 @@ https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 *   **Image Name**: Spider101, Spider102  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Poecilotheria](https://en.wikipedia.org/wiki/Poecilotheria)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/c/c3/Poecilotheria_ornata_-_female_-_top_view.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/POEORNS-1.jpg
 
 **52. Desert Recluse Spider**  
 -----------------  
@@ -690,7 +690,8 @@ https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 *   **Image Name**: Spider103, Spider104  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Loxosceles](https://en.wikipedia.org/wiki/Loxosceles)  
-
+https://extension.usu.edu/planthealth/schoolipm/images/pest-id-guide/spiders/brown_recluse_mark_dreiling_bugguide.jpg
+https://extension.usu.edu/planthealth/schoolipm/images/pest-id-guide/spiders/desert_recluse_lynette_flickr_crop1.jpg
 
 **53. Australian Bronze Jumping Spider**  
 -----------------  
@@ -702,8 +703,8 @@ https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 *   **Image Name**: Spider105, Spider106  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Helpis_minitabunda](https://en.wikipedia.org/wiki/Helpis_minitabunda)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Helpis_minitabunda_female.jpg
+https://www.brisbaneinsects.com/brisbane_jumpers/images/DSC_9087.jpg
 
 **54. Green Huntsman Spider**  
 -----------------  
@@ -715,8 +716,8 @@ https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 *   **Image Name**: Spider107, Spider108  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Micrommata_virescens](https://en.wikipedia.org/wiki/Micrommata_virescens)  
-
-
+https://www.eurospiders.com/micrommata_virescens_female_front_4124.jpg
+https://inaturalist-open-data.s3.amazonaws.com/photos/32835364/original.jpg
 
 **55. Hobo Spider**  
 -----------------  
@@ -728,8 +729,8 @@ https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 *   **Image Name**: Spider109, Spider110  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Eratigena_agrestis](https://en.wikipedia.org/wiki/Eratigena_agrestis)  
-
-
+https://inaturalist-open-data.s3.amazonaws.com/photos/29374161/original.jpg
+https://www.montana.edu/extension/ipm/images/entomology/eratigena-agrestis-male-350.jpg
 
 **56. Star Spider**  
 -----------------  
@@ -741,8 +742,8 @@ https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 *   **Image Name**: Spider111, Spider112  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha_cancriformis](https://en.wikipedia.org/wiki/Gasteracantha_cancriformis)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/7/76/Gasteracantha_cancriformis_-_Spiny_backed_orbweaver_%283778044268%29.jpg
+https://pristineasia.com/wp-content/uploads/2022/03/Gasteracantha-cancriformis.jpg
 
 **57. Long-Palped Ant Mimic Spider**  
 -----------------  
@@ -754,7 +755,8 @@ https://www.mymonsters.co.za/wp-content/uploads/2019/01/GRAROSMF01.jpg
 *   **Image Name**: Spider113, Spider114  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Castianeira](https://en.wikipedia.org/wiki/Castianeira)  
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Long_Palped_Ant_Mimic_Sac_Spider_-_Castianeira_longipalpa.jpg/220px-Long_Palped_Ant_Mimic_Sac_Spider_-_Castianeira_longipalpa.jpg
+https://live.staticflickr.com/65535/53870687855_f5d15562ba_b.jpg
 
  **58. Little White Spider**  
 -----------------  
