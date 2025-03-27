@@ -3128,72 +3128,108 @@
 
 8.  **Barbados Racer**
     
-    *   **Scientific Name:** _Liophis perfuscus_  
+    *   **Scientific Name:** _Erythrolamprus perfuscus_  
     *   **Distinguishing Qualities:** A small, non-venomous snake native to Barbados, considered one of the rarest snakes in the world. It has a slender body with a brownish or gray coloration.  
     *   **Name for Photos:** Barbados Racer (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/6646438/medium.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/6646438/medium.jpg)
+        * [https://www.inaturalist.org/taxa/520239-Erythrolamprus-perfuscus](https://www.inaturalist.org/taxa/520239-Erythrolamprus-perfuscus)
         
 9.  **Gaboon Forest Cobra**
     
     *   **Scientific Name:** _Naja melanoleuca_     
     *   **Distinguishing Qualities:** A large, highly venomous snake found in African forests. Known for its striking black and white coloration and distinctive hood.    
     *   **Name for Photos:** Gaboon Forest Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/1/13/Cobra\_des\_forêts.jpg](https://upload.wikimedia.org/wikipedia/commons/1/13/Cobra_des_forêts.jpg)
+        * [https://en.wikipedia.org/wiki/Forest\_cobra](https://en.wikipedia.org/wiki/Forest_cobra)
         
 1.  **Blue Racer Snake**
     
     *   **Scientific Name:** _Coluber constrictor foxii_
     *   **Distinguishing Qualities:** A non-venomous snake with a smooth, glossy blue-gray body. It is agile and fast, often found in grasslands and open forests.
     *   **Name for Photos:** Blue Racer Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Coiledblueracersnake.jpg/1280px-Coiledblueracersnake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Coiledblueracersnake.jpg/1280px-Coiledblueracersnake.jpg)
+        * [https://en.wikipedia.org/wiki/Coluber\_constrictor\_foxii](https://en.wikipedia.org/wiki/Coluber_constrictor_foxii)
         
 2.  **Coastal Taipan**
     
     *   **Scientific Name:** _Oxyuranus scutellatus_   
     *   **Distinguishing Qualities:** One of the most venomous snakes in the world, with a slender body and light brown to olive coloration. It is native to coastal regions of Australia.
     *   **Name for Photos:** Coastal Taipan (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a9/Costal\_Tiapan\_at\_Taronga\_Zoo.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/Costal_Tiapan_at_Taronga_Zoo.jpg)
+        * [https://en.wikipedia.org/wiki/Coastal\_taipan](https://en.wikipedia.org/wiki/Coastal_taipan)
         
 3.  **Yunnan Mountain Rat Snake**
     
     *   **Scientific Name:** _Elaphe yunnanensis_  
     *   **Distinguishing Qualities:** A non-venomous snake with a slender build and brown or gray scales with darker bands. Found in the mountainous regions of Yunnan, China. 
     *   **Name for Photos:** Yunnan Mountain Rat Snake (1)
+    *   **Sources:**
+        * [https://vhm-abc.com/images/stories/partners/fotos\_reptielen/Yklein.jpg](https://vhm-abc.com/images/stories/partners/fotos_reptielen/Yklein.jpg)
+        * [https://vhm-abc.com/en/?view=article&id=127:orthriophis-elaphe-taeniura-yunnanensis-yunnan-ratsnake&catid=22](https://vhm-abc.com/en/?view=article&id=127:orthriophis-elaphe-taeniura-yunnanensis-yunnan-ratsnake&catid=22)
         
 4.  **False Viper**
     
-    *   **Scientific Name:** _Pareas carinatus_
+    *   **Scientific Name:** _Pseudagkistrodon_
     *   **Distinguishing Qualities:** A small, non-venomous snake with a slender body and keeled scales. It mimics venomous vipers as a defense mechanism and primarily feeds on snails.
     *   **Name for Photos:** False Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/0/02/Macropisthodon\_rudis\_from\_Taiwan.jpg](https://upload.wikimedia.org/wikipedia/commons/0/02/Macropisthodon_rudis_from_Taiwan.jpg)
+        * [https://en.wikipedia.org/wiki/Pseudagkistrodon](https://en.wikipedia.org/wiki/Pseudagkistrodon)
         
 5.  **Giant Garter Snake**
     
     *   **Scientific Name:** _Thamnophis gigas_  
     *   **Distinguishing Qualities:** The largest species of garter snake, with a dark body marked with yellow stripes. It thrives in wetlands and marshes, feeding mainly on fish and amphibians.  
     *   **Name for Photos:** Giant Garter Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Giant\_Garter\_Snake\_1.jpg/1024px-Giant\_Garter\_Snake\_1.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Giant_Garter_Snake_1.jpg/1024px-Giant_Garter_Snake_1.jpg)
+        * [https://en.wikipedia.org/wiki/Giant\_garter\_snake](https://en.wikipedia.org/wiki/Giant_garter_snake)
         
 6.  **Rhino Rat Snake**
     
     *   **Scientific Name:** _Rhynchophis boulengeri_
     *   **Distinguishing Qualities:** A green, non-venomous snake with a distinctive horn-like projection on its snout. Native to Vietnam and China, it is an arboreal species.
     *   **Name for Photos:** Rhino Rat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rhynchophis\_boulengeri\_head\_(edited).jpg/1024px-Rhynchophis\_boulengeri\_head\_(edited).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rhynchophis_boulengeri_head_(edited).jpg/1024px-Rhynchophis_boulengeri_head_(edited).jpg)
+        * [https://en.wikipedia.org/wiki/Rhinoceros\_ratsnake](https://en.wikipedia.org/wiki/Rhinoceros_ratsnake)
         
 7.  **Beaked Sea Snake**
     
     *   **Scientific Name:** _Enhydrina schistosa_
     *   **Distinguishing Qualities:** A highly venomous sea snake with a distinctive beak-like snout. Found in coastal waters, it has a grayish body with darker bands.
     *   **Name for Photos:** Beaked Sea Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/HookNosedSeaSnake\_ArossimBeach\_Goa\_India.jpg/800px-HookNosedSeaSnake\_ArossimBeach\_Goa\_India.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/HookNosedSeaSnake_ArossimBeach_Goa_India.jpg/800px-HookNosedSeaSnake_ArossimBeach_Goa_India.jpg)
+        * [https://en.wikipedia.org/wiki/Hydrophis\_schistosus](https://en.wikipedia.org/wiki/Hydrophis_schistosus)
         
 8.  **Sri Lankan Cat Snake**
     
     *   **Scientific Name:** _Boiga ceylonensis_
     *   **Distinguishing Qualities:** A slender, mildly venomous snake with a cat-like appearance due to its large eyes. It has brown or gray scales with darker markings.
     *   **Name for Photos:** Sri Lankan Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/9a/Boiga\_ceylonensis.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9a/Boiga_ceylonensis.jpg)
+        * [https://en.wikipedia.org/wiki/Boiga\_ceylonensis](https://en.wikipedia.org/wiki/Boiga_ceylonensis)
         
 9.  **Tokara Habu**
     
     *   **Scientific Name:** _Trimeresurus tokarensis_
     *   **Distinguishing Qualities:** A venomous pit viper endemic to the Tokara Islands of Japan. It has a brown or olive body with a triangular head and heat-sensing pits.
     *   **Name for Photos:** Tokara Habu (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/17446392/large.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/17446392/large.jpg)
+        * [https://en.wikipedia.org/wiki/Tokara\_habu](https://en.wikipedia.org/wiki/Tokara_habu)
         
 1.  **Algerian Whip Snake**
     
     *   **Scientific Name:** _Hemorrhois algirus_
     *   **Distinguishing Qualities:** A non-venomous snake with a slender, agile body and light brown coloration with darker markings. It is found in Algeria and surrounding regions.
     *   **Name for Photos:** Algerian Whip Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hemorrhois\_algirus\_223958149.jpg/1280px-Hemorrhois\_algirus\_223958149.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hemorrhois_algirus_223958149.jpg/1280px-Hemorrhois_algirus_223958149.jpg)
+        * [https://en.wikipedia.org/wiki/Hemorrhois\_algirus](https://en.wikipedia.org/wiki/Hemorrhois_algirus)
