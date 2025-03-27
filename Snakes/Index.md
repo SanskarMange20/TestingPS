@@ -345,4 +345,16 @@
 345. **Oaxacan Dwarf Boa** 
 346. **Cape Coral Snake** 
 347. **Sri Lankan Pit Viper** 
-348. **Rainbow Mud Snake** 
+348. **Rainbow Mud Snake**
+349. **Barbados Racer**
+350. **Gaboon Forest Cobra**
+351. **Blue Racer Snake**
+352. **Coastal Taipan**
+353. **Yunnan Mountain Rat Snake**
+354. **False Viper**
+355. **Giant Garter Snake**
+356. **Rhino Rat Snake**
+357. **Beaked Sea Snake**
+358. **Sri Lankan Cat Snake**
+359. **Tokara Habu**
+360. **Algerian Whip Snake**  
