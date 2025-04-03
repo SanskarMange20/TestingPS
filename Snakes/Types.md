@@ -3260,3 +3260,57 @@
     *   **Sources:**
         * [https://animaldiversity.org/collections/contributors/mike\_turner/snake\_toad/large.jpg](https://animaldiversity.org/collections/contributors/mike_turner/snake_toad/large.jpg)
         * [https://animaldiversity.org/accounts/Thamnophis\_sirtalis/](https://animaldiversity.org/accounts/Thamnophis_sirtalis/)
+
+5.  **Pacific gopher snake**
+
+    *   **Scientific Name:** _Pituophis catenifer_
+    *   **Distinguishing Qualities:** Non-venomous, dark glossy body, mimics rattlesnake behavior.
+    *   **Name for Photos:** Pacific gopher snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/b6/Pituophis\_catenifer\_sayi\_(2).jpg](https://upload.wikimedia.org/wikipedia/commons/b/b6/Pituophis_catenifer_sayi_(2).jpg)
+        * [https://en.wikipedia.org/wiki/Pituophis\_catenifer](https://en.wikipedia.org/wiki/Pituophis_catenifer)
+    
+6.  **Western Blind Snake**
+
+    *   **Scientific Name:** _Rena humilis_
+    *   **Distinguishing Qualities:** Tiny, worm-like burrower, feeds on ants and termites.
+    *   **Name for Photos:** Western Blind Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rena\_humilis\_in\_hand.jpg/1024px-Rena\_humilis\_in\_hand.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rena_humilis_in_hand.jpg/1024px-Rena_humilis_in_hand.jpg)
+        * [https://en.wikipedia.org/wiki/Rena\_humilis](https://en.wikipedia.org/wiki/Rena_humilis)
+    
+7.  **Northern Black Racer**
+
+    *   **Scientific Name:** _Coluber constrictor_
+    *   **Distinguishing Qualities:** Fast-moving, slender black snake with a white chin, non-venomous.
+    *   **Name for Photos:** Northern Black Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/e9/Coluber\_constrictorPCCA20040327-1229B.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Coluber_constrictorPCCA20040327-1229B.jpg)
+        * [https://en.wikipedia.org/wiki/Northern\_black\_racer](https://en.wikipedia.org/wiki/Northern_black_racer)
+
+8.  **Malayan ground pit viper**
+
+    *   **Scientific Name:** _Calloselasma rhodostoma_
+    *   **Distinguishing Qualities:** Venomous, reddish-brown with dark bands, found in forests and rural areas.
+    *   **Name for Photos:** Malayan ground pit viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Callos\_rhodos\_120610-0642\_krw.jpg/1024px-Callos\_rhodos\_120610-0642\_krw.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Callos_rhodos_120610-0642_krw.jpg/1024px-Callos_rhodos_120610-0642_krw.jpg)
+        * [https://en.wikipedia.org/wiki/Calloselasma](https://en.wikipedia.org/wiki/Calloselasma)
+    
+9.  **Common Tree Snake**
+
+    *   **Scientific Name:** _Dendrelaphis pictus_
+    *   **Distinguishing Qualities:** Slim, fast-moving, often green or brown, excellent climber.
+    *   **Name for Photos:** Common Tree Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Common\_tree\_snake\_(Dendrelaphis\_punctulatus)\_Daintree\_4.jpg/1280px-Common\_tree\_snake\_(Dendrelaphis\_punctulatus)\_Daintree\_4.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Common_tree_snake_(Dendrelaphis_punctulatus)_Daintree_4.jpg/1280px-Common_tree_snake_(Dendrelaphis_punctulatus)_Daintree_4.jpg)
+        * [https://en.wikipedia.org/wiki/Dendrelaphis\_punctulatus](https://en.wikipedia.org/wiki/Dendrelaphis_punctulatus)
+
+1.  **Indonesian Pit Viper**
+
+    *   **Scientific Name:** _Trimeresurus insularis_
+    *   **Distinguishing Qualities:** Venomous, bright green or yellowish body, red or brown tail, found in Indonesia.
+    *   **Name for Photos:** Indonesian Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/58/Trimeresurus\_insularis.jpg](https://upload.wikimedia.org/wikipedia/commons/5/58/Trimeresurus_insularis.jpg)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_insularis](https://en.wikipedia.org/wiki/Trimeresurus_insularis)
