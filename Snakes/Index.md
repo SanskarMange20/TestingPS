@@ -358,6 +358,6 @@
 358. **Sri Lankan Cat Snake**
 359. **Tokara Habu**
 360. **Algerian Whip Snake**
-361. Eastern Rat Snake (Pantherophis alleghaniensis)
-362. Northern Water Snake (Nerodia sipedon)
-363. Common Garter Snake (Thamnophis sirtalis)
+361. **Eastern Rat Snake**
+362. **Northern Water Snake**
+363. **Common Garter Snake**
