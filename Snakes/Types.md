@@ -3359,3 +3359,48 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Egyptian\_Cobra\_Ouraeus.png/1280px-Egyptian\_Cobra\_Ouraeus.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Egyptian_Cobra_Ouraeus.png/1280px-Egyptian_Cobra_Ouraeus.png)
         * [https://en.wikipedia.org/wiki/Egyptian\_cobra](https://en.wikipedia.org/wiki/Egyptian_cobra)
+
+6.  **Reticulated Stiletto Snake**
+    
+    *   **Scientific Name:** _Atractaspis reticulata_  
+    *   **Distinguishing Qualities:** Burrowing, venomous, capable of striking sideways, found in Africa.        
+    *   **Name for Photos:** Reticulated Stiletto Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/4d/Atractaspis\_reticulata\_(10.3897-zse.95.31488)\_Figure\_8\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4d/Atractaspis_reticulata_(10.3897-zse.95.31488)_Figure_8_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Atractaspis\_reticulata](https://en.wikipedia.org/wiki/Atractaspis_reticulata)
+        
+7.  **Mojave Rattlesnake**
+    
+    *   **Scientific Name:** _Crotalus cerberus_ 
+    *   **Distinguishing Qualities:** Highly venomous, desert-dwelling, known for its potent neurotoxic venom.   
+    *   **Name for Photos:** Mojave Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/e2/Crotalus\_scutulatus\_02.JPG](https://upload.wikimedia.org/wikipedia/commons/e/e2/Crotalus_scutulatus_02.JPG)
+        * [https://en.wikipedia.org/wiki/Crotalus\_scutulatus](https://en.wikipedia.org/wiki/Crotalus_scutulatus)
+        
+8.  **Mengden's Brown Snake**
+    
+    *   **Scientific Name:** _Pseudonaja mengdeni_
+    *   **Distinguishing Qualities:** Highly venomous, closely related to the Eastern Brown Snake, native to Australia.
+    *   **Name for Photos:** Mengden's Brown Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Darwin\_July\_2014\_832.jpg/1280px-Darwin\_July\_2014\_832.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Darwin_July_2014_832.jpg/1280px-Darwin_July_2014_832.jpg)
+        * [https://en.wikipedia.org/wiki/Pseudonaja\_mengdeni](https://en.wikipedia.org/wiki/Pseudonaja_mengdeni)
+        
+9.  **Miliary Sand Boa**
+    
+    *   **Scientific Name:** _Eryx miliaris_
+    *   **Distinguishing Qualities:** Small, burrowing, non-venomous, found in Central Asia.
+    *   **Name for Photos:** Miliary Sand Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BennyTrapp\_Eryx\_miliaris.jpg/1280px-BennyTrapp\_Eryx\_miliaris.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BennyTrapp_Eryx_miliaris.jpg/1280px-BennyTrapp_Eryx_miliaris.jpg)
+        * [https://en.wikipedia.org/wiki/Eryx\_miliaris](https://en.wikipedia.org/wiki/Eryx_miliaris)
+        
+1.  **Fer-de-Lance**
+    
+    *   **Scientific Name:** _Bothrops asper_
+    *   **Distinguishing Qualities:** Highly venomous, aggressive, responsible for many snakebite cases in Central and South America.
+    *   **Name for Photos:** Fer-de-Lance (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bothrops\_asper\_170971120.jpg/1024px-Bothrops\_asper\_170971120.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bothrops_asper_170971120.jpg/1024px-Bothrops_asper_170971120.jpg)
+        * [https://en.wikipedia.org/wiki/Bothrops\_asper](https://en.wikipedia.org/wiki/Bothrops_asper)
