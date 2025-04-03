@@ -377,3 +377,8 @@
 377. **Mengden's Brown Snake**
 378. **Miliary Sand Boa**
 379. **Fer-de-Lance**
+380. **Black Stiletto Snake**
+381. **Vincent's Green Snake**
+382. **European Sand Boa**
+383. **Two-lined Bronzeback**
+384. **Red-necked Keelback**
