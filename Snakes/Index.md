@@ -367,3 +367,8 @@
 367. **Sunda Pit Viper**
 368. **Common Tree Snake**
 369. **Indonesian Pit Viper**
+370. **Hispid Green Viper**
+371. **Grand Canyon Rattlesnake**
+372. **Fischer's Snail-eater**
+373. **Bibron's Stiletto Snake**
+374. **Egyptian Cobra**
