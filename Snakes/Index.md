@@ -382,3 +382,7 @@
 382. **European Sand Boa**
 383. **Two-lined Bronzeback**
 384. **Red-necked Keelback**
+385. **Paradise Flying Snake**
+386. **Freshwater Snake**
+387. **Monocled Cobra**
+388. **Common Death Adder**
