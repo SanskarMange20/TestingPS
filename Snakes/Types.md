@@ -3404,3 +3404,48 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bothrops\_asper\_170971120.jpg/1024px-Bothrops\_asper\_170971120.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bothrops_asper_170971120.jpg/1024px-Bothrops_asper_170971120.jpg)
         * [https://en.wikipedia.org/wiki/Bothrops\_asper](https://en.wikipedia.org/wiki/Bothrops_asper)
+
+2.  **Black Stiletto Snake**
+    
+    *   **Scientific Name:** _Atractaspis aterrima_
+    *   **Distinguishing Qualities:** Small, burrowing, venomous, capable of striking sideways, found in Africa.
+    *   **Name for Photos:** Black Stiletto Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/aa/Atractaspis\_aterrima.jpg](https://upload.wikimedia.org/wikipedia/commons/a/aa/Atractaspis_aterrima.jpg)
+        * [https://en.wikipedia.org/wiki/Atractaspis\_aterrima](https://en.wikipedia.org/wiki/Atractaspis_aterrima)
+        
+3.  **Vincent's Green Snake**
+    
+    *   **Scientific Name:** _Dendrophidion vincenti_
+    *   **Distinguishing Qualities:** Slender, arboreal, non-venomous, bright green coloration, found in parts of Africa.
+    *   **Name for Photos:** Vincent's Green Snake (1)
+    *   **Sources:**
+        * [https://binary.pensoft.net/fig/368146/oo/file.jpg](https://binary.pensoft.net/fig/368146/oo/file.jpg)
+        * [https://neotropical.pensoft.net/article/39572/](https://neotropical.pensoft.net/article/39572/)
+        
+4.  **European Sand Boa**
+    
+    *   **Scientific Name:** _Eryx jaculus_ 
+    *   **Distinguishing Qualities:** Small, burrowing, non-venomous, native to Europe and North Africa.
+    *   **Name for Photos:** European Sand Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx\_jaculus.jpg/1280px-Eryx\_jaculus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx_jaculus.jpg/1280px-Eryx_jaculus.jpg)
+        * [https://en.wikipedia.org/wiki/Eryx\_jaculus](https://en.wikipedia.org/wiki/Eryx_jaculus)
+        
+5.  **Two-lined Bronzeback**
+    
+    *   **Scientific Name:** _Dendrelaphis biloreatus_   
+    *   **Distinguishing Qualities:** Fast-moving, arboreal, non-venomous, identified by two dark lines along its body. 
+    *   **Name for Photos:** Two-lined Bronzeback (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/90/Bothrops\_Bilineatus.jpg](https://upload.wikimedia.org/wikipedia/commons/9/90/Bothrops_Bilineatus.jpg)
+        * [https://en.wikipedia.org/wiki/Bothrops\_bilineatus](https://en.wikipedia.org/wiki/Bothrops_bilineatus)
+        
+6.  **Red-necked Keelback**
+    
+    *   **Scientific Name:** _Rhabdophis subminiatus_ 
+    *   **Distinguishing Qualities:** Semi-venomous, striking red neck, known for its defensive posture and toxic bite.
+    *   **Name for Photos:** Red-necked Keelback (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Siamese\_Red-necked\_keelback,\_Na\_Nong\_Tum,\_Chum\_Phae\_District,\_Khon\_Kaen,\_Thailand\_imported\_from\_iNaturalist\_photo\_447504091.jpg/1280px-Siamese\_Red-necked\_keelback,\_Na\_Nong\_Tum,\_Chum\_Phae\_District,\_Khon\_Kaen,\_Thailand\_imported\_from\_iNaturalist\_photo\_447504091.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Siamese_Red-necked_keelback,_Na_Nong_Tum,_Chum_Phae_District,_Khon_Kaen,_Thailand_imported_from_iNaturalist_photo_447504091.jpg/1280px-Siamese_Red-necked_keelback,_Na_Nong_Tum,_Chum_Phae_District,_Khon_Kaen,_Thailand_imported_from_iNaturalist_photo_447504091.jpg)
+        * [https://en.wikipedia.org/wiki/Rhabdophis\_subminiatus](https://en.wikipedia.org/wiki/Rhabdophis_subminiatus)
