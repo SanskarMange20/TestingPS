@@ -372,3 +372,8 @@
 372. **Fischer's Snail-eater**
 373. **Bibron's Stiletto Snake**
 374. **Egyptian Cobra**
+375. **Reticulated Stiletto Snake**
+376. **Mojave Rattlesnake**
+377. **Mengden's Brown Snake**
+378. **Miliary Sand Boa**
+379. **Fer-de-Lance**
