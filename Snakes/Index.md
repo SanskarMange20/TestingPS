@@ -361,3 +361,8 @@
 361. **Eastern Rat Snake**
 362. **Northern Water Snake**
 363. **Common Garter Snake**
+364. **Mexican Black Snake (Pituophis catenifer)**
+365. **Western Blind Snake (Leptotyphlops humilis)**
+366. **Northern Black Racer (Coluber constrictor)**
+367. **Sunda Pit Viper (Calloselasma rhodostoma)**
+368. **Common Tree Snake (Dendrelaphis pictus)**
