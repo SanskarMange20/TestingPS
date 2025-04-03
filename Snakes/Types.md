@@ -3449,3 +3449,39 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Siamese\_Red-necked\_keelback,\_Na\_Nong\_Tum,\_Chum\_Phae\_District,\_Khon\_Kaen,\_Thailand\_imported\_from\_iNaturalist\_photo\_447504091.jpg/1280px-Siamese\_Red-necked\_keelback,\_Na\_Nong\_Tum,\_Chum\_Phae\_District,\_Khon\_Kaen,\_Thailand\_imported\_from\_iNaturalist\_photo\_447504091.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Siamese_Red-necked_keelback,_Na_Nong_Tum,_Chum_Phae_District,_Khon_Kaen,_Thailand_imported_from_iNaturalist_photo_447504091.jpg/1280px-Siamese_Red-necked_keelback,_Na_Nong_Tum,_Chum_Phae_District,_Khon_Kaen,_Thailand_imported_from_iNaturalist_photo_447504091.jpg)
         * [https://en.wikipedia.org/wiki/Rhabdophis\_subminiatus](https://en.wikipedia.org/wiki/Rhabdophis_subminiatus)
+
+7.  **Paradise Flying Snake**
+    
+    *   **Scientific Name:** _Chrysopelea paradisi_
+    *   **Distinguishing Qualities:** Can glide between trees, mildly venomous, vibrant coloration, found in Southeast Asia.
+    *   **Name for Photos:** Paradise Flying Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chrysopelea\_paradisi\_(6032067972).jpg/1024px-Chrysopelea\_paradisi\_(6032067972).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chrysopelea_paradisi_(6032067972).jpg/1024px-Chrysopelea_paradisi_(6032067972).jpg)
+        * [https://en.wikipedia.org/wiki/Chrysopelea\_paradisi](https://en.wikipedia.org/wiki/Chrysopelea_paradisi)
+        
+8.  **Freshwater Snake**
+    
+    *   **Scientific Name:** _Hypsiscopus plumbea_
+    *   **Distinguishing Qualities:** Aquatic, non-venomous, often found in slow-moving waters, preys on fish and amphibians.
+    *   **Name for Photos:** Freshwater Snake (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_07/Homalopsis-buccata-03000037145\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_07/Homalopsis-buccata-03000037145_01.jpg)
+        * [https://reptile-database.reptarium.cz/species?genus=Homalopsis&species=buccata](https://reptile-database.reptarium.cz/species?genus=Homalopsis&species=buccata)
+        
+9.  **Monocled Cobra**
+    
+    *   **Scientific Name:** _Naja kaouthia_
+    *   **Distinguishing Qualities:** Highly venomous, distinct circular (monocled) hood marking, found in South and Southeast Asia.
+    *   **Name for Photos:** Monocled Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Monocled\_cobra\_(cropped).jpg/800px-Monocled\_cobra\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Monocled_cobra_(cropped).jpg/800px-Monocled_cobra_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Monocled\_cobra](https://en.wikipedia.org/wiki/Monocled_cobra)
+        
+1.  **Common Death Adder**
+    
+    *   **Scientific Name:** _Acanthophis antarcticus_   
+    *   **Distinguishing Qualities:** Venomous, ambush predator, short and thick body, native to Australia.
+    *   **Name for Photos:** Common Death Adder (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CSIRO\_ScienceImage\_3990\_Death\_Adder.jpg/1024px-CSIRO\_ScienceImage\_3990\_Death\_Adder.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CSIRO_ScienceImage_3990_Death_Adder.jpg/1024px-CSIRO_ScienceImage_3990_Death_Adder.jpg)
+        * [https://en.wikipedia.org/wiki/Common\_death\_adder](https://en.wikipedia.org/wiki/Common_death_adder)
