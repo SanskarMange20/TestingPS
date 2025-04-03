@@ -3314,3 +3314,48 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/5/58/Trimeresurus\_insularis.jpg](https://upload.wikimedia.org/wikipedia/commons/5/58/Trimeresurus_insularis.jpg)
         * [https://en.wikipedia.org/wiki/Trimeresurus\_insularis](https://en.wikipedia.org/wiki/Trimeresurus_insularis)
+
+1.  **Hispid Green Viper**
+    
+    *   **Scientific Name:** _Atheris hispida_ 
+    *   **Distinguishing Qualities:** Arboreal, spiny scales, found in African rainforests.
+    *   **Name for Photos:** Hispid Green Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/5a/Atheris\_hispida.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5a/Atheris_hispida.jpg)
+        * [https://en.wikipedia.org/wiki/Atheris\_hispida](https://en.wikipedia.org/wiki/Atheris_hispida)
+        
+2.  **Grand Canyon Rattlesnake**
+    
+    *   **Scientific Name:** _Crotalus willardi_
+    *   **Distinguishing Qualities:** Unique coloration, limited to the Grand Canyon region.
+    *   **Name for Photos:** Grand Canyon Rattlesnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Crotalus\_willardi\_(10.3897-zookeys.658.10665)\_Figure\_5.jpg/1024px-Crotalus\_willardi\_(10.3897-zookeys.658.10665)\_Figure\_5.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Crotalus_willardi_(10.3897-zookeys.658.10665)_Figure_5.jpg/1024px-Crotalus_willardi_(10.3897-zookeys.658.10665)_Figure_5.jpg)
+        * [https://en.wikipedia.org/wiki/Crotalus\_willardi](https://en.wikipedia.org/wiki/Crotalus_willardi)
+        
+3.  **Fischer's Snail-eater**
+    
+    *   **Scientific Name:** _Tropidodipsas fischeri_
+    *   **Distinguishing Qualities:** Non-venomous, primarily feeds on snails, found in Central America.
+    *   **Name for Photos:** Fischer's Snail-eater (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/13532017/large.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/13532017/large.jpg)
+        * [https://www.inaturalist.org/taxa/146519-Tropidodipsas-fischeri](https://www.inaturalist.org/taxa/146519-Tropidodipsas-fischeri)
+        
+4.  **Bibron's Stiletto Snake**
+    
+    *   **Scientific Name:** _Atractaspis bibroni_
+    *   **Distinguishing Qualities:** Burrowing, unique sideways striking method, found in Africa.
+    *   **Name for Photos:** Bibron's Stiletto Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/6/62/Atractaspis\_bibronii\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/6/62/Atractaspis_bibronii_2.jpg)
+        * [https://en.wikipedia.org/wiki/Atractaspis\_bibronii](https://en.wikipedia.org/wiki/Atractaspis_bibronii)
+        
+5.  **Egyptian Cobra**
+    
+    *   **Scientific Name:** _Naja haje_
+    *   **Distinguishing Qualities:** Impressive hood, potent venom, declining due to habitat loss.
+    *   **Name for Photos:** Egyptian Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Egyptian\_Cobra\_Ouraeus.png/1280px-Egyptian\_Cobra\_Ouraeus.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Egyptian_Cobra_Ouraeus.png/1280px-Egyptian_Cobra_Ouraeus.png)
+        * [https://en.wikipedia.org/wiki/Egyptian\_cobra](https://en.wikipedia.org/wiki/Egyptian_cobra)
