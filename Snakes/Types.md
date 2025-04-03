@@ -3233,3 +3233,30 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hemorrhois\_algirus\_223958149.jpg/1280px-Hemorrhois\_algirus\_223958149.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hemorrhois_algirus_223958149.jpg/1280px-Hemorrhois_algirus_223958149.jpg)
         * [https://en.wikipedia.org/wiki/Hemorrhois\_algirus](https://en.wikipedia.org/wiki/Hemorrhois_algirus)
+
+2.  **Eastern Rat Snake**
+
+    *   **Scientific Name:** _Pantherophis alleghaniensis_
+    *   **Distinguishing Qualities:** Non-venomous, excellent climber, often found in trees and barns.
+    *   **Name for Photos:** Eastern Rat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Yellow\_Rat\_Snake\_(Elaphe\_obsoleta\_quadrivittata)\_(24209659368).jpg/1280px-Yellow\_Rat\_Snake\_(Elaphe\_obsoleta\_quadrivittata)\_(24209659368).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Yellow_Rat_Snake_(Elaphe_obsoleta_quadrivittata)_(24209659368).jpg/1280px-Yellow_Rat_Snake_(Elaphe_obsoleta_quadrivittata)_(24209659368).jpg)
+        * [https://en.wikipedia.org/wiki/Eastern\_rat\_snake](https://en.wikipedia.org/wiki/Eastern_rat_snake)
+    
+3.  **Northern Water Snake**
+
+    *   **Scientific Name:** _Nerodia sipedon_
+    *   **Distinguishing Qualities:** Non-venomous, often mistaken for venomous water moccasins, aggressive when threatened.
+    *   **Name for Photos:** Northern Water Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/0/0a/Nerodia\_sipedonPCSL02111B1.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0a/Nerodia_sipedonPCSL02111B1.jpg)
+        * [https://en.wikipedia.org/wiki/Common\_watersnake](https://en.wikipedia.org/wiki/Common_watersnake)
+    
+4.  **Common Garter Snake**
+
+    *   **Scientific Name:** _Thamnophis sirtalis_
+    *   **Distinguishing Qualities:** Striped body, highly adaptable, mildly venomous but harmless to humans.
+    *   **Name for Photos:** Common Garter Snake (1)
+    *   **Sources:**
+        * [https://animaldiversity.org/collections/contributors/mike\_turner/snake\_toad/large.jpg](https://animaldiversity.org/collections/contributors/mike_turner/snake_toad/large.jpg)
+        * [https://animaldiversity.org/accounts/Thamnophis\_sirtalis/](https://animaldiversity.org/accounts/Thamnophis_sirtalis/)
