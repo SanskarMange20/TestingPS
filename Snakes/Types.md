@@ -3629,3 +3629,11 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/a/a9/Leptodeira\_annulata01.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/Leptodeira_annulata01.jpg)
         * [https://en.wikipedia.org/wiki/Leptodeira\_annulata](https://en.wikipedia.org/wiki/Leptodeira_annulata)
+
+1.  **Desert Rosy Boa**
+    *   **Scientific Name:** Lichanura trivirgata
+    *   **Distinguishing Qualities:** Calm nature, rosy coloration, native to the American Southwest.
+    *   **Name for Photos:** Desert Rosy Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lichanura\_t.\_trivirgata.jpg/1280px-Lichanura\_t.\_trivirgata.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lichanura_t._trivirgata.jpg/1280px-Lichanura_t._trivirgata.jpg)
+        * [https://en.wikipedia.org/wiki/Desert\_rosy\_boa](https://en.wikipedia.org/wiki/Desert_rosy_boa)
