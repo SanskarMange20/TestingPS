@@ -3485,3 +3485,99 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CSIRO\_ScienceImage\_3990\_Death\_Adder.jpg/1024px-CSIRO\_ScienceImage\_3990\_Death\_Adder.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CSIRO_ScienceImage_3990_Death_Adder.jpg/1024px-CSIRO_ScienceImage_3990_Death_Adder.jpg)
         * [https://en.wikipedia.org/wiki/Common\_death\_adder](https://en.wikipedia.org/wiki/Common_death_adder)
+
+2.  **Aesculapian Snake**
+   
+    *   **Scientific Name**: _Zamenis longissimus_
+    *   **Distinguishing Qualities**: Non-venomous, symbolic in medicine, excellent climber.
+    *   **Name for Photos**: Aesculapian Snake (1)
+    
+3.  **Stejneger’s Bamboo Pit Viper**
+   
+    *   **Scientific Name**: _Trimeresurus stejnegeri_
+    *   **Distinguishing Qualities**: Bright green, venomous pit viper, arboreal.
+    *   **Name for Photos**: Stejneger’s Bamboo Pit Viper (1)
+    
+4.  **Saint Lucia Fer-de-Lance**
+   
+    *   **Scientific Name**: _Bothrops caribbaeus_
+    *   **Distinguishing Qualities**: Endemic to Saint Lucia, highly venomous, rare.
+    *   **Name for Photos**: Saint Lucia Fer-de-Lance (1)
+    
+5.  **Amazon Tree Boa**
+
+    *   **Scientific Name**: _Corallus hortulanus_
+    *   **Distinguishing Qualities**: Non-venomous, highly variable in color, arboreal.
+    *   **Name for Photos**: Amazon Tree Boa (1)
+    
+6.  **Red Spitting Cobra**
+   
+    *   **Scientific Name**: _Naja pallida_
+    *   **Distinguishing Qualities**: Can spit venom as defense, striking red hue.
+    *   **Name for Photos**: Red Spitting Cobra (1)
+    
+7.  **Argentine Boa**
+   
+    *   **Scientific Name**: _Boa constrictor occidentalis_
+    *   **Distinguishing Qualities**: Large constrictor, endangered, dark blotches.
+    *   **Name for Photos**: Argentine Boa (1)
+    
+8.  **Western Worm Snake**
+    
+     *   **Scientific Name**: _Carphophis vermis_
+     *   **Distinguishing Qualities**: Small, burrowing, worm-like, harmless.
+     *   **Name for Photos**: Western Worm Snake (1)
+    
+9.  **Asian Vine Snake**
+    
+    *   **Scientific Name**: _Ahaetulla prasina_
+    *   **Distinguishing Qualities**: Slender green snake, mildly venomous, leaf-like head.
+    *   **Name for Photos**: Asian Vine Snake (1)
+    
+1.  **Blotched Snake**
+   
+    *   **Scientific Name**: _Elaphe sauromates_
+    *   **Distinguishing Qualities**: Large non-venomous constrictor from Eastern Europe.
+    *   **Name for Photos**: Blotched Snake (1)
+    
+2.  **Red Whip Snake**
+   
+    *   **Scientific Name**: _Platyceps collaris_
+    *   **Distinguishing Qualities**: Fast-moving, slender body, reddish color.
+    *   **Name for Photos**: Red Whip Snake (1)
+    
+3.  **Schokari Sand Racer**
+   
+    *   **Scientific Name**: _Psammophis schokari_
+    *   **Distinguishing Qualities**: Diurnal, very fast, desert-adapted, mildly venomous.
+    *   **Name for Photos**: Schokari Sand Racer (1)
+    
+4.  **Malay Coral Snake**
+   
+    *   **Scientific Name**: _Calliophis intestinalis_
+    *   **Distinguishing Qualities**: Brightly colored, venomous, small and secretive.
+    *   **Name for Photos**: Malay Coral Snake (1)
+    
+6.  **Lichtenstein’s Green Racer**
+   
+    *   **Scientific Name**: _Philodryas olfersii_
+    *   **Distinguishing Qualities**: Fast, green, mildly venomous rear-fanged colubrid.
+    *   **Name for Photos**: Lichtenstein’s Green Racer (1)
+    
+7.  **Cape House Snake**
+   
+    *   **Scientific Name**: _Boaedon capensis_
+    *   **Distinguishing Qualities**: Popular pet, nocturnal, non-venomous, brown with stripes.
+    *   **Name for Photos**: Cape House Snake (1)
+    
+8.  **Yellow-bellied Racer**
+    
+    *   **Scientific Name**: _Coluber constrictor flaviventris_
+    *   **Distinguishing Qualities**: Fast, non-venomous, yellow underbelly.
+    *   **Name for Photos**: Yellow-bellied Racer (1)
+    
+9.  **Tawny Cat-eyed Snake**
+    
+    *   **Scientific Name**: _Leptodeira annulata_
+    *   **Distinguishing Qualities**: Nocturnal, vertical pupils, mildly venomous.
+    *   **Name for Photos**: Tawny Cat-eyed Snake (1)
