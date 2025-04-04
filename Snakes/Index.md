@@ -386,3 +386,19 @@
 386. **Freshwater Snake**
 387. **Monocled Cobra**
 388. **Common Death Adder**
+389. **Aesculapian Snake**
+390. **Stejneger’s Bamboo Pit Viper**
+391. **Saint Lucia Fer-de-Lance**
+392. **Amazon Tree Boa**
+393. **Red Spitting Cobra**
+394. **Argentine Boa**
+395. **Western Worm Snake**
+396. **Asian Vine Snake**
+397. **Blotched Snake**
+398. **Red whip Snake**
+399. **Schokari Sand Racer**
+400. **Malay Coral Snake**
+401. **Philodryas olfersii**
+402. **Cape House Snake**
+403. **Yellow-bellied Racer**
+404. **Tawny Cat-eyed Snake**  
