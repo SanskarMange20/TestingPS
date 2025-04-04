@@ -3491,93 +3491,141 @@
     *   **Scientific Name**: _Zamenis longissimus_
     *   **Distinguishing Qualities**: Non-venomous, symbolic in medicine, excellent climber.
     *   **Name for Photos**: Aesculapian Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zamenis\_longissimus.jpg/1280px-Zamenis\_longissimus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zamenis_longissimus.jpg/1280px-Zamenis_longissimus.jpg)
+        * [https://en.wikipedia.org/wiki/Aesculapian\_snake](https://en.wikipedia.org/wiki/Aesculapian_snake)
     
 3.  **Stejneger’s Bamboo Pit Viper**
    
     *   **Scientific Name**: _Trimeresurus stejnegeri_
     *   **Distinguishing Qualities**: Bright green, venomous pit viper, arboreal.
     *   **Name for Photos**: Stejneger’s Bamboo Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Trimeresurus\_stejnegeri.jpg/1280px-Trimeresurus\_stejnegeri.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Trimeresurus_stejnegeri.jpg/1280px-Trimeresurus_stejnegeri.jpg)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_stejnegeri](https://en.wikipedia.org/wiki/Trimeresurus_stejnegeri)
     
 4.  **Saint Lucia Fer-de-Lance**
    
     *   **Scientific Name**: _Bothrops caribbaeus_
     *   **Distinguishing Qualities**: Endemic to Saint Lucia, highly venomous, rare.
     *   **Name for Photos**: Saint Lucia Fer-de-Lance (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bothrops\_caribbaeus.jpg/1024px-Bothrops\_caribbaeus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bothrops_caribbaeus.jpg/1024px-Bothrops_caribbaeus.jpg)
+        * [https://en.wikipedia.org/wiki/Saint\_Lucia\_lancehead](https://en.wikipedia.org/wiki/Saint_Lucia_lancehead)
     
 5.  **Amazon Tree Boa**
 
     *   **Scientific Name**: _Corallus hortulanus_
     *   **Distinguishing Qualities**: Non-venomous, highly variable in color, arboreal.
     *   **Name for Photos**: Amazon Tree Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Corallus\_hortulanus\_in\_Ecuador.jpg/800px-Corallus\_hortulanus\_in\_Ecuador.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Corallus_hortulanus_in_Ecuador.jpg/800px-Corallus_hortulanus_in_Ecuador.jpg)
+        * [https://en.wikipedia.org/wiki/Corallus\_hortulana](https://en.wikipedia.org/wiki/Corallus_hortulana)
     
 6.  **Red Spitting Cobra**
    
     *   **Scientific Name**: _Naja pallida_
     *   **Distinguishing Qualities**: Can spit venom as defense, striking red hue.
     *   **Name for Photos**: Red Spitting Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/7/7b/Naja\_pallida.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7b/Naja_pallida.jpg)
+        * [https://en.wikipedia.org/wiki/Red\_spitting\_cobra](https://en.wikipedia.org/wiki/Red_spitting_cobra)
     
 7.  **Argentine Boa**
    
     *   **Scientific Name**: _Boa constrictor occidentalis_
     *   **Distinguishing Qualities**: Large constrictor, endangered, dark blotches.
     *   **Name for Photos**: Argentine Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Boa\_constrictor\_occidentalis\_(2).JPG/1280px-Boa\_constrictor\_occidentalis\_(2).JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Boa_constrictor_occidentalis_(2).JPG/1280px-Boa_constrictor_occidentalis_(2).JPG)
+        * [https://en.wikipedia.org/wiki/Boa\_constrictor\_occidentalis](https://en.wikipedia.org/wiki/Boa_constrictor_occidentalis)
     
 8.  **Western Worm Snake**
     
      *   **Scientific Name**: _Carphophis vermis_
      *   **Distinguishing Qualities**: Small, burrowing, worm-like, harmless.
      *   **Name for Photos**: Western Worm Snake (1)
+     *   **Sources:**
+         * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Western\_worm\_snake\_(Carphophis\_vermis).jpg/1280px-Western\_worm\_snake\_(Carphophis\_vermis).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Western_worm_snake_(Carphophis_vermis).jpg/1280px-Western_worm_snake_(Carphophis_vermis).jpg)
+         * [https://en.wikipedia.org/wiki/Carphophis\_vermis](https://en.wikipedia.org/wiki/Carphophis_vermis)
     
 9.  **Asian Vine Snake**
     
     *   **Scientific Name**: _Ahaetulla prasina_
     *   **Distinguishing Qualities**: Slender green snake, mildly venomous, leaf-like head.
     *   **Name for Photos**: Asian Vine Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ahaetulla-prasina-kaeng-krachan-national-park.jpg/1280px-Ahaetulla-prasina-kaeng-krachan-national-park.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ahaetulla-prasina-kaeng-krachan-national-park.jpg/1280px-Ahaetulla-prasina-kaeng-krachan-national-park.jpg)
+        * [https://en.wikipedia.org/wiki/Ahaetulla\_prasina](https://en.wikipedia.org/wiki/Ahaetulla_prasina)
     
 1.  **Blotched Snake**
    
     *   **Scientific Name**: _Elaphe sauromates_
     *   **Distinguishing Qualities**: Large non-venomous constrictor from Eastern Europe.
     *   **Name for Photos**: Blotched Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/5/5d/Elaphe\_sauromates\_by\_Omid\_Mozaffari(3).jpg](https://upload.wikimedia.org/wikipedia/commons/5/5d/Elaphe_sauromates_by_Omid_Mozaffari(3).jpg)
+        * [https://en.wikipedia.org/wiki/Blotched\_snake](https://en.wikipedia.org/wiki/Blotched_snake)
     
 2.  **Red Whip Snake**
    
     *   **Scientific Name**: _Platyceps collaris_
     *   **Distinguishing Qualities**: Fast-moving, slender body, reddish color.
     *   **Name for Photos**: Red Whip Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BennyTrapp\_Rötliche\_Schlanknatter\_Platyceps\_collaris\_Bulgarien.jpg/1280px-BennyTrapp\_Rötliche\_Schlanknatter\_Platyceps\_collaris\_Bulgarien.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BennyTrapp_Rötliche_Schlanknatter_Platyceps_collaris_Bulgarien.jpg/1280px-BennyTrapp_Rötliche_Schlanknatter_Platyceps_collaris_Bulgarien.jpg)
+        * [https://en.wikipedia.org/wiki/Red\_whip\_snake](https://en.wikipedia.org/wiki/Red_whip_snake)
     
 3.  **Schokari Sand Racer**
    
     *   **Scientific Name**: _Psammophis schokari_
     *   **Distinguishing Qualities**: Diurnal, very fast, desert-adapted, mildly venomous.
     *   **Name for Photos**: Schokari Sand Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a8/Psammophis\_schokari01.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a8/Psammophis_schokari01.jpg)
+        * [https://en.wikipedia.org/wiki/Schokari\_sand\_racer](https://en.wikipedia.org/wiki/Schokari_sand_racer)
     
 4.  **Malay Coral Snake**
    
     *   **Scientific Name**: _Calliophis intestinalis_
     *   **Distinguishing Qualities**: Brightly colored, venomous, small and secretive.
     *   **Name for Photos**: Malay Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/9b/Calliophis\_intestinalis\_1916.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9b/Calliophis_intestinalis_1916.jpg)
+        * [https://en.wikipedia.org/wiki/Calliophis\_intestinalis](https://en.wikipedia.org/wiki/Calliophis_intestinalis)
     
 6.  **Lichtenstein’s Green Racer**
    
     *   **Scientific Name**: _Philodryas olfersii_
     *   **Distinguishing Qualities**: Fast, green, mildly venomous rear-fanged colubrid.
     *   **Name for Photos**: Lichtenstein’s Green Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Philodryas\_olfersii\_MZUFV.JPG/1280px-Philodryas\_olfersii\_MZUFV.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Philodryas_olfersii_MZUFV.JPG/1280px-Philodryas_olfersii_MZUFV.JPG)
+        * [https://en.wikipedia.org/wiki/Philodryas\_olfersii](https://en.wikipedia.org/wiki/Philodryas_olfersii)
     
 7.  **Cape House Snake**
    
     *   **Scientific Name**: _Boaedon capensis_
     *   **Distinguishing Qualities**: Popular pet, nocturnal, non-venomous, brown with stripes.
     *   **Name for Photos**: Cape House Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/3e/Lamprophiscapensis.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3e/Lamprophiscapensis.jpg)
+        * [https://en.wikipedia.org/wiki/Boaedon\_capensis](https://en.wikipedia.org/wiki/Boaedon_capensis)
     
 8.  **Yellow-bellied Racer**
     
     *   **Scientific Name**: _Coluber constrictor flaviventris_
     *   **Distinguishing Qualities**: Fast, non-venomous, yellow underbelly.
     *   **Name for Photos**: Yellow-bellied Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coluber\_constrictor\_flaviventris\_(1).jpg/1280px-Coluber\_constrictor\_flaviventris\_(1).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coluber_constrictor_flaviventris_(1).jpg/1280px-Coluber_constrictor_flaviventris_(1).jpg)
+        * [https://en.wikipedia.org/wiki/Coluber\_constrictor\_flaviventris](https://en.wikipedia.org/wiki/Coluber_constrictor_flaviventris)
     
 9.  **Tawny Cat-eyed Snake**
     
     *   **Scientific Name**: _Leptodeira annulata_
     *   **Distinguishing Qualities**: Nocturnal, vertical pupils, mildly venomous.
     *   **Name for Photos**: Tawny Cat-eyed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/a/a9/Leptodeira\_annulata01.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/Leptodeira_annulata01.jpg)
+        * [https://en.wikipedia.org/wiki/Leptodeira\_annulata](https://en.wikipedia.org/wiki/Leptodeira_annulata)
