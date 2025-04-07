@@ -3631,9 +3631,54 @@
         * [https://en.wikipedia.org/wiki/Leptodeira\_annulata](https://en.wikipedia.org/wiki/Leptodeira_annulata)
 
 1.  **Desert Rosy Boa**
-    *   **Scientific Name:** Lichanura trivirgata
+   
+    *   **Scientific Name:** _Lichanura trivirgata_
     *   **Distinguishing Qualities:** Calm nature, rosy coloration, native to the American Southwest.
     *   **Name for Photos:** Desert Rosy Boa (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lichanura\_t.\_trivirgata.jpg/1280px-Lichanura\_t.\_trivirgata.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lichanura_t._trivirgata.jpg/1280px-Lichanura_t._trivirgata.jpg)
         * [https://en.wikipedia.org/wiki/Desert\_rosy\_boa](https://en.wikipedia.org/wiki/Desert_rosy_boa)
+
+2.  **Death Adder**
+   
+    *   **Scientific Name:** _Acanthophis spp_
+    *   **Distinguishing Qualities:** Known for their short, stout bodies and distinctive triangular heads. They have a unique hunting strategy, using ambush tactics and a quick strike.
+    *   **Name for Photos:** Death Adder (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d2/Acanthophis\_laevis.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d2/Acanthophis_laevis.jpg)
+        * [https://en.wikipedia.org/wiki/Acanthophis](https://en.wikipedia.org/wiki/Acanthophis)
+
+4.  **Guifarro's Viper**
+
+    *   **Scientific Name:** _Bothriechis guifarroi_
+    *   **Distinguishing Qualities:** A small, arboreal viper with vibrant green coloration and distinctive patterns. It has a prehensile tail that aids in climbing.
+    *   **Name for Photos:** Guifarro's Viper (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/55262948/original.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/55262948/original.jpg)
+        * [https://www.inaturalist.org/taxa/539401-Bothriechis-guifarroi](https://www.inaturalist.org/taxa/539401-Bothriechis-guifarroi)
+
+5.  **Painted Tree Snake**
+
+    *   **Scientific Name:** _Dendrophis pictus_
+    *   **Distinguishing Qualities:** An agile, non-venomous snake known for its striking green and yellow coloration. It is primarily arboreal and feeds on small lizards and frogs.
+    *   **Name for Photos:** Painted Tree Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dendre\_pict\_080410-6996\_tdp.jpg/1024px-Dendre\_pict\_080410-6996\_tdp.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dendre_pict_080410-6996_tdp.jpg/1024px-Dendre_pict_080410-6996_tdp.jpg)[https://en.wikipedia.org/wiki/Dendrelaphis\_pictus](https://en.wikipedia.org/wiki/Dendrelaphis_pictus)
+
+6.   **Persian Horned Viper**
+
+     *   **Scientific Name:** _Pseudocerastes persicus_
+     *   **Distinguishing Qualities:** Recognizable by its prominent horn-like scales above its eyes. It has a distinctive pattern that helps it blend into its desert habitat.
+     *   **Name for Photos:** Persian Horned Viper (1)
+     *   **Sources:**
+         * [https://upload.wikimedia.org/wikipedia/commons/c/ca/Pseudocerastes\_persicus.jpg](https://upload.wikimedia.org/wikipedia/commons/c/ca/Pseudocerastes_persicus.jpg)
+         * [https://en.wikipedia.org/wiki/Persian\_horned\_viper](https://en.wikipedia.org/wiki/Persian_horned_viper)
+
+7.   **Javelin Sand Boa**
+
+     *   **Scientific Name:** _Eryx jaculus_
+     *   **Distinguishing Qualities:** A stout, burrowing snake with a smooth, sand-colored body that allows it to blend into its environment. It is non-venomous and primarily feeds on small rodents.
+     *   **Name for Photos:** Javelin Sand Boa (1)
+     *   **Sources:**
+         * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx\_jaculus.jpg/1280px-Eryx\_jaculus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx_jaculus.jpg/1280px-Eryx_jaculus.jpg)
+         * [https://en.wikipedia.org/wiki/Eryx\_jaculus](https://en.wikipedia.org/wiki/Eryx_jaculus)
