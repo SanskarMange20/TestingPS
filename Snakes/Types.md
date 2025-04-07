@@ -3665,7 +3665,7 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dendre\_pict\_080410-6996\_tdp.jpg/1024px-Dendre\_pict\_080410-6996\_tdp.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dendre_pict_080410-6996_tdp.jpg/1024px-Dendre_pict_080410-6996_tdp.jpg)[https://en.wikipedia.org/wiki/Dendrelaphis\_pictus](https://en.wikipedia.org/wiki/Dendrelaphis_pictus)
 
-6.   **Persian Horned Viper**
+6.  **Persian Horned Viper**
 
      *   **Scientific Name:** _Pseudocerastes persicus_
      *   **Distinguishing Qualities:** Recognizable by its prominent horn-like scales above its eyes. It has a distinctive pattern that helps it blend into its desert habitat.
@@ -3674,7 +3674,7 @@
          * [https://upload.wikimedia.org/wikipedia/commons/c/ca/Pseudocerastes\_persicus.jpg](https://upload.wikimedia.org/wikipedia/commons/c/ca/Pseudocerastes_persicus.jpg)
          * [https://en.wikipedia.org/wiki/Persian\_horned\_viper](https://en.wikipedia.org/wiki/Persian_horned_viper)
 
-7.   **Javelin Sand Boa**
+7.  **Javelin Sand Boa**
 
      *   **Scientific Name:** _Eryx jaculus_
      *   **Distinguishing Qualities:** A stout, burrowing snake with a smooth, sand-colored body that allows it to blend into its environment. It is non-venomous and primarily feeds on small rodents.
@@ -3682,3 +3682,30 @@
      *   **Sources:**
          * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx\_jaculus.jpg/1280px-Eryx\_jaculus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eryx_jaculus.jpg/1280px-Eryx_jaculus.jpg)
          * [https://en.wikipedia.org/wiki/Eryx\_jaculus](https://en.wikipedia.org/wiki/Eryx_jaculus)
+
+8.  **Thayer's Kingsnake** 
+
+    *   **Scientific Name:** _Lampropeltis mexicana thayeri_
+    *   **Distinguishing Qualities:** A nonvenomous snake known for its striking patterns, which can vary from red and black to solid black. It is adaptable and often found in a variety of habitats.
+    *   **Name for Photos:** Thayer's Kingsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lampropeltis\_Mexicana\_Thayeri\_(1).JPG/1280px-Lampropeltis\_Mexicana\_Thayeri\_(1).JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lampropeltis_Mexicana_Thayeri_(1).JPG/1280px-Lampropeltis_Mexicana_Thayeri_(1).JPG)
+        * [https://en.wikipedia.org/wiki/Lampropeltis\_mexicana\_thayeri](https://en.wikipedia.org/wiki/Lampropeltis_mexicana_thayeri)
+
+9.  **Western Fox Snake** 
+    
+    *   **Scientific Name:** _Elaphe vulpina_
+    *   **Distinguishing Qualities:** A nonvenomous snake recognized for its coloration, which helps it blend into its environment. It has a pattern of yellow and brown or gray, resembling a rattlesnake.
+    *   **Name for Photos:** Western Fox Snake (1)
+    *   **Sources:**
+        * [https://crestwoodvethospital.com/wp-content/uploads/2023/05/Western\_Fox\_Snake.jpg](https://crestwoodvethospital.com/wp-content/uploads/2023/05/Western_Fox_Snake.jpg)
+        * [https://crestwoodvethospital.com/western-fox-snake-care-elaphe-vulpina/](https://crestwoodvethospital.com/western-fox-snake-care-elaphe-vulpina/)
+
+1.  **Andaman Cat Snake**
+   
+    *   **Scientific Name:** _Boiga andamanensis_
+    *   **Distinguishing Qualities:** A rear-fanged colubrid known for its distinctive appearance and nocturnal behavior. It is arboreal and primarily feeds on small vertebrates, including lizards and birds.
+    *   **Name for Photos:** Andaman Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/e7/Andaman\_cat\_snake\_VP.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e7/Andaman_cat_snake_VP.jpg)
+        * [https://en.wikipedia.org/wiki/Boiga\_andamanensis](https://en.wikipedia.org/wiki/Boiga_andamanensis)
