@@ -407,4 +407,4 @@
 407. **Guifarro's Viper**
 408. **Painted Tree Snake**
 409. **Persian Horned Viper**
-410. **Eurasian Sand Boa**
+410. **Javelin Sand Boa**
