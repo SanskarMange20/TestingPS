@@ -403,3 +403,8 @@
 403. **Yellow-bellied Racer**
 404. **Tawny Cat-eyed Snake**
 405. **Desert rosy boa**
+406. **Acanthophis** (Death Adder)
+407. **Bothriechis guifarroi** (Guifarro's Viper)
+408. **Dendrophis pictus** (Painted Tree Snake)
+409. **Pseudocerastes persicus** (Persian Horned Viper)
+410. **Eryx jaculus** (Eurasian Sand Boa)
