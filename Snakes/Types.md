@@ -3718,3 +3718,12 @@
     *   **Sources:**
         * [https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWguxsmoXylh4mywJTOC-T1mshbjEyBJP\_WyDG1vIqUp39mSjc-Vuxkpb1HoH4rtdR8MUc66R4Z5IRDyk-ekk5FQkFgW5ttSe6GgBiXvzJ0swH7cTMWo8emYhOFfXfQ5I0d2NPZn7Ldxwl/s2600/Levitonius\_mirus-novataxa\_2020-Weinell\_Paluh\_Siler\_et\_Brown\_\_%40JeffWeinell\_%40KUNHM.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWguxsmoXylh4mywJTOC-T1mshbjEyBJP_WyDG1vIqUp39mSjc-Vuxkpb1HoH4rtdR8MUc66R4Z5IRDyk-ekk5FQkFgW5ttSe6GgBiXvzJ0swH7cTMWo8emYhOFfXfQ5I0d2NPZn7Ldxwl/s2600/Levitonius_mirus-novataxa_2020-Weinell_Paluh_Siler_et_Brown__%40JeffWeinell_%40KUNHM.jpg)
         * [https://en.wikipedia.org/wiki/Levitonius](https://en.wikipedia.org/wiki/Levitonius)
+
+3.  **Yellow Anaconda**
+   
+    *   **Scientific Name:** _Eunectes notaeus_
+    *   Distinguishing Qualities: A large, semi-aquatic snake characterized by its yellowish-green coloration with dark bands and spots. It can reach lengths of up to 4.6 meters and is known for its strong swimming abilities and constricting behavior when hunting.
+    *   Name for Photos: Yellow Anaconda (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anaconda\_jaune\_34.JPG/800px-Anaconda\_jaune\_34.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anaconda_jaune_34.JPG/800px-Anaconda_jaune_34.JPG)
+        * [https://en.wikipedia.org/wiki/Yellow\_anaconda](https://en.wikipedia.org/wiki/Yellow_anaconda)
