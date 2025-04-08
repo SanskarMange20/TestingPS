@@ -3709,3 +3709,12 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/e/e7/Andaman\_cat\_snake\_VP.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e7/Andaman_cat_snake_VP.jpg)
         * [https://en.wikipedia.org/wiki/Boiga\_andamanensis](https://en.wikipedia.org/wiki/Boiga_andamanensis)
+
+2.  **Waray Dwarf Burrowing Snake**
+   
+    *   **Scientific Name:** _Levitonius mirus_
+    *   **Distinguishing Qualities:** Newly discovered species; miniaturized with one of the fewest vertebrae counts among snakes; spends most of its life burrowing underground.
+    *   **Name for Photos:** Waray Dwarf Burrowing Snake (1)
+    *   **Sources:**
+        * [https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWguxsmoXylh4mywJTOC-T1mshbjEyBJP\_WyDG1vIqUp39mSjc-Vuxkpb1HoH4rtdR8MUc66R4Z5IRDyk-ekk5FQkFgW5ttSe6GgBiXvzJ0swH7cTMWo8emYhOFfXfQ5I0d2NPZn7Ldxwl/s2600/Levitonius\_mirus-novataxa\_2020-Weinell\_Paluh\_Siler\_et\_Brown\_\_%40JeffWeinell\_%40KUNHM.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWguxsmoXylh4mywJTOC-T1mshbjEyBJP_WyDG1vIqUp39mSjc-Vuxkpb1HoH4rtdR8MUc66R4Z5IRDyk-ekk5FQkFgW5ttSe6GgBiXvzJ0swH7cTMWo8emYhOFfXfQ5I0d2NPZn7Ldxwl/s2600/Levitonius_mirus-novataxa_2020-Weinell_Paluh_Siler_et_Brown__%40JeffWeinell_%40KUNHM.jpg)
+        * [https://en.wikipedia.org/wiki/Levitonius](https://en.wikipedia.org/wiki/Levitonius)
