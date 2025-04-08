@@ -3722,8 +3722,36 @@
 3.  **Yellow Anaconda**
    
     *   **Scientific Name:** _Eunectes notaeus_
-    *   Distinguishing Qualities: A large, semi-aquatic snake characterized by its yellowish-green coloration with dark bands and spots. It can reach lengths of up to 4.6 meters and is known for its strong swimming abilities and constricting behavior when hunting.
-    *   Name for Photos: Yellow Anaconda (1)
+    *   **Distinguishing Qualities:** A large, semi-aquatic snake characterized by its yellowish-green coloration with dark bands and spots. It can reach lengths of up to 4.6 meters and is known for its strong swimming abilities and constricting behavior when hunting.
+    *   **Name for Photos:** Yellow Anaconda (1)
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anaconda\_jaune\_34.JPG/800px-Anaconda\_jaune\_34.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anaconda_jaune_34.JPG/800px-Anaconda_jaune_34.JPG)
         * [https://en.wikipedia.org/wiki/Yellow\_anaconda](https://en.wikipedia.org/wiki/Yellow_anaconda)
+
+4.  **Montane Pit Viper**
+
+      *   **Scientific Name:** _Ovophis monticola_
+      *   **Distinguishing Qualities:** A venomous viper found in mountainous and forested areas across South and Southeast Asia. It has a robust body with a broad triangular head, often gray, brown, or reddish with darker blotches, adapted to cool, high-altitude habitats.
+      *   **Name for Photos:** Montane Pit Viper (1)
+      
+5.  **Ecuadorian Eyelash Boa**
+
+      *   **Scientific Name:** _Trachyboa gularis_ 
+      *   **Distinguishing Qualities:** A rare and little-known non-venomous boa native to Ecuador, notable for its short, stout body and raised scales above the eyes that resemble "eyelashes." It is believed to be semi-fossorial and elusive.
+      *   **Name for Photos:** Ecuadorian Eyelash Boa (1)
+      
+6.  **Striped Keelback**
+
+      *   **Scientific Name:** _Xenochrophis vittatus_
+      *   **Distinguishing Qualities:** A slender, non-venomous water snake commonly found in Southeast Asia. It has distinct longitudinal stripes along its body and is often spotted near rice fields, ponds, and streams. Agile and quick in water.
+      *   **Name for Photos:** Striped Keelback (1)
+      
+7.  **Barred Wolf Snake**
+
+      *   **Scientific Name:** _Lycodon striatus_
+      *   **Distinguishing Qualities:** A small, non-venomous colubrid snake with alternating dark and light bands, resembling a krait. Common in South Asia and often confused with venomous species due to its mimicry. Nocturnal and harmless.
+      *   **Name for Photos:** Barred Wolf Snake (1)
+      *   **Sources:**
+          * [https://upload.wikimedia.org/wikipedia/commons/6/6b/Barred\_Wolf\_Snake\_(Lycodon\_striatus)\_Photograph\_By\_Shantanu\_Kuveskar.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6b/Barred_Wolf_Snake_(Lycodon_striatus)_Photograph_By_Shantanu_Kuveskar.jpg)
+          * [https://en.wikipedia.org/wiki/Lycodon\_striatus](https://en.wikipedia.org/wiki/Lycodon_striatus)
+      
