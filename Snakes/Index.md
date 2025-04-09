@@ -430,9 +430,8 @@
 430. **Malayan Mountain Pit Viper** 
 431. **Northern Short-headed Snake** 
 432. **Japanese Keelback**
-433. **Rosenberg's Sand Snake**
-434. **Collared Black-headed Snake** 
-435. **Wall's Keelback**
-436. **Banded Trinket Snake** 
-437. **Sulu Islands banded coral snake** 
-438. **Crowned leafnose snake** 
+433. **Collared Black-headed Snake** 
+434. **Wall's Keelback**
+435. **Banded Trinket Snake** 
+436. **Sulu Islands banded coral snake** 
+437. **Crowned leafnose snake** 
