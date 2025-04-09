@@ -434,4 +434,9 @@
 434. **Wall's Keelback**
 435. **Banded Trinket Snake** 
 436. **Sulu Islands banded coral snake** 
-437. **Crowned leafnose snake** 
+437. **Crowned leafnose snake**
+438. **Variable Reed Snake** (*Calamaria lumbricoidea*)
+439. **Pointed-scaled Pit Viper** (*Protobothrops mucrosquamatus*)
+440. **Twin-spotted Wolf Snake** (*Lycodon jara*)
+441. **Elegant Bronzeback Tree Snake** (*Dendrelaphis formosus*)  
+
