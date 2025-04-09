@@ -3763,3 +3763,84 @@
      *   **Sources:**
          * [https://upload.wikimedia.org/wikipedia/commons/6/6b/Barred\_Wolf\_Snake\_(Lycodon\_striatus)\_Photograph\_By\_Shantanu\_Kuveskar.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6b/Barred_Wolf_Snake_(Lycodon_striatus)_Photograph_By_Shantanu_Kuveskar.jpg)
          * [https://en.wikipedia.org/wiki/Lycodon\_striatus](https://en.wikipedia.org/wiki/Lycodon_striatus)
+
+1.  **Blyth's Reticulate Snake**
+    
+    *   **Scientific Name:** _Blythia reticulata_
+    *   **Distinguishing Qualities:** A small, elusive snake found in parts of Southeast Asia, characterized by its reticulated pattern and secretive nature.
+    *   **Name for Photos:** Blyth's Reticulate Snake (1)
+    *   **Sources:**
+        * [https://api.indiansnakes.org/u/1656778271469.jpg](https://api.indiansnakes.org/u/1656778271469.jpg)
+        * [https://en.wikipedia.org/wiki/Blyth's\_reticulated\_snake](https://en.wikipedia.org/wiki/Blyth's_reticulated_snake)
+        
+2.  **Dussumier's Water Snake**
+    
+    *   **Scientific Name:** _Dieurostus dussumieri_
+    *   **Distinguishing Qualities:** An aquatic snake native to India, known for its preference for freshwater habitats and piscivorous diet.
+    *   **Name for Photos:** Dussumier's Water Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dieurostus\_dussumieri.jpg/1280px-Dieurostus\_dussumieri.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dieurostus_dussumieri.jpg/1280px-Dieurostus_dussumieri.jpg)
+        * [https://en.wikipedia.org/wiki/Dieurostus](https://en.wikipedia.org/wiki/Dieurostus)
+        
+3.  **Collared Reed Snake**
+    
+    *   **Scientific Name:** _Calamaria pavimentata_
+    *   **Distinguishing Qualities:** A slender, non-venomous snake found in South and Southeast Asia, recognized by the distinctive collar-like marking around its neck.
+    *   **Name for Photos:** Collared Reed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Calamaria\_pavimentata,\_Collared\_reed\_snake.jpg/1280px-Calamaria\_pavimentata,\_Collared\_reed\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Calamaria_pavimentata,_Collared_reed_snake.jpg/1280px-Calamaria_pavimentata,_Collared_reed_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Collared\_reed\_snake](https://en.wikipedia.org/wiki/Collared_reed_snake)
+        
+4.  **Günther's Many-tooth Snake**
+    
+    *   **Scientific Name:** _Sibynophis bistrigatus_
+    *   **Distinguishing Qualities:** A terrestrial snake distributed in parts of India and Southeast Asia, notable for its multiple small teeth and agile movements.
+    *   **Name for Photos:** Günther's Many-tooth Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/242214621/original.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/242214621/original.jpg)
+        * [https://en.wikipedia.org/wiki/Sibynophis\_bistrigatus](https://en.wikipedia.org/wiki/Sibynophis_bistrigatus)
+        
+5.  **Western Ghats Coral Snake**
+    
+    *   **Scientific Name:** _Calliophis castoe_
+    *   **Distinguishing Qualities:** A venomous snake endemic to the Western Ghats of India, exhibiting vibrant coloration as a warning to predators.
+    *   **Name for Photos:** Western Ghats Coral Snake (1)
+    *   **Sources:**
+        * [https://jlrexplore.com/wp-content/uploads/2017/06/DSC-5527a-1.jpg](https://jlrexplore.com/wp-content/uploads/2017/06/DSC-5527a-1.jpg)
+        * [https://en.wikipedia.org/wiki/Calliophis\_castoe](https://en.wikipedia.org/wiki/Calliophis_castoe)
+        
+6.  **Red-bellied Mudsnake**
+    
+    *   **Scientific Name:** _Farancia abacura_    
+    *   **Distinguishing Qualities:** A non-venomous, semi-aquatic snake found in the southeastern United States, recognized by its glossy black back and red belly.
+    *   **Name for Photos:** Red-bellied Mudsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d2/Western\_Mud\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d2/Western_Mud_Snake.jpg)
+        * [https://en.wikipedia.org/wiki/Mud\_snake](https://en.wikipedia.org/wiki/Mud_snake)
+
+8.  **Anderson's Pit Viper**
+    
+    *   **Scientific Name:** _Trimeresurus andersonii_
+    *   **Distinguishing Qualities:** A venomous pit viper species found in the Andaman Islands, characterized by its green coloration and heat-sensing pits.
+    *   **Name for Photos:** Anderson's Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Trimeresurus\_andersonii\_-\_Shreeram\_M\_V.jpg/1280px-Trimeresurus\_andersonii\_-\_Shreeram\_M\_V.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Trimeresurus_andersonii_-_Shreeram_M_V.jpg/1280px-Trimeresurus_andersonii_-_Shreeram_M_V.jpg)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_andersonii](https://en.wikipedia.org/wiki/Trimeresurus_andersonii)
+        
+9.  **Large-scaled Green Pit Viper**
+    
+    *   **Scientific Name:** _Trimeresurus macrolepis_
+    *   **Distinguishing Qualities:** Endemic to the Western Ghats of India, this venomous snake is notable for its large scales and vibrant green color.
+    *   **Name for Photos:** Large-scaled Green Pit Viper (1)
+    *   **Sources:**
+        * [https://api.indiansnakes.org/u/1646882857965.jpg](https://api.indiansnakes.org/u/1646882857965.jpg)
+        * [https://www.inaturalist.org/taxa/30963-Trimeresurus-macrolepis](https://www.inaturalist.org/taxa/30963-Trimeresurus-macrolepis)
+        
+1.  **Malabar Rock Pit Viper**
+    
+    *   **Scientific Name:** _Trimeresurus malabaricus_
+    *   **Distinguishing Qualities:** A venomous snake native to the Western Ghats, recognized for its varied coloration and preference for rocky habitats.
+    *   **Name for Photos:** Malabar Rock Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Different\_morphs\_of\_Malabar\_pit\_viper.jpg/1024px-Different\_morphs\_of\_Malabar\_pit\_viper.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Different_morphs_of_Malabar_pit_viper.jpg/1024px-Different_morphs_of_Malabar_pit_viper.jpg)
+        * [https://en.wikipedia.org/wiki/Craspedocephalus\_malabaricus](https://en.wikipedia.org/wiki/Craspedocephalus_malabaricus)
