@@ -3844,3 +3844,84 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Different\_morphs\_of\_Malabar\_pit\_viper.jpg/1024px-Different\_morphs\_of\_Malabar\_pit\_viper.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Different_morphs_of_Malabar_pit_viper.jpg/1024px-Different_morphs_of_Malabar_pit_viper.jpg)
         * [https://en.wikipedia.org/wiki/Craspedocephalus\_malabaricus](https://en.wikipedia.org/wiki/Craspedocephalus_malabaricus)
+
+2.  **Gunther's Kukri Snake**
+
+    *   **Scientific Name:** _Oligodon cyclurus_
+    *   **Distinguishing Qualities:** A non-venomous colubrid found in South and Southeast Asia, known for its kukri-shaped rear teeth used to slice open reptile eggs. Typically brownish with faint markings.
+    *   **Name for Photos:** Gunther's Kukri Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/44/Black\_cross-barred\_Kukri\_snake\_Oligodon\_cinereus.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Black_cross-barred_Kukri_snake_Oligodon_cinereus.jpg)
+        * [https://en.wikipedia.org/wiki/Oligodon\_cinereus](https://en.wikipedia.org/wiki/Oligodon_cinereus)
+    
+3.  **Malayan Mountain Pit Viper**
+
+    *   **Scientific Name:** _Ovophis convictus_
+    *   **Distinguishing Qualities:** A venomous pit viper native to forested mountainous regions of Malaysia and Indonesia. Displays a heavy body with brownish bands and a triangular head. Bites can cause local tissue damage.
+    *   **Name for Photos:** Malayan Mountain Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Indo-malayan\_Mountain\_Pitviper\_(Ovophis\_monticola\_convictus)\_(18085351724).jpg/1280px-Indo-malayan\_Mountain\_Pitviper\_(Ovophis\_monticola\_convictus)\_(18085351724).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Indo-malayan_Mountain_Pitviper_(Ovophis_monticola_convictus)_(18085351724).jpg/1280px-Indo-malayan_Mountain_Pitviper_(Ovophis_monticola_convictus)_(18085351724).jpg)
+        * [https://en.wikipedia.org/wiki/Ovophis\_convictus](https://en.wikipedia.org/wiki/Ovophis_convictus)
+    
+4.  **Northern Short-headed Snake**
+
+    *   **Scientific Name:** _Oligodon ancorus_
+    *   **Distinguishing Qualities:** A small, secretive, non-venomous snake found in Southeast Asia, usually under leaf litter. Known for its short, blunt head and egg-eating habits.
+    *   **Name for Photos:** Northern Short-headed Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/2016553/large.jpg](https://static.inaturalist.org/photos/2016553/large.jpg)
+        * [https://en.wikipedia.org/wiki/Oligodon\_ancorus](https://en.wikipedia.org/wiki/Oligodon_ancorus)
+    
+5.  **Japanese Keelback**
+
+    *   **Scientific Name:** _Hebius vibakari_
+    *   **Distinguishing Qualities:** A mildly venomous snake from Japan and parts of Korea. Recognized by its olive-green body and keeled scales. Prefers wet habitats like rice paddies and streams.
+    *   **Name for Photos:** Japanese Keelback (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vibakari2.jpg/1024px-Vibakari2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vibakari2.jpg/1024px-Vibakari2.jpg)
+        * [https://en.wikipedia.org/wiki/Japanese\_keelback](https://en.wikipedia.org/wiki/Japanese_keelback)
+    
+7.  **Collared Black-headed Snake**
+
+    *   **Scientific Name:** _Sibynophis collaris_
+    *   **Distinguishing Qualities:** A slender, fast-moving, non-venomous snake found in Asia. Identified by its black head and yellow collar-like marking behind it. Active during the day and often seen in forests.
+    *   **Name for Photos:** Collared Black-headed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/49/SibynophisCollaris.jpg](https://upload.wikimedia.org/wikipedia/commons/4/49/SibynophisCollaris.jpg)
+        * [https://en.wikipedia.org/wiki/Sibynophis\_collaris](https://en.wikipedia.org/wiki/Sibynophis_collaris)
+
+8.  **Wall's Keelback**
+
+    *   **Scientific Name:** _Herpetoreas xenura_
+    *   **Distinguishing Qualities:** A non-venomous snake found in northeastern India and neighboring regions. Features strongly keeled scales and prefers montane and semi-aquatic habitats.
+    *   **Name for Photos:** Wall's Keelback (1)
+    *   **Sources:**
+        * [https://www.indianreptiles.org/sites/indianreptiles.org/files/6\_101-91-5993af136def7-7.jpg](https://www.indianreptiles.org/sites/indianreptiles.org/files/6_101-91-5993af136def7-7.jpg)
+        * [https://en.wikipedia.org/wiki/Wall's\_keelback](https://en.wikipedia.org/wiki/Wall's_keelback)
+    
+9.  **Banded Trinket Snake**
+
+    *   **Scientific Name:** _Oreocryptophis porphyraceus_
+    *   **Distinguishing Qualities:** A stunning, non-venomous colubrid known for its bright red and black bands. Found in Southeast Asia in forested regions. Often kept in captivity due to its striking colors.
+    *   **Name for Photos:** Banded Trinket Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gfp-red-mountain-racer.jpg/1024px-Gfp-red-mountain-racer.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gfp-red-mountain-racer.jpg/1024px-Gfp-red-mountain-racer.jpg)
+        * [https://en.wikipedia.org/wiki/Oreocryptophis](https://en.wikipedia.org/wiki/Oreocryptophis)
+    
+1.  **Sulu Islands Banded Coral Snake**
+
+    *   **Scientific Name:** _Calliophis suluensis_
+    *   **Distinguishing Qualities:** A rare and highly venomous elapid endemic to the Sulu Islands of the Philippines. Features vivid red, black, and white bands. Elusive and not well-studied.
+    *   **Name for Photos:** Sulu Islands Banded Coral Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/37453437/large.jpg](https://static.inaturalist.org/photos/37453437/large.jpg)
+        * [https://en.wikipedia.org/wiki/Calliophis\_suluensis](https://en.wikipedia.org/wiki/Calliophis_suluensis)
+    
+2.  **Crowned Leafnose Snake**
+
+    *   **Scientific Name:** _Lytorhynchus diadema_
+    *   **Distinguishing Qualities:** A desert-adapted snake found in North Africa and the Middle East, known for its distinctive pointed snout and crown-like head markings. Non-venomous and nocturnal.
+    *   **Name for Photos:** Crowned Leafnose Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/34/Lytorhynchus\_diadema.jpg](https://upload.wikimedia.org/wikipedia/commons/3/34/Lytorhynchus_diadema.jpg)
+        * [https://en.wikipedia.org/wiki/Lytorhynchus\_diadema](https://en.wikipedia.org/wiki/Lytorhynchus_diadema)
