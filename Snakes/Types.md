@@ -3925,3 +3925,40 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/3/34/Lytorhynchus\_diadema.jpg](https://upload.wikimedia.org/wikipedia/commons/3/34/Lytorhynchus_diadema.jpg)
         * [https://en.wikipedia.org/wiki/Lytorhynchus\_diadema](https://en.wikipedia.org/wiki/Lytorhynchus_diadema)
+
+3.  **Variable Reed Snake**
+
+    *   **Scientific Name:** _Calamaria lumbricoidea_
+    *   **Distinguishing Qualities:** A small, burrowing, non-venomous snake found in Southeast Asia. Recognized by its smooth, glossy scales and worm-like appearance. Often mistaken for earthworms.
+    *   **Name for Photos:** Variable Reed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Variable\_Reed\_Snake\_imported\_from\_iNaturalist\_photo\_190615232\_on\_22\_February\_2024.jpg/800px-Variable\_Reed\_Snake\_imported\_from\_iNaturalist\_photo\_190615232\_on\_22\_February\_2024.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Variable_Reed_Snake_imported_from_iNaturalist_photo_190615232_on_22_February_2024.jpg/800px-Variable_Reed_Snake_imported_from_iNaturalist_photo_190615232_on_22_February_2024.jpg)
+        * [https://en.wikipedia.org/wiki/Calamaria\_lumbricoidea](https://en.wikipedia.org/wiki/Calamaria_lumbricoidea)  
+
+4.  **Pointed-scaled Pit Viper**
+
+    *   **Scientific Name:** _Protobothrops mucrosquamatus_
+    *   **Distinguishing Qualities:** A venomous viper found in East and Southeast Asia. It has sharply keeled scales and a broad, triangular head. Typically brownish with darker blotches.
+    *   **Name for Photos:** Pointed-scaled Pit Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trimeresurus\_mucrosquamatus\_Taiwan.jpg/1280px-Trimeresurus\_mucrosquamatus\_Taiwan.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trimeresurus_mucrosquamatus_Taiwan.jpg/1280px-Trimeresurus_mucrosquamatus_Taiwan.jpg)
+        * [https://en.wikipedia.org/wiki/Protobothrops\_mucrosquamatus](https://en.wikipedia.org/wiki/Protobothrops_mucrosquamatus)
+    
+5.  **Twin-spotted Wolf Snake**
+
+    *   **Scientific Name:** _Lycodon jara_
+    *   **Distinguishing Qualities:** A non-venomous colubrid with twin white or yellow spots on a dark background. Often mistaken for kraits. Common in India and Sri Lanka.
+    *   **Name for Photos:** Twin-spotted Wolf Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/c/c1/AB117\_Lycodon\_jara.JPG](https://upload.wikimedia.org/wikipedia/commons/c/c1/AB117_Lycodon_jara.JPG)
+        * [https://en.wikipedia.org/wiki/Lycodon\_jara](https://en.wikipedia.org/wiki/Lycodon_jara)
+
+6.  **Elegant Bronzeback Tree Snake**
+
+    *   **Scientific Name:** _Dendrelaphis formosus_
+    *   **Distinguishing Qualities:** A slender, non-venomous arboreal snake with a bronze back and black lateral stripes. Active during the day and lightning-fast in trees.
+    *   **Name for Photos:** Elegant Bronzeback Tree Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Elegant\_Bronzeback\_(Dendrelaphis\_formosus)\_(8417383360).jpg/1024px-Elegant\_Bronzeback\_(Dendrelaphis\_formosus)\_(8417383360).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Elegant_Bronzeback_(Dendrelaphis_formosus)_(8417383360).jpg/1024px-Elegant_Bronzeback_(Dendrelaphis_formosus)_(8417383360).jpg)
+        * [https://en.wikipedia.org/wiki/Dendrelaphis\_formosus](https://en.wikipedia.org/wiki/Dendrelaphis_formosus)
+  
