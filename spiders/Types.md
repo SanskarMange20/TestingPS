@@ -836,7 +836,8 @@ https://www.virginiacheeseman.co.uk/image/cache/catalog/TarantulaKingBaboon-500x
 *   **Image Name**: Spider125, Spider126  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Poecilotheria_regalis](https://en.wikipedia.org/wiki/Poecilotheria_regalis)  
-
+https://upload.wikimedia.org/wikipedia/commons/2/2a/P_regalis.JPG
+https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 
 
  **64. Costa Rican Zebra Tarantula**  
