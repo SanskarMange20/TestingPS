@@ -768,7 +768,8 @@ https://live.staticflickr.com/65535/53870687855_f5d15562ba_b.jpg
 *   **Image Name**: Spider115, Spider116  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)  
-
+https://bugguide.net/images/cache/RQB/RJK/RQBRJKVRQQJQ60L0900040TQ40DQ20S0P0TQE0TR7QJRXQORP0TQJKDQRQVRI0FQI0VRX0AR40YQI0TQ50TQX0YQ70.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Crab_spider_%28Misumena_Vatia%29_with_prey_silver-spotted_skipper_%28Hesperia_comma%29.jpg/1200px-Crab_spider_%28Misumena_Vatia%29_with_prey_silver-spotted_skipper_%28Hesperia_comma%29.jpg
 
 
  **59. Ladybird Mimic Spider**  
@@ -781,7 +782,8 @@ https://live.staticflickr.com/65535/53870687855_f5d15562ba_b.jpg
 *   **Image Name**: Spider117, Spider118  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Paraplectana](https://en.wikipedia.org/wiki/Paraplectana)  
-
+https://upload.wikimedia.org/wikipedia/commons/1/1e/Paraplectana.tsushimensis.female.-.tanikawa.jpg
+https://inaturalist-open-data.s3.amazonaws.com/photos/1955488/large.jpg
 
 
  **60. Blue-Fanged Tarantula**  
@@ -794,7 +796,8 @@ https://live.staticflickr.com/65535/53870687855_f5d15562ba_b.jpg
 *   **Image Name**: Spider119, Spider120  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Ephebopus_cyanognathus](https://en.wikipedia.org/wiki/Ephebopus_cyanognathus)  
-
+https://tarantulasoftheworld.com/wp-content/uploads/2014/07/e.cya_-e1406480256831.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEHAks2fDX5rcvRLd0dPRN5AyEPQDXLItAA&s
 
  **61. Cobalt Blue Tarantula**  
 -----------------  
@@ -806,7 +809,8 @@ https://live.staticflickr.com/65535/53870687855_f5d15562ba_b.jpg
 *   **Image Name**: Spider121, Spider122  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Cyriopagopus_lividus](https://en.wikipedia.org/wiki/Cyriopagopus_lividus)  
-
+https://inaturalist-open-data.s3.amazonaws.com/photos/129009576/original.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/67/Haplopelma_lividum%2C_Cobalt_blue_tarantula_cropped.jpg
 
 
  **62. King Baboon Spider**  
@@ -819,7 +823,8 @@ https://live.staticflickr.com/65535/53870687855_f5d15562ba_b.jpg
 *   **Image Name**: Spider123, Spider124  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Pelinobius_muticus](https://en.wikipedia.org/wiki/Pelinobius_muticus)  
-
+https://upload.wikimedia.org/wikipedia/commons/7/75/Pelinobius_muticus_adult.jpg
+https://www.virginiacheeseman.co.uk/image/cache/catalog/TarantulaKingBaboon-500x500.JPG
 
  **63. Indian Ornamental Tarantula**  
 -----------------  
