@@ -438,4 +438,9 @@
 438. **Variable Reed Snake**
 439. **Pointed-scaled Pit Viper** 
 440. **Twin-spotted Wolf Snake** 
-441. **Elegant Bronzeback Tree Snake** 
+441. **Elegant Bronzeback Tree Snake**
+442. **Belcher's sea snake**
+443. **Stejneger's snail sucker**
+444. **Harrison Ford’s snake**
+445. **Haitian dwarf boa**
+446. **Ocellated shieldtail**
