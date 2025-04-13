@@ -3961,4 +3961,46 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Elegant\_Bronzeback\_(Dendrelaphis\_formosus)\_(8417383360).jpg/1024px-Elegant\_Bronzeback\_(Dendrelaphis\_formosus)\_(8417383360).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Elegant_Bronzeback_(Dendrelaphis_formosus)_(8417383360).jpg/1024px-Elegant_Bronzeback_(Dendrelaphis_formosus)_(8417383360).jpg)
         * [https://en.wikipedia.org/wiki/Dendrelaphis\_formosus](https://en.wikipedia.org/wiki/Dendrelaphis_formosus)
-  
+
+7.  **Belcher's Sea Snake** 
+
+    *   **Scientific Name:** Hydrophis belcheri
+    *   **Distinguishing Qualities:** A highly venomous sea snake known for its striking coloration, which includes a pattern of blue and yellow. It is considered one of the most venomous snakes in the world but is generally docile.
+    *   **Name for Photos:** Belcher's Sea Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/ba/Hydrophis\_belcheri\_-\_journal.pone.0027373.g005.png](https://upload.wikimedia.org/wikipedia/commons/b/ba/Hydrophis_belcheri_-_journal.pone.0027373.g005.png)
+        * [https://en.wikipedia.org/wiki/Hydrophis\_belcheri](https://en.wikipedia.org/wiki/Hydrophis_belcheri)
+
+8.  **Stejneger's snail sucker**
+    *   **Scientific Name:** Sibon longifrenis
+    *   **Distinguishing Qualities:** A non-venomous snake known for its diet of snails and slugs. It has a distinctive long, fringed tongue that helps it capture its prey.
+    *   **Name for Photos:** Stejneger's snail sucker (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sibon\_longifrenis\_(La\_Selva\_Biological\_Station).jpg/1280px-Sibon\_longifrenis\_(La\_Selva\_Biological\_Station).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sibon_longifrenis_(La_Selva_Biological_Station).jpg/1280px-Sibon_longifrenis_(La_Selva_Biological_Station).jpg)
+        * [https://en.wikipedia.org/wiki/Sibon\_longifrenis](https://en.wikipedia.org/wiki/Sibon_longifrenis)
+
+9. **Harrison Ford’s Snake** (Tachymenoides harrisonfordi)
+
+   *   **Scientific Name:** Tachymenoides harrisonfordi
+   *   **Distinguishing Qualities:** A recently discovered species named after actor Harrison Ford, known for its unique coloration and habitat preferences in Central America. It is non-venomous and primarily feeds on small prey.
+   *   **Name for Photos:** Harrison Ford’s Snake (1)
+   *   **Sources:**
+       * [https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/08/29152814/harrison-ford-snake-5.jpg](https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/08/29152814/harrison-ford-snake-5.jpg)
+       * [https://en.wikipedia.org/wiki/Tachymenoides\_harrisonfordi](https://en.wikipedia.org/wiki/Tachymenoides_harrisonfordi)
+
+1.  **Haitian Dwarf Boa** (Tropidophis haetianus)
+    *   **Scientific Name:** Tropidophis haetianus
+    *   **Distinguishing Qualities:** A small, non-venomous boa known for its distinctive coloration and pattern. It is found in Haiti and the Dominican Republic, primarily inhabiting forests and shrublands.
+    *   **Name for Photos:** Haitian Dwarf Boa (1)
+    *   **Sources:**
+        * [https://www.joelsartore.com/wp-content/uploads/stock/ANI097/ANI097-00207.jpg](https://www.joelsartore.com/wp-content/uploads/stock/ANI097/ANI097-00207.jpg)
+        * [https://en.wikipedia.org/wiki/Tropidophis\_haetianus](https://en.wikipedia.org/wiki/Tropidophis_haetianus)
+
+2.  **Ocellated Shieldtail** (Uropeltis ocellata)
+
+    *   **Scientific Name:** Uropeltis ocellata
+    *   **Distinguishing Qualities:** A non-venomous snake known for its distinctive ocellated pattern on its tail, which resembles a shield. It is a burrowing species found in the forests of India and Sri Lanka.
+    *   **Name for Photos:** Ocellated Shieldtail (1)
+    *   **Sources:**
+        * [https://indiabiodiversity.org/files-api/api/get/raw/observations//3a98611c-5321-449a-a42c-73207685289c/213.jpg](https://indiabiodiversity.org/files-api/api/get/raw/observations//3a98611c-5321-449a-a42c-73207685289c/213.jpg)
+        * [https://en.wikipedia.org/wiki/Uropeltis\_ocellata](https://en.wikipedia.org/wiki/Uropeltis_ocellata)
