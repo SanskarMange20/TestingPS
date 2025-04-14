@@ -4005,3 +4005,48 @@
     *   **Sources:**
         * [https://indiabiodiversity.org/files-api/api/get/raw/observations//3a98611c-5321-449a-a42c-73207685289c/213.jpg](https://indiabiodiversity.org/files-api/api/get/raw/observations//3a98611c-5321-449a-a42c-73207685289c/213.jpg)
         * [https://en.wikipedia.org/wiki/Uropeltis\_ocellata](https://en.wikipedia.org/wiki/Uropeltis_ocellata)
+
+4.  **Puff-faced Water Snake** (Homalopsis buccata)
+
+    *   **Scientific Name:** Homalopsis buccata
+    *   **Distinguishing Qualities:** A non-venomous aquatic snake known for its distinctive puffed-up face when threatened. It is typically found in brackish and freshwater habitats in Southeast Asia and primarily feeds on fish and amphibians.
+    *   **Name for Photos:** Puff-faced Water Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/c/c1/Homalopsis\_buccata.png](https://upload.wikimedia.org/wikipedia/commons/c/c1/Homalopsis_buccata.png)
+        * [https://en.wikipedia.org/wiki/Homalopsis\_buccata](https://en.wikipedia.org/wiki/Homalopsis_buccata)
+
+5.  **Crab-eating Water Snake** (Fordonia leucobalia)
+
+    *   **Scientific Name:** Fordonia leucobalia
+    *   **Distinguishing Qualities:** A non-venomous snake adapted to a semi-aquatic lifestyle, known for its ability to hunt crabs and other crustaceans. It has a slender body and is found in freshwater and brackish environments in Central and South America.
+    *   **Name for Photos:** Crab-eating Water Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pied\_Mangrove\_Snake.JPG/1280px-Pied\_Mangrove\_Snake.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pied_Mangrove_Snake.JPG/1280px-Pied_Mangrove_Snake.JPG)
+        * [https://en.wikipedia.org/wiki/Fordonia](https://en.wikipedia.org/wiki/Fordonia)
+
+6.  **Bockadam Snake** (Cerberus rynchops)
+
+    *   **Scientific Name:** Cerberus rynchops
+    *   **Distinguishing Qualities:** A non-venomous snake known for its flattened head and ability to swim well in brackish waters. It primarily feeds on fish and is found in coastal regions of Southeast Asia and northern Australia.
+    *   **Name for Photos:** Bockadam Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cerberus\_rynchops\_Andamans.jpg/1024px-Cerberus\_rynchops\_Andamans.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cerberus_rynchops_Andamans.jpg/1024px-Cerberus_rynchops_Andamans.jpg)
+        * [https://en.wikipedia.org/wiki/Cerberus\_rynchops](https://en.wikipedia.org/wiki/Cerberus_rynchops)
+
+7.  **Common Vine Snake** (Ahaetulla nasuta)
+
+    *   **Scientific Name:** Ahaetulla nasuta
+    *   **Distinguishing Qualities:** A non-venomous snake known for its slender, elongated body and green coloration, which provides excellent camouflage among foliage. It primarily feeds on small reptiles and is found in South and Southeast Asia.
+    *   **Name for Photos:** Common Vine Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Davidraju\_Vine\_snake.jpg/1280px-Davidraju\_Vine\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Davidraju_Vine_snake.jpg/1280px-Davidraju_Vine_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Ahaetulla\_nasuta](https://en.wikipedia.org/wiki/Ahaetulla_nasuta)
+
+8.  **Madurai Shieldtail** (Uropeltis madurensis)
+
+    *   **Scientific Name:** Uropeltis madurensis
+    *   **Distinguishing Qualities:** A non-venomous burrowing snake known for its distinctive shield-like tail and stout body. It is endemic to the Western Ghats of India and primarily feeds on earthworms and small invertebrates.
+    *   **Name for Photos:** Madurai Shieldtail (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/2/25/Madurai\_shieldtail\_Uropeltis\_madurensis.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/Madurai_shieldtail_Uropeltis_madurensis.jpg)
+        * [https://en.wikipedia.org/wiki/Uropeltis\_madurensis](https://en.wikipedia.org/wiki/Uropeltis_madurensis)
