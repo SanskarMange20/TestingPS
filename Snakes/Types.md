@@ -4050,3 +4050,21 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/2/25/Madurai\_shieldtail\_Uropeltis\_madurensis.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/Madurai_shieldtail_Uropeltis_madurensis.jpg)
         * [https://en.wikipedia.org/wiki/Uropeltis\_madurensis](https://en.wikipedia.org/wiki/Uropeltis_madurensis)
+
+9.  **Savage’s Earth Snake** 
+
+    *   **Scientific Name:** Geophis downsi
+    *   **Distinguishing Qualities:** A non-venomous snake known for its burrowing habits and slender body. It is typically found in the tropical forests of Central America and primarily feeds on small invertebrates, such as earthworms and insects.
+    *   **Name for Photos:** Savage’s Earth Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Ulq9p9xOh9Etb-Pj7WlfZTS6lvTU6YxeSA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Ulq9p9xOh9Etb-Pj7WlfZTS6lvTU6YxeSA&s)
+        * [https://en.wikipedia.org/wiki/Geophis\_downsi](https://en.wikipedia.org/wiki/Geophis_downsi)
+
+1.  **Common Bronzeback**
+
+    *   **Scientific Name:** Dendrelaphis tristis
+    *   **Distinguishing Qualities:** A non-venomous snake recognized for its slender body and bronze coloration, often with a distinctive pattern of stripes. It is an arboreal species found in Southeast Asia, primarily feeding on small lizards and frogs.
+    *   **Name for Photos:** Common Bronzeback (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/d9/Bronzeback\_sal.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Bronzeback_sal.jpg)
+        * [https://en.wikipedia.org/wiki/Dendrelaphis\_tristis](https://en.wikipedia.org/wiki/Dendrelaphis_tristis)
