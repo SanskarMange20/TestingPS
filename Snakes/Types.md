@@ -4140,3 +4140,48 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Liotyphlops\_ternetzii\_175634202.jpg/1280px-Liotyphlops\_ternetzii\_175634202.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Liotyphlops_ternetzii_175634202.jpg/1280px-Liotyphlops_ternetzii_175634202.jpg)
         * [https://en.wikipedia.org/wiki/Liotyphlops\_ternetzii](https://en.wikipedia.org/wiki/Liotyphlops_ternetzii)
+
+1.  **Brongersma's Worm Snake**
+
+    *   **Scientific Name:** _Amerotyphlops brongersmianus_
+    *   **Distinguishing Qualities:** A non-venomous, burrowing snake known for its small size and smooth, shiny scales. It is found in the tropical forests of Suriname and surrounding areas, primarily feeding on small invertebrates such as earthworms.
+    *   **Name for Photos:** Brongersma's Worm Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/3e/Amerotyphlops\_brongersmianus\_(10.3897-zookeys.787.26946)\_Figure\_5\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/3/3e/Amerotyphlops_brongersmianus_(10.3897-zookeys.787.26946)_Figure_5_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Amerotyphlops\_brongersmianus](https://en.wikipedia.org/wiki/Amerotyphlops_brongersmianus)
+
+2.  **Siebold's Earth Snake** 
+
+    *   **Scientific Name:** _Geophis sieboldi_
+    *   **Distinguishing Qualities:** A non-venomous snake known for its slender body and secretive nature. It is found in the forests of Central America, particularly in Costa Rica and Panama, and primarily feeds on small invertebrates, including earthworms and insects.
+    *   **Name for Photos:** Siebold's Earth Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/105497788/large.jpeg](https://inaturalist-open-data.s3.amazonaws.com/photos/105497788/large.jpeg)
+        * [https://en.wikipedia.org/wiki/Geophis\_sieboldi](https://en.wikipedia.org/wiki/Geophis_sieboldi)
+
+3.  **Olive Marsh Snake** 
+
+    *   **Scientific Name:** _Natriciteres olivacea_
+    *   **Distinguishing Qualities:** A non-venomous snake known for its olive-green coloration and semi-aquatic lifestyle. It is found in marshy and wetland areas of West and Central Africa, primarily feeding on amphibians and small fish.
+    *   **Name for Photos:** Olive Marsh Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Natriciteres\_olivacea.jpg/1024px-Natriciteres\_olivacea.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Natriciteres_olivacea.jpg/1024px-Natriciteres_olivacea.jpg)
+        * [https://en.wikipedia.org/wiki/Olive\_marsh\_snake](https://en.wikipedia.org/wiki/Olive_marsh_snake)
+
+4.  **Laotian Wolf Snake** 
+
+    *   **Scientific Name:** _Lycodon laoensis_
+    *   **Distinguishing Qualities:** A non-venomous snake known for its slender body and distinctive coloration, often with dark bands. It is found in Laos and surrounding regions, primarily feeding on small reptiles and amphibians.
+    *   **Name for Photos:** Laotian Wolf Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lycodon\_laoensis,\_Khao\_Wong\_National\_Park.jpg/1280px-Lycodon\_laoensis,\_Khao\_Wong\_National\_Park.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lycodon_laoensis,_Khao_Wong_National_Park.jpg/1280px-Lycodon_laoensis,_Khao_Wong_National_Park.jpg)
+        * [https://en.wikipedia.org/wiki/Lycodon\_laoensis](https://en.wikipedia.org/wiki/Lycodon_laoensis)
+
+5.  **Mount Kenya Bush Viper**
+   
+    *   **Scientific Name:** _Atheris desaixi_
+    *   **Distinguishing Qualities:** A venomous snake known for its vibrant green coloration and distinctive keeled scales. It is endemic to the Mount Kenya region and primarily inhabits montane forests, feeding on small mammals and birds.
+    *   **Name for Photos:** Mount Kenya Bush Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/46/Atheris\_desaixi.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Atheris_desaixi.jpg)
+        * [https://en.wikipedia.org/wiki/Atheris\_desaixi](https://en.wikipedia.org/wiki/Atheris_desaixi)
