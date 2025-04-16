@@ -4068,3 +4068,75 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/d/d9/Bronzeback\_sal.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Bronzeback_sal.jpg)
         * [https://en.wikipedia.org/wiki/Dendrelaphis\_tristis](https://en.wikipedia.org/wiki/Dendrelaphis_tristis)
+
+2.  **Iwasaki’s Snail-Eater**
+
+    *   **Scientific Name:** Pareas iwasakii
+    *   **Distinguishing Qualities:** A non-venomous snake known for its specialized diet of snails. It has a slender body and is characterized by its distinctive coloration and pattern. This species is found in the forests of Taiwan and is primarily arboreal.
+    *   **Name for Photos:** Iwasaki’s Snail-Eater (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/f/fb/野生のイワサキセダカヘビ.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fb/野生のイワサキセダカヘビ.jpg)
+        * [https://en.wikipedia.org/wiki/Iwasaki's\_snail-eater](https://en.wikipedia.org/wiki/Iwasaki's_snail-eater)
+
+3.  **Burrowing Asp** 
+
+   *   **Scientific Name:** Atractaspis aterrima
+   *   **Distinguishing Qualities:** A venomous snake known for its burrowing habits and distinctive flattened body. It is found in sub-Saharan Africa and primarily feeds on small mammals and amphibians. Its venom is potent, but it is generally reclusive and rarely encountered by humans.
+   *   **Name for Photos:** Burrowing Asp (1)
+   *   **Sources:**
+       * [https://upload.wikimedia.org/wikipedia/commons/a/aa/Atractaspis\_aterrima.jpg](https://upload.wikimedia.org/wikipedia/commons/a/aa/Atractaspis_aterrima.jpg)
+       * [https://en.wikipedia.org/wiki/Atractaspis\_aterrima](https://en.wikipedia.org/wiki/Atractaspis_aterrima)
+
+4.  **Round Island Boa** 
+
+   *   **Scientific Name:** Casarea dussumieri
+   *   **Distinguishing Qualities:** A non-venomous boa species endemic to Round Island, Mauritius. It is known for its distinctive coloration and pattern, which helps it blend into its forest habitat. It primarily feeds on birds and small mammals.
+   *   **Name for Photos:** Round Island Boa (1)
+   *   **Sources:**
+       * [https://upload.wikimedia.org/wikipedia/commons/0/0a/Casarea\_dussumieri\_IleRonde\_860513.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0a/Casarea_dussumieri_IleRonde_860513.jpg)
+       * [https://en.wikipedia.org/wiki/Round\_Island\_boa](https://en.wikipedia.org/wiki/Round_Island_boa)
+
+5.  **Alcatrazes Lancehead** 
+
+    *   **Scientific Name:** Bothrops alcatraz
+    *   **Distinguishing Qualities:** A venomous pit viper species found only on Alcatrazes Island in Brazil. It is known for its distinctive coloration and pattern, which provides camouflage in its rocky habitat. Its venom is potent, and it primarily feeds on small mammals and birds.
+    *   **Name for Photos:** Alcatrazes Lancehead (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bothrops\_alcatraz.jpg/1280px-Bothrops\_alcatraz.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bothrops_alcatraz.jpg/1280px-Bothrops_alcatraz.jpg)
+        * [https://en.wikipedia.org/wiki/Bothrops\_alcatraz](https://en.wikipedia.org/wiki/Bothrops_alcatraz)
+
+6.  **Pfeffer’s Reed Snake** 
+
+    *   **Scientific Name:** Calamaria pfefferi
+    *   **Distinguishing Qualities:** A non-venomous snake known for its slender body and secretive nature. It is found in Southeast Asia, primarily in forested areas, and feeds on small invertebrates, particularly earthworms.
+    *   **Name for Photos:** Pfeffer’s Reed Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/91820189/large.jpg](https://static.inaturalist.org/photos/91820189/large.jpg)
+        * [https://en.wikipedia.org/wiki/Pfeffer's\_reed\_snake](https://en.wikipedia.org/wiki/Pfeffer's_reed_snake)
+
+7.  **Cyclades Blunt-Nosed Viper** 
+
+    *   **Scientific Name:** Macrovipera schweizeri
+    *   **Distinguishing Qualities:** A venomous snake endemic to the Cyclades Islands in Greece. It is characterized by its stout body and blunt nose. This species is known for its potent venom and primarily feeds on small mammals and birds.
+    *   **Name for Photos:** Macrovipera schweizeri (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MacroviperaschweizeriKlioze.jpg/1280px-MacroviperaschweizeriKlioze.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MacroviperaschweizeriKlioze.jpg/1280px-MacroviperaschweizeriKlioze.jpg)
+        * [https://en.wikipedia.org/wiki/Macrovipera\_lebetinus\_schweizeri](https://en.wikipedia.org/wiki/Macrovipera_lebetinus_schweizeri)
+
+8.  **Ethiopian Mountain Adder** 
+
+    *   **Scientific Name:** Bitis parviocula
+    *   **Distinguishing Qualities:** A venomous snake found in the highlands of Ethiopia. It is known for its distinctive coloration and pattern, which helps it blend into its rocky habitat. Its venom is potent, and it primarily feeds on small mammals and birds.
+    *   **Name for Photos:** Ethiopian Mountain Adder (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Viperidae\_-\_Bitis\_parviocula.JPG/1024px-Viperidae\_-\_Bitis\_parviocula.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Viperidae_-_Bitis_parviocula.JPG/1024px-Viperidae_-_Bitis_parviocula.JPG)
+        * [https://en.wikipedia.org/wiki/Bitis\_parviocula](https://en.wikipedia.org/wiki/Bitis_parviocula)
+
+9.  **Brazilian Smooth Snake** 
+
+    *   **Scientific Name:** Liotyphlops ternetzii
+    *   **Distinguishing Qualities:** A non-venomous snake known for its smooth, shiny scales and burrowing habits. It is found in Brazil and primarily feeds on small invertebrates, such as earthworms and insects.
+    *   **Name for Photos:** Brazilian Smooth Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Liotyphlops\_ternetzii\_175634202.jpg/1280px-Liotyphlops\_ternetzii\_175634202.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Liotyphlops_ternetzii_175634202.jpg/1280px-Liotyphlops_ternetzii_175634202.jpg)
+        * [https://en.wikipedia.org/wiki/Liotyphlops\_ternetzii](https://en.wikipedia.org/wiki/Liotyphlops_ternetzii)
