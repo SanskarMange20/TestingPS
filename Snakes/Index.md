@@ -450,4 +450,12 @@
 450. **Common Vine Snake**
 451. **Madurai Shieldtail**
 452. **Savage’s Earth Snake**
-453. **Common Bronzeback**  
+453. **Common Bronzeback**
+454. **Iwasaki’s Snail-Eater**
+455. **Burrowing Asp**
+456. **Round Island Boa**
+457. **Alcatrazes Lancehead**
+458. **Pfeffer’s Reed Snake**
+459. **Cyclades Blunt-Nosed Viper**
+460. **Ethiopian Mountain Adder**
+461. **Brazilian Smooth Snake** 
