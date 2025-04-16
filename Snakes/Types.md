@@ -3964,7 +3964,7 @@
 
 7.  **Belcher's Sea Snake** 
 
-    *   **Scientific Name:** Hydrophis belcheri
+    *   **Scientific Name:** _Hydrophis belcheri_
     *   **Distinguishing Qualities:** A highly venomous sea snake known for its striking coloration, which includes a pattern of blue and yellow. It is considered one of the most venomous snakes in the world but is generally docile.
     *   **Name for Photos:** Belcher's Sea Snake (1)
     *   **Sources:**
@@ -3972,7 +3972,7 @@
         * [https://en.wikipedia.org/wiki/Hydrophis\_belcheri](https://en.wikipedia.org/wiki/Hydrophis_belcheri)
 
 8.  **Stejneger's snail sucker**
-    *   **Scientific Name:** Sibon longifrenis
+    *   **Scientific Name:** _Sibon longifrenis_
     *   **Distinguishing Qualities:** A non-venomous snake known for its diet of snails and slugs. It has a distinctive long, fringed tongue that helps it capture its prey.
     *   **Name for Photos:** Stejneger's snail sucker (1)
     *   **Sources:**
@@ -3981,7 +3981,7 @@
 
 9. **Harrison Ford’s Snake** 
 
-   *   **Scientific Name:** Tachymenoides harrisonfordi
+   *   **Scientific Name:** _Tachymenoides harrisonfordi_
    *   **Distinguishing Qualities:** A recently discovered species named after actor Harrison Ford, known for its unique coloration and habitat preferences in Central America. It is non-venomous and primarily feeds on small prey.
    *   **Name for Photos:** Harrison Ford’s Snake (1)
    *   **Sources:**
@@ -3990,7 +3990,7 @@
 
 1.  **Haitian Dwarf Boa**
    
-    *   **Scientific Name:** Tropidophis haetianus
+    *   **Scientific Name:** _Tropidophis haetianus_
     *   **Distinguishing Qualities:** A small, non-venomous boa known for its distinctive coloration and pattern. It is found in Haiti and the Dominican Republic, primarily inhabiting forests and shrublands.
     *   **Name for Photos:** Haitian Dwarf Boa (1)
     *   **Sources:**
@@ -3999,7 +3999,7 @@
 
 3.  **Ocellated Shieldtail** 
 
-    *   **Scientific Name:** Uropeltis ocellata
+    *   **Scientific Name:** _Uropeltis ocellata_
     *   **Distinguishing Qualities:** A non-venomous snake known for its distinctive ocellated pattern on its tail, which resembles a shield. It is a burrowing species found in the forests of India and Sri Lanka.
     *   **Name for Photos:** Ocellated Shieldtail (1)
     *   **Sources:**
@@ -4008,7 +4008,7 @@
 
 4.  **Puff-faced Water Snake** 
 
-    *   **Scientific Name:** Homalopsis buccata
+    *   **Scientific Name:** _Homalopsis buccata_
     *   **Distinguishing Qualities:** A non-venomous aquatic snake known for its distinctive puffed-up face when threatened. It is typically found in brackish and freshwater habitats in Southeast Asia and primarily feeds on fish and amphibians.
     *   **Name for Photos:** Puff-faced Water Snake (1)
     *   **Sources:**
@@ -4017,7 +4017,7 @@
 
 5.  **Crab-eating Water Snake**
 
-    *   **Scientific Name:** Fordonia leucobalia
+    *   **Scientific Name:** _Fordonia leucobalia_
     *   **Distinguishing Qualities:** A non-venomous snake adapted to a semi-aquatic lifestyle, known for its ability to hunt crabs and other crustaceans. It has a slender body and is found in freshwater and brackish environments in Central and South America.
     *   **Name for Photos:** Crab-eating Water Snake (1)
     *   **Sources:**
@@ -4026,7 +4026,7 @@
 
 6.  **Bockadam Snake** 
 
-    *   **Scientific Name:** Cerberus rynchops
+    *   **Scientific Name:** _Cerberus rynchops_
     *   **Distinguishing Qualities:** A non-venomous snake known for its flattened head and ability to swim well in brackish waters. It primarily feeds on fish and is found in coastal regions of Southeast Asia and northern Australia.
     *   **Name for Photos:** Bockadam Snake (1)
     *   **Sources:**
@@ -4035,7 +4035,7 @@
 
 7.  **Common Vine Snake** 
 
-    *   **Scientific Name:** Ahaetulla nasuta
+    *   **Scientific Name:** _Ahaetulla nasuta_
     *   **Distinguishing Qualities:** A non-venomous snake known for its slender, elongated body and green coloration, which provides excellent camouflage among foliage. It primarily feeds on small reptiles and is found in South and Southeast Asia.
     *   **Name for Photos:** Common Vine Snake (1)
     *   **Sources:**
@@ -4044,7 +4044,7 @@
 
 8.  **Madurai Shieldtail** 
 
-    *   **Scientific Name:** Uropeltis madurensis
+    *   **Scientific Name:** _Uropeltis madurensis_
     *   **Distinguishing Qualities:** A non-venomous burrowing snake known for its distinctive shield-like tail and stout body. It is endemic to the Western Ghats of India and primarily feeds on earthworms and small invertebrates.
     *   **Name for Photos:** Madurai Shieldtail (1)
     *   **Sources:**
@@ -4053,7 +4053,7 @@
 
 9.  **Savage’s Earth Snake** 
 
-    *   **Scientific Name:** Geophis downsi
+    *   **Scientific Name:** _Geophis downsi_
     *   **Distinguishing Qualities:** A non-venomous snake known for its burrowing habits and slender body. It is typically found in the tropical forests of Central America and primarily feeds on small invertebrates, such as earthworms and insects.
     *   **Name for Photos:** Savage’s Earth Snake (1)
     *   **Sources:**
@@ -4062,7 +4062,7 @@
 
 1.  **Common Bronzeback**
 
-    *   **Scientific Name:** Dendrelaphis tristis
+    *   **Scientific Name:** _Dendrelaphis tristis_
     *   **Distinguishing Qualities:** A non-venomous snake recognized for its slender body and bronze coloration, often with a distinctive pattern of stripes. It is an arboreal species found in Southeast Asia, primarily feeding on small lizards and frogs.
     *   **Name for Photos:** Common Bronzeback (1)
     *   **Sources:**
@@ -4071,7 +4071,7 @@
 
 2.  **Iwasaki’s Snail-Eater**
 
-    *   **Scientific Name:** Pareas iwasakii
+    *   **Scientific Name:** _Pareas iwasakii_
     *   **Distinguishing Qualities:** A non-venomous snake known for its specialized diet of snails. It has a slender body and is characterized by its distinctive coloration and pattern. This species is found in the forests of Taiwan and is primarily arboreal.
     *   **Name for Photos:** Iwasaki’s Snail-Eater (1)
     *   **Sources:**
@@ -4080,7 +4080,7 @@
 
 3.  **Burrowing Asp** 
 
-   *   **Scientific Name:** Atractaspis aterrima
+   *   **Scientific Name:** _Atractaspis aterrima_
    *   **Distinguishing Qualities:** A venomous snake known for its burrowing habits and distinctive flattened body. It is found in sub-Saharan Africa and primarily feeds on small mammals and amphibians. Its venom is potent, but it is generally reclusive and rarely encountered by humans.
    *   **Name for Photos:** Burrowing Asp (1)
    *   **Sources:**
@@ -4089,7 +4089,7 @@
 
 4.  **Round Island Boa** 
 
-   *   **Scientific Name:** Casarea dussumieri
+   *   **Scientific Name:** _Casarea dussumieri_
    *   **Distinguishing Qualities:** A non-venomous boa species endemic to Round Island, Mauritius. It is known for its distinctive coloration and pattern, which helps it blend into its forest habitat. It primarily feeds on birds and small mammals.
    *   **Name for Photos:** Round Island Boa (1)
    *   **Sources:**
@@ -4098,7 +4098,7 @@
 
 5.  **Alcatrazes Lancehead** 
 
-    *   **Scientific Name:** Bothrops alcatraz
+    *   **Scientific Name:** _Bothrops alcatraz_
     *   **Distinguishing Qualities:** A venomous pit viper species found only on Alcatrazes Island in Brazil. It is known for its distinctive coloration and pattern, which provides camouflage in its rocky habitat. Its venom is potent, and it primarily feeds on small mammals and birds.
     *   **Name for Photos:** Alcatrazes Lancehead (1)
     *   **Sources:**
@@ -4107,7 +4107,7 @@
 
 6.  **Pfeffer’s Reed Snake** 
 
-    *   **Scientific Name:** Calamaria pfefferi
+    *   **Scientific Name:** _Calamaria pfefferi_
     *   **Distinguishing Qualities:** A non-venomous snake known for its slender body and secretive nature. It is found in Southeast Asia, primarily in forested areas, and feeds on small invertebrates, particularly earthworms.
     *   **Name for Photos:** Pfeffer’s Reed Snake (1)
     *   **Sources:**
@@ -4116,7 +4116,7 @@
 
 7.  **Cyclades Blunt-Nosed Viper** 
 
-    *   **Scientific Name:** Macrovipera schweizeri
+    *   **Scientific Name:** _Macrovipera schweizeri_
     *   **Distinguishing Qualities:** A venomous snake endemic to the Cyclades Islands in Greece. It is characterized by its stout body and blunt nose. This species is known for its potent venom and primarily feeds on small mammals and birds.
     *   **Name for Photos:** Macrovipera schweizeri (1)
     *   **Sources:**
@@ -4125,7 +4125,7 @@
 
 8.  **Ethiopian Mountain Adder** 
 
-    *   **Scientific Name:** Bitis parviocula
+    *   **Scientific Name:** _Bitis parviocula_
     *   **Distinguishing Qualities:** A venomous snake found in the highlands of Ethiopia. It is known for its distinctive coloration and pattern, which helps it blend into its rocky habitat. Its venom is potent, and it primarily feeds on small mammals and birds.
     *   **Name for Photos:** Ethiopian Mountain Adder (1)
     *   **Sources:**
@@ -4134,7 +4134,7 @@
 
 9.  **Brazilian Smooth Snake** 
 
-    *   **Scientific Name:** Liotyphlops ternetzii
+    *   **Scientific Name:** _Liotyphlops ternetzii_
     *   **Distinguishing Qualities:** A non-venomous snake known for its smooth, shiny scales and burrowing habits. It is found in Brazil and primarily feeds on small invertebrates, such as earthworms and insects.
     *   **Name for Photos:** Brazilian Smooth Snake (1)
     *   **Sources:**
