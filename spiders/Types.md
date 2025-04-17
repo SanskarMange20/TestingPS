@@ -1307,3 +1307,1110 @@ https://www.tarantupedia.com/templates/yootheme/cache/61/thrixopelmaockertifemal
 *   **Sources**: [https://en.wikipedia.org/wiki/Avicularia_avicularia](https://en.wikipedia.org/wiki/Avicularia_avicularia)  
 https://www.mymonsters.co.za/wp-content/uploads/2018/07/AVIAVIMF.jpg
 https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-0f1bf3842830.jpg?v=1710305058&width=1080
+
+**100. Two-Tailed Spider**
+-----------------
+* **Scientific Name**: *Tamopsis* (genus)
+
+* **Distinguished Qualities**: Crepuscular hunters with elongated posterior spinnerets, giving them a two-tailed appearance.
+
+* **Image Name**: Spider200, Spider201
+
+* **Sources**: [https://en.wikipedia.org/wiki/Tamopsis](https://en.wikipedia.org/wiki/Tamopsis)
+
+
+**101. Water Spider**
+-----------------
+* **Scientific Name**: *Argyroneta aquatica*
+
+* **Distinguished Qualities**: The only known truly aquatic spider, living in submerged silk webs filled with air.
+
+* **Image Name**: Spider202, Spider203
+
+* **Sources**: [https://en.wikipedia.org/wiki/Water_spider](https://en.wikipedia.org/wiki/Water_spider)
+
+
+**102. Tube-Dwelling Spider**
+-----------------
+* **Scientific Name**: *Segestria florentina*
+
+* **Distinguished Qualities**: Builds distinctive tubular webs in crevices, with silken tripwires radiating outwards.
+
+* **Image Name**: Spider204, Spider205
+
+* **Sources**: [https://en.wikipedia.org/wiki/Segestria_florentina](https://en.wikipedia.org/wiki/Segestria_florentina)
+
+
+**103. Hackledmesh Weaver**
+-----------------
+* **Scientific Name**: *Amaurobiidae* (family)
+
+* **Distinguished Qualities**: Cribellate spiders that produce fuzzy, hackled silk used in their webs.
+
+* **Image Name**: Spider206, Spider207
+
+* **Sources**: [https://en.wikipedia.org/wiki/Amaurobiidae](https://en.wikipedia.org/wiki/Amaurobiidae)
+
+
+**104. Long-Legged Sac Spider**
+-----------------
+* **Scientific Name**: *Cheiracanthium mildei*
+
+* **Distinguished Qualities**: Pale yellow spiders known for their wandering habits and constructing silken retreats.
+
+* **Image Name**: Spider208, Spider209
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_mildei](https://en.wikipedia.org/wiki/Cheiracanthium_mildei)
+
+
+**105. Wall Spider**
+-----------------
+* **Scientific Name**: *Oecobius navus*
+
+* **Distinguished Qualities**: Small, flattened spiders that create small, circular webs on walls and ceilings.
+
+* **Image Name**: Spider210, Spider211
+
+* **Sources**: [https://en.wikipedia.org/wiki/Oecobius_navus](https://en.wikipedia.org/wiki/Oecobius_navus)
+
+
+**106. Crevice Weaver**
+-----------------
+* **Scientific Name**: *Filistatidae* (family)
+
+* **Distinguished Qualities**: Build tangled, funnel-like webs in cracks and crevices.
+
+* **Image Name**: Spider212, Spider213
+
+* **Sources**: [https://en.wikipedia.org/wiki/Filistatidae](https://en.wikipedia.org/wiki/Filistatidae)
+
+
+**107. Scaffold Web Spider**
+-----------------
+* **Scientific Name**: *Nesticidae* (family)
+
+* **Distinguished Qualities**: Small spiders that build delicate, irregular webs often in damp or shaded areas.
+
+* **Image Name**: Spider214, Spider215
+
+* **Sources**: [https://en.wikipedia.org/wiki/Nesticidae](https://en.wikipedia.org/wiki/Nesticidae)
+
+
+**108. Comb-Footed Spider**
+-----------------
+* **Scientific Name**: *Theridiosomatidae* (family)
+
+* **Distinguished Qualities**: Small orb-weavers with a comb-like row of bristles on their hind legs.
+
+* **Image Name**: Spider216, Spider217
+
+* **Sources**: [https://en.wikipedia.org/wiki/Theridiosomatidae](https://en.wikipedia.org/wiki/Theridiosomatidae)
+
+
+**109. Orb Weaver**
+-----------------
+* **Scientific Name**: *Araneidae* (family)
+
+* **Distinguished Qualities**: A large and diverse family known for constructing classic, circular orb webs.
+
+* **Image Name**: Spider218, Spider219
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneidae](https://en.wikipedia.org/wiki/Araneidae)
+
+
+**110. Long-Jawed Orb Weaver**
+-----------------
+* **Scientific Name**: *Tetragnathidae* (family)
+
+* **Distinguished Qualities**: Elongated spiders with prominent chelicerae (jaws), often found near water.
+
+* **Image Name**: Spider220, Spider221
+
+* **Sources**: [https://en.wikipedia.org/wiki/Tetragnathidae](https://en.wikipedia.org/wiki/Tetragnathidae)
+
+
+**111. Stretch Spider**
+-----------------
+* **Scientific Name**: *Anyphaenidae* (family)
+
+* **Distinguished Qualities**: Agile, wandering spiders with a flattened body shape.
+
+* **Image Name**: Spider222, Spider223
+
+* **Sources**: [https://en.wikipedia.org/wiki/Anyphaenidae](https://en.wikipedia.org/wiki/Anyphaenidae)
+
+
+**112. Ghost Spider**
+-----------------
+* **Scientific Name**: *Phrurolithidae* (family)
+
+* **Distinguished Qualities**: Small, pale-colored, active hunters that don't build conspicuous webs.
+
+* **Image Name**: Spider224, Spider225
+
+* **Sources**: [https://en.wikipedia.org/wiki/Phrurolithidae](https://en.wikipedia.org/wiki/Phrurolithidae)
+
+
+**113. Ground Spider**
+-----------------
+* **Scientific Name**: *Gnaphosidae* (family)
+
+* **Distinguished Qualities**: Nocturnal hunting spiders that build silken retreats under rocks or bark.
+
+* **Image Name**: Spider226, Spider227
+
+* **Sources**: [https://en.wikipedia.org/wiki/Gnaphosidae](https://en.wikipedia.org/wiki/Gnaphosidae)
+
+
+**114. Flat Spider**
+-----------------
+* **Scientific Name**: *Selenopidae* (family)
+
+* **Distinguished Qualities**: Large, flattened spiders known for their speed and sideways movement.
+
+* **Image Name**: Spider228, Spider229
+
+* **Sources**: [https://en.wikipedia.org/wiki/Selenopidae](https://en.wikipedia.org/wiki/Selenopidae)
+
+
+**115. Nursery Web Spider**
+-----------------
+* **Scientific Name**: *Pisauridae* (family)
+
+* **Distinguished Qualities**: Large spiders that carry their egg sacs in their chelicerae and build nursery webs for their spiderlings.
+
+* **Image Name**: Spider230, Spider231
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pisauridae](https://en.wikipedia.org/wiki/Pisauridae)
+
+
+**116. Running Crab Spider**
+-----------------
+* **Scientific Name**: *Philodromidae* (family)
+
+* **Distinguished Qualities**: Agile hunters with flattened bodies, often found on foliage or bark.
+
+* **Image Name**: Spider232, Spider233
+
+* **Sources**: [https://en.wikipedia.org/wiki/Philodromidae](https://en.wikipedia.org/wiki/Philodromidae)
+
+
+**117. Swift Spider**
+-----------------
+* **Scientific Name**: *Ctenidae* (family)
+
+* **Distinguished Qualities**: Fast-moving, nocturnal hunters, some of which are venomous (like the Brazilian wandering spider).
+
+* **Image Name**: Spider234, Spider235
+
+* **Sources**: [https://en.wikipedia.org/wiki/Ctenidae](https://en.wikipedia.org/wiki/Ctenidae)
+
+
+**118. Water-Running Spider**
+-----------------
+* **Scientific Name**: *Trechaleidae* (family)
+
+* **Distinguished Qualities**: Large spiders often found near water, known for their ability to run on the water surface.
+
+* **Image Name**: Spider236, Spider237
+
+* **Sources**: [https://en.wikipedia.org/wiki/Trechaleidae](https://en.wikipedia.org/wiki/Trechaleidae)
+
+
+**119. Lace Weaver**
+-----------------
+* **Scientific Name**: *Dictynidae* (family)
+
+* **Distinguished Qualities**: Small cribellate spiders that produce bluish, lacy webs.
+
+* **Image Name**: Spider238, Spider239
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dictynidae](https://en.wikipedia.org/wiki/Dictynidae)
+
+
+**120. Mesh Web Weaver**
+-----------------
+* **Scientific Name**: *Cribellatae* (infraorder)
+
+* **Distinguished Qualities**: Spiders that possess a cribellum, a silk-producing plate, and a calamistrum, a comb-like structure on the hind legs, used to create fuzzy, sticky silk.
+
+* **Image Name**: Spider240, Spider241
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cribellatae](https://en.wikipedia.org/wiki/Cribellatae)
+
+
+**121. Tropical Tent-Web Spider**
+-----------------
+* **Scientific Name**: *Cyrtophora citricola*
+
+* **Distinguished Qualities**: Builds complex, horizontal sheet webs with a network of supporting lines.
+
+* **Image Name**: Spider242, Spider243
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cyrtophora_citricola](https://en.wikipedia.org/wiki/Cyrtophora_citricola)
+
+
+**122. Jeweled Spider**
+-----------------
+* **Scientific Name**: *Gasteracantha geminata*
+
+* **Distinguished Qualities**: Orb-weavers with a hard, flattened abdomen bearing colorful spines.
+
+* **Image Name**: Spider244, Spider245
+
+* **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha_geminata](https://en.wikipedia.org/wiki/Gasteracantha_geminata)
+
+
+**123. Arrowhead Spider**
+-----------------
+* **Scientific Name**: *Verrucosa arenata*
+
+* **Distinguished Qualities**: Orb-weavers with an arrowhead-shaped abdomen.
+
+* **Image Name**: Spider246, Spider247
+
+* **Sources**: [https://en.wikipedia.org/wiki/Verrucosa_arenata](https://en.wikipedia.org/wiki/Verrucosa_arenata)
+
+
+**124. Triangle Orb Weaver**
+-----------------
+* **Scientific Name**: *Hyptiotes cavatus*
+
+* **Distinguished Qualities**: Builds a small, triangular web and uses tension to capture prey.
+
+* **Image Name**: Spider248, Spider249
+
+* **Sources**: [https://en.wikipedia.org/wiki/Hyptiotes_cavatus](https://en.wikipedia.org/wiki/Hyptiotes_cavatus)
+
+
+**125. Longbodied Comb-Footed Spider**
+-----------------
+* **Scientific Name**: *Enoplognatha ovata*
+
+* **Distinguished Qualities**: Small cobweb spiders with an elongated abdomen, often with colorful markings.
+
+* **Image Name**: Spider250, Spider251
+
+* **Sources**: [https://en.wikipedia.org/wiki/Enoplognatha_ovata](https://en.wikipedia.org/wiki/Enoplognatha_ovata)
+
+**126. Candy-Striped Spider**
+-----------------
+* **Scientific Name**: *Enoplognatha latimana*
+
+* **Distinguished Qualities**: A cobweb spider with distinctive red and white stripes on its abdomen.
+
+* **Image Name**: Spider252, Spider253
+
+* **Sources**: [https://en.wikipedia.org/wiki/Enoplognatha_latimana](https://en.wikipedia.org/wiki/Enoplognatha_latimana)
+
+
+**127. False Black Widow Spider**
+-----------------
+* **Scientific Name**: *Steatoda bipunctata*
+
+* **Distinguished Qualities**: Cobweb spiders that resemble black widow spiders but are generally less venomous.
+
+* **Image Name**: Spider254, Spider255
+
+* **Sources**: [https://en.wikipedia.org/wiki/Steatoda_bipunctata](https://en.wikipedia.org/wiki/Steatoda_bipunctata)
+
+
+**128. Rabbit Hutch Spider**
+-----------------
+* **Scientific Name**: *Amaurobius similis*
+
+* **Distinguished Qualities**: A hackledmesh weaver commonly found in and around buildings.
+
+* **Image Name**: Spider256, Spider257
+
+* **Sources**: [https://en.wikipedia.org/wiki/Amaurobius_similis](https://en.wikipedia.org/wiki/Amaurobius_similis)
+
+
+**129. Labyrinth Spider**
+-----------------
+* **Scientific Name**: *Agelena labyrinthica*
+
+* **Distinguished Qualities**: Funnel-web spiders that build large, sheet-like webs with a silken retreat.
+
+* **Image Name**: Spider258, Spider259
+
+* **Sources**: [https://en.wikipedia.org/wiki/Agelena_labyrinthica](https://en.wikipedia.org/wiki/Agelena_labyrinthica)
+
+
+**130. Tube Web Spider**
+-----------------
+* **Scientific Name**: *Segestria senoculata*
+
+* **Distinguished Qualities**: Another species of tube-dwelling spider with a dark, iridescent green cephalothorax.
+
+* **Image Name**: Spider260, Spider261
+
+* **Sources**: [https://en.wikipedia.org/wiki/Segestria_senoculata](https://en.wikipedia.org/wiki/Segestria_senoculata)
+
+
+**131. Feather-Legged Lace Weaver**
+-----------------
+* **Scientific Name**: *Uloborus plumipes*
+
+* **Distinguished Qualities**: A cribellate spider with feathery hairs on its legs, used to create fine silk.
+
+* **Image Name**: Spider262, Spider263
+
+* **Sources**: [https://en.wikipedia.org/wiki/Uloborus_plumipes](https://en.wikipedia.org/wiki/Uloborus_plumipes)
+
+
+**132. Hanging Thief Spider**
+-----------------
+* **Scientific Name**: *Walckenaeria acuminata*
+
+* **Distinguished Qualities**: A small sheet weaver known for its distinctive head shape.
+
+* **Image Name**: Spider264, Spider265
+
+* **Sources**: [https://en.wikipedia.org/wiki/Walckenaeria_acuminata](https://en.wikipedia.org/wiki/Walckenaeria_acuminata)
+
+
+**133. Dwarf Spider**
+-----------------
+* **Scientific Name**: *Erigonidae* (family)
+
+* **Distinguished Qualities**: A very large family of small spiders, often found in leaf litter and moss.
+
+* **Image Name**: Spider266, Spider267
+
+* **Sources**: [https://en.wikipedia.org/wiki/Erigonidae](https://en.wikipedia.org/wiki/Erigonidae)
+
+
+**134. Money Spider**
+-----------------
+* **Scientific Name**: *Linyphiidae* (family)
+
+* **Distinguished Qualities**: Another large family of small sheet-web weavers, often associated with folklore.
+
+* **Image Name**: Spider268, Spider269
+
+* **Sources**: [https://en.wikipedia.org/wiki/Linyphiidae](https://en.wikipedia.org/wiki/Linyphiidae)
+
+
+**135. Sheet Weaver**
+-----------------
+* **Scientific Name**: *Linyphiidae* (family)
+
+* **Distinguished Qualities**: Spiders that construct horizontal, sheet-like webs.
+
+* **Image Name**: Spider270, Spider271
+
+* **Sources**: [https://en.wikipedia.org/wiki/Linyphiidae](https://en.wikipedia.org/wiki/Linyphiidae)
+
+
+**136. Hammock Spider**
+-----------------
+* **Scientific Name**: *Micrathena gracilis*
+
+* **Distinguished Qualities**: A spiny orb-weaver with an elongated, slender body.
+
+* **Image Name**: Spider272, Spider273
+
+* **Sources**: [https://en.wikipedia.org/wiki/Micrathena_gracilis](https://en.wikipedia.org/wiki/Micrathena_gracilis)
+
+
+**137. Spiny Orb Weaver**
+-----------------
+* **Scientific Name**: *Gasteracantha elipsoides*
+
+* **Distinguished Qualities**: Another species of spiny orb-weaver with a more rounded abdomen.
+
+* **Image Name**: Spider274, Spider275
+
+* **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha](https://en.wikipedia.org/wiki/Gasteracantha)
+
+
+**138. Jewel Spider**
+-----------------
+* **Scientific Name**: *Araneus gemmoides*
+
+* **Distinguished Qualities**: A brightly colored orb-weaver with a bulbous abdomen.
+
+* **Image Name**: Spider276, Spider277
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_gemmoides](https://en.wikipedia.org/wiki/Araneus_gemmoides)
+
+
+**139. Marbled Orb Weaver**
+-----------------
+* **Scientific Name**: *Araneus marmoreus*
+
+* **Distinguished Qualities**: An orb-weaver with a distinctive marbled pattern on its abdomen.
+
+* **Image Name**: Spider278, Spider279
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_marmoreus](https://en.wikipedia.org/wiki/Araneus_marmoreus)
+
+
+**140. Shamrock Orb Weaver**
+-----------------
+* **Scientific Name**: *Araneus trifolium*
+
+* **Distinguished Qualities**: A large orb-weaver with variable coloration, often with a shamrock-like pattern.
+
+* **Image Name**: Spider280, Spider281
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_trifolium](https://en.wikipedia.org/wiki/Araneus_trifolium)
+
+
+**141. Red-Spotted Ant Mimic Spider**
+-----------------
+* **Scientific Name**: *Castianeira descripta*
+
+* **Distinguished Qualities**: An ant-mimicking spider with reddish spots.
+
+* **Image Name**: Spider282, Spider283
+
+* **Sources**: [https://en.wikipedia.org/wiki/Castianeira_descripta](https://en.wikipedia.org/wiki/Castianeira_descripta)
+
+
+**142. Two-Striped Jumping Spider**
+-----------------
+* **Scientific Name**: *Evarcha arcuata*
+
+* **Distinguished Qualities**: A jumping spider with two prominent stripes on its cephalothorax.
+
+* **Image Name**: Spider284, Spider285
+
+* **Sources**: [https://en.wikipedia.org/wiki/Evarcha_arcuata](https://en.wikipedia.org/wiki/Evarcha_arcuata)
+
+
+**143. Bronze Jumping Spider**
+-----------------
+* **Scientific Name**: *Euryattus wallacei*
+
+* **Distinguished Qualities**: A jumping spider with a metallic bronze sheen.
+
+* **Image Name**: Spider286, Spider287
+
+* **Sources**: [https://en.wikipedia.org/wiki/Euryattus_wallacei](https://en.wikipedia.org/wiki/Euryattus_wallacei)
+
+
+**144. Magnificent Jumping Spider**
+-----------------
+* **Scientific Name**: *Cosmophasis micans*
+
+* **Distinguished Qualities**: A brightly colored jumping spider with iridescent scales.
+
+* **Image Name**: Spider288, Spider289
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cosmophasis_micans](https://en.wikipedia.org/wiki/Cosmophasis_micans)
+
+
+**145. Ant-Like Sac Spider**
+-----------------
+* **Scientific Name**: *Liocranidae* (family)
+
+* **Distinguished Qualities**: Spiders that resemble ants in appearance and behavior.
+
+* **Image Name**: Spider290, Spider291
+
+* **Sources**: [https://en.wikipedia.org/wiki/Liocranidae](https://en.wikipedia.org/wiki/Liocranidae)
+
+
+**146. Ground Sac Spider**
+-----------------
+* **Scientific Name**: *Gnaphosidae* (family)
+
+* **Distinguished Qualities**: (Reiterating a family, but focusing on general characteristics of ground sac spiders). Nocturnal hunters that build silken retreats under ground debris.
+
+* **Image Name**: Spider292, Spider293
+
+* **Sources**: [https://en.wikipedia.org/wiki/Gnaphosidae](https://en.wikipedia.org/wiki/Gnaphosidae)
+
+
+**147. Flattened Bark Spider**
+-----------------
+* **Scientific Name**: *Platoridae* (family)
+
+* **Distinguished Qualities**: Spiders with extremely flattened bodies, allowing them to live under bark.
+
+* **Image Name**: Spider294, Spider295
+
+* **Sources**: [https://en.wikipedia.org/wiki/Platoridae](https://en.wikipedia.org/wiki/Platoridae)
+
+
+**148. Tropical Wolf Spider**
+-----------------
+* **Scientific Name**: *Hogna carolinensis*
+
+* **Distinguished Qualities**: A large species of wolf spider found in warmer regions.
+
+* **Image Name**: Spider296, Spider297
+
+* **Sources**: [https://en.wikipedia.org/wiki/Hogna_carolinensis](https://en.wikipedia.org/wiki/Hogna_carolinensis)
+
+
+**149. Striped Fishing Spider**
+-----------------
+* **Scientific Name**: *Dolomedes scriptus*
+
+* **Distinguished Qualities**: A fishing spider with prominent stripes on its body.
+
+* **Image Name**: Spider298, Spider299
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_scriptus](https://en.wikipedia.org/wiki/Dolomedes_scriptus)
+
+
+**150. Dark Fishing Spider**
+-----------------
+* **Scientific Name**: *Dolomedes tenebrosus*
+
+* **Distinguished Qualities**: A large, dark-colored fishing spider.
+
+* **Image Name**: Spider300, Spider301
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_tenebrosus](https://en.wikipedia.org/wiki/Dolomedes_tenebrosus)
+
+**151. Six-Spotted Fishing Spider**
+-----------------
+* **Scientific Name**: *Dolomedes triton*
+
+* **Distinguished Qualities**: A fishing spider with a pattern of six distinct spots on its abdomen.
+
+* **Image Name**: Spider302, Spider303
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_triton](https://en.wikipedia.org/wiki/Dolomedes_triton)
+
+
+**152. Banded Wolf Spider**
+-----------------
+* **Scientific Name**: *Rabidosa rabida*
+
+* **Distinguished Qualities**: A wolf spider with distinct dark bands on its legs and body.
+
+* **Image Name**: Spider304, Spider305
+
+* **Sources**: [https://en.wikipedia.org/wiki/Rabidosa_rabida](https://en.wikipedia.org/wiki/Rabidosa_rabida)
+
+
+**153. Thin-Legged Wolf Spider**
+-----------------
+* **Scientific Name**: *Pardosa milvina*
+
+* **Distinguished Qualities**: A smaller wolf spider with relatively slender legs.
+
+* **Image Name**: Spider306, Spider307
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pardosa_milvina](https://en.wikipedia.org/wiki/Pardosa_milvina)
+
+
+**154. Carolina Wolf Spider**
+-----------------
+* **Scientific Name**: *Hogna helluo*
+
+* **Distinguished Qualities**: Another large species of wolf spider found in North America.
+
+* **Image Name**: Spider308, Spider309
+
+* **Sources**: [https://en.wikipedia.org/wiki/Hogna_helluo](https://en.wikipedia.org/wiki/Hogna_helluo)
+
+
+**155. Rabid Wolf Spider**
+-----------------
+* **Scientific Name**: *Rabidosa rabida*
+
+* **Distinguished Qualities**: (Reiterating species for clarity). A wolf spider known for its quick movements.
+
+* **Image Name**: Spider310, Spider311
+
+* **Sources**: [https://en.wikipedia.org/wiki/Rabidosa_rabida](https://en.wikipedia.org/wiki/Rabidosa_rabida)
+
+
+**156. Striped Lynx Spider**
+-----------------
+* **Scientific Name**: *Oxyopes salticus*
+
+* **Distinguished Qualities**: A lynx spider with prominent dark stripes along its body.
+
+* **Image Name**: Spider312, Spider313
+
+* **Sources**: [https://en.wikipedia.org/wiki/Oxyopes_salticus](https://en.wikipedia.org/wiki/Oxyopes_salticus)
+
+
+**157. Twin-Flagged Jumping Spider**
+-----------------
+* **Scientific Name**: *Anasaitis canosa*
+
+* **Distinguished Qualities**: A jumping spider with distinctive black and white markings on its pedipalps.
+
+* **Image Name**: Spider314, Spider315
+
+* **Sources**: [https://en.wikipedia.org/wiki/Anasaitis_canosa](https://en.wikipedia.org/wiki/Anasaitis_canosa)
+
+
+**158. Bold Jumping Spider**
+-----------------
+* **Scientific Name**: *Phidippus audax*
+
+* **Distinguished Qualities**: A common and easily recognizable jumping spider with iridescent chelicerae.
+
+* **Image Name**: Spider316, Spider317
+
+* **Sources**: [https://en.wikipedia.org/wiki/Phidippus_audax](https://en.wikipedia.org/wiki/Phidippus_audax)
+
+
+**159. Regal Jumping Spider**
+-----------------
+* **Scientific Name**: *Phidippus regius*
+
+* **Distinguished Qualities**: A larger and often brightly colored species of *Phidippus*.
+
+* **Image Name**: Spider318, Spider319
+
+* **Sources**: [https://en.wikipedia.org/wiki/Phidippus_regius](https://en.wikipedia.org/wiki/Phidippus_regius)
+
+
+**160. Emerald Jumping Spider**
+-----------------
+* **Scientific Name**: *Paraphidippus aurantius*
+
+* **Distinguished Qualities**: A jumping spider with a vibrant green coloration, especially in females.
+
+* **Image Name**: Spider320, Spider321
+
+* **Sources**: [https://en.wikipedia.org/wiki/Paraphidippus_aurantius](https://en.wikipedia.org/wiki/Paraphidippus_aurantius)
+
+
+**161. Tan Jumping Spider**
+-----------------
+* **Scientific Name**: *Platycryptus undatus*
+
+* **Distinguished Qualities**: A relatively large jumping spider with a mottled brown or tan coloration.
+
+* **Image Name**: Spider322, Spider323
+
+* **Sources**: [https://en.wikipedia.org/wiki/Platycryptus_undatus](https://en.wikipedia.org/wiki/Platycryptus_undatus)
+
+
+**162. Pantropical Jumping Spider**
+-----------------
+* **Scientific Name**: *Plexippus paykulli*
+
+* **Distinguished Qualities**: A widespread jumping spider often found indoors.
+
+* **Image Name**: Spider324, Spider325
+
+* **Sources**: [https://en.wikipedia.org/wiki/Plexippus_paykulli](https://en.wikipedia.org/wiki/Plexippus_paykulli)
+
+
+**163. Dimorphic Jumping Spider**
+-----------------
+* **Scientific Name**: *Maevia inclemens*
+
+* **Distinguished Qualities**: A jumping spider with significant differences in appearance between males and females.
+
+* **Image Name**: Spider326, Spider327
+
+* **Sources**: [https://en.wikipedia.org/wiki/Maevia_inclemens](https://en.wikipedia.org/wiki/Maevia_inclemens)
+
+
+**164. White-Banded Jumping Spider**
+-----------------
+* **Scientific Name**: *Colonus hesperus*
+
+* **Distinguished Qualities**: A jumping spider with distinct white bands on its legs and body.
+
+* **Image Name**: Spider328, Spider329
+
+* **Sources**: [https://en.wikipedia.org/wiki/Colonus_hesperus](https://en.wikipedia.org/wiki/Colonus_hesperus)
+
+
+**165. Bronze Crab Spider**
+-----------------
+* **Scientific Name**: *Misumena vatia*
+
+* **Distinguished Qualities**: (Color variation of a previously mentioned species, but highlighting a distinct color morph). A crab spider known for its ability to change color, sometimes appearing bronze.
+
+* **Image Name**: Spider330, Spider331
+
+* **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
+
+
+**166. Flower Crab Spider**
+-----------------
+* **Scientific Name**: *Misumena vatia*
+
+* **Distinguished Qualities**: (Another common name for the same species). A crab spider often found on flowers, camouflaged to ambush prey.
+
+* **Image Name**: Spider332, Spider333
+
+* **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
+
+
+**167. Goldenrod Crab Spider**
+-----------------
+* **Scientific Name**: *Misumena vatia*
+
+* **Distinguished Qualities**: (Yet another common name). A crab spider frequently seen on goldenrod flowers.
+
+* **Image Name**: Spider334, Spider335
+
+* **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
+
+
+**168. White Crab Spider**
+-----------------
+* **Scientific Name**: *Misumena vatia*
+
+* **Distinguished Qualities**: (Another color variation). A crab spider that can turn white to blend in with white flowers.
+
+* **Image Name**: Spider336, Spider337
+
+* **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
+
+
+**169. Hawaiian Happy-Face Spider**
+-----------------
+* **Scientific Name**: *Theridion grallator*
+
+* **Distinguished Qualities**: (Specific geographic variation). A cobweb spider endemic to Hawaii, known for the unique patterns on its abdomen that often resemble a smiling face.
+
+* **Image Name**: Spider338, Spider339
+
+* **Sources**: [https://en.wikipedia.org/wiki/Theridion_grallator](https://en.wikipedia.org/wiki/Theridion_grallator)
+
+
+**170. Big-Kneed Spider**
+-----------------
+* **Scientific Name**: *Eriophora transmarina*
+
+* **Distinguished Qualities**: A large orb-weaver with prominent "knees" on its legs.
+
+* **Image Name**: Spider340, Spider341
+
+* **Sources**: [https://en.wikipedia.org/wiki/Eriophora_transmarina](https://en.wikipedia.org/wiki/Eriophora_transmarina)
+
+
+**171. Hairy Field Spider**
+-----------------
+* **Scientific Name**: *Araneus diadematus*
+
+* **Distinguished Qualities**: A common orb-weaver with a hairy body and legs.
+
+* **Image Name**: Spider342, Spider343
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_diadematus](https://en.wikipedia.org/wiki/Araneus_diadematus)
+
+
+**172. European Garden Spider**
+-----------------
+* **Scientific Name**: *Araneus diadematus*
+
+* **Distinguished Qualities**: (Common name for the same species). A well-known orb-weaver found in gardens across Europe.
+
+* **Image Name**: Spider344, Spider345
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_diadematus](https://en.wikipedia.org/wiki/Araneus_diadematus)
+
+
+**173. Cross Orbweaver**
+-----------------
+* **Scientific Name**: *Araneus diadematus*
+
+* **Distinguished Qualities**: (Another common name). Refers to the cross-shaped pattern often visible on its abdomen.
+
+* **Image Name**: Spider346, Spider347
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_diadematus](https://en.wikipedia.org/wiki/Araneus_diadematus)
+
+
+**174. Red Femured Spotted Orb Weaver**
+-----------------
+* **Scientific Name**: *Neoscona domiciliorum*
+
+* **Distinguished Qualities**: An orb-weaver with reddish femurs (thigh segments) and a spotted abdomen.
+
+* **Image Name**: Spider348, Spider349
+
+* **Sources**: [https://en.wikipedia.org/wiki/Neoscona_domiciliorum](https://en.wikipedia.org/wiki/Neoscona_domiciliorum)
+
+
+**175. Spotted Orbweaver**
+-----------------
+* **Scientific Name**: *Neoscona crucifera*
+
+* **Distinguished Qualities**: A common orb-weaver with a distinctly patterned and often colorful abdomen.
+
+* **Image Name**: Spider350, Spider351
+
+* **Sources**: [https://en.wikipedia.org/wiki/Neoscona_crucifera](https://en.wikipedia.org/wiki/Neoscona_crucifera)
+
+**176. Barn Spider**
+-----------------
+* **Scientific Name**: *Araneus cavaticus*
+
+* **Distinguished Qualities**: A large orb-weaver commonly found in barns and other outbuildings.
+
+* **Image Name**: Spider352, Spider353
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_cavaticus](https://en.wikipedia.org/wiki/Araneus_cavaticus)
+
+
+**177. Shamrock Spider**
+-----------------
+* **Scientific Name**: *Araneus trifolium*
+
+* **Distinguished Qualities**: (Common name). Another name for the Shamrock Orb Weaver.
+
+* **Image Name**: Spider354, Spider355
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_trifolium](https://en.wikipedia.org/wiki/Araneus_trifolium)
+
+
+**178. Arrowhead Orbweaver**
+-----------------
+* **Scientific Name**: *Verrucosa arenata*
+
+* **Distinguished Qualities**: (Common name). Another name for the Arrowhead Spider.
+
+* **Image Name**: Spider356, Spider357
+
+* **Sources**: [https://en.wikipedia.org/wiki/Verrucosa_arenata](https://en.wikipedia.org/wiki/Verrucosa_arenata)
+
+
+**179. Lobed Argiope**
+-----------------
+* **Scientific Name**: *Argiope lobata*
+
+* **Distinguished Qualities**: A strikingly patterned orb-weaver with a lobed abdomen.
+
+* **Image Name**: Spider358, Spider359
+
+* **Sources**: [https://en.wikipedia.org/wiki/Argiope_lobata](https://en.wikipedia.org/wiki/Argiope_lobata)
+
+
+**180. Silver Argiope**
+-----------------
+* **Scientific Name**: *Argiope argentata*
+
+* **Distinguished Qualities**: An orb-weaver with silvery markings on its abdomen.
+
+* **Image Name**: Spider360, Spider361
+
+* **Sources**: [https://en.wikipedia.org/wiki/Argiope_argentata](https://en.wikipedia.org/wiki/Argiope_argentata)
+
+
+**181. St. Andrew's Cross Spider**
+-----------------
+* **Scientific Name**: *Argiope keyserlingi*
+
+* **Distinguished Qualities**: An orb-weaver that decorates its web with a prominent X-shaped stabilimentum.
+
+* **Image Name**: Spider362, Spider363
+
+* **Sources**: [https://en.wikipedia.org/wiki/Argiope_keyserlingi](https://en.wikipedia.org/wiki/Argiope_keyserlingi)
+
+
+**182. Common House Spider**
+-----------------
+* **Scientific Name**: *Parasteatoda tepidariorum*
+
+* **Distinguished Qualities**: A very common cobweb spider found in homes worldwide.
+
+* **Image Name**: Spider364, Spider365
+
+* **Sources**: [https://en.wikipedia.org/wiki/Parasteatoda_tepidariorum](https://en.wikipedia.org/wiki/Parasteatoda_tepidariorum)
+
+
+**183. Triangulate Cobweb Spider**
+-----------------
+* **Scientific Name**: *Steatoda triangulosa*
+
+* **Distinguished Qualities**: A cobweb spider with a distinctive triangular pattern on its abdomen.
+
+* **Image Name**: Spider366, Spider367
+
+* **Sources**: [https://en.wikipedia.org/wiki/Steatoda_triangulosa](https://en.wikipedia.org/wiki/Steatoda_triangulosa)
+
+
+**184. False Widow Spider**
+-----------------
+* **Scientific Name**: *Steatoda nobilis*
+
+* **Distinguished Qualities**: A cobweb spider that closely resembles the black widow and has a more potent venom than other *Steatoda* species.
+
+* **Image Name**: Spider368, Spider369
+
+* **Sources**: [https://en.wikipedia.org/wiki/Steatoda_nobilis](https://en.wikipedia.org/wiki/Steatoda_nobilis)
+
+
+**185. Long-Bodied Cellar Spider**
+-----------------
+* **Scientific Name**: *Pholcus opilionoides*
+
+* **Distinguished Qualities**: A cellar spider with a particularly elongated body.
+
+* **Image Name**: Spider370, Spider371
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pholcus_opilionoides](https://en.wikipedia.org/wiki/Pholcus_opilionoides)
+
+
+**186. Daddy Long-Legs Spider**
+-----------------
+* **Scientific Name**: *Pholcus phalangioides*
+
+* **Distinguished Qualities**: (Common name). A very common cellar spider with extremely long, slender legs.
+
+* **Image Name**: Spider372, Spider373
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pholcus_phalangioides](https://en.wikipedia.org/wiki/Pholcus_phalangioides)
+
+
+**187. Vibrating Spider**
+-----------------
+* **Scientific Name**: *Pholcus phalangioides*
+
+* **Distinguished Qualities**: (Behavioral characteristic). Known for its defense mechanism of rapidly vibrating its body when threatened.
+
+* **Image Name**: Spider374, Spider375
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pholcus_phalangioides](https://en.wikipedia.org/wiki/Pholcus_phalangioides)
+
+
+**188. Eastern Parson Spider**
+-----------------
+* **Scientific Name**: *Herpyllus ecclesiasticus*
+
+* **Distinguished Qualities**: A ground spider with a distinctive dark marking on its abdomen resembling a parson's clerical collar.
+
+* **Image Name**: Spider376, Spider377
+
+* **Sources**: [https://en.wikipedia.org/wiki/Herpyllus_ecclesiasticus](https://en.wikipedia.org/wiki/Herpyllus_ecclesiasticus)
+
+
+**189. Western Parson Spider**
+-----------------
+* **Scientific Name**: *Herpyllus propinquus*
+
+* **Distinguished Qualities**: A closely related ground spider found in western North America.
+
+* **Image Name**: Spider378, Spider379
+
+* **Sources**: [https://en.wikipedia.org/wiki/Herpyllus_propinquus](https://en.wikipedia.org/wiki/Herpyllus_propinquus)
+
+
+**190. Broad-Faced Sac Spider**
+-----------------
+* **Scientific Name**: *Trachelas tranquillus*
+
+* **Distinguished Qualities**: A sac spider with a wider cephalothorax compared to other sac spiders.
+
+* **Image Name**: Spider380, Spider381
+
+* **Sources**: [https://en.wikipedia.org/wiki/Trachelas_tranquillus](https://en.wikipedia.org/wiki/Trachelas_tranquillus)
+
+
+**191. Yellow-Legged Sac Spider**
+-----------------
+* **Scientific Name**: *Cheiracanthium inclusum*
+
+* **Distinguished Qualities**: A sac spider with distinct yellow legs.
+
+* **Image Name**: Spider382, Spider383
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_inclusum](https://en.wikipedia.org/wiki/Cheiracanthium_inclusum)
+
+
+**192. Pale Green Sac Spider**
+-----------------
+* **Scientific Name**: *Cheiracanthium viride*
+
+* **Distinguished Qualities**: A sac spider with a pale green coloration.
+
+* **Image Name**: Spider384, Spider385
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_viride](https://en.wikipedia.org/wiki/Cheiracanthium_viride)
+
+
+**193. Long-Haired Sac Spider**
+-----------------
+* **Scientific Name**: *Clubiona abboti*
+
+* **Distinguished Qualities**: A sac spider with noticeably long hairs on its body and legs.
+
+* **Image Name**: Spider386, Spider387
+
+* **Sources**: [https://en.wikipedia.org/wiki/Clubiona_abboti](https://en.wikipedia.org/wiki/Clubiona_abboti)
+
+
+**194. Banded Bark Spider**
+-----------------
+* **Scientific Name**: *Titanoeca americana*
+
+* **Distinguished Qualities**: A hackledmesh weaver often found on bark, with banded legs.
+
+* **Image Name**: Spider388, Spider389
+
+* **Sources**: [https://en.wikipedia.org/wiki/Titanoeca_americana](https://en.wikipedia.org/wiki/Titanoeca_americana)
+
+
+**195. Black-Footed Running Spider**
+-----------------
+* **Scientific Name**: *Anyphaena celer*
+
+* **Distinguished Qualities**: A stretch spider with dark markings on its feet.
+
+* **Image Name**: Spider390, Spider391
+
+* **Sources**: [https://en.wikipedia.org/wiki/Anyphaena_celer](https://en.wikipedia.org/wiki/Anyphaena_celer)
+
+
+**196. Slender Ant-Mimic Spider**
+-----------------
+* **Scientific Name**: *Myrmarachne formicaria*
+
+* **Distinguished Qualities**: An ant-mimicking spider with a slender body shape.
+
+* **Image Name**: Spider392, Spider393
+
+* **Sources**: [https://en.wikipedia.org/wiki/Myrmarachne_formicaria](https://en.wikipedia.org/wiki/Myrmarachne_formicaria)
+
+
+**197. Jumping Ant Spider**
+-----------------
+* **Scientific Name**: *Synemosyna formica*
+
+* **Distinguished Qualities**: Another ant-mimicking spider known for its jumping ability.
+
+* **Image Name**: Spider394, Spider395
+
+* **Sources**: [https://en.wikipedia.org/wiki/Synemosyna_formica](https://en.wikipedia.org/wiki/Synemosyna_formica)
+
+
+**198. Two-Horned Ant Spider**
+-----------------
+* **Scientific Name**: *Aphantophrys bihamulata*
+
+* **Distinguished Qualities**: A small jumping spider that mimics ants and has two horn-like projections on its head.
+
+* **Image Name**: Spider396, Spider397
+
+* **Sources**: [https://en.wikipedia.org/wiki/Aphantophrys_bihamulata](https://en.wikipedia.org/wiki/Aphantophrys_bihamulata)
+
+
+**199. White-Tailed Spider**
+-----------------
+* **Scientific Name**: *Lampona cylindrata*
+
+* **Distinguished Qualities**: A venomous spider known for the white patch at the end of its abdomen.
+
+* **Image Name**: Spider398, Spider399
+
+* **Sources**: [https://en.wikipedia.org/wiki/White-tailed_spider](https://en.wikipedia.org/wiki/White-tailed_spider)
+
+
+**200. Red House Spider**
+-----------------
+* **Scientific Name**: *Nesticus eremita*
+
+* **Distinguished Qualities**: A small scaffold web spider often found in dark, damp places like caves and cellars.
+
+* **Image Name**: Spider400, Spider401
+
+* **Sources**: [https://en.wikipedia.org/wiki/Nesticus_eremita](https://en.wikipedia.org/wiki/Nesticus_eremita)
