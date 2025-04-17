@@ -1314,7 +1314,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Crepuscular hunters with elongated posterior spinnerets, giving them a two-tailed appearance.
 
-* **Image Name**: Spider200, Spider201
+* **Image Name**: Spider199, Spider200
 
 * **Sources**: [https://en.wikipedia.org/wiki/Tamopsis](https://en.wikipedia.org/wiki/Tamopsis)
 
@@ -1325,7 +1325,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: The only known truly aquatic spider, living in submerged silk webs filled with air.
 
-* **Image Name**: Spider202, Spider203
+* **Image Name**: Spider201, Spider202
 
 * **Sources**: [https://en.wikipedia.org/wiki/Water_spider](https://en.wikipedia.org/wiki/Water_spider)
 
@@ -1336,7 +1336,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Builds distinctive tubular webs in crevices, with silken tripwires radiating outwards.
 
-* **Image Name**: Spider204, Spider205
+* **Image Name**: Spider203, Spider204
 
 * **Sources**: [https://en.wikipedia.org/wiki/Segestria_florentina](https://en.wikipedia.org/wiki/Segestria_florentina)
 
@@ -1347,7 +1347,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Cribellate spiders that produce fuzzy, hackled silk used in their webs.
 
-* **Image Name**: Spider206, Spider207
+* **Image Name**: Spider205, Spider206
 
 * **Sources**: [https://en.wikipedia.org/wiki/Amaurobiidae](https://en.wikipedia.org/wiki/Amaurobiidae)
 
@@ -1358,7 +1358,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Pale yellow spiders known for their wandering habits and constructing silken retreats.
 
-* **Image Name**: Spider208, Spider209
+* **Image Name**: Spider207, Spider208
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_mildei](https://en.wikipedia.org/wiki/Cheiracanthium_mildei)
 
@@ -1369,7 +1369,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Small, flattened spiders that create small, circular webs on walls and ceilings.
 
-* **Image Name**: Spider210, Spider211
+* **Image Name**: Spider209, Spider210
 
 * **Sources**: [https://en.wikipedia.org/wiki/Oecobius_navus](https://en.wikipedia.org/wiki/Oecobius_navus)
 
@@ -1380,7 +1380,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Build tangled, funnel-like webs in cracks and crevices.
 
-* **Image Name**: Spider212, Spider213
+* **Image Name**: Spider211, Spider212
 
 * **Sources**: [https://en.wikipedia.org/wiki/Filistatidae](https://en.wikipedia.org/wiki/Filistatidae)
 
@@ -1391,7 +1391,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Small spiders that build delicate, irregular webs often in damp or shaded areas.
 
-* **Image Name**: Spider214, Spider215
+* **Image Name**: Spider213, Spider214
 
 * **Sources**: [https://en.wikipedia.org/wiki/Nesticidae](https://en.wikipedia.org/wiki/Nesticidae)
 
@@ -1402,7 +1402,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Small orb-weavers with a comb-like row of bristles on their hind legs.
 
-* **Image Name**: Spider216, Spider217
+* **Image Name**: Spider215, Spider216
 
 * **Sources**: [https://en.wikipedia.org/wiki/Theridiosomatidae](https://en.wikipedia.org/wiki/Theridiosomatidae)
 
@@ -1413,7 +1413,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A large and diverse family known for constructing classic, circular orb webs.
 
-* **Image Name**: Spider218, Spider219
+* **Image Name**: Spider217, Spider218
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneidae](https://en.wikipedia.org/wiki/Araneidae)
 
@@ -1424,7 +1424,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Elongated spiders with prominent chelicerae (jaws), often found near water.
 
-* **Image Name**: Spider220, Spider221
+* **Image Name**: Spider219, Spider220
 
 * **Sources**: [https://en.wikipedia.org/wiki/Tetragnathidae](https://en.wikipedia.org/wiki/Tetragnathidae)
 
@@ -1435,7 +1435,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Agile, wandering spiders with a flattened body shape.
 
-* **Image Name**: Spider222, Spider223
+* **Image Name**: Spider221, Spider222
 
 * **Sources**: [https://en.wikipedia.org/wiki/Anyphaenidae](https://en.wikipedia.org/wiki/Anyphaenidae)
 
@@ -1446,7 +1446,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Small, pale-colored, active hunters that don't build conspicuous webs.
 
-* **Image Name**: Spider224, Spider225
+* **Image Name**: Spider223, Spider224
 
 * **Sources**: [https://en.wikipedia.org/wiki/Phrurolithidae](https://en.wikipedia.org/wiki/Phrurolithidae)
 
@@ -1457,7 +1457,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Nocturnal hunting spiders that build silken retreats under rocks or bark.
 
-* **Image Name**: Spider226, Spider227
+* **Image Name**: Spider225, Spider226
 
 * **Sources**: [https://en.wikipedia.org/wiki/Gnaphosidae](https://en.wikipedia.org/wiki/Gnaphosidae)
 
@@ -1468,7 +1468,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Large, flattened spiders known for their speed and sideways movement.
 
-* **Image Name**: Spider228, Spider229
+* **Image Name**: Spider227, Spider228
 
 * **Sources**: [https://en.wikipedia.org/wiki/Selenopidae](https://en.wikipedia.org/wiki/Selenopidae)
 
@@ -1479,7 +1479,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Large spiders that carry their egg sacs in their chelicerae and build nursery webs for their spiderlings.
 
-* **Image Name**: Spider230, Spider231
+* **Image Name**: Spider229, Spider230
 
 * **Sources**: [https://en.wikipedia.org/wiki/Pisauridae](https://en.wikipedia.org/wiki/Pisauridae)
 
@@ -1490,7 +1490,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Agile hunters with flattened bodies, often found on foliage or bark.
 
-* **Image Name**: Spider232, Spider233
+* **Image Name**: Spider231, Spider232
 
 * **Sources**: [https://en.wikipedia.org/wiki/Philodromidae](https://en.wikipedia.org/wiki/Philodromidae)
 
@@ -1501,7 +1501,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Fast-moving, nocturnal hunters, some of which are venomous (like the Brazilian wandering spider).
 
-* **Image Name**: Spider234, Spider235
+* **Image Name**: Spider233, Spider234
 
 * **Sources**: [https://en.wikipedia.org/wiki/Ctenidae](https://en.wikipedia.org/wiki/Ctenidae)
 
@@ -1512,7 +1512,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Large spiders often found near water, known for their ability to run on the water surface.
 
-* **Image Name**: Spider236, Spider237
+* **Image Name**: Spider235, Spider236
 
 * **Sources**: [https://en.wikipedia.org/wiki/Trechaleidae](https://en.wikipedia.org/wiki/Trechaleidae)
 
@@ -1523,7 +1523,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Small cribellate spiders that produce bluish, lacy webs.
 
-* **Image Name**: Spider238, Spider239
+* **Image Name**: Spider237, Spider238
 
 * **Sources**: [https://en.wikipedia.org/wiki/Dictynidae](https://en.wikipedia.org/wiki/Dictynidae)
 
@@ -1534,7 +1534,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Spiders that possess a cribellum, a silk-producing plate, and a calamistrum, a comb-like structure on the hind legs, used to create fuzzy, sticky silk.
 
-* **Image Name**: Spider240, Spider241
+* **Image Name**: Spider239, Spider240
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cribellatae](https://en.wikipedia.org/wiki/Cribellatae)
 
@@ -1545,7 +1545,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Builds complex, horizontal sheet webs with a network of supporting lines.
 
-* **Image Name**: Spider242, Spider243
+* **Image Name**: Spider241, Spider242
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cyrtophora_citricola](https://en.wikipedia.org/wiki/Cyrtophora_citricola)
 
@@ -1556,7 +1556,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Orb-weavers with a hard, flattened abdomen bearing colorful spines.
 
-* **Image Name**: Spider244, Spider245
+* **Image Name**: Spider243, Spider244
 
 * **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha_geminata](https://en.wikipedia.org/wiki/Gasteracantha_geminata)
 
@@ -1567,7 +1567,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Orb-weavers with an arrowhead-shaped abdomen.
 
-* **Image Name**: Spider246, Spider247
+* **Image Name**: Spider245, Spider246
 
 * **Sources**: [https://en.wikipedia.org/wiki/Verrucosa_arenata](https://en.wikipedia.org/wiki/Verrucosa_arenata)
 
@@ -1578,7 +1578,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Builds a small, triangular web and uses tension to capture prey.
 
-* **Image Name**: Spider248, Spider249
+* **Image Name**: Spider247, Spider248
 
 * **Sources**: [https://en.wikipedia.org/wiki/Hyptiotes_cavatus](https://en.wikipedia.org/wiki/Hyptiotes_cavatus)
 
@@ -1589,7 +1589,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Small cobweb spiders with an elongated abdomen, often with colorful markings.
 
-* **Image Name**: Spider250, Spider251
+* **Image Name**: Spider249, Spider250
 
 * **Sources**: [https://en.wikipedia.org/wiki/Enoplognatha_ovata](https://en.wikipedia.org/wiki/Enoplognatha_ovata)
 
@@ -1599,7 +1599,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A cobweb spider with distinctive red and white stripes on its abdomen.
 
-* **Image Name**: Spider252, Spider253
+* **Image Name**: Spider251, Spider252
 
 * **Sources**: [https://en.wikipedia.org/wiki/Enoplognatha_latimana](https://en.wikipedia.org/wiki/Enoplognatha_latimana)
 
@@ -1610,7 +1610,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Cobweb spiders that resemble black widow spiders but are generally less venomous.
 
-* **Image Name**: Spider254, Spider255
+* **Image Name**: Spider253, Spider254
 
 * **Sources**: [https://en.wikipedia.org/wiki/Steatoda_bipunctata](https://en.wikipedia.org/wiki/Steatoda_bipunctata)
 
@@ -1621,7 +1621,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A hackledmesh weaver commonly found in and around buildings.
 
-* **Image Name**: Spider256, Spider257
+* **Image Name**: Spider255, Spider256
 
 * **Sources**: [https://en.wikipedia.org/wiki/Amaurobius_similis](https://en.wikipedia.org/wiki/Amaurobius_similis)
 
@@ -1632,7 +1632,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Funnel-web spiders that build large, sheet-like webs with a silken retreat.
 
-* **Image Name**: Spider258, Spider259
+* **Image Name**: Spider257, Spider258
 
 * **Sources**: [https://en.wikipedia.org/wiki/Agelena_labyrinthica](https://en.wikipedia.org/wiki/Agelena_labyrinthica)
 
@@ -1643,7 +1643,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Another species of tube-dwelling spider with a dark, iridescent green cephalothorax.
 
-* **Image Name**: Spider260, Spider261
+* **Image Name**: Spider259, Spider260
 
 * **Sources**: [https://en.wikipedia.org/wiki/Segestria_senoculata](https://en.wikipedia.org/wiki/Segestria_senoculata)
 
@@ -1654,7 +1654,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A cribellate spider with feathery hairs on its legs, used to create fine silk.
 
-* **Image Name**: Spider262, Spider263
+* **Image Name**: Spider261, Spider262
 
 * **Sources**: [https://en.wikipedia.org/wiki/Uloborus_plumipes](https://en.wikipedia.org/wiki/Uloborus_plumipes)
 
@@ -1665,7 +1665,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A small sheet weaver known for its distinctive head shape.
 
-* **Image Name**: Spider264, Spider265
+* **Image Name**: Spider263, Spider264
 
 * **Sources**: [https://en.wikipedia.org/wiki/Walckenaeria_acuminata](https://en.wikipedia.org/wiki/Walckenaeria_acuminata)
 
@@ -1676,7 +1676,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A very large family of small spiders, often found in leaf litter and moss.
 
-* **Image Name**: Spider266, Spider267
+* **Image Name**: Spider265, Spider266
 
 * **Sources**: [https://en.wikipedia.org/wiki/Erigonidae](https://en.wikipedia.org/wiki/Erigonidae)
 
@@ -1687,7 +1687,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Another large family of small sheet-web weavers, often associated with folklore.
 
-* **Image Name**: Spider268, Spider269
+* **Image Name**: Spider267, Spider268
 
 * **Sources**: [https://en.wikipedia.org/wiki/Linyphiidae](https://en.wikipedia.org/wiki/Linyphiidae)
 
@@ -1698,7 +1698,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Spiders that construct horizontal, sheet-like webs.
 
-* **Image Name**: Spider270, Spider271
+* **Image Name**: Spider269, Spider270
 
 * **Sources**: [https://en.wikipedia.org/wiki/Linyphiidae](https://en.wikipedia.org/wiki/Linyphiidae)
 
@@ -1709,7 +1709,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A spiny orb-weaver with an elongated, slender body.
 
-* **Image Name**: Spider272, Spider273
+* **Image Name**: Spider271, Spider272
 
 * **Sources**: [https://en.wikipedia.org/wiki/Micrathena_gracilis](https://en.wikipedia.org/wiki/Micrathena_gracilis)
 
@@ -1720,7 +1720,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Another species of spiny orb-weaver with a more rounded abdomen.
 
-* **Image Name**: Spider274, Spider275
+* **Image Name**: Spider273, Spider274
 
 * **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha](https://en.wikipedia.org/wiki/Gasteracantha)
 
@@ -1731,9 +1731,10 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A brightly colored orb-weaver with a bulbous abdomen.
 
-* **Image Name**: Spider276, Spider277
+* **Image Name**: Spider275, Spider276
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_gemmoides](https://en.wikipedia.org/wiki/Araneus_gemmoides)
+
 
 
 **139. Marbled Orb Weaver**
@@ -1742,7 +1743,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: An orb-weaver with a distinctive marbled pattern on its abdomen.
 
-* **Image Name**: Spider278, Spider279
+* **Image Name**: Spider277, Spider278
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_marmoreus](https://en.wikipedia.org/wiki/Araneus_marmoreus)
 
@@ -1753,7 +1754,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A large orb-weaver with variable coloration, often with a shamrock-like pattern.
 
-* **Image Name**: Spider280, Spider281
+* **Image Name**: Spider279, Spider280
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_trifolium](https://en.wikipedia.org/wiki/Araneus_trifolium)
 
@@ -1764,7 +1765,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: An ant-mimicking spider with reddish spots.
 
-* **Image Name**: Spider282, Spider283
+* **Image Name**: Spider281, Spider282
 
 * **Sources**: [https://en.wikipedia.org/wiki/Castianeira_descripta](https://en.wikipedia.org/wiki/Castianeira_descripta)
 
@@ -1775,7 +1776,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A jumping spider with two prominent stripes on its cephalothorax.
 
-* **Image Name**: Spider284, Spider285
+* **Image Name**: Spider283, Spider284
 
 * **Sources**: [https://en.wikipedia.org/wiki/Evarcha_arcuata](https://en.wikipedia.org/wiki/Evarcha_arcuata)
 
@@ -1786,7 +1787,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A jumping spider with a metallic bronze sheen.
 
-* **Image Name**: Spider286, Spider287
+* **Image Name**: Spider285, Spider286
 
 * **Sources**: [https://en.wikipedia.org/wiki/Euryattus_wallacei](https://en.wikipedia.org/wiki/Euryattus_wallacei)
 
@@ -1797,7 +1798,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A brightly colored jumping spider with iridescent scales.
 
-* **Image Name**: Spider288, Spider289
+* **Image Name**: Spider287, Spider288
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cosmophasis_micans](https://en.wikipedia.org/wiki/Cosmophasis_micans)
 
@@ -1808,7 +1809,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Spiders that resemble ants in appearance and behavior.
 
-* **Image Name**: Spider290, Spider291
+* **Image Name**: Spider289, Spider290
 
 * **Sources**: [https://en.wikipedia.org/wiki/Liocranidae](https://en.wikipedia.org/wiki/Liocranidae)
 
@@ -1819,7 +1820,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Reiterating a family, but focusing on general characteristics of ground sac spiders). Nocturnal hunters that build silken retreats under ground debris.
 
-* **Image Name**: Spider292, Spider293
+* **Image Name**: Spider291, Spider292
 
 * **Sources**: [https://en.wikipedia.org/wiki/Gnaphosidae](https://en.wikipedia.org/wiki/Gnaphosidae)
 
@@ -1830,7 +1831,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Spiders with extremely flattened bodies, allowing them to live under bark.
 
-* **Image Name**: Spider294, Spider295
+* **Image Name**: Spider293, Spider294
 
 * **Sources**: [https://en.wikipedia.org/wiki/Platoridae](https://en.wikipedia.org/wiki/Platoridae)
 
@@ -1841,7 +1842,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A large species of wolf spider found in warmer regions.
 
-* **Image Name**: Spider296, Spider297
+* **Image Name**: Spider295, Spider296
 
 * **Sources**: [https://en.wikipedia.org/wiki/Hogna_carolinensis](https://en.wikipedia.org/wiki/Hogna_carolinensis)
 
@@ -1852,7 +1853,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A fishing spider with prominent stripes on its body.
 
-* **Image Name**: Spider298, Spider299
+* **Image Name**: Spider297, Spider298
 
 * **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_scriptus](https://en.wikipedia.org/wiki/Dolomedes_scriptus)
 
@@ -1863,7 +1864,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A large, dark-colored fishing spider.
 
-* **Image Name**: Spider300, Spider301
+* **Image Name**: Spider299, Spider300
 
 * **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_tenebrosus](https://en.wikipedia.org/wiki/Dolomedes_tenebrosus)
 
@@ -1873,7 +1874,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A fishing spider with a pattern of six distinct spots on its abdomen.
 
-* **Image Name**: Spider302, Spider303
+* **Image Name**: Spider301, Spider302
 
 * **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_triton](https://en.wikipedia.org/wiki/Dolomedes_triton)
 
@@ -1884,7 +1885,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A wolf spider with distinct dark bands on its legs and body.
 
-* **Image Name**: Spider304, Spider305
+* **Image Name**: Spider303, Spider304
 
 * **Sources**: [https://en.wikipedia.org/wiki/Rabidosa_rabida](https://en.wikipedia.org/wiki/Rabidosa_rabida)
 
@@ -1895,7 +1896,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A smaller wolf spider with relatively slender legs.
 
-* **Image Name**: Spider306, Spider307
+* **Image Name**: Spider305, Spider306
 
 * **Sources**: [https://en.wikipedia.org/wiki/Pardosa_milvina](https://en.wikipedia.org/wiki/Pardosa_milvina)
 
@@ -1906,7 +1907,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Another large species of wolf spider found in North America.
 
-* **Image Name**: Spider308, Spider309
+* **Image Name**: Spider307, Spider308
 
 * **Sources**: [https://en.wikipedia.org/wiki/Hogna_helluo](https://en.wikipedia.org/wiki/Hogna_helluo)
 
@@ -1917,7 +1918,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Reiterating species for clarity). A wolf spider known for its quick movements.
 
-* **Image Name**: Spider310, Spider311
+* **Image Name**: Spider309, Spider310
 
 * **Sources**: [https://en.wikipedia.org/wiki/Rabidosa_rabida](https://en.wikipedia.org/wiki/Rabidosa_rabida)
 
@@ -1928,7 +1929,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A lynx spider with prominent dark stripes along its body.
 
-* **Image Name**: Spider312, Spider313
+* **Image Name**: Spider311, Spider312
 
 * **Sources**: [https://en.wikipedia.org/wiki/Oxyopes_salticus](https://en.wikipedia.org/wiki/Oxyopes_salticus)
 
@@ -1939,7 +1940,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A jumping spider with distinctive black and white markings on its pedipalps.
 
-* **Image Name**: Spider314, Spider315
+* **Image Name**: Spider313, Spider314
 
 * **Sources**: [https://en.wikipedia.org/wiki/Anasaitis_canosa](https://en.wikipedia.org/wiki/Anasaitis_canosa)
 
@@ -1950,7 +1951,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A common and easily recognizable jumping spider with iridescent chelicerae.
 
-* **Image Name**: Spider316, Spider317
+* **Image Name**: Spider315, Spider316
 
 * **Sources**: [https://en.wikipedia.org/wiki/Phidippus_audax](https://en.wikipedia.org/wiki/Phidippus_audax)
 
@@ -1961,7 +1962,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A larger and often brightly colored species of *Phidippus*.
 
-* **Image Name**: Spider318, Spider319
+* **Image Name**: Spider317, Spider318
 
 * **Sources**: [https://en.wikipedia.org/wiki/Phidippus_regius](https://en.wikipedia.org/wiki/Phidippus_regius)
 
@@ -1972,7 +1973,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A jumping spider with a vibrant green coloration, especially in females.
 
-* **Image Name**: Spider320, Spider321
+* **Image Name**: Spider319, Spider320
 
 * **Sources**: [https://en.wikipedia.org/wiki/Paraphidippus_aurantius](https://en.wikipedia.org/wiki/Paraphidippus_aurantius)
 
@@ -1983,7 +1984,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A relatively large jumping spider with a mottled brown or tan coloration.
 
-* **Image Name**: Spider322, Spider323
+* **Image Name**: Spider321, Spider322
 
 * **Sources**: [https://en.wikipedia.org/wiki/Platycryptus_undatus](https://en.wikipedia.org/wiki/Platycryptus_undatus)
 
@@ -1994,7 +1995,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A widespread jumping spider often found indoors.
 
-* **Image Name**: Spider324, Spider325
+* **Image Name**: Spider323, Spider324
 
 * **Sources**: [https://en.wikipedia.org/wiki/Plexippus_paykulli](https://en.wikipedia.org/wiki/Plexippus_paykulli)
 
@@ -2005,7 +2006,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A jumping spider with significant differences in appearance between males and females.
 
-* **Image Name**: Spider326, Spider327
+* **Image Name**: Spider325, Spider326
 
 * **Sources**: [https://en.wikipedia.org/wiki/Maevia_inclemens](https://en.wikipedia.org/wiki/Maevia_inclemens)
 
@@ -2016,7 +2017,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A jumping spider with distinct white bands on its legs and body.
 
-* **Image Name**: Spider328, Spider329
+* **Image Name**: Spider327, Spider328
 
 * **Sources**: [https://en.wikipedia.org/wiki/Colonus_hesperus](https://en.wikipedia.org/wiki/Colonus_hesperus)
 
@@ -2027,7 +2028,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Color variation of a previously mentioned species, but highlighting a distinct color morph). A crab spider known for its ability to change color, sometimes appearing bronze.
 
-* **Image Name**: Spider330, Spider331
+* **Image Name**: Spider329, Spider330
 
 * **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
 
@@ -2038,7 +2039,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Another common name for the same species). A crab spider often found on flowers, camouflaged to ambush prey.
 
-* **Image Name**: Spider332, Spider333
+* **Image Name**: Spider331, Spider332
 
 * **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
 
@@ -2049,7 +2050,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Yet another common name). A crab spider frequently seen on goldenrod flowers.
 
-* **Image Name**: Spider334, Spider335
+* **Image Name**: Spider333, Spider334
 
 * **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
 
@@ -2060,7 +2061,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Another color variation). A crab spider that can turn white to blend in with white flowers.
 
-* **Image Name**: Spider336, Spider337
+* **Image Name**: Spider335, Spider336
 
 * **Sources**: [https://en.wikipedia.org/wiki/Misumena_vatia](https://en.wikipedia.org/wiki/Misumena_vatia)
 
@@ -2071,7 +2072,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Specific geographic variation). A cobweb spider endemic to Hawaii, known for the unique patterns on its abdomen that often resemble a smiling face.
 
-* **Image Name**: Spider338, Spider339
+* **Image Name**: Spider337, Spider338
 
 * **Sources**: [https://en.wikipedia.org/wiki/Theridion_grallator](https://en.wikipedia.org/wiki/Theridion_grallator)
 
@@ -2082,7 +2083,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A large orb-weaver with prominent "knees" on its legs.
 
-* **Image Name**: Spider340, Spider341
+* **Image Name**: Spider339, Spider340
 
 * **Sources**: [https://en.wikipedia.org/wiki/Eriophora_transmarina](https://en.wikipedia.org/wiki/Eriophora_transmarina)
 
@@ -2093,7 +2094,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A common orb-weaver with a hairy body and legs.
 
-* **Image Name**: Spider342, Spider343
+* **Image Name**: Spider341, Spider342
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_diadematus](https://en.wikipedia.org/wiki/Araneus_diadematus)
 
@@ -2104,7 +2105,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Common name for the same species). A well-known orb-weaver found in gardens across Europe.
 
-* **Image Name**: Spider344, Spider345
+* **Image Name**: Spider343, Spider344
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_diadematus](https://en.wikipedia.org/wiki/Araneus_diadematus)
 
@@ -2115,7 +2116,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Another common name). Refers to the cross-shaped pattern often visible on its abdomen.
 
-* **Image Name**: Spider346, Spider347
+* **Image Name**: Spider345, Spider346
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_diadematus](https://en.wikipedia.org/wiki/Araneus_diadematus)
 
@@ -2126,7 +2127,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: An orb-weaver with reddish femurs (thigh segments) and a spotted abdomen.
 
-* **Image Name**: Spider348, Spider349
+* **Image Name**: Spider347, Spider348
 
 * **Sources**: [https://en.wikipedia.org/wiki/Neoscona_domiciliorum](https://en.wikipedia.org/wiki/Neoscona_domiciliorum)
 
@@ -2137,7 +2138,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A common orb-weaver with a distinctly patterned and often colorful abdomen.
 
-* **Image Name**: Spider350, Spider351
+* **Image Name**: Spider349, Spider350
 
 * **Sources**: [https://en.wikipedia.org/wiki/Neoscona_crucifera](https://en.wikipedia.org/wiki/Neoscona_crucifera)
 
@@ -2147,20 +2148,9 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A large orb-weaver commonly found in barns and other outbuildings.
 
-* **Image Name**: Spider352, Spider353
+* **Image Name**: Spider351, Spider352
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_cavaticus](https://en.wikipedia.org/wiki/Araneus_cavaticus)
-
-
-**177. Shamrock Spider**
------------------
-* **Scientific Name**: *Araneus trifolium*
-
-* **Distinguished Qualities**: (Common name). Another name for the Shamrock Orb Weaver.
-
-* **Image Name**: Spider354, Spider355
-
-* **Sources**: [https://en.wikipedia.org/wiki/Araneus_trifolium](https://en.wikipedia.org/wiki/Araneus_trifolium)
 
 
 **178. Arrowhead Orbweaver**
@@ -2169,7 +2159,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Common name). Another name for the Arrowhead Spider.
 
-* **Image Name**: Spider356, Spider357
+* **Image Name**: Spider355, Spider356
 
 * **Sources**: [https://en.wikipedia.org/wiki/Verrucosa_arenata](https://en.wikipedia.org/wiki/Verrucosa_arenata)
 
@@ -2180,7 +2170,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A strikingly patterned orb-weaver with a lobed abdomen.
 
-* **Image Name**: Spider358, Spider359
+* **Image Name**: Spider357, Spider358
 
 * **Sources**: [https://en.wikipedia.org/wiki/Argiope_lobata](https://en.wikipedia.org/wiki/Argiope_lobata)
 
@@ -2191,7 +2181,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: An orb-weaver with silvery markings on its abdomen.
 
-* **Image Name**: Spider360, Spider361
+* **Image Name**: Spider359, Spider360
 
 * **Sources**: [https://en.wikipedia.org/wiki/Argiope_argentata](https://en.wikipedia.org/wiki/Argiope_argentata)
 
@@ -2202,7 +2192,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: An orb-weaver that decorates its web with a prominent X-shaped stabilimentum.
 
-* **Image Name**: Spider362, Spider363
+* **Image Name**: Spider361, Spider362
 
 * **Sources**: [https://en.wikipedia.org/wiki/Argiope_keyserlingi](https://en.wikipedia.org/wiki/Argiope_keyserlingi)
 
@@ -2213,7 +2203,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A very common cobweb spider found in homes worldwide.
 
-* **Image Name**: Spider364, Spider365
+* **Image Name**: Spider363, Spider364
 
 * **Sources**: [https://en.wikipedia.org/wiki/Parasteatoda_tepidariorum](https://en.wikipedia.org/wiki/Parasteatoda_tepidariorum)
 
@@ -2224,7 +2214,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A cobweb spider with a distinctive triangular pattern on its abdomen.
 
-* **Image Name**: Spider366, Spider367
+* **Image Name**: Spider365, Spider366
 
 * **Sources**: [https://en.wikipedia.org/wiki/Steatoda_triangulosa](https://en.wikipedia.org/wiki/Steatoda_triangulosa)
 
@@ -2235,7 +2225,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A cobweb spider that closely resembles the black widow and has a more potent venom than other *Steatoda* species.
 
-* **Image Name**: Spider368, Spider369
+* **Image Name**: Spider367, Spider368
 
 * **Sources**: [https://en.wikipedia.org/wiki/Steatoda_nobilis](https://en.wikipedia.org/wiki/Steatoda_nobilis)
 
@@ -2246,7 +2236,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A cellar spider with a particularly elongated body.
 
-* **Image Name**: Spider370, Spider371
+* **Image Name**: Spider369, Spider370
 
 * **Sources**: [https://en.wikipedia.org/wiki/Pholcus_opilionoides](https://en.wikipedia.org/wiki/Pholcus_opilionoides)
 
@@ -2257,7 +2247,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Common name). A very common cellar spider with extremely long, slender legs.
 
-* **Image Name**: Spider372, Spider373
+* **Image Name**: Spider371, Spider372
 
 * **Sources**: [https://en.wikipedia.org/wiki/Pholcus_phalangioides](https://en.wikipedia.org/wiki/Pholcus_phalangioides)
 
@@ -2268,7 +2258,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: (Behavioral characteristic). Known for its defense mechanism of rapidly vibrating its body when threatened.
 
-* **Image Name**: Spider374, Spider375
+* **Image Name**: Spider373, Spider374
 
 * **Sources**: [https://en.wikipedia.org/wiki/Pholcus_phalangioides](https://en.wikipedia.org/wiki/Pholcus_phalangioides)
 
@@ -2279,7 +2269,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A ground spider with a distinctive dark marking on its abdomen resembling a parson's clerical collar.
 
-* **Image Name**: Spider376, Spider377
+* **Image Name**: Spider375, Spider376
 
 * **Sources**: [https://en.wikipedia.org/wiki/Herpyllus_ecclesiasticus](https://en.wikipedia.org/wiki/Herpyllus_ecclesiasticus)
 
@@ -2290,7 +2280,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A closely related ground spider found in western North America.
 
-* **Image Name**: Spider378, Spider379
+* **Image Name**: Spider377, Spider378
 
 * **Sources**: [https://en.wikipedia.org/wiki/Herpyllus_propinquus](https://en.wikipedia.org/wiki/Herpyllus_propinquus)
 
@@ -2301,7 +2291,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A sac spider with a wider cephalothorax compared to other sac spiders.
 
-* **Image Name**: Spider380, Spider381
+* **Image Name**: Spider379, Spider380
 
 * **Sources**: [https://en.wikipedia.org/wiki/Trachelas_tranquillus](https://en.wikipedia.org/wiki/Trachelas_tranquillus)
 
@@ -2312,7 +2302,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A sac spider with distinct yellow legs.
 
-* **Image Name**: Spider382, Spider383
+* **Image Name**: Spider381, Spider382
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_inclusum](https://en.wikipedia.org/wiki/Cheiracanthium_inclusum)
 
@@ -2323,7 +2313,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A sac spider with a pale green coloration.
 
-* **Image Name**: Spider384, Spider385
+* **Image Name**: Spider383, Spider384
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_viride](https://en.wikipedia.org/wiki/Cheiracanthium_viride)
 
@@ -2334,7 +2324,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A sac spider with noticeably long hairs on its body and legs.
 
-* **Image Name**: Spider386, Spider387
+* **Image Name**: Spider385, Spider386
 
 * **Sources**: [https://en.wikipedia.org/wiki/Clubiona_abboti](https://en.wikipedia.org/wiki/Clubiona_abboti)
 
@@ -2345,7 +2335,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A hackledmesh weaver often found on bark, with banded legs.
 
-* **Image Name**: Spider388, Spider389
+* **Image Name**: Spider387, Spider388
 
 * **Sources**: [https://en.wikipedia.org/wiki/Titanoeca_americana](https://en.wikipedia.org/wiki/Titanoeca_americana)
 
@@ -2356,7 +2346,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A stretch spider with dark markings on its feet.
 
-* **Image Name**: Spider390, Spider391
+* **Image Name**: Spider389, Spider390
 
 * **Sources**: [https://en.wikipedia.org/wiki/Anyphaena_celer](https://en.wikipedia.org/wiki/Anyphaena_celer)
 
@@ -2367,7 +2357,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: An ant-mimicking spider with a slender body shape.
 
-* **Image Name**: Spider392, Spider393
+* **Image Name**: Spider391, Spider392
 
 * **Sources**: [https://en.wikipedia.org/wiki/Myrmarachne_formicaria](https://en.wikipedia.org/wiki/Myrmarachne_formicaria)
 
@@ -2378,7 +2368,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: Another ant-mimicking spider known for its jumping ability.
 
-* **Image Name**: Spider394, Spider395
+* **Image Name**: Spider393, Spider394
 
 * **Sources**: [https://en.wikipedia.org/wiki/Synemosyna_formica](https://en.wikipedia.org/wiki/Synemosyna_formica)
 
@@ -2389,7 +2379,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A small jumping spider that mimics ants and has two horn-like projections on its head.
 
-* **Image Name**: Spider396, Spider397
+* **Image Name**: Spider395, Spider396
 
 * **Sources**: [https://en.wikipedia.org/wiki/Aphantophrys_bihamulata](https://en.wikipedia.org/wiki/Aphantophrys_bihamulata)
 
@@ -2400,7 +2390,7 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A venomous spider known for the white patch at the end of its abdomen.
 
-* **Image Name**: Spider398, Spider399
+* **Image Name**: Spider397, Spider398
 
 * **Sources**: [https://en.wikipedia.org/wiki/White-tailed_spider](https://en.wikipedia.org/wiki/White-tailed_spider)
 
@@ -2411,6 +2401,6 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 
 * **Distinguished Qualities**: A small scaffold web spider often found in dark, damp places like caves and cellars.
 
-* **Image Name**: Spider400, Spider401
+* **Image Name**: Spider399, Spider400
 
 * **Sources**: [https://en.wikipedia.org/wiki/Nesticus_eremita](https://en.wikipedia.org/wiki/Nesticus_eremita)
