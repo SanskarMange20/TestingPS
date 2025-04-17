@@ -96,7 +96,7 @@
 96. **Cottonmouth**
 97. **Crowned Snake**
 98. **Tentacled Snake**
-99. **Parrot Snake (Leptophis mystacinus)**
+99. **Parrot Snake**
 100. **Dragon Snake**
 101. **Four-lined Snake**
 102. **Oriental Rat Snake (Indian Rat Snake)**
