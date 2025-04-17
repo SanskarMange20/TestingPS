@@ -1071,8 +1071,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider161, Spider162  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Chilobrachys_fimbriatus](https://en.wikipedia.org/wiki/Chilobrachys_fimbriatus)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/b/b3/Chilobrachys_fimbriatus_female.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/10/CHIFIMMF01.jpg
 
  **82. Featherleg Baboon Tarantula**  
 -----------------  
@@ -1084,8 +1084,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider163, Spider164  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Stromatopelma_calceatum](https://en.wikipedia.org/wiki/Stromatopelma_calceatum)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/STRCALMF01.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/STRCALMF_2.jpg
 
  **83. African King Baboon Spider**  
 -----------------  
@@ -1097,8 +1097,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider165, Spider166  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Pelinobius_muticus](https://en.wikipedia.org/wiki/Pelinobius_muticus)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/PELMUTUJ01.jpg
+https://i.ytimg.com/vi/PNnnUTCNOhQ/sddefault.jpg
 
  **84. Greenbottle Blue Tarantula**  
 -----------------  
@@ -1110,8 +1110,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider167, Spider168  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Chromatopelma_cyaneopubescens](https://en.wikipedia.org/wiki/Chromatopelma_cyaneopubescens)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/9/94/%28MHNT%29_Chromatopelma_cyaneopubescens_-_Venezuela_-_Female.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/CHRCYAMF01.jpg
 
  **85. Madagascar Golden Orb-Weaver**  
 -----------------  
@@ -1123,8 +1123,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider169, Spider170  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Nephila_inaurata](https://en.wikipedia.org/wiki/Nephila_inaurata)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nephila_inaurata_dsc07682.jpg/1200px-Nephila_inaurata_dsc07682.jpg
+https://static.inaturalist.org/photos/3541555/large.JPG
 
  **86. Indian Social Spider**  
 -----------------  
@@ -1136,8 +1136,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider171, Spider172  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Stegodyphus_sarasinorum](https://en.wikipedia.org/wiki/Stegodyphus_sarasinorum)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/9/92/Indian_Cooperative_Spiders_imported_from_iNaturalist_photo_245994740_on_5_April_2024.jpg
+https://static.inaturalist.org/photos/226352060/large.jpeg
 
  **87. Amazonian Wandering Spider**  
 -----------------  
@@ -1149,8 +1149,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider173, Spider174  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Phoneutria_fera](https://en.wikipedia.org/wiki/Phoneutria_fera)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/6/67/Wandering_Spider_%28Phoneutria_fera%29_%2810623228224%29.jpg
+https://static.inaturalist.org/photos/33953059/large.jpg
 
  **88. Dominican Giant Tarantula**  
 -----------------  
@@ -1162,8 +1162,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider175, Spider176  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Phormictopus](https://en.wikipedia.org/wiki/Phormictopus)  
-
-
+https://www.urbantarantulas.com/cdn/shop/files/phormictopus-dominican-purple-urban-tarantulas-2.jpg?v=1711332923
+https://www.virginiacheeseman.co.uk/image/cache/catalog/031754AD-7A16-4DE4-8A46-422A97581E6B_1_201_a-600x315.jpeg
 
  **89. Trinidad Olive Tarantula**  
 -----------------  
@@ -1175,8 +1175,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider177, Spider178  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Neoholothele_incei](https://en.wikipedia.org/wiki/Neoholothele_incei)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/10/NEOINCMF.jpg
+https://thespidershop.co.uk/wp-content/uploads/2022/02/H_incei_A2.jpg
 
  **90. Malaysian Earth Tiger Tarantula**  
 -----------------  
@@ -1188,8 +1188,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider179, Spider180  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Omothymus_schioedtei](https://en.wikipedia.org/wiki/Omothymus_schioedtei)  
-
-
+https://static.inaturalist.org/photos/14961285/large.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/90/Cyriopagopus_schioedtei.jpg
 
  **91. Brazilian Black Tarantula**  
 -----------------  
@@ -1201,8 +1201,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider181, Spider182  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Grammostola_pulchra](https://en.wikipedia.org/wiki/Grammostola_pulchra)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Grammostola_pulchra_%28aka%29.jpg/1200px-Grammostola_pulchra_%28aka%29.jpg
+https://spidershoppe.com/cdn/shop/files/pulchra_d274f9a1-6f3a-4e98-aa12-5ef47d7311d3.jpg?v=1709246060
 
  **92. Venezuelan Sun Tiger Tarantula**  
 -----------------  
@@ -1214,8 +1214,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider183, Spider184  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Psalmopoeus_irminia](https://en.wikipedia.org/wiki/Psalmopoeus_irminia)  
-
-
+https://images.squarespace-cdn.com/content/v1/5e3cef84139cb3598eb57c76/1593923403060-ELC6YJD3MUQRKWKCMKBD/PSX_20190806_114058.jpg
+https://happyforest.store/wp-content/uploads/2020/03/image_eb5f2de2-610a-4a79-ba49-b11cb9729d0a.jpg
 
  **93. Peruvian Green Velvet Tarantula**  
 -----------------  
@@ -1227,8 +1227,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider185, Spider186  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Thrixopelma](https://en.wikipedia.org/wiki/Thrixopelma)  
-
-
+https://www.virginiacheeseman.co.uk/image/cache/catalog/TarantulaPeruGreenVelvet06_13-500x500.jpg
+https://spidersworld.eu/122-large_default/thrixopelma-pruriens-15cm-peruvian-green-velvet.jpg
 
  **94. Vietnamese Tiger Tarantula**  
 -----------------  
@@ -1240,8 +1240,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider187, Spider188  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Chilobrachys_dyscolus](https://en.wikipedia.org/wiki/Chilobrachys_dyscolus)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/0/01/Chilobrachys_cf_dyscolus1_CTNP_RPB.jpg
+https://www.newlands.ie/cdn/shop/files/BlueEarthTiger.jpg?v=1739463593
 
 **95. King Baboon Tarantula**  
 -----------------  
@@ -1253,8 +1253,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider189, Spider190  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Pelinobius_muticus](https://en.wikipedia.org/wiki/Pelinobius_muticus)  
-
----
+https://upload.wikimedia.org/wikipedia/commons/7/75/Pelinobius_muticus_adult.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/PELMUTMF-1.jpg
 
 **96. Colombian Pumpkin Patch Tarantula**  
 -----------------  
@@ -1266,8 +1266,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider191, Spider192  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Hapalopus](https://en.wikipedia.org/wiki/Hapalopus)  
-
----
+https://ultimateexotics.co.za/wp-content/uploads/2017/04/d061c26403e837ccb5b91bf17ef047ac.jpg
+https://ultimateexotics.co.za/wp-content/uploads/2017/04/11352112_766161996836874_531227501_n.jpg
 
 **97. Cuban Bronze Tarantula**  
 -----------------  
@@ -1279,8 +1279,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider193, Spider194  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Phormictopus](https://en.wikipedia.org/wiki/Phormictopus)  
-
----
+https://images.squarespace-cdn.com/content/v1/5e3cef84139cb3598eb57c76/1594005144291-LYU6WESS7G8DCL2EV5OU/PSX_20200116_015509.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9e/Cuban_Bronze_Tarantula_%28Phormictopus_auratus%29_%288573971659%29.jpg
 
 **98. Peruvian Orange Rump Tarantula**  
 -----------------  
@@ -1292,8 +1292,8 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider195, Spider196  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Thrixopelma](https://en.wikipedia.org/wiki/Thrixopelma)  
-
----
+https://upload.wikimedia.org/wikipedia/commons/a/a4/Thrixopelma_ockerti_Juvenile_Female.jpg
+https://www.tarantupedia.com/templates/yootheme/cache/61/thrixopelmaockertifemale-61561eec.jpeg
 
 **99. Guyana Pinktoe Tarantula**  
 -----------------  
@@ -1305,3 +1305,5 @@ https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 *   **Image Name**: Spider197, Spider198  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Avicularia_avicularia](https://en.wikipedia.org/wiki/Avicularia_avicularia)  
+https://www.mymonsters.co.za/wp-content/uploads/2018/07/AVIAVIMF.jpg
+https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-0f1bf3842830.jpg?v=1710305058&width=1080
