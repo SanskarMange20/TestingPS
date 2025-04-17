@@ -195,3 +195,205 @@
 **98. Peruvian Orange Rump Tarantula** - *Thrixopelma ockerti*  
 
 **99. Guyana Pinktoe Tarantula** - *Avicularia avicularia*  
+
+**100.** **Two-Tailed Spider** - *Tamopsis* (genus)
+
+**101.** **Water Spider** - *Argyroneta aquatica*
+
+**102.** **Tube-Dwelling Spider** - *Segestria florentina*
+
+**103.** **Hackledmesh Weaver** - *Amaurobiidae* (family)
+
+**104.** **Long-Legged Sac Spider** - *Cheiracanthium mildei*
+
+**105.** **Wall Spider** - *Oecobius navus*
+
+**106.** **Crevice Weaver** - *Filistatidae* (family)
+
+**107.** **Scaffold Web Spider** - *Nesticidae* (family)
+
+**108.** **Comb-Footed Spider** - *Theridiosomatidae* (family)
+
+**109.** **Orb Weaver** - *Araneidae* (family)
+
+**110.** **Long-Jawed Orb Weaver** - *Tetragnathidae* (family)
+
+**111.** **Stretch Spider** - *Anyphaenidae* (family)
+
+**112.** **Ghost Spider** - *Phrurolithidae* (family)
+
+**113.** **Ground Spider** - *Gnaphosidae* (family)
+
+**114.** **Flat Spider** - *Selenopidae* (family)
+
+**115.** **Nursery Web Spider** - *Pisauridae* (family)
+
+**116.** **Running Crab Spider** - *Philodromidae* (family)
+
+**117.** **Swift Spider** - *Ctenidae* (family)
+
+**118.** **Water-Running Spider** - *Trechaleidae* (family)
+
+**119.** **Lace Weaver** - *Dictynidae* (family)
+
+**120.** **Mesh Web Weaver** - *cribellatae* (infraorder)
+
+**121.** **Tropical Tent-Web Spider** - *Cyrtophora citricola*
+
+**122.** **Jeweled Spider** - *Gasteracantha geminata*
+
+**123.** **Arrowhead Spider** - *Verrucosa arenata*
+
+**124.** **Triangle Orb Weaver** - *Hyptiotes cavatus*
+
+**125.** **Longbodied Comb-Footed Spider** - *Enoplognatha ovata*
+
+**126.** **Candy-Striped Spider** - *Enoplognatha latimana*
+
+**127.** **False Black Widow Spider** - *Steatoda bipunctata*
+
+**128.** **Rabbit Hutch Spider** - *Amaurobius similis*
+
+**129.** **Labyrinth Spider** - *Agelena labyrinthica*
+
+**130.** **Tube Web Spider** - *Segestria senoculata*
+
+**131.** **Feather-Legged Lace Weaver** - *Uloborus plumipes*
+
+**132.** **Hanging Thief Spider** - *Walckenaeria acuminata*
+
+**133.** **Dwarf Spider** - *Erigonidae* (family)
+
+**134.** **Money Spider** - *Linyphiidae* (family)
+
+**135.** **Sheet Weaver** - *Linyphiidae* (family)
+
+**136.** **Hammock Spider** - *Micrathena gracilis*
+
+**137.** **Spiny Orb Weaver** - *Gasteracantha elipsoides*
+
+**138.** **Jewel Spider** - *Araneus gemmoides*
+
+**139.** **Marbled Orb Weaver** - *Araneus marmoreus*
+
+**140.** **Shamrock Orb Weaver** - *Araneus trifolium*
+
+**141.** **Red-Spotted Ant Mimic Spider** - *Castianeira descripta*
+
+**142.** **Two-Striped Jumping Spider** - *Evarcha arcuata*
+
+**143.** **Bronze Jumping Spider** - *Euryattus wallacei*
+
+**144.** **Magnificent Jumping Spider** - *Cosmophasis micans*
+
+**145.** **Ant-Like Sac Spider** - *Liocranidae* (family)
+
+**146.** **Ground Sac Spider** - *Gnaphosidae* (family)
+
+**147.** **Flattened Bark Spider** - *Platoridae* (family)
+
+**148.** **Tropical Wolf Spider** - *Hogna carolinensis*
+
+**149.** **Striped Fishing Spider** - *Dolomedes scriptus*
+
+**150.** **Dark Fishing Spider** - *Dolomedes tenebrosus*
+
+**151.** **Six-Spotted Fishing Spider** - *Dolomedes triton*
+
+**152.** **Banded Wolf Spider** - *Rabidosa rabida*
+
+**153.** **Thin-Legged Wolf Spider** - *Pardosa milvina*
+
+**154.** **Carolina Wolf Spider** - *Hogna helluo*
+
+**155.** **Rabid Wolf Spider** - *Rabidosa rabida*
+
+**156.** **Striped Lynx Spider** - *Oxyopes salticus*
+
+**157.** **Twin-Flagged Jumping Spider** - *Anasaitis canosa*
+
+**158.** **Bold Jumping Spider** - *Phidippus audax*
+
+**159.** **Regal Jumping Spider** - *Phidippus regius*
+
+**160.** **Emerald Jumping Spider** - *Paraphidippus aurantius*
+
+**161.** **Tan Jumping Spider** - *Platycryptus undatus*
+
+**162.** **Pantropical Jumping Spider** - *Plexippus paykulli*
+
+**163.** **Dimorphic Jumping Spider** - *Maevia inclemens*
+
+**164.** **White-Banded Jumping Spider** - *Colonus hesperus*
+
+**165.** **Bronze Crab Spider** - *Misumena vatia*
+
+**166.** **Flower Crab Spider** - *Misumena vatia*
+
+**167.** **Goldenrod Crab Spider** - *Misumena vatia*
+
+**168.** **White Crab Spider** - *Misumena vatia*
+
+**169.** **Hawaiian Happy-Face Spider** - *Theridion grallator*
+
+**170.** **Big-Kneed Spider** - *Eriophora transmarina*
+
+**171.** **Hairy Field Spider** - *Araneus diadematus*
+
+**172.** **European Garden Spider** - *Araneus diadematus*
+
+**173.** **Cross Orbweaver** - *Araneus diadematus*
+
+**174.** **Red Femured Spotted Orb Weaver** - *Neoscona domiciliorum*
+
+**175.** **Spotted Orbweaver** - *Neoscona crucifera*
+
+**176.** **Barn Spider** - *Araneus cavaticus*
+
+**177.** **Shamrock Spider** - *Araneus trifolium*
+
+**178.** **Arrowhead Orbweaver** - *Verrucosa arenata*
+
+**179.** **Lobed Argiope** - *Argiope lobata*
+
+**180.** **Silver Argiope** - *Argiope argentata*
+
+**181.** **St. Andrew's Cross Spider** - *Argiope keyserlingi*
+
+**182.** **Common House Spider** - *Parasteatoda tepidariorum*
+
+**183.** **Triangulate Cobweb Spider** - *Steatoda triangulosa*
+
+**184.** **False Widow Spider** - *Steatoda nobilis*
+
+**185.** **Long-Bodied Cellar Spider** - *Pholcus opilionoides*
+
+**186.** **Daddy Long-Legs Spider** - *Pholcus phalangioides*
+
+**187.** **Vibrating Spider** - *Pholcus phalangioides*
+
+**188.** **Eastern Parson Spider** - *Herpyllus ecclesiasticus*
+
+**189.** **Western Parson Spider** - *Herpyllus propinquus*
+
+**190.** **Broad-Faced Sac Spider** - *Trachelas tranquillus*
+
+**191.** **Yellow-Legged Sac Spider** - *Cheiracanthium inclusum*
+
+**192.** **Pale Green Sac Spider** - *Cheiracanthium viride*
+
+**193.** **Long-Haired Sac Spider** - *Clubiona abboti*
+
+**194.** **Banded Bark Spider** - *Titanoeca americana*
+
+**195.** **Black-Footed Running Spider** - *Anyphaena celer*
+
+**196.** **Slender Ant-Mimic Spider** - *Myrmarachne formicaria*
+
+**197.** **Jumping Ant Spider** - *Synemosyna formica*
+
+**198.** **Two-Horned Ant Spider** - *Aphantophrys bihamulata*
+
+**199.** **White-Tailed Spider** - *Lampona cylindrata*
+
+**200.** **Red House Spider** - *Nesticus eremita*
