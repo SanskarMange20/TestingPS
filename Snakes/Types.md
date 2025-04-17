@@ -4185,3 +4185,33 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/4/46/Atheris\_desaixi.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Atheris_desaixi.jpg)
         * [https://en.wikipedia.org/wiki/Atheris\_desaixi](https://en.wikipedia.org/wiki/Atheris_desaixi)
+
+6.  **Pope's Tree Viper**
+
+   *   **Scientific Name:** _Trimeresurus popeiorum_
+   *   **Distinguishing Qualities:** A venomous pit viper known for its striking green coloration and arboreal lifestyle. It is found in the forests of Southeast Asia, where it blends well with the foliage. This species primarily feeds on small mammals and birds.
+   *   **Name for Photos:** Pope's Tree Viper (1)
+
+7.  **Red Earth Centipede Snake** 
+
+    *   **Scientific Name:** _Tantilla schistosa_
+    *   **Distinguishing Qualities:** A non-venomous snake characterized by its slender body and reddish-brown coloration. It is typically found in sandy or loose soil environments in Central America, where it feeds on small invertebrates, particularly centipedes and earthworms.
+    *   **Name for Photos:** Red Earth Centipede Snake (1)
+
+8.  **Bothrops Monsignifer**
+
+    *   **Scientific Name:** _Bothrops monsignifer_
+    *   **Distinguishing Qualities:** A venomous pit viper known for its distinctive coloration and pattern, which provides excellent camouflage in its tropical habitat. It is found in Central America and primarily preys on small mammals and birds.
+    *   **Name for Photos:** Bothrops Monsignifer (1)
+
+9.  **Pygmy Copperhead** 
+
+    *   **Scientific Name:** _Austrelaps labialis_
+    *   **Distinguishing Qualities:** A small, venomous snake known for its coppery coloration and stout body. It is native to Australia and is often found in rocky or bushy areas, where it feeds on small mammals and reptiles.
+    *   **Name for Photos:** Pygmy Copperhead (1)
+
+1.  **Barbour’s Tropical Racer**
+
+    *   **Scientific Name:** _Mastigodryas bruesi_
+    *   **Distinguishing Qualities:** A non-venomous snake recognized for its slender body and speed. It inhabits tropical forests in Central America and is known for its agility, primarily feeding on small lizards and insects.
+    *   **Name for Photos:** Barbour’s Tropical Racer (1)
