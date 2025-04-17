@@ -4191,27 +4191,42 @@
     *   **Scientific Name:** _Trimeresurus popeiorum_
     *   **Distinguishing Qualities:** A venomous pit viper known for its striking green coloration and arboreal lifestyle. It is found in the forests of Southeast Asia, where it blends well with the foliage. This species primarily feeds on small mammals and birds.
     *   **Name for Photos:** Pope's Tree Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trimeresurus\_popeiorum,\_Pope's\_pit\_viper\_-\_Doi\_Phu\_Kha\_National\_Park\_(46846412805).jpg/1280px-Trimeresurus\_popeiorum,\_Pope's\_pit\_viper\_-\_Doi\_Phu\_Kha\_National\_Park\_(46846412805).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trimeresurus_popeiorum,_Pope's_pit_viper_-_Doi_Phu_Kha_National_Park_(46846412805).jpg/1280px-Trimeresurus_popeiorum,_Pope's_pit_viper_-_Doi_Phu_Kha_National_Park_(46846412805).jpg)
+        * [https://en.wikipedia.org/wiki/Trimeresurus\_popeiorum](https://en.wikipedia.org/wiki/Trimeresurus_popeiorum)
 
 7.  **Red Earth Centipede Snake** 
 
     *   **Scientific Name:** _Tantilla schistosa_
     *   **Distinguishing Qualities:** A non-venomous snake characterized by its slender body and reddish-brown coloration. It is typically found in sandy or loose soil environments in Central America, where it feeds on small invertebrates, particularly centipedes and earthworms.
     *   **Name for Photos:** Red Earth Centipede Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/23173487/original.jpeg](https://inaturalist-open-data.s3.amazonaws.com/photos/23173487/original.jpeg)
+        * [https://en.wikipedia.org/wiki/Tantilla\_schistosa](https://en.wikipedia.org/wiki/Tantilla_schistosa)
 
 8.  **Bothrops Monsignifer**
 
     *   **Scientific Name:** _Bothrops monsignifer_
     *   **Distinguishing Qualities:** A venomous pit viper known for its distinctive coloration and pattern, which provides excellent camouflage in its tropical habitat. It is found in Central America and primarily preys on small mammals and birds.
     *   **Name for Photos:** Bothrops Monsignifer (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_16/Bothrops-monsignifer-03000047654\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_16/Bothrops-monsignifer-03000047654_01.jpg)
+        * [https://en.wikipedia.org/wiki/Bothrops\_monsignifer](https://en.wikipedia.org/wiki/Bothrops_monsignifer)
 
 9.  **Pygmy Copperhead** 
 
     *   **Scientific Name:** _Austrelaps labialis_
     *   **Distinguishing Qualities:** A small, venomous snake known for its coppery coloration and stout body. It is native to Australia and is often found in rocky or bushy areas, where it feeds on small mammals and reptiles.
     *   **Name for Photos:** Pygmy Copperhead (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Austrelaps\_labialis.jpg/1280px-Austrelaps\_labialis.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Austrelaps_labialis.jpg/1280px-Austrelaps_labialis.jpg)
+        * [https://en.wikipedia.org/wiki/Pygmy\_copperhead](https://en.wikipedia.org/wiki/Pygmy_copperhead)
 
 1.  **Barbour’s Tropical Racer**
 
     *   **Scientific Name:** _Mastigodryas bruesi_
     *   **Distinguishing Qualities:** A non-venomous snake recognized for its slender body and speed. It inhabits tropical forests in Central America and is known for its agility, primarily feeding on small lizards and insects.
     *   **Name for Photos:** Barbour’s Tropical Racer (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Barbour's\_Tropical\_Racer.jpg/1024px-Barbour's\_Tropical\_Racer.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Barbour's_Tropical_Racer.jpg/1024px-Barbour's_Tropical_Racer.jpg)
+        * [https://en.wikipedia.org/wiki/Barbour's\_tropical\_racer](https://en.wikipedia.org/wiki/Barbour's_tropical_racer)
