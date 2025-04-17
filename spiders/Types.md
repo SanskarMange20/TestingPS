@@ -850,8 +850,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider127, Spider128  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Aphonopelma_seemanni](https://en.wikipedia.org/wiki/Aphonopelma_seemanni)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/5/50/Aphonopelma_seemanni_front_view.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2020/01/APHSEEJF01.jpg
 
  **65. Skeleton Tarantula**  
 -----------------  
@@ -863,8 +863,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider129, Spider130  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Ephebopus_murinus](https://en.wikipedia.org/wiki/Ephebopus_murinus)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/b/b2/Skeleton_tarantula.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/EPHMURS-1.jpg
 
  **66. Colombian Giant Redleg**  
 -----------------  
@@ -876,8 +876,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider131, Spider132  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Megaphobema_robustum](https://en.wikipedia.org/wiki/Megaphobema_robustum)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/3/3e/Megaphobema_robustum_2.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/07/MEGROBJM.jpg
 
  **67. Colombian Lesserblack Tarantula**  
 -----------------  
@@ -889,8 +889,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider133, Spider134  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Xenesthis_immanis](https://en.wikipedia.org/wiki/Xenesthis_immanis)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/XENIMMMF.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/06/XENIMMMM.jpg
 
  **68. Dwarf Tarantula**  
 -----------------  
@@ -902,8 +902,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider135, Spider136  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Cyriocosmus](https://en.wikipedia.org/wiki/Cyriocosmus)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/9/92/Cyriocosmus_elegans.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cf/C_elegans.JPG
 
  **69. Burgundy Goliath Birdeater**  
 -----------------  
@@ -915,8 +915,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider137, Spider138  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Theraphosa_stirmi](https://en.wikipedia.org/wiki/Theraphosa_stirmi)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/3/3a/Theraphosa_stirmi.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2018/07/THESTIMF_03.jpg
 
  **70. Blue-Eyed Tarantula**  
 -----------------  
@@ -927,9 +927,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 
 *   **Image Name**: Spider139, Spider140  
 
-*   **Sources**: [https://en.wikipedia.org/wiki/Pachistopelma](https://en.wikipedia.org/wiki/Pachistopelma)  
-
-
+*   **Sources**:(https://en.wikipedia.org/wiki/Pachistopelma_rufonigrum)
+https://upload.wikimedia.org/wikipedia/commons/9/90/Pachistopelma_rufonigrum_female.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/40/Pachistopelma_rufonigrum_male.jpg
 
  **71. Trinidad Chevron Tarantula**  
 -----------------  
@@ -941,8 +941,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider141, Spider142  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Psalmopoeus_cambridgei](https://en.wikipedia.org/wiki/Psalmopoeus_cambridgei)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/07/PSACAMMF01.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3b/Psalmopoeus_cambridgei_1.jpg
 
  **72. Mexican Flame-Knee Tarantula**  
 -----------------  
@@ -954,8 +954,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider143, Spider144  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Brachypelma_auratum](https://en.wikipedia.org/wiki/Brachypelma_auratum)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/10/BRAAURMF01.jpg
+https://www.newlands.ie/cdn/shop/files/Barchypelmaauratum.jpg?v=1739461696
 
  **73. Costa Rican Tiger Rump Tarantula**  
 -----------------  
@@ -967,8 +967,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider145, Spider146  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Cyclosternum_fasciatum](https://en.wikipedia.org/wiki/Cyclosternum_fasciatum)  
-
-
+https://tarantulasoftheworld.com/wp-content/uploads/2014/06/669782-img-1365337662-9-e1402329345362.jpg
+https://www.myhomenature.com/cdn/shop/products/TB2KkPQXAUkyKJjy1zjXXX1wFXa__677474199_73e64838-e681-4d0a-90ed-edd94a38f3c1.jpg?v=1692874301&width=1445
 
  **74. Curly Hair Tarantula**  
 -----------------  
@@ -980,8 +980,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider147, Spider148  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Tliltocatl_albopilosus](https://en.wikipedia.org/wiki/Tliltocatl_albopilosus)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Brachypelma_albopilowsom.jpg/1200px-Brachypelma_albopilowsom.jpg
+https://tatianastinyzoo.com/wp-content/uploads/2025/01/Black-and-White-Blog-Banner-1200-x-600-px-1024x597.png
 
  **75. Pink Zebra Beauty Tarantula**  
 -----------------  
@@ -993,8 +993,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider149, Spider150  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Eupalaestrus_campestratus](https://en.wikipedia.org/wiki/Eupalaestrus_campestratus)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/07/EUPCAMMF01.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eupalaestrus_campestratus_-_Flickr_-_Dick_Culbert.jpg/640px-Eupalaestrus_campestratus_-_Flickr_-_Dick_Culbert.jpg
 
  **76. Arizona Blonde Tarantula**  
 -----------------  
@@ -1006,8 +1006,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider151, Spider152  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Aphonopelma_chalcodes](https://en.wikipedia.org/wiki/Aphonopelma_chalcodes)  
-
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Aphonopelma_chalcodes.jpg/1200px-Aphonopelma_chalcodes.jpg
+https://www.mymonsters.co.za/wp-content/uploads/2020/02/APHCHAMF01.jpg
 
  **77. Costa Rican Bluefront Tarantula**  
 -----------------  
@@ -1019,8 +1019,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider153, Spider154  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Aphonopelma_crinirufum](https://en.wikipedia.org/wiki/Aphonopelma_crinirufum)  
-
-
+https://inaturalist-open-data.s3.amazonaws.com/photos/8419766/original.jpeg
+https://static.inaturalist.org/photos/28944613/medium.jpg
 
  **78. Cameroon Red Baboon Tarantula**  
 -----------------  
@@ -1032,8 +1032,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider155, Spider156  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Hysterocrates](https://en.wikipedia.org/wiki/Hysterocrates)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/07/HYSGIGMF01.jpg
+https://ultimateexotics.co.za/wp-content/uploads/2018/06/Cameroon-Red-Baboon-600x398.jpg
 
  **79. African Red-Headed Velvet Tarantula**  
 -----------------  
@@ -1045,8 +1045,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider157, Spider158  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Hysterocrates](https://en.wikipedia.org/wiki/Hysterocrates)  
-
-
+https://www.newlands.ie/cdn/shop/files/Hysterocrateshercules.jpg?v=1730304991
+https://spideridentifications.com/wp-content/uploads/2019/05/Hercules-Baboon-Spider-Size-1.webp
 
  **80. Haitian Brown Tarantula**  
 -----------------  
@@ -1058,8 +1058,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/76551/large.jpg
 *   **Image Name**: Spider159, Spider160  
 
 *   **Sources**: [https://en.wikipedia.org/wiki/Phormictopus_cancerides](https://en.wikipedia.org/wiki/Phormictopus_cancerides)  
-
-
+https://www.mymonsters.co.za/wp-content/uploads/2018/08/PHOCANMF02.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/22/PhormictopusCancerides.jpg
 
  **81. Indian Violet Tarantula**  
 -----------------  
