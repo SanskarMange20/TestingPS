@@ -4275,3 +4275,30 @@
     *   **Sources:**
         * [https://reptile-database.reptarium.cz/content/photo\_rd\_07/Stegonotus-cucullatus-03000037623\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_07/Stegonotus-cucullatus-03000037623_01.jpg)
         * [https://en.wikipedia.org/wiki/Stegonotus\_cucullatus](https://en.wikipedia.org/wiki/Stegonotus_cucullatus)
+
+7.  **Ashe’s Spitting Cobra** 
+
+    *   **Scientific Name:** *Naja ashei*
+    *   **Distinguishing Qualities:** This venomous snake is recognized for its unique ability to spit venom at potential threats, which can cause temporary blindness. It is primarily found in the savannas and forests of Africa and feeds on small mammals and birds.
+    *   **Name for Photos:** Ashe’s Spitting Cobra (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Naja\_ashei.jpg/1280px-Naja\_ashei.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Naja_ashei.jpg/1280px-Naja_ashei.jpg)
+        * [https://en.wikipedia.org/wiki/Naja\_ashei](https://en.wikipedia.org/wiki/Naja_ashei)
+
+8.  **Pacific Tree Boa**
+
+    *   **Scientific Name:** *Candoia bibroni*
+    *   **Distinguishing Qualities:** A non-venomous boa species, it is known for its arboreal lifestyle and striking coloration, which helps it blend into its forest habitat. This snake is native to the Pacific Islands and primarily preys on small mammals and birds.
+    *   **Name for Photos:** Pacific Tree Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MP-candoia\_bibroni.jpg/1024px-MP-candoia\_bibroni.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MP-candoia_bibroni.jpg/1024px-MP-candoia_bibroni.jpg)
+        * [https://en.wikipedia.org/wiki/Candoia\_bibroni](https://en.wikipedia.org/wiki/Candoia_bibroni)
+
+9.  **Bogert’s Coral Snake** (*Micrurus bogerti*)
+
+    *   **Scientific Name:** *Micrurus bogerti*
+    *   **Distinguishing Qualities:** This venomous snake is characterized by its vibrant coloration, which serves as a warning to predators. It is found in Central America and primarily feeds on other snakes and small reptiles.
+    *   **Name for Photos:** Bogert’s Coral Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/39223364/medium.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/39223364/medium.jpg)
+        * [https://www.inaturalist.org/taxa/30604-Micrurus-bogerti](https://www.inaturalist.org/taxa/30604-Micrurus-bogerti)
