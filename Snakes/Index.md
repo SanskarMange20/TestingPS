@@ -473,4 +473,7 @@
 473. **Peru slender snake** 
 474. **Rufous Beaked Snake**
 475. **Uropeltis ellioti**
-476. **Stegonotus cucullatus** 
+476. **Stegonotus cucullatus**
+477. **Naja ashei**
+478. **Candoia bibroni** 
+479. **Micrurus bogerti**  
