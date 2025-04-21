@@ -4230,3 +4230,48 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Barbour's\_Tropical\_Racer.jpg/1024px-Barbour's\_Tropical\_Racer.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Barbour's_Tropical_Racer.jpg/1024px-Barbour's_Tropical_Racer.jpg)
         * [https://en.wikipedia.org/wiki/Barbour's\_tropical\_racer](https://en.wikipedia.org/wiki/Barbour's_tropical_racer)
+
+2.  **Western Mangrove Cat Snake** 
+
+    *   **Scientific Name:** *Boiga melanota*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its distinctive coloration, which typically includes a pattern of dark and light bands. It is found in mangrove habitats in West Africa and primarily feeds on small mammals, birds, and reptiles.
+    *   **Name for Photos:** Western Mangrove Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Boiga\_melanota\_on\_branch.jpg/1024px-Boiga\_melanota\_on\_branch.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Boiga_melanota_on_branch.jpg/1024px-Boiga_melanota_on_branch.jpg)
+        * [https://en.wikipedia.org/wiki/Boiga\_melanota](https://en.wikipedia.org/wiki/Boiga_melanota)
+
+3.  **Peru Slender Snake** 
+
+    *   **Scientific Name:** *Tachymenis peruviana*
+    *   **Distinguishing Qualities:** A non-venomous snake characterized by its slender body and smooth scales. It is native to Peru and typically inhabits forested areas, where it feeds on small invertebrates and amphibians.
+    *   **Name for Photos:** Peru Slender Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/b/be/Cloud\_forest\_snake.jpg](https://upload.wikimedia.org/wikipedia/commons/b/be/Cloud_forest_snake.jpg)
+        * [https://en.wikipedia.org/wiki/Tachymenis\_peruviana](https://en.wikipedia.org/wiki/Tachymenis_peruviana)
+
+4.  **Rufous Beaked Snake**
+
+    *   **Scientific Name:** *Rhamphiophis oxyrhynchus*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its elongated body and distinctive beak-like snout. It is found in parts of Africa and primarily feeds on small reptiles and amphibians, often using its beak-like snout to dig into the ground.
+    *   **Name for Photos:** Rufous Beaked Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rufous\_beaked\_snake\_(Rhamphiophis\_oxyrhynchus)\_2.jpg/1280px-Rufous\_beaked\_snake\_(Rhamphiophis\_oxyrhynchus)\_2.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rufous_beaked_snake_(Rhamphiophis_oxyrhynchus)_2.jpg/1280px-Rufous_beaked_snake_(Rhamphiophis_oxyrhynchus)_2.jpg)
+        * [https://en.wikipedia.org/wiki/Rufous\_beaked\_snake](https://en.wikipedia.org/wiki/Rufous_beaked_snake)
+
+5.  **Uropeltis ellioti**
+
+    *   **Scientific Name:** *Uropeltis ellioti*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its cylindrical body and distinctive tail, which is often flattened and used for burrowing. It is found in the forests of India and Sri Lanka, primarily feeding on earthworms and other small invertebrates.
+    *   **Name for Photos:** Uropeltis ellioti (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Uropeltis\_ellioti.jpg/1280px-Uropeltis\_ellioti.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Uropeltis_ellioti.jpg/1280px-Uropeltis_ellioti.jpg)
+        * [https://en.wikipedia.org/wiki/Uropeltis\_ellioti](https://en.wikipedia.org/wiki/Uropeltis_ellioti)
+
+6.  **Stegonotus cucullatus**
+
+    *   **Scientific Name:** *Stegonotus cucullatus*
+    *   **Distinguishing Qualities:** A non-venomous snake characterized by its slender body and distinctive coloration, often with dark bands. It is found in New Guinea and surrounding islands, primarily inhabiting forested areas and feeding on small reptiles and amphibians.
+    *   **Name for Photos:** Stegonotus cucullatus (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_07/Stegonotus-cucullatus-03000037623\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_07/Stegonotus-cucullatus-03000037623_01.jpg)
+        * [https://en.wikipedia.org/wiki/Stegonotus\_cucullatus](https://en.wikipedia.org/wiki/Stegonotus_cucullatus)
