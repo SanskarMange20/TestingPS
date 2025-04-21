@@ -469,9 +469,8 @@
 469. **Bothrops monsignifer** 
 470. **Pygmy Copperhead** 
 471. **Barbour’s Tropical Racer**
-472. **Western mangrove cat snake** (*Boiga melanota*)
-473. **Peru slender snake** (Tachymenis peruviana)
-474. **Rufous Beaked Snake** (*Rhamphiophis oxyrhynchus*)
+472. **Western mangrove cat snake** 
+473. **Peru slender snake** 
+474. **Rufous Beaked Snake**
 475. **Uropeltis ellioti**
-476. **Cape File Snake** (*Mehelya capensis*)
-477. **Stegonotus cucullatus** 
+476. **Stegonotus cucullatus** 
