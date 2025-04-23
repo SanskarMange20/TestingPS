@@ -476,4 +476,8 @@
 476. **Stegonotus cucullatus**
 477. **Naja ashei**
 478. **Candoia bibroni** 
-479. **Micrurus bogerti**  
+479. **Micrurus bogerti**
+480. **Micrurus pyrrhocryptus** 
+481. **Aspidomorphus muelleri**
+482. **Chilabothrus granti**
+483. **Boiga trigonata**
