@@ -4302,3 +4302,39 @@
     *   **Sources:**
         * [https://inaturalist-open-data.s3.amazonaws.com/photos/39223364/medium.jpg](https://inaturalist-open-data.s3.amazonaws.com/photos/39223364/medium.jpg)
         * [https://www.inaturalist.org/taxa/30604-Micrurus-bogerti](https://www.inaturalist.org/taxa/30604-Micrurus-bogerti)
+
+1.  **Argentinian Coral Snake**
+   
+    *   **Scientific Name:** *Micrurus pyrrhocryptus*
+    *   **Distinguishing Qualities:** This venomous snake is known for its striking red and black banding, which serves as a warning to potential predators. It is found in Argentina and surrounding regions, primarily feeding on small reptiles and other snakes.
+    *   **Name for Photos:** Argentinian Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Micrurus\_pyrrhocryptus\_1.jpg/1024px-Micrurus\_pyrrhocryptus\_1.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Micrurus_pyrrhocryptus_1.jpg/1024px-Micrurus_pyrrhocryptus_1.jpg)
+        * [https://en.wikipedia.org/wiki/Argentinian\_coral\_snake](https://en.wikipedia.org/wiki/Argentinian_coral_snake)
+
+2.  **Müller’s Crowned Snake** 
+
+    *   **Scientific Name:** *Aspidomorphus muelleri*
+    *   **Distinguishing Qualities:** A non-venomous snake characterized by its smooth scales and distinctive crown-like pattern on its head. It is native to New Guinea and primarily feeds on small invertebrates and amphibians.
+    *   **Name for Photos:** Müller’s Crowned Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/d/da/Aspidomorphus\_muelleri.jpg](https://upload.wikimedia.org/wikipedia/commons/d/da/Aspidomorphus_muelleri.jpg)
+        * [https://en.wikipedia.org/wiki/Aspidomorphus\_muelleri](https://en.wikipedia.org/wiki/Aspidomorphus_muelleri)
+
+3.  **Virgin Islands Boa** 
+
+    *   **Scientific Name:** *Chilabothrus granti*
+    *   **Distinguishing Qualities:** A non-venomous boa known for its robust body and beautiful coloration, which helps it blend into its tropical habitat. It is found in the Virgin Islands and primarily preys on small mammals and birds.
+    *   **Name for Photos:** Virgin Islands Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Usfws-virgin-islands-tree-boa-large.jpg/1024px-Usfws-virgin-islands-tree-boa-large.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Usfws-virgin-islands-tree-boa-large.jpg/1024px-Usfws-virgin-islands-tree-boa-large.jpg)
+        * [https://en.wikipedia.org/wiki/Chilabothrus\_granti](https://en.wikipedia.org/wiki/Chilabothrus_granti)
+
+4.  **Indian Gamma Snake** 
+
+    *   **Scientific Name:** *Boiga trigonata*
+    *   **Distinguishing Qualities:** A mildly venomous snake recognized for its slender body and distinctive coloration, often with dark bands. It is found in South and Southeast Asia, primarily inhabiting forests and feeding on small mammals and birds.
+    *   **Name for Photos:** Indian Gamma Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/6/65/Boiga\_trigonata\_By\_Omid\_Mozaffari\_(2).jpg](https://upload.wikimedia.org/wikipedia/commons/6/65/Boiga_trigonata_By_Omid_Mozaffari_(2).jpg)
+        * [https://en.wikipedia.org/wiki/Boiga\_trigonata](https://en.wikipedia.org/wiki/Boiga_trigonata)
