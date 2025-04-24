@@ -4437,3 +4437,57 @@
     *   **Sources:**
         * [https://static.inaturalist.org/photos/59673908/large.jpg](https://static.inaturalist.org/photos/59673908/large.jpg)
         * [https://en.wikipedia.org/wiki/Atractus\_elaps](https://en.wikipedia.org/wiki/Atractus_elaps)
+
+7.  **Horned Bush Viper**
+
+    *   **Scientific Name:** *Atheris ceratophora*
+    *   **Distinguishing Qualities:** A venomous tree viper known for its striking coloration and horn-like scales on its head. It is found in the rainforests of Africa and primarily feeds on small mammals and birds.
+    *   **Name for Photos:** Horned Bush Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Atheris\_ceratophora\_188224706.jpg/1280px-Atheris\_ceratophora\_188224706.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Atheris_ceratophora_188224706.jpg/1280px-Atheris_ceratophora_188224706.jpg)
+        * [https://en.wikipedia.org/wiki/Atheris\_ceratophora](https://en.wikipedia.org/wiki/Atheris_ceratophora)
+
+9.  **Pacific Ground Boa**
+
+    *   **Scientific Name:** *Candoia carinata*
+    *   **Distinguishing Qualities:** A non-venomous snake known as the Pacific island boa, characterized by its robust body and distinctive pattern. It is found in the Solomon Islands and primarily preys on small mammals and birds.
+    *   **Name for Photos:** Pacific Ground Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/8/88/Pazifikboa.jpg](https://upload.wikimedia.org/wikipedia/commons/8/88/Pazifikboa.jpg)
+        * [https://en.wikipedia.org/wiki/Candoia\_carinata](https://en.wikipedia.org/wiki/Candoia_carinata)
+
+1.  **Angolan Adder**
+
+    *   **Scientific Name:** *Bitis heraldica*
+    *   **Distinguishing Qualities:** A venomous viper known as the herald's viper, recognized for its striking patterns and large size. It is native to southern Africa and feeds on small mammals and birds.
+    *   **Name for Photos:** Angolan Adder (1)
+    *   **Sources:**
+        * [https://calphotos.berkeley.edu/imgs/512x768/0000\_0000/1009/2558.jpeg](https://calphotos.berkeley.edu/imgs/512x768/0000_0000/1009/2558.jpeg)
+        * [https://en.wikipedia.org/wiki/Bitis\_heraldica](https://en.wikipedia.org/wiki/Bitis_heraldica)
+
+2.  **Forsten’s Cat Snake**
+
+    *   **Scientific Name:** *Boiga forsteni*
+    *   **Distinguishing Qualities:** A mildly venomous snake known as Forsten's cat snake, characterized by its slender body and large eyes. It is found in Southeast Asia and primarily feeds on small mammals and birds.
+    *   **Name for Photos:** Forsten’s Cat Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Forsten’s\_Cat\_Snake.jpg/800px-Forsten’s\_Cat\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Forsten’s_Cat_Snake.jpg/800px-Forsten’s_Cat_Snake.jpg)
+        * [https://en.wikipedia.org/wiki/Boiga\_forsteni](https://en.wikipedia.org/wiki/Boiga_forsteni)
+
+3.  **Flathead Snake**
+
+    *   **Scientific Name:** *Tantilla gracilis*
+    *   **Distinguishing Qualities:** A non-venomous snake known as the slender blind snake, recognized for its small size and burrowing habits. It is found in Central America and primarily feeds on small invertebrates.
+    *   **Name for Photos:** Flathead Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tantilla\_gracilis.jpg/500px-Tantilla\_gracilis.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tantilla_gracilis.jpg/500px-Tantilla_gracilis.jpg)
+        * [https://en.wikipedia.org/wiki/Tantilla\_gracilis](https://en.wikipedia.org/wiki/Tantilla_gracilis)
+
+4.  **Gold's Tree Cobra**
+
+    *   **Scientific Name:** *Pseudohaje goldii*
+    *   **Distinguishing Qualities:** A mildly venomous snake known as Gold's tree snake, characterized by its vibrant coloration and arboreal lifestyle. It is found in West Africa and primarily preys on small birds and lizards.
+    *   **Name for Photos:** Gold's Tree Cobra (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_25/Pseudohaje-goldii-03000052373\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_25/Pseudohaje-goldii-03000052373_01.jpg)
+        * [https://en.wikipedia.org/wiki/Goldie's\_tree\_cobra](https://en.wikipedia.org/wiki/Goldie's_tree_cobra)
