@@ -4294,7 +4294,7 @@
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MP-candoia\_bibroni.jpg/1024px-MP-candoia\_bibroni.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MP-candoia_bibroni.jpg/1024px-MP-candoia_bibroni.jpg)
         * [https://en.wikipedia.org/wiki/Candoia\_bibroni](https://en.wikipedia.org/wiki/Candoia_bibroni)
 
-9.  **Bogert’s Coral Snake** (*Micrurus bogerti*)
+9.  **Bogert’s Coral Snake** 
 
     *   **Scientific Name:** *Micrurus bogerti*
     *   **Distinguishing Qualities:** This venomous snake is characterized by its vibrant coloration, which serves as a warning to predators. It is found in Central America and primarily feeds on other snakes and small reptiles.
@@ -4338,3 +4338,48 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/6/65/Boiga\_trigonata\_By\_Omid\_Mozaffari\_(2).jpg](https://upload.wikimedia.org/wikipedia/commons/6/65/Boiga_trigonata_By_Omid_Mozaffari_(2).jpg)
         * [https://en.wikipedia.org/wiki/Boiga\_trigonata](https://en.wikipedia.org/wiki/Boiga_trigonata)
+
+5.  **Dubois' Sea Snake**
+
+    *   **Scientific Name:** *Aipysurus duboisii*
+    *   **Distinguishing Qualities:** This venomous sea snake is known for its slender body and distinctive coloration, often found in coral reefs. It primarily feeds on fish and is known for its potent venom.
+    *   **Name for Photos:** Dubois' Sea Snake (1)
+    *   **Sources:**
+        * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyEy3jjZRYpC6wd15YNs-\_6-lMJDx76L65w&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyEy3jjZRYpC6wd15YNs-_6-lMJDx76L65w&s)
+        * [https://en.wikipedia.org/wiki/Aipysurus\_duboisii](https://en.wikipedia.org/wiki/Aipysurus_duboisii)
+
+6.  **Southwestern blackhead snake**
+
+    *   **Scientific Name:** *Tantilla hobartsmithi*
+    *   **Distinguishing Qualities:** A small, non-venomous snake characterized by its smooth scales and subtle coloration, found in specific regions of Central America. It primarily feeds on small invertebrates.
+    *   **Name for Photos:** Southwestern blackhead snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/0/08/BlackHeadedSnake.jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/BlackHeadedSnake.jpg)
+        * [https://en.wikipedia.org/wiki/Tantilla\_hobartsmithi](https://en.wikipedia.org/wiki/Tantilla_hobartsmithi)
+
+7.  **Boulenger's Snouted Snake**
+
+    *   **Scientific Name:** *Elapsoidea boulengeri*
+    *   **Distinguishing Qualities:** This non-venomous snake is recognized for its elongated body and distinctive snout, found in parts of Africa. It primarily preys on small reptiles and amphibians.
+    *   **Name for Photos:** Boulenger's Snouted Snake (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_11/Elapsoidea-boulengeri-03000041153\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_11/Elapsoidea-boulengeri-03000041153_01.jpg)
+        * [https://www.africansnakebiteinstitute.com/snake/boulengers-garter-snake-2/?srsltid=AfmBOopy8ie1IWDn0KH92RLmQrmbM0fGwEuiB\_CyPDG5IOvDqG2uU7Hj](https://www.africansnakebiteinstitute.com/snake/boulengers-garter-snake-2/?srsltid=AfmBOopy8ie1IWDn0KH92RLmQrmbM0fGwEuiB_CyPDG5IOvDqG2uU7Hj)
+
+8.  **Amazon false fer-de-lance**
+
+    *   **Scientific Name:** *Xenodon severus*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its robust body and distinctive coloration, found in South America. It primarily feeds on amphibians and small reptiles.
+    *   **Name for Photos:** Amazon false fer-de-lance (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/6/64/Xenodon\_severus.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Xenodon_severus.jpg)
+        * [https://en.wikipedia.org/wiki/Xenodon\_severus](https://en.wikipedia.org/wiki/Xenodon_severus)
+
+9.  **Australian Banded Snake** 
+
+    *   **Scientific Name:** *Brachyurophis australis*
+    *   **Distinguishing Qualities:** This mildly venomous snake is characterized by its banded pattern and is found in Australia. It primarily feeds on small reptiles and is known for its burrowing behavior.
+    *   **Name for Photos:** Australian Banded Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brachyurophis\_australis\_158575602.jpg/1920px-Brachyurophis\_australis\_158575602.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brachyurophis_australis_158575602.jpg/1920px-Brachyurophis_australis_158575602.jpg)
+        * [https://en.wikipedia.org/wiki/Brachyurophis\_australis](https://en.wikipedia.org/wiki/Brachyurophis_australis)
