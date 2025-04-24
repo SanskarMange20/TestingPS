@@ -482,7 +482,7 @@
 482. **Virgin Islands Boa**
 483. **Indian Gamma Snake**
 484. **Dubois' Sea Snake**
-485. **Hobart's Earth Snake** 
+485. **Southwestern blackhead snake** 
 486. **Boulenger's Snouted Snake**
-487. **Severus Snake**
+487. **Amazon false fer-de-lance**
 488. **Australian Banded Snake**    
