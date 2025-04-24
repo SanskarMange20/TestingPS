@@ -492,3 +492,9 @@
 492. **Central American Coral Snake**
 493. **Anchieta’s Cobra**
 494. **Ground Snake**
+495. **Horned Bush Viper**
+496. **Pacific Ground Boa**
+497. **Angolan Adder**
+498. **Forsten’s Cat Snake**
+499. **Flathead Snake**
+500. **Gold's Tree Cobra**
