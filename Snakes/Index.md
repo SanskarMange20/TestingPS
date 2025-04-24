@@ -481,3 +481,8 @@
 481. **Aspidomorphus muelleri**
 482. **Chilabothrus granti**
 483. **Boiga trigonata**
+484. **Aipysurus duboisii**
+485. **Tantilla hobartsmithi** 
+486. **Elapsoidea boulengeri**
+487. **Xenodon severus**
+488. **Brachyurophis australis**    
