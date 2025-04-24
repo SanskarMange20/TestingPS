@@ -485,4 +485,10 @@
 485. **Southwestern blackhead snake** 
 486. **Boulenger's Snouted Snake**
 487. **Amazon false fer-de-lance**
-488. **Australian Banded Snake**    
+488. **Australian Banded Snake**
+489. **Indigo Snake**
+490. **Curl Snake**
+491. **King Brown Snake**
+492. **Central American Coral Snake**
+493. **Anchieta’s Cobra**
+494. **Ground Snake**
