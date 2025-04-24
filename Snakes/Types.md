@@ -4383,3 +4383,57 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brachyurophis\_australis\_158575602.jpg/1920px-Brachyurophis\_australis\_158575602.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brachyurophis_australis_158575602.jpg/1920px-Brachyurophis_australis_158575602.jpg)
         * [https://en.wikipedia.org/wiki/Brachyurophis\_australis](https://en.wikipedia.org/wiki/Brachyurophis_australis)
+
+1.  **Indigo Snake**
+
+    *   **Scientific Name:** *Drymarchon corais*
+    *   **Distinguishing Qualities:** A large, non-venomous snake known for its glossy blue-black coloration. It is found in the southeastern United States and preys on a variety of small animals, including other snakes.
+    *   **Name for Photos:** Indigo Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/EasternIndigo2010.jpg/1024px-EasternIndigo2010.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/EasternIndigo2010.jpg/1024px-EasternIndigo2010.jpg)
+        * [https://en.wikipedia.org/wiki/Drymarchon](https://en.wikipedia.org/wiki/Drymarchon)
+
+2.  **Curl Snake**
+
+    *   **Scientific Name:** *Suta suta*
+    *   **Distinguishing Qualities:** A non-venomous snake characterized by its slender body and smooth scales. It is found in Australia and New Guinea, primarily feeding on small reptiles and amphibians.
+    *   **Name for Photos:** Curl Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Suta\_suta\_183685894\_(cropped).jpg/1280px-Suta\_suta\_183685894\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Suta_suta_183685894_(cropped).jpg/1280px-Suta_suta_183685894_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Curl\_snake](https://en.wikipedia.org/wiki/Curl_snake)
+
+3.  **King Brown Snake**
+
+    *   **Scientific Name:** *Pseudechis australis*
+    *   **Distinguishing Qualities:** A venomous snake recognized by its striking black body and red or orange belly. It is native to eastern Australia and primarily feeds on frogs and small mammals.
+    *   **Name for Photos:** King Brown Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/0/0e/Pseudechis\_australis\_ugmedia.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Pseudechis_australis_ugmedia.jpg)
+        * [https://en.wikipedia.org/wiki/King\_brown\_snake](https://en.wikipedia.org/wiki/King_brown_snake)
+
+4.  **Central American Coral Snake**
+
+    *   **Scientific Name:** *Micrurus nigrocinctus*
+    *   **Distinguishing Qualities:** A venomous snake known for its bright coloration with bands of red, yellow, and black. It is found in Central America and primarily preys on small snakes and lizards.
+    *   **Name for Photos:** Central American Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coralillo\_(Micrurus\_nigrocinctus)\_(6955307478).jpg/1024px-Coralillo\_(Micrurus\_nigrocinctus)\_(6955307478).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coralillo_(Micrurus_nigrocinctus)_(6955307478).jpg/1024px-Coralillo_(Micrurus_nigrocinctus)_(6955307478).jpg)
+        * [https://en.wikipedia.org/wiki/Micrurus\_nigrocinctus](https://en.wikipedia.org/wiki/Micrurus_nigrocinctus)
+
+5.  **Anchieta’s Cobra** 
+
+    *   **Scientific Name:** *Naja anchietae*
+    *   **Distinguishing Qualities:** A venomous cobra species found in Angola and Namibia, characterized by its hood and ability to deliver a potent neurotoxic venom. It primarily feeds on small mammals and birds.
+    *   **Name for Photos:** Anchieta’s Cobra (1)
+    *   **Sources:**
+        * [https://citizendium.org/wiki/images/7/75/Naja\_anchietae.jpg](https://citizendium.org/wiki/images/7/75/Naja_anchietae.jpg)
+        * [https://en.wikipedia.org/wiki/Anchieta's\_cobra](https://en.wikipedia.org/wiki/Anchieta's_cobra)
+
+6.  **Ground Snake**
+
+    *   **Scientific Name:** *Atractus elaps*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its slender body and distinctive coloration. It is found in Central and South America and primarily feeds on small invertebrates.
+    *   **Name for Photos:** Ground Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/59673908/large.jpg](https://static.inaturalist.org/photos/59673908/large.jpg)
+        * [https://en.wikipedia.org/wiki/Atractus\_elaps](https://en.wikipedia.org/wiki/Atractus_elaps)
