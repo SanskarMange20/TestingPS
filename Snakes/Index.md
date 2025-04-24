@@ -474,15 +474,15 @@
 474. **Rufous Beaked Snake**
 475. **Uropeltis ellioti**
 476. **Stegonotus cucullatus**
-477. **Naja ashei**
-478. **Candoia bibroni** 
-479. **Micrurus bogerti**
-480. **Micrurus pyrrhocryptus** 
-481. **Aspidomorphus muelleri**
-482. **Chilabothrus granti**
-483. **Boiga trigonata**
-484. **Aipysurus duboisii**
-485. **Tantilla hobartsmithi** 
-486. **Elapsoidea boulengeri**
-487. **Xenodon severus**
-488. **Brachyurophis australis**    
+477. **Ashe’s Spitting Cobra**
+478. **Pacific Tree Boa** 
+479. **Bogert’s Coral Snake**
+480. **Argentinian Coral Snake** 
+481. **Müller’s Crowned Snake**
+482. **Virgin Islands Boa**
+483. **Indian Gamma Snake**
+484. **Dubois' Sea Snake**
+485. **Hobart's Earth Snake** 
+486. **Boulenger's Snouted Snake**
+487. **Severus Snake**
+488. **Australian Banded Snake**    
