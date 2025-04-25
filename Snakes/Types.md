@@ -4491,3 +4491,84 @@
     *   **Sources:**
         * [https://reptile-database.reptarium.cz/content/photo\_rd\_25/Pseudohaje-goldii-03000052373\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_25/Pseudohaje-goldii-03000052373_01.jpg)
         * [https://en.wikipedia.org/wiki/Goldie's\_tree\_cobra](https://en.wikipedia.org/wiki/Goldie's_tree_cobra)
+
+5.  **Günther's Philippine Shrub Snake** 
+
+    *   **Scientific Name:** *Oxyrhabdium leporinum*
+    *   **Distinguishing Qualities:** A non-venomous snake characterized by its slender body and distinctive coloration, found in the Philippines. It primarily feeds on small reptiles and amphibians.
+    *   **Name for Photos:** Günther's Philippine Shrub Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oxyrhabdium\_leporinum\_leporinum\_(KU\_330079)\_from\_mid-elevation,\_Mt.\_Cagua\_-\_ZooKeys-266-001-g097.jpg/1280px-Oxyrhabdium\_leporinum\_leporinum\_(KU\_330079)\_from\_mid-elevation,\_Mt.\_Cagua\_-\_ZooKeys-266-001-g097.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oxyrhabdium_leporinum_leporinum_(KU_330079)_from_mid-elevation,_Mt._Cagua_-_ZooKeys-266-001-g097.jpg/1280px-Oxyrhabdium_leporinum_leporinum_(KU_330079)_from_mid-elevation,_Mt._Cagua_-_ZooKeys-266-001-g097.jpg)
+        * [https://en.wikipedia.org/wiki/Oxyrhabdium\_leporinum](https://en.wikipedia.org/wiki/Oxyrhabdium_leporinum)
+
+6.  **Israeli Mole Viper**
+
+    *   **Scientific Name:** *Atractaspis engaddensis*
+    *   **Distinguishing Qualities:** A venomous snake known for its burrowing habits and distinctive appearance, found in Israel. It primarily preys on small mammals and reptiles.
+    *   **Name for Photos:** Israeli Mole Viper (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aswad\_Khabith\_Snake\_(ثعبان\_أسود\_خبيث).png/800px-Aswad\_Khabith\_Snake\_(ثعبان\_أسود\_خبيث).png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aswad_Khabith_Snake_(ثعبان_أسود_خبيث).png/800px-Aswad_Khabith_Snake_(ثعبان_أسود_خبيث).png)
+        * [https://en.wikipedia.org/wiki/Atractaspis\_engaddensis](https://en.wikipedia.org/wiki/Atractaspis_engaddensis)
+
+7.  **Grauer’s Blind Snake** 
+
+    *   **Scientific Name:** *Letheobia graueri*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its small size and burrowing lifestyle, found in Africa. It primarily feeds on small invertebrates.
+    *   **Name for Photos:** Grauer’s Blind Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/12693761/medium.jpg](https://static.inaturalist.org/photos/12693761/medium.jpg)
+        * [https://www.inaturalist.org/taxa/32745-Letheobia-graueri](https://www.inaturalist.org/taxa/32745-Letheobia-graueri)
+
+8.  **Northern Shovel-nosed Snake**
+
+    *   **Scientific Name:** *Brachyurophis roperi*
+    *   **Distinguishing Qualities:** A mildly venomous snake characterized by its shovel-like snout and banded pattern, found in Australia. It primarily feeds on small reptiles and is known for its burrowing behavior.
+    *   **Name for Photos:** Northern Shovel-nosed Snake (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_2023/Brachyurophis-roperi-03000049552\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_2023/Brachyurophis-roperi-03000049552_01.jpg)
+        * [https://en.wikipedia.org/wiki/Brachyurophis\_roperi](https://en.wikipedia.org/wiki/Brachyurophis_roperi)
+
+9.  **Blyth’s Earth Snake**
+
+    *   **Scientific Name:** *Rhinophis blythii*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its elongated body and burrowing habits, found in Sri Lanka. It primarily feeds on small invertebrates and is often found in leaf litter.
+    *   **Name for Photos:** Blyth’s Earth Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/40/UropeltidTails.jpg](https://upload.wikimedia.org/wikipedia/commons/4/40/UropeltidTails.jpg)
+        * [https://en.wikipedia.org/wiki/Rhinophis\_blythii](https://en.wikipedia.org/wiki/Rhinophis_blythii)
+
+1.  **Cuban Dwarf Boa** 
+
+    *   **Scientific Name:** *Tropidophis maculatus*
+    *   **Distinguishing Qualities:** A non-venomous boa known for its small size and distinctive coloration, found in Cuba. It primarily preys on small mammals and birds.
+    *   **Name for Photos:** Cuban Dwarf Boa (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_11/Tropidophis-maculatus-03000040939\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_11/Tropidophis-maculatus-03000040939_01.jpg)
+        * [https://en.wikipedia.org/wiki/Tropidophis\_maculatus](https://en.wikipedia.org/wiki/Tropidophis_maculatus)
+
+2.  **Northern New Guinea Blind Snake**
+
+    *   **Scientific Name:** *Anilios erycinus*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its small size and burrowing lifestyle, found in New Guinea. It primarily feeds on small invertebrates.
+    *   **Name for Photos:** Northern New Guinea Blind Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/12693761/medium.jpg](https://static.inaturalist.org/photos/12693761/medium.jpg)
+        * [https://en.wikipedia.org/wiki/Northern\_New\_Guinea\_blind\_snake](https://en.wikipedia.org/wiki/Northern_New_Guinea_blind_snake)
+
+3.  **Luzon Dwarf Snake**
+
+    *   **Scientific Name:** *Calamaria bitorques*
+    *   **Distinguishing Qualities:** A non-venomous snake characterized by its small size and distinctive coloration, found in the Philippines. It primarily feeds on small invertebrates and is often found in leaf litter.
+    *   **Name for Photos:** Luzon Dwarf Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Calamaria\_bitorques\_(KU\_327409)\_from\_Barangay\_Dibuluan,\_San\_Mariano\_-\_ZooKeys-266-001-g078.jpg/1024px-Calamaria\_bitorques\_(KU\_327409)\_from\_Barangay\_Dibuluan,\_San\_Mariano\_-\_ZooKeys-266-001-g078.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Calamaria_bitorques_(KU_327409)_from_Barangay_Dibuluan,_San_Mariano_-_ZooKeys-266-001-g078.jpg/1024px-Calamaria_bitorques_(KU_327409)_from_Barangay_Dibuluan,_San_Mariano_-_ZooKeys-266-001-g078.jpg)
+        * [https://en.wikipedia.org/wiki/Calamaria\_bitorques](https://en.wikipedia.org/wiki/Calamaria_bitorques)
+
+4.  **Malayan spinejaw snake**
+
+    *   **Scientific Name:** *Xenophidion schaeferi*
+    *   **Distinguishing Qualities:** A non-venomous snake known for its unique jaw structure and slender body, found in Southeast Asia. It primarily feeds on small invertebrates and is often found in leaf litter.
+    *   **Name for Photos:** Malayan spinejaw snake (1)
+    *   **Sources:**
+        * [https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg\_EuHhrJlKFR-Ps6ON90BzkW7oUUfm1AeT5OPU4\_-wHh8PEY9iHT6n3YwcjHC6RSGTE-boOS7cRvk7Pw0Qu5J0t1wDo4hiilE\_HK5fjGEj0S4r1V7JJrNYkp7MiPLUKoPzA0mZp52xSpk/s1600/Xenophidion\_schaeferi-G%C3%BCnther\_et\_Manthey\_1995-Rediscovery\_2018-Quah\_Grismer\_Jetten\_Wood\_Miralles\_et-al.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_EuHhrJlKFR-Ps6ON90BzkW7oUUfm1AeT5OPU4_-wHh8PEY9iHT6n3YwcjHC6RSGTE-boOS7cRvk7Pw0Qu5J0t1wDo4hiilE_HK5fjGEj0S4r1V7JJrNYkp7MiPLUKoPzA0mZp52xSpk/s1600/Xenophidion_schaeferi-G%C3%BCnther_et_Manthey_1995-Rediscovery_2018-Quah_Grismer_Jetten_Wood_Miralles_et-al.jpg)
+        * [https://en.wikipedia.org/wiki/Xenophidion\_schaeferi](https://en.wikipedia.org/wiki/Xenophidion_schaeferi)
