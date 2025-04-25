@@ -498,3 +498,12 @@
 498. **Forsten’s Cat Snake**
 499. **Flathead Snake**
 500. **Gold's Tree Cobra**
+501. **Günther's Philippine shrub snake**
+502. **Israeli Mole Viper**
+503. **Grauer’s Blind Snake**
+504. **Northern Shovel-nosed Snake**
+505. **Blyth’s Earth Snake**
+506. **Cuban Dwarf Boa**
+507. **Northern New Guinea blind snake**
+508. **Luzon Dwarf Snake**
+509. **Malayan spinejaw snake**
