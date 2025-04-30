@@ -4572,3 +4572,102 @@
     *   **Sources:**
         * [https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg\_EuHhrJlKFR-Ps6ON90BzkW7oUUfm1AeT5OPU4\_-wHh8PEY9iHT6n3YwcjHC6RSGTE-boOS7cRvk7Pw0Qu5J0t1wDo4hiilE\_HK5fjGEj0S4r1V7JJrNYkp7MiPLUKoPzA0mZp52xSpk/s1600/Xenophidion\_schaeferi-G%C3%BCnther\_et\_Manthey\_1995-Rediscovery\_2018-Quah\_Grismer\_Jetten\_Wood\_Miralles\_et-al.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_EuHhrJlKFR-Ps6ON90BzkW7oUUfm1AeT5OPU4_-wHh8PEY9iHT6n3YwcjHC6RSGTE-boOS7cRvk7Pw0Qu5J0t1wDo4hiilE_HK5fjGEj0S4r1V7JJrNYkp7MiPLUKoPzA0mZp52xSpk/s1600/Xenophidion_schaeferi-G%C3%BCnther_et_Manthey_1995-Rediscovery_2018-Quah_Grismer_Jetten_Wood_Miralles_et-al.jpg)
         * [https://en.wikipedia.org/wiki/Xenophidion\_schaeferi](https://en.wikipedia.org/wiki/Xenophidion_schaeferi)
+
+5.  **Rhombic Skaapsteker**
+   
+    *   **Scientific Name:** _Psammophylax rhombeatus_
+    *   **Distinguishing Qualities:** Rhombic pattern, slender body, often found in sandy habitats.  
+    *   **Name for Photos:** Rhombic Skaapsteker (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Psammophylax\_rhombeatus\_88710624.jpg/1920px-Psammophylax\_rhombeatus\_88710624.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Psammophylax_rhombeatus_88710624.jpg/1920px-Psammophylax_rhombeatus_88710624.jpg)
+        * [https://en.wikipedia.org/wiki/Psammophylax\_rhombeatus](https://en.wikipedia.org/wiki/Psammophylax_rhombeatus)  
+
+6.  **Aquatic Coral Snake**
+   
+    *   **Scientific Name:** _Micrurus surinamensis_  
+    *   **Distinguishing Qualities:** Brightly colored with black and red bands, aquatic habitat.  
+    *   **Name for Photos:** Aquatic Coral Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aquatic\_Coral\_Snake\_(Micrurus\_surinamensis)\_(14092448236).jpg/1280px-Aquatic\_Coral\_Snake\_(Micrurus\_surinamensis)\_(14092448236).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aquatic_Coral_Snake_(Micrurus_surinamensis)_(14092448236).jpg/1280px-Aquatic_Coral_Snake_(Micrurus_surinamensis)_(14092448236).jpg)
+        * [https://en.wikipedia.org/wiki/Aquatic\_coral\_snake](https://en.wikipedia.org/wiki/Aquatic_coral_snake) 
+
+7.  **Aquatic Garter Snake**  
+  
+    *   **Scientific Name:** _Thamnophis atratus_  
+    *   **Distinguishing Qualities:** Dark coloration, semi-aquatic, often found near water bodies.  
+    *   **Name for Photos:** Aquatic Garter Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/4/46/Thamnophis\_atratus\_atratus\_299189730.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Thamnophis_atratus_atratus_299189730.jpg)
+        * [https://en.wikipedia.org/wiki/Aquatic\_garter\_snake](https://en.wikipedia.org/wiki/Aquatic_garter_snake)
+
+8.  **African Garter Snake**  
+   
+    *   **Scientific Name:** _Elapsoidea_  
+    *   **Distinguishing Qualities:** Distinctive banding, slender body, found in grasslands and savannas.  
+    *   **Name for Photos:** African Garter Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/260219/original.JPG](https://inaturalist-open-data.s3.amazonaws.com/photos/260219/original.JPG)
+        * [https://en.wikipedia.org/wiki/Elapsoidea](https://en.wikipedia.org/wiki/Elapsoidea)
+
+9.  **Long-nosed Blind Snake**  
+   
+    *   **Scientific Name:** _Myriopholis macrorhyncha_  
+    *   **Distinguishing Qualities:** Long, slender body, burrowing lifestyle, often found in sandy soils.  
+    *   **Name for Photos:** Long-nosed Blind Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/36/Leptotyphlops\_macrorhynchus.jpeg](https://upload.wikimedia.org/wikipedia/commons/3/36/Leptotyphlops_macrorhynchus.jpeg)
+        * [https://en.wikipedia.org/wiki/Myriopholis\_macrorhyncha](https://en.wikipedia.org/wiki/Myriopholis_macrorhyncha)
+
+1.  **Zanzibar beaked snake**  
+   
+    *   **Scientific Name:** _Letheobia pallida_  
+    *   **Distinguishing Qualities:** Pale coloration, small size, fossorial (burrowing) behavior.  
+    *   **Name for Photos:** Zanzibar beaked snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/12693761/medium.jpg](https://static.inaturalist.org/photos/12693761/medium.jpg)
+        * [https://en.wikipedia.org/wiki/Zanzibar\_beaked\_snake](https://en.wikipedia.org/wiki/Zanzibar_beaked_snake)  
+
+2.  **Yamdena Pipe Snake**  
+   
+    *   **Scientific Name:** _Cylindrophis yamdena_  
+    *   **Distinguishing Qualities:** Cylindrical body, aquatic habits, often found in freshwater environments.  
+    *   **Name for Photos:** Yamdena Pipe Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/187703950/large.jpeg](https://static.inaturalist.org/photos/187703950/large.jpeg)
+        * [https://en.wikipedia.org/wiki/Cylindrophis\_yamdena](https://en.wikipedia.org/wiki/Cylindrophis_yamdena)
+
+3.  **Big-scaled Threadsnake**  
+   
+    *   **Scientific Name:** _Trilepida macrolepis_  
+    *   **Distinguishing Qualities:** Large scales, small size, often found in leaf litter.  
+    *   **Name for Photos:** Big-scaled Threadsnake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/8/8a/Leptotyphlops\_macrolepis.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8a/Leptotyphlops_macrolepis.jpg)
+        * [https://en.wikipedia.org/wiki/Big-scaled\_blind\_snake](https://en.wikipedia.org/wiki/Big-scaled_blind_snake)
+
+4.  **Black-ringed Sea Snake**  
+
+    *   **Scientific Name:** _Hydrelaps darwiniensis_  
+    *   **Distinguishing Qualities:** Black rings on a lighter body, aquatic, found in marine environments.  
+    *   **Name for Photos:** Black-ringed Sea Snake (1)
+    *   **Sources:**
+        * [https://live.staticflickr.com/7264/7423066324\_c413218b92\_c.jpg](https://live.staticflickr.com/7264/7423066324_c413218b92_c.jpg)
+        * [https://en.wikipedia.org/wiki/Hydrelaps](https://en.wikipedia.org/wiki/Hydrelaps)
+
+5.  **Black Slug Snake**
+   
+    *   **Scientific Name:** _Trachischium fuscum_  
+    *   **Distinguishing Qualities:** Slug-like appearance, smooth scales, often found in moist habitats.  
+    *   **Name for Photos:** Black Slug Snake (1)
+    *   **Sources:**
+        * [https://indiabiodiversity.org/files-api/api/get/raw/img//Trachischium fuscum/483.jpg](https://indiabiodiversity.org/files-api/api/get/raw/img//Trachischium fuscum/483.jpg)
+        * [https://en.wikipedia.org/wiki/Trachischium\_fuscum](https://en.wikipedia.org/wiki/Trachischium_fuscum)
+
+6.  **Barreras Fanged Snake**  
+
+    *   **Scientific Name:** _Ialtris agyrtes_  
+    *   **Distinguishing Qualities:** Fanged, endemic to the Dominican Republic, often found in forested areas.  
+    *   **Name for Photos:** Barreras Fanged Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ialtris\_agyrtes\_51072163192\_b40e439001.jpg/1024px-Ialtris\_agyrtes\_51072163192\_b40e439001.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ialtris_agyrtes_51072163192_b40e439001.jpg/1024px-Ialtris_agyrtes_51072163192_b40e439001.jpg)
+        * [https://en.wikipedia.org/wiki/Ialtris\_agyrtes](https://en.wikipedia.org/wiki/Ialtris_agyrtes)
