@@ -397,3 +397,203 @@
 **199.** **White-Tailed Spider** - *Lampona cylindrata*
 
 **200.** **Red House Spider** - *Nesticus eremita*
+
+**201. Zebra Jumping Spider (European)** - *Salticus cingulatus*
+
+**202. Cardinal Jumping Spider** - *Phidippus cardinalis*
+
+**203. Diminutive Woodlouse Hunter** - *Dysdera erythrina*
+
+**204. Tube-Lined Spider (Small)** - *Nuctenea umbratica*
+
+**205. Walnut Orb Weaver** - *Nuctenea undata*
+
+**206. Missing Sector Orb Weaver** - *Zygiella x-notata*
+
+**207. Cucumber Green Spider** - *Araniella cucurbitina*
+
+**208. Willow Orb Weaver** - *Araneus adiantus*
+
+**209. Red-Kneed Highflier** - *Epeus flavobilineatus*
+
+**210. Metallic Jumper** - *Saitis barbipes*
+
+**211. Pantropical Slender Jumper** - *Salganea salticiformis*
+
+**212. Ant-Mimicking Jumping Spider (Genus)** - *Synagelides* (genus)
+
+**213. Bird-Dropping Crab Spider** - *Phrynarachne ceylonica*
+
+**214. Lichen Crab Spider** - *Amyciaea albomaculata*
+
+**215. Giant Crab Spider** - *Heteropoda maxima*
+
+**216. Whistling Huntsman Spider** - *Holconia immanis*
+
+**217. Rain Spider (Southern Africa)** - *Palystes superciliosus*
+
+**218. Six-Eyed Crevice Weaver** - *Harpactea rubicunda*
+
+**219. European Cave Spider (Smaller)** - *Meta bourneti*
+
+**220. Tube Web Spider (Large)** - *Tegenaria parietina*
+
+**221. Lace-Webbed Spider (Common)** - *Amaurobius ferox*
+
+**222. Mouse Spider (Eastern)** - *Scotophaeus blackwalli*
+
+**223. Zebra Spider (American)** - *Habronattus coecatus*
+
+**224. Elegant Jumping Spider** - *Hyllus diardi*
+
+**225. Two-Spotted Stiletto Spider** - *Dysdera bicolor*
+
+**226. Cardinal Sac Spider** - *Castianeira amoena*
+
+**227. Agile Ground Spider** - *Agroeca brunnea*
+
+**228. False Wolf Spider** - *Zoropsis spinimana*
+
+**229. Pill Woodlouse Hunter** - *Dysdera ninnii*
+
+**230. Yellow-Bellied Sac Spider** - *Cheiracanthium punctorium*
+
+**231. Common Stretch Spider** - *Anyphaena accentuata*
+
+**232. Arboreal Ant-Mimic Spider** - *Hahnia cinerea*
+
+**233. Small Ground Spider** - *Micaria pulicaria*
+
+**234. Long-Legged Water Spider** - *Dolomedes fimbriatus*
+
+**235. Fen Raft Spider** - *Dolomedes plantarius*
+
+**236. Nursery Web Spider (Common)** - *Pisaura mirabilis*
+
+**237. Raft Spider (Striped)** - *Dolomedes lineatus*
+
+**238. Agile Lynx Spider** - *Oxyopes agilis*
+
+**239. Western Lynx Spider** - *Oxyopes scalaris*
+
+**240. Twig Ant Spider** - *Araeoncus crassiceps*
+
+**241. Money Spider (Common)** - *Lepthyphantes tenuis*
+
+**242. Labyrinthine Money Spider** - *Linyphia triangularis*
+
+**243. Bridge Spider** - *Larinioides cornutus*
+
+**244. Four-Spot Orb Weaver** - *Araneus quadratus*
+
+**245. Autumn Orb Weaver** - *Meta segmentata*
+
+**246. Cucumber Spider (Pale)** - *Araniella opisthographa*
+
+**247. Red-Backed Jumping Spider** - *Marpissa muscosa*
+
+**248. Downy Jumping Spider** - *Evarcha falcata*
+
+**249. Bristly Jumping Spider** - *Euophrys frontalis*
+
+**250. Small Zebra Jumper** - *Salticus zebraneus*
+
+**251. Fleecy Dwarf Spider** - *Walckenaeria acuminata*
+
+**252. Hawthorn Spider** - *Allomengea scopigera*
+
+**253. Black Dwarf Spider** - *Savignia frontata*
+
+**254. Heath Spider** - *Erigone dentipalpis*
+
+**255. Agile Money Spider** - *Agyneta rurestris*
+
+**256. Common Hammock Spider** - *Tenuiphantes tenuis*
+
+**257. Small Labyrinth Spider** - *Agelena gracilens*
+
+**258. Garden Funnel-Web Spider** - *Tegenaria domestica*
+
+**259. Cave Funnel-Web Spider** - *Cicurina cicur*
+
+**260. Hackled Orb Weaver** - *Meta reticulata*
+
+**261. Small Orb Weaver** - *Singa citrina*
+
+**262. Red-Legged Orb Weaver** - *Epeira redimita*
+
+**263. Triangle Combfoot** - *Episinus angulatus*
+
+**264. Dewdrop Spider** - *Theridion pallens*
+
+**265. Candy-Striped Combfoot** - *Enoplognatha thoracica*
+
+**266. Rabbit Spider** - *Zora spinipes*
+
+**267. Ant-Like Woodlouse Hunter** - *Megalepthyphantes nebulosus*
+
+**268. Long-Palped Stretch Spider** - *Clubiona terrestris*
+
+**269. Yellow Clubiona** - *Clubiona reclusa*
+
+**270. Tree Ground Spider** - *Liocranum rupicola*
+
+**271. Agile Ghost Spider** - *Phrurotoma flavipes*
+
+**272. Small Flat Spider** - *Gnaphosa lucifuga*
+
+**273. Striped Ground Spider** - *Drassodes cupreus*
+
+**274. Mouse Spider (Dark)** - *Haplodrassus signifer*
+
+**275. Burrowing Wolf Spider** - *Geolycosa missouriensis*
+
+**276. Beach Wolf Spider** - *Arctosa littoralis*
+
+**277. Wandering Wolf Spider** - *Pardosa amentata*
+
+**278. Small Water Spider** - *Pirata piraticus*
+
+**279. Reed Wolf Spider** - *Pirata latitans*
+
+**280. Striped Fishing Spider (Smaller)** - *Dolomedes minor*
+
+**281. Six-Spotted Fishing Spider (Pale)** - *Dolomedes plantarius*
+
+**282. Agile Nursery Web Spider** - *Pisaura listeri*
+
+**283. Dark Running Crab Spider** - *Philodromus dispar*
+
+**284. Common Running Crab Spider** - *Philodromus aureolus*
+
+**285. Mottled Running Crab Spider** - *Thanatus vulgaris*
+
+**286. Leaf-Litter Running Crab Spider** - *Xysticus cristatus*
+
+**287. Ground Crab Spider** - *Ozyptila praticola*
+
+**288. Dwarf Running Crab Spider** - *Coriarachne depressa*
+
+**289. Willow Lynx Spider** - *Oxyopes heterophthalmus*
+
+**290. Small Striped Lynx Spider** - *Oxyopes lineatus*
+
+**291. Elegant Jumping Spider (Female)** - *Hyllus semicupreus*
+
+**292. Bold Jumping Spider (Female)** - *Phidippus audax*
+
+**293. Tan Jumping Spider (Dark Morph)** - *Platycryptus undatus*
+
+**294. White-Eyed Jumping Spider** - *Attulus pubescens*
+
+**295. Bronze Jumping Spider (Female)** - *Euryattus bleekeri*
+
+**296. Dimorphic Jumping Spider (Male)** - *Maevia inclemens*
+
+**297. Little Jumping Spider** - *Neon reticulatus*
+
+**298. Zebra Jumping Spider (Southern)** - *Salticus scenicus*
+
+**299. Downy Zebra Jumper** - *Salticus cingulatus*
+
+**300. Small Ant-Mimic Jumper** - *Leptorchestes berolinensis*
