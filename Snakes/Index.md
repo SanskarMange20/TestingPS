@@ -512,7 +512,7 @@
 512. **Thamnophis atratus** – Aquatic Garter Snake
 513. **Elapsoidea semiannulata** – African Garter Snake
 514. **Myriopholis macrorhyncha** – Long-nosed Blind Snake
-515. **Letheobia pallida** – Pale Beaked Snake
+515. **Letheobia pallida** – Zanzibar beaked snake
 516. **Cylindrophis yamdena** – Yamdena Pipe Snake
 517. **Trilepida macrolepis** – Big-scaled Threadsnake
 518. **Hydrelaps darwiniensis** – Black-ringed Sea Snake
