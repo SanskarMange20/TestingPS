@@ -2404,3 +2404,1099 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider399, Spider400
 
 * **Sources**: [https://en.wikipedia.org/wiki/Nesticus_eremita](https://en.wikipedia.org/wiki/Nesticus_eremita)
+
+**201. Zebra Jumping Spider (European)**
+-----------------
+* **Scientific Name**: *Salticus cingulatus*
+
+* **Distinguished Qualities**: Similar to *Salticus scenicus* but with slightly different banding patterns and a more restricted European distribution.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Salticus_cingulatus](https://en.wikipedia.org/wiki/Salticus_cingulatus)
+
+
+**202. Cardinal Jumping Spider**
+-----------------
+* **Scientific Name**: *Phidippus cardinalis*
+
+* **Distinguished Qualities**: A brightly red jumping spider found in North America.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Phidippus_cardinalis](https://en.wikipedia.org/wiki/Phidippus_cardinalis)
+
+
+**203. Diminutive Woodlouse Hunter**
+-----------------
+* **Scientific Name**: *Dysdera erythrina*
+
+* **Distinguished Qualities**: A smaller relative of *Dysdera crocata*, also a woodlouse predator with a reddish-brown body.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dysdera_erythrina](https://en.wikipedia.org/wiki/Dysdera_erythrina)
+
+
+**204. Tube-Lined Spider (Small)**
+-----------------
+* **Scientific Name**: *Nuctenea umbratica*
+
+* **Distinguished Qualities**: An orb-weaver that often hides in crevices during the day, creating a silken tube-like retreat.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Nuctenea_umbratica](https://en.wikipedia.org/wiki/Nuctenea_umbratica)
+
+
+**205. Walnut Orb Weaver**
+-----------------
+* **Scientific Name**: *Nuctenea undata*
+
+* **Distinguished Qualities**: An orb-weaver with a wavy pattern on its abdomen, resembling the surface of a walnut.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Nuctenea_undata](https://en.wikipedia.org/wiki/Nuctenea_undata)
+
+
+**206. Missing Sector Orb Weaver**
+-----------------
+* **Scientific Name**: *Zygiella x-notata*
+
+* **Distinguished Qualities**: An orb-weaver that builds webs with a characteristic missing sector.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Zygiella_x-notata](https://en.wikipedia.org/wiki/Zygiella_x-notata)
+
+
+**207. Cucumber Green Spider**
+-----------------
+* **Scientific Name**: *Araniella cucurbitina*
+
+* **Distinguished Qualities**: A small, bright green orb-weaver often found on foliage.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araniella_cucurbitina](https://en.wikipedia.org/wiki/Araniella_cucurbitina)
+
+
+**208. Willow Orb Weaver**
+-----------------
+* **Scientific Name**: *Araneus adiantus*
+
+* **Distinguished Qualities**: An orb-weaver often found in willow trees, with variable but often leafy patterns.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_adiantus](https://en.wikipedia.org/wiki/Araneus_adiantus)
+
+
+**209. Red-Kneed Highflier**
+-----------------
+* **Scientific Name**: *Epeus flavobilineatus*
+
+* **Distinguished Qualities**: A colorful jumping spider with red "knees" and a striped abdomen.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Epeus_flavobilineatus](https://en.wikipedia.org/wiki/Epeus_flavobilineatus)
+
+
+**210. Metallic Jumper**
+-----------------
+* **Scientific Name**: *Saitis barbipes*
+
+* **Distinguished Qualities**: A small jumping spider with iridescent scales, especially prominent in males during courtship.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Saitis_barbipes](https://en.wikipedia.org/wiki/Saitis_barbipes)
+
+
+**211. Pantropical Slender Jumper**
+-----------------
+* **Scientific Name**: *Salganea salticiformis*
+
+* **Distinguished Qualities**: A slender jumping spider with a wide distribution in tropical regions.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Salganea_salticiformis](https://en.wikipedia.org/wiki/Salganea_salticiformis)
+
+
+**212. Ant-Mimicking Jumping Spider (Genus)**
+-----------------
+* **Scientific Name**: *Synagelides* (genus)
+
+* **Distinguished Qualities**: A genus of jumping spiders that exhibit ant-like morphology and behavior.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Synagelides](https://en.wikipedia.org/wiki/Synagelides)
+
+
+**213. Bird-Dropping Crab Spider**
+-----------------
+* **Scientific Name**: *Phrynarachne ceylonica*
+
+* **Distinguished Qualities**: A crab spider that closely resembles bird droppings for camouflage.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Phrynarachne_ceylonica](https://en.wikipedia.org/wiki/Phrynarachne_ceylonica)
+
+
+**214. Lichen Crab Spider**
+-----------------
+* **Scientific Name**: *Amyciaea albomaculata*
+
+* **Distinguished Qualities**: A crab spider camouflaged to resemble lichens.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Amyciaea_albomaculata](https://en.wikipedia.org/wiki/Amyciaea_albomaculata)
+
+
+**215. Giant Crab Spider**
+-----------------
+* **Scientific Name**: *Heteropoda maxima*
+
+* **Distinguished Qualities**: One of the largest spiders by leg span, a type of huntsman spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Heteropoda_maxima](https://en.wikipedia.org/wiki/Heteropoda_maxima)
+
+
+**216. Whistling Huntsman Spider**
+-----------------
+* **Scientific Name**: *Holconia immanis*
+
+* **Distinguished Qualities**: A large Australian huntsman spider known for the hissing or whistling sound it can produce.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Holconia_immanis](https://en.wikipedia.org/wiki/Holconia_immanis)
+
+
+**217. Rain Spider (Southern Africa)**
+-----------------
+* **Scientific Name**: *Palystes superciliosus*
+
+* **Distinguished Qualities**: A large huntsman spider common in Southern Africa.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Palystes_superciliosus](https://en.wikipedia.org/wiki/Palystes_superciliosus)
+
+
+**218. Six-Eyed Crevice Weaver**
+-----------------
+* **Scientific Name**: *Harpactea rubicunda*
+
+* **Distinguished Qualities**: A crevice weaver with a reddish coloration and six eyes arranged in a semicircle.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Harpactea_rubicunda](https://en.wikipedia.org/wiki/Harpactea_rubicunda)
+
+
+**219. European Cave Spider (Smaller)**
+-----------------
+* **Scientific Name**: *Meta bourneti*
+
+* **Distinguished Qualities**: A smaller relative of *Meta menardi*, also found in caves and dark places.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Meta_bourneti](https://en.wikipedia.org/wiki/Meta_bourneti)
+
+
+**220. Tube Web Spider (Large)**
+-----------------
+* **Scientific Name**: *Tegenaria parietina*
+
+* **Distinguished Qualities**: A large funnel-web spider often found in old buildings and walls.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Tegenaria_parietina](https://en.wikipedia.org/wiki/Tegenaria_parietina)
+
+
+**221. Lace-Webbed Spider (Common)**
+-----------------
+* **Scientific Name**: *Amaurobius ferox*
+
+* **Distinguished Qualities**: A common hackledmesh weaver with dark markings.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Amaurobius_ferox](https://en.wikipedia.org/wiki/Amaurobius_ferox)
+
+
+**222. Mouse Spider (Eastern)**
+-----------------
+* **Scientific Name**: *Scotophaeus blackwalli*
+
+* **Distinguished Qualities**: A ground spider with a velvety brown appearance, resembling a mouse.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Scotophaeus_blackwalli](https://en.wikipedia.org/wiki/Scotophaeus_blackwalli)
+
+
+**223. Zebra Spider (American)**
+-----------------
+* **Scientific Name**: *Habronattus coecatus*
+
+* **Distinguished Qualities**: An American jumping spider with black and white stripes, similar in appearance to *Salticus scenicus*.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Habronattus_coecatus](https://en.wikipedia.org/wiki/Habronattus_coecatus)
+
+
+**224. Elegant Jumping Spider**
+-----------------
+* **Scientific Name**: *Hyllus diardi*
+
+* **Distinguished Qualities**: A relatively large and often colorful jumping spider found in Southeast Asia.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Hyllus_diardi](https://en.wikipedia.org/wiki/Hyllus_diardi)
+
+
+**225. Two-Spotted Stiletto Spider**
+-----------------
+* **Scientific Name**: *Dysdera bicolor*
+
+* **Distinguished Qualities**: A woodlouse hunter with a distinctive pattern, often reddish with a darker patch on the abdomen.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dysdera_bicolor](https://en.wikipedia.org/wiki/Dysdera_bicolor)
+
+
+**226. Cardinal Sac Spider**
+-----------------
+* **Scientific Name**: *Castianeira amoena*
+
+* **Distinguished Qualities**: A brightly colored sac spider, often with red markings.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Castianeira_amoena](https://en.wikipedia.org/wiki/Castianeira_amoena)
+
+
+**227. Agile Ground Spider**
+-----------------
+* **Scientific Name**: *Agroeca brunnea*
+
+* **Distinguished Qualities**: A fast-moving ground spider with a brownish coloration.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Agroeca_brunnea](https://en.wikipedia.org/wiki/Agroeca_brunnea)
+
+
+**228. False Wolf Spider**
+-----------------
+* **Scientific Name**: *Zoropsis spinimana*
+
+* **Distinguished Qualities**: A large, hairy spider that resembles a wolf spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Zoropsis_spinimana](https://en.wikipedia.org/wiki/Zoropsis_spinimana)
+
+
+**229. Pill Woodlouse Hunter**
+-----------------
+* **Scientific Name**: *Dysdera ninnii*
+
+* **Distinguished Qualities**: A woodlouse hunter often found under stones and logs.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dysdera_ninnii](https://en.wikipedia.org/wiki/Dysdera_ninnii)
+
+
+**230. Yellow-Bellied Sac Spider**
+-----------------
+* **Scientific Name**: *Cheiracanthium punctorium*
+
+* **Distinguished Qualities**: A sac spider with a yellowish underside.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_punctorium](https://en.wikipedia.org/wiki/Cheiracanthium_punctorium)
+
+
+**231. Common Stretch Spider**
+-----------------
+* **Scientific Name**: *Anyphaena accentuata*
+
+* **Distinguished Qualities**: A common stretch spider found on foliage.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Anyphaena_accentuata](https://en.wikipedia.org/wiki/Anyphaena_accentuata)
+
+
+**232. Arboreal Ant-Mimic Spider**
+-----------------
+* **Scientific Name**: *Hahnia cinerea*
+
+* **Distinguished Qualities**: A small spider that mimics ants and is often found on trees.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Hahnia_cinerea](https://en.wikipedia.org/wiki/Hahnia_cinerea)
+
+
+**233. Small Ground Spider**
+-----------------
+* **Scientific Name**: *Micaria pulicaria*
+
+* **Distinguished Qualities**: A small, dark ground spider with a metallic sheen.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Micaria_pulicaria](https://en.wikipedia.org/wiki/Micaria_pulicaria)
+
+
+**234. Long-Legged Water Spider**
+-----------------
+* **Scientific Name**: *Dolomedes fimbriatus*
+
+* **Distinguished Qualities**: A fishing spider with fringed legs, adapted for moving on water.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_fimbriatus](https://en.wikipedia.org/wiki/Dolomedes_fimbriatus)
+
+
+**235. Fen Raft Spider**
+-----------------
+* **Scientific Name**: *Dolomedes plantarius*
+
+* **Distinguished Qualities**: A large fishing spider found in wetlands and fens.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_plantarius](https://en.wikipedia.org/wiki/Dolomedes_plantarius)
+
+
+**236. Nursery Web Spider (Common)**
+-----------------
+* **Scientific Name**: *Pisaura mirabilis*
+
+* **Distinguished Qualities**: A common nursery web spider known for the male's courtship gift.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pisaura_mirabilis](https://en.wikipedia.org/wiki/Pisaura_mirabilis)
+
+
+**237. Raft Spider (Striped)**
+-----------------
+* **Scientific Name**: *Dolomedes lineatus*
+
+* **Distinguished Qualities**: A fishing spider with distinct stripes along its body.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_lineatus](https://en.wikipedia.org/wiki/Dolomedes_lineatus)
+
+
+**238. Agile Lynx Spider**
+-----------------
+* **Scientific Name**: *Oxyopes agilis*
+
+* **Distinguished Qualities**: A fast-moving lynx spider often found on vegetation.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Oxyopes_agilis](https://en.wikipedia.org/wiki/Oxyopes_agilis)
+
+**239. Western Lynx Spider**
+-----------------
+* **Scientific Name**: *Oxyopes scalaris*
+
+* **Distinguished Qualities**: A lynx spider found in western regions, often with distinctive markings.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Oxyopes_scalaris](https://en.wikipedia.org/wiki/Oxyopes_scalaris)
+
+
+**240. Twig Ant Spider**
+-----------------
+* **Scientific Name**: *Araeoncus crassiceps*
+
+* **Distinguished Qualities**: A small money spider that can resemble a twig or ant.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araeoncus_crassiceps](https://en.wikipedia.org/wiki/Araeoncus_crassiceps)
+
+
+**241. Money Spider (Common)**
+-----------------
+* **Scientific Name**: *Lepthyphantes tenuis*
+
+* **Distinguished Qualities**: A very common money spider found in various habitats.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Lepthyphantes_tenuis](https://en.wikipedia.org/wiki/Lepthyphantes_tenuis)
+
+
+**242. Labyrinthine Money Spider**
+-----------------
+* **Scientific Name**: *Linyphia triangularis*
+
+* **Distinguished Qualities**: A money spider that builds distinctive sheet webs.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Linyphia_triangularis](https://en.wikipedia.org/wiki/Linyphia_triangularis)
+
+
+**243. Bridge Spider**
+-----------------
+* **Scientific Name**: *Larinioides cornutus*
+
+* **Distinguished Qualities**: An orb-weaver often found on bridges and near water.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Larinioides_cornutus](https://en.wikipedia.org/wiki/Larinioides_cornutus)
+
+
+**244. Four-Spot Orb Weaver**
+-----------------
+* **Scientific Name**: *Araneus quadratus*
+
+* **Distinguished Qualities**: An orb-weaver with characteristic four spots on its abdomen.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araneus_quadratus](https://en.wikipedia.org/wiki/Araneus_quadratus)
+
+
+**245. Autumn Orb Weaver**
+-----------------
+* **Scientific Name**: *Meta segmentata*
+
+* **Distinguished Qualities**: A common orb-weaver seen in autumn.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Meta_segmentata](https://en.wikipedia.org/wiki/Meta_segmentata)
+
+
+**246. Cucumber Spider (Pale)**
+-----------------
+* **Scientific Name**: *Araniella opisthographa*
+
+* **Distinguished Qualities**: A pale green orb-weaver, related to the common cucumber spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Araniella_opisthographa](https://en.wikipedia.org/wiki/Araniella_opisthographa)
+
+
+**247. Red-Backed Jumping Spider**
+-----------------
+* **Scientific Name**: *Marpissa muscosa*
+
+* **Distinguished Qualities**: A jumping spider with a reddish marking on its back.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Marpissa_muscosa](https://en.wikipedia.org/wiki/Marpissa_muscosa)
+
+
+**248. Downy Jumping Spider**
+-----------------
+* **Scientific Name**: *Evarcha falcata*
+
+* **Distinguished Qualities**: A jumping spider with a fuzzy or downy appearance.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Evarcha_falcata](https://en.wikipedia.org/wiki/Evarcha_falcata)
+
+
+**249. Bristly Jumping Spider**
+-----------------
+* **Scientific Name**: *Euophrys frontalis*
+
+* **Distinguished Qualities**: A small jumping spider with bristles around its eyes.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Euophrys_frontalis](https://en.wikipedia.org/wiki/Euophrys_frontalis)
+
+
+**250. Small Zebra Jumper**
+-----------------
+* **Scientific Name**: *Salticus zebraneus*
+
+* **Distinguished Qualities**: A small jumping spider with zebra-like stripes.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Salticus_zebraneus](https://en.wikipedia.org/wiki/Salticus_zebraneus)
+
+
+**251. Fleecy Dwarf Spider**
+-----------------
+* **Scientific Name**: *Walckenaeria acuminata*
+
+* **Distinguished Qualities**: A small dwarf spider with a hairy or fleecy appearance.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Walckenaeria_acuminata](https://en.wikipedia.org/wiki/Walckenaeria_acuminata)
+
+
+**252. Hawthorn Spider**
+-----------------
+* **Scientific Name**: *Allomengea scopigera*
+
+* **Distinguished Qualities**: A small money spider often found on hawthorn bushes.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Allomengea_scopigera](https://en.wikipedia.org/wiki/Allomengea_scopigera)
+
+
+**253. Black Dwarf Spider**
+-----------------
+* **Scientific Name**: *Savignia frontata*
+
+* **Distinguished Qualities**: A small, dark-colored dwarf spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Savignia_frontata](https://en.wikipedia.org/wiki/Savignia_frontata)
+
+
+**254. Heath Spider**
+-----------------
+* **Scientific Name**: *Erigone dentipalpis*
+
+* **Distinguished Qualities**: A small money spider commonly found in heathland.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Erigone_dentipalpis](https://en.wikipedia.org/wiki/Erigone_dentipalpis)
+
+
+**255. Agile Money Spider**
+-----------------
+* **Scientific Name**: *Agyneta rurestris*
+
+* **Distinguished Qualities**: A fast-moving money spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Agyneta_rurestris](https://en.wikipedia.org/wiki/Agyneta_rurestris)
+
+
+**256. Common Hammock Spider**
+-----------------
+* **Scientific Name**: *Tenuiphantes tenuis*
+
+* **Distinguished Qualities**: A common money spider that builds small hammock-shaped webs.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Tenuiphantes_tenuis](https://en.wikipedia.org/wiki/Tenuiphantes_tenuis)
+
+
+**257. Small Labyrinth Spider**
+-----------------
+* **Scientific Name**: *Agelena gracilens*
+
+* **Distinguished Qualities**: A smaller relative of the common labyrinth spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Agelena_gracilens](https://en.wikipedia.org/wiki/Agelena_gracilens)
+
+
+**258. Garden Funnel-Web Spider**
+-----------------
+* **Scientific Name**: *Tegenaria domestica*
+
+* **Distinguished Qualities**: A common funnel-web spider found indoors and in gardens.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Tegenaria_domestica](https://en.wikipedia.org/wiki/Tegenaria_domestica)
+
+
+**259. Cave Funnel-Web Spider**
+-----------------
+* **Scientific Name**: *Cicurina cicur*
+
+* **Distinguished Qualities**: A funnel-web spider found in caves and dark, damp places.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Cicurina_cicur](https://en.wikipedia.org/wiki/Cicurina_cicur)
+
+
+**260. Hackled Orb Weaver**
+-----------------
+* **Scientific Name**: *Meta reticulata*
+
+* **Distinguished Qualities**: An orb-weaver that uses a hackled web to capture prey.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Meta_reticulata](https://en.wikipedia.org/wiki/Meta_reticulata)
+
+
+**261. Small Orb Weaver**
+-----------------
+* **Scientific Name**: *Singa citrina*
+
+* **Distinguished Qualities**: A small, often yellowish orb-weaver.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Singa_citrina](https://en.wikipedia.org/wiki/Singa_citrina)
+
+
+**262. Red-Legged Orb Weaver**
+-----------------
+* **Scientific Name**: *Epeira redimita*
+
+* **Distinguished Qualities**: An orb-weaver with reddish legs.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Epeira_redimita](https://en.wikipedia.org/wiki/Epeira_redimita)
+
+
+**263. Triangle Combfoot**
+-----------------
+* **Scientific Name**: *Episinus angulatus*
+
+* **Distinguished Qualities**: A comb-footed spider with a triangular abdomen.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Episinus_angulatus](https://en.wikipedia.org/wiki/Episinus_angulatus)
+
+
+**264. Dewdrop Spider**
+-----------------
+* **Scientific Name**: *Theridion pallens*
+
+* **Distinguished Qualities**: A small cobweb spider often found on foliage.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Theridion_pallens](https://en.wikipedia.org/wiki/Theridion_pallens)
+
+
+**265. Candy-Striped Combfoot**
+-----------------
+* **Scientific Name**: *Enoplognatha thoracica*
+
+* **Distinguished Qualities**: A comb-footed spider with reddish stripes on its cephalothorax.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Enoplognatha_thoracica](https://en.wikipedia.org/wiki/Enoplognatha_thoracica)
+
+**266. Rabbit Spider**
+-----------------
+* **Scientific Name**: *Zora spinipes*
+
+* **Distinguished Qualities**: A fast-running spider with long legs, resembling a small rabbit.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Zora_spinipes](https://en.wikipedia.org/wiki/Zora_spinipes)
+
+
+**267. Ant-Like Woodlouse Hunter**
+-----------------
+* **Scientific Name**: *Megalepthyphantes nebulosus*
+
+* **Distinguished Qualities**: A money spider with a body shape that can resemble an ant.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Megalepthyphantes_nebulosus](https://en.wikipedia.org/wiki/Megalepthyphantes_nebulosus)
+
+
+**268. Long-Palped Stretch Spider**
+-----------------
+* **Scientific Name**: *Clubiona terrestris*
+
+* **Distinguished Qualities**: A sac spider with noticeably long palps, especially in males.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Clubiona_terrestris](https://en.wikipedia.org/wiki/Clubiona_terrestris)
+
+
+**269. Yellow Clubiona**
+-----------------
+* **Scientific Name**: *Clubiona reclusa*
+
+* **Distinguished Qualities**: A yellowish sac spider often found under bark and stones.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Clubiona_reclusa](https://en.wikipedia.org/wiki/Clubiona_reclusa)
+
+
+**270. Tree Ground Spider**
+-----------------
+* **Scientific Name**: *Liocranum rupicola*
+
+* **Distinguished Qualities**: A ground spider often found on the bark of trees.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Liocranum_rupicola](https://en.wikipedia.org/wiki/Liocranum_rupicola)
+
+
+**271. Agile Ghost Spider**
+-----------------
+* **Scientific Name**: *Phrurotoma flavipes*
+
+* **Distinguished Qualities**: A fast-moving ghost spider with yellowish legs.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Phrurotoma_flavipes](https://en.wikipedia.org/wiki/Phrurotoma_flavipes)
+
+
+**272. Small Flat Spider**
+-----------------
+* **Scientific Name**: *Gnaphosa lucifuga*
+
+* **Distinguished Qualities**: A small, flattened ground spider often found in dark places.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Gnaphosa_lucifuga](https://en.wikipedia.org/wiki/Gnaphosa_lucifuga)
+
+
+**273. Striped Ground Spider**
+-----------------
+* **Scientific Name**: *Drassodes cupreus*
+
+* **Distinguished Qualities**: A ground spider with a coppery sheen and sometimes faint stripes.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Drassodes_cupreus](https://en.wikipedia.org/wiki/Drassodes_cupreus)
+
+
+**274. Mouse Spider (Dark)**
+-----------------
+* **Scientific Name**: *Haplodrassus signifer*
+
+* **Distinguished Qualities**: A dark-colored ground spider with a velvety appearance, similar to a mouse.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Haplodrassus_signifer](https://en.wikipedia.org/wiki/Haplodrassus_signifer)
+
+
+**275. Burrowing Wolf Spider**
+-----------------
+* **Scientific Name**: *Geolycosa missouriensis*
+
+* **Distinguished Qualities**: A wolf spider known for digging burrows in the ground.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Geolycosa_missouriensis](https://en.wikipedia.org/wiki/Geolycosa_missouriensis)
+
+
+**276. Beach Wolf Spider**
+-----------------
+* **Scientific Name**: *Arctosa littoralis*
+
+* **Distinguished Qualities**: A wolf spider commonly found in sandy coastal habitats.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Arctosa_littoralis](https://en.wikipedia.org/wiki/Arctosa_littoralis)
+
+
+**277. Wandering Wolf Spider**
+-----------------
+* **Scientific Name**: *Pardosa amentata*
+
+* **Distinguished Qualities**: A very common and widespread wolf spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pardosa_amentata](https://en.wikipedia.org/wiki/Pardosa_amentata)
+
+
+**278. Small Water Spider**
+-----------------
+* **Scientific Name**: *Pirata piraticus*
+
+* **Distinguished Qualities**: A small wolf spider often found near water.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pirata_piraticus](https://en.wikipedia.org/wiki/Pirata_piraticus)
+
+
+**279. Reed Wolf Spider**
+-----------------
+* **Scientific Name**: *Pirata latitans*
+
+* **Distinguished Qualities**: A wolf spider that lives among reeds and other waterside vegetation.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pirata_latitans](https://en.wikipedia.org/wiki/Pirata_latitans)
+
+
+**280. Striped Fishing Spider (Smaller)**
+-----------------
+* **Scientific Name**: *Dolomedes minor*
+
+* **Distinguished Qualities**: A smaller fishing spider with stripes.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_minor](https://en.wikipedia.org/wiki/Dolomedes_minor)
+
+
+**281. Six-Spotted Fishing Spider (Pale)**
+-----------------
+* **Scientific Name**: *Dolomedes plantarius*
+
+* **Distinguished Qualities**: (Note: This was listed earlier as Fen Raft Spider. Assuming a slightly different common name or context is intended). A large fishing spider with pale markings and sometimes six spots.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_plantarius](https://en.wikipedia.org/wiki/Dolomedes_plantarius)
+
+
+**282. Agile Nursery Web Spider**
+-----------------
+* **Scientific Name**: *Pisaura listeri*
+
+* **Distinguished Qualities**: A nursery web spider known for its speed and agility.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Pisaura_listeri](https://en.wikipedia.org/wiki/Pisaura_listeri)
+
+
+**283. Dark Running Crab Spider**
+-----------------
+* **Scientific Name**: *Philodromus dispar*
+
+* **Distinguished Qualities**: A running crab spider where males are often darker than females.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Philodromus_dispar](https://en.wikipedia.org/wiki/Philodromus_dispar)
+
+
+**284. Common Running Crab Spider**
+-----------------
+* **Scientific Name**: *Philodromus aureolus*
+
+* **Distinguished Qualities**: A very common running crab spider found on foliage and bark.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Philodromus_aureolus](https://en.wikipedia.org/wiki/Philodromus_aureolus)
+
+
+**285. Mottled Running Crab Spider**
+-----------------
+* **Scientific Name**: *Thanatus vulgaris*
+
+* **Distinguished Qualities**: A running crab spider with a mottled or patterned appearance.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Thanatus_vulgaris](https://en.wikipedia.org/wiki/Thanatus_vulgaris)
+
+
+**286. Leaf-Litter Running Crab Spider**
+-----------------
+* **Scientific Name**: *Xysticus cristatus*
+
+* **Distinguished Qualities**: A running crab spider often found in leaf litter and low vegetation.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Xysticus_cristatus](https://en.wikipedia.org/wiki/Xysticus_cristatus)
+
+
+**287. Ground Crab Spider**
+-----------------
+* **Scientific Name**: *Ozyptila praticola*
+
+* **Distinguished Qualities**: A crab spider typically found on the ground.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Ozyptila_praticola](https://en.wikipedia.org/wiki/Ozyptila_praticola)
+
+
+**288. Dwarf Running Crab Spider**
+-----------------
+* **Scientific Name**: *Coriarachne depressa*
+
+* **Distinguished Qualities**: A small, flattened running crab spider often found under bark.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Coriarachne_depressa](https://en.wikipedia.org/wiki/Coriarachne_depressa)
+
+
+**289. Willow Lynx Spider**
+-----------------
+* **Scientific Name**: *Oxyopes heterophthalmus*
+
+* **Distinguished Qualities**: A lynx spider often associated with willow trees.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Oxyopes_heterophthalmus](https://en.wikipedia.org/wiki/Oxyopes_heterophthalmus)
+
+**290. Small Striped Lynx Spider**
+-----------------
+* **Scientific Name**: *Oxyopes lineatus*
+
+* **Distinguished Qualities**: A smaller lynx spider with distinct stripes along its body.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Oxyopes_lineatus](https://en.wikipedia.org/wiki/Oxyopes_lineatus)
+
+
+**291. Elegant Jumping Spider (Female)**
+-----------------
+* **Scientific Name**: *Hyllus semicupreus*
+
+* **Distinguished Qualities**: The female of the elegant jumping spider, often with slightly different coloration than the male.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Hyllus_semicupreus](https://en.wikipedia.org/wiki/Hyllus_semicupreus)
+
+
+**292. Bold Jumping Spider (Female)**
+-----------------
+* **Scientific Name**: *Phidippus audax*
+
+* **Distinguished Qualities**: The female of the bold jumping spider, often larger than the male with distinct markings.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Phidippus_audax](https://en.wikipedia.org/wiki/Phidippus_audax)
+
+
+**293. Tan Jumping Spider (Dark Morph)**
+-----------------
+* **Scientific Name**: *Platycryptus undatus*
+
+* **Distinguished Qualities**: A darker color variation of the tan jumping spider.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Platycryptus_undatus](https://en.wikipedia.org/wiki/Platycryptus_undatus)
+
+
+**294. White-Eyed Jumping Spider**
+-----------------
+* **Scientific Name**: *Attulus pubescens*
+
+* **Distinguished Qualities**: A small jumping spider with prominent white hairs around its eyes.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Attulus_pubescens](https://en.wikipedia.org/wiki/Attulus_pubescens)
+
+
+**295. Bronze Jumping Spider (Female)**
+-----------------
+* **Scientific Name**: *Euryattus bleekeri*
+
+* **Distinguished Qualities**: The female of the bronze jumping spider, often less brightly colored than the male.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Euryattus_bleekeri](https://en.wikipedia.org/wiki/Euryattus_bleekeri)
+
+
+**296. Dimorphic Jumping Spider (Male)**
+-----------------
+* **Scientific Name**: *Maevia inclemens*
+
+* **Distinguished Qualities**: The male of this species can have two distinct color forms.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Maevia_inclemens](https://en.wikipedia.org/wiki/Maevia_inclemens)
+
+
+**297. Little Jumping Spider**
+-----------------
+* **Scientific Name**: *Neon reticulatus*
+
+* **Distinguished Qualities**: A very small jumping spider with a distinctive reticulated pattern.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Neon_reticulatus](https://en.wikipedia.org/wiki/Neon_reticulatus)
+
+
+**298. Zebra Jumping Spider (Southern)**
+-----------------
+* **Scientific Name**: *Salticus scenicus*
+
+* **Distinguished Qualities**: A common jumping spider with black and white stripes, found in southern regions. (Note: The initial "Zebra Jumping Spider (European)" might refer to a closely related species or a regional variation).
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Salticus_scenicus](https://en.wikipedia.org/wiki/Salticus_scenicus)
+
+
+**299. Downy Zebra Jumper**
+-----------------
+* **Scientific Name**: *Salticus cingulatus*
+
+* **Distinguished Qualities**: (Listed earlier as Zebra Jumping Spider (European)). A jumping spider with a slightly fuzzy appearance and zebra-like stripes.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Salticus_cingulatus](https://en.wikipedia.org/wiki/Salticus_cingulatus)
+
+
+**300. Small Ant-Mimic Jumper**
+-----------------
+* **Scientific Name**: *Leptorchestes berolinensis*
+
+* **Distinguished Qualities**: A small jumping spider that closely mimics the appearance of ants.
+
+* **Image Name**: (To be added)
+
+* **Sources**: [https://en.wikipedia.org/wiki/Leptorchestes_berolinensis](https://en.wikipedia.org/wiki/Leptorchestes_berolinensis)
