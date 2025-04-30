@@ -4660,7 +4660,7 @@
     *   **Distinguishing Qualities:** Slug-like appearance, smooth scales, often found in moist habitats.  
     *   **Name for Photos:** Black Slug Snake (1)
     *   **Sources:**
-        * [https://indiabiodiversity.org/files-api/api/get/raw/img//Trachischium fuscum/483.jpg](https://indiabiodiversity.org/files-api/api/get/raw/img//Trachischium fuscum/483.jpg)
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_13/Trachischium-fuscum-03000043919\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_13/Trachischium-fuscum-03000043919_01.jpg)
         * [https://en.wikipedia.org/wiki/Trachischium\_fuscum](https://en.wikipedia.org/wiki/Trachischium_fuscum)
 
 6.  **Barreras Fanged Snake**  
