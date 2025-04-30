@@ -507,3 +507,14 @@
 507. **Northern New Guinea blind snake**
 508. **Luzon Dwarf Snake**
 509. **Malayan spinejaw snake**
+510. **Psammophylax rhombeatus** – Rhombic Skaapsteker
+511. **Micrurus surinamensis** – Aquatic Coral Snake
+512. **Thamnophis atratus** – Aquatic Garter Snake
+513. **Elapsoidea semiannulata** – African Garter Snake
+514. **Myriopholis macrorhyncha** – Long-nosed Blind Snake
+515. **Letheobia pallida** – Pale Beaked Snake
+516. **Cylindrophis yamdena** – Yamdena Pipe Snake
+517. **Trilepida macrolepis** – Big-scaled Threadsnake
+518. **Hydrelaps darwiniensis** – Black-ringed Sea Snake
+519. **Trachischium fuscum** – Black Slug Snake
+520. **Ialtris agyrtes** – Barreras Fanged Snake (Dominican Republic endemic)
