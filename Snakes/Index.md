@@ -518,3 +518,8 @@
 518. **Black-ringed Sea Snake**
 519. **Black Slug Snake**
 520. **Barreras Fanged Snake**
+521. **Somali Snake**
+522. **Schlegel’s Crowned Snake**
+523. **Forsten’s Ground Snake**
+524. **Western snail-eating snake**
+525. **Red-headed reed snake**  
