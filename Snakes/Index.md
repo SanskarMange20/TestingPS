@@ -522,4 +522,13 @@
 522. **Schlegel’s Crowned Snake**
 523. **Forsten’s Ground Snake**
 524. **Western snail-eating snake**
-525. **Red-headed reed snake**  
+525. **Red-headed reed snake**
+526. **Parafimbrios**
+527. **Harrison Ford’s Andean Snake**
+528. **Long-snouted Thread Snake**
+529. **Variable Burrowing Asp**
+530. **Long-tailed Ringneck Snake**
+531. **Black blind snake**
+532. **Red Worm Snake**
+533. **Fronted Ground Snake**
+534. **Haitian ground snake**  
