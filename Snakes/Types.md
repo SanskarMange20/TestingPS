@@ -4671,3 +4671,48 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ialtris\_agyrtes\_51072163192\_b40e439001.jpg/1024px-Ialtris\_agyrtes\_51072163192\_b40e439001.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ialtris_agyrtes_51072163192_b40e439001.jpg/1024px-Ialtris_agyrtes_51072163192_b40e439001.jpg)
         * [https://en.wikipedia.org/wiki/Ialtris\_agyrtes](https://en.wikipedia.org/wiki/Ialtris_agyrtes)
+
+7.  **Somali Snake**  
+
+    *   **Scientific Name:** _Aeluroglena cucullata_  
+    *   **Distinguishing Qualities:** Slender body, distinctive coloration, found in arid regions of Somalia.  
+    *   **Name for Photos:** Somali Snake (1)
+    *   **Sources:**
+        * [https://inaturalist-open-data.s3.amazonaws.com/photos/28516312/medium.jpeg](https://inaturalist-open-data.s3.amazonaws.com/photos/28516312/medium.jpeg)
+        * [https://en.wikipedia.org/wiki/Aeluroglena](https://en.wikipedia.org/wiki/Aeluroglena)
+
+8.  **Schlegel’s Crowned Snake**  
+
+    *   **Scientific Name:** _Aspidomorphus schlegelii_  
+    *   **Distinguishing Qualities:** Crown-like pattern on the head, smooth scales, often found in leaf litter.  
+    *   **Name for Photos:** Schlegel’s Crowned Snake (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_14/Aspidomorphus-schlegelii-03000044086\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_14/Aspidomorphus-schlegelii-03000044086_01.jpg)
+        * [https://en.wikipedia.org/wiki/Aspidomorphus\_schlegelii](https://en.wikipedia.org/wiki/Aspidomorphus_schlegelii) 
+
+9.  **Forsten’s Ground Snake**  
+
+    *   **Scientific Name:** _Rabdion forsteni_  
+    *   **Distinguishing Qualities:** Small size, terrestrial habits, often found in forested areas.  
+    *   **Name for Photos:** Forsten’s Ground Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/41608800/large.jpg](https://static.inaturalist.org/photos/41608800/large.jpg)
+        * [https://en.wikipedia.org/wiki/Rabdion\_forsteni](https://en.wikipedia.org/wiki/Rabdion_forsteni)  
+
+1.  **Western Snail-eating Snake**  
+  
+    *   **Scientific Name:** _Geophis annuliferus_  
+    *   **Distinguishing Qualities:** Specialized diet of snails, smooth scales, often found in humid environments.  
+    *   **Name for Photos:** Western Snail-eating Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/98/Geophis\_annuliferus\_494423.jpg](https://upload.wikimedia.org/wikipedia/commons/9/98/Geophis_annuliferus_494423.jpg)
+        * [https://en.wikipedia.org/wiki/Geophis\_annuliferus](https://en.wikipedia.org/wiki/Geophis_annuliferus)
+ 
+2.  **Red-headed Reed Snake**  
+
+    *   **Scientific Name:** _Calamorhabdium acuticeps_  
+    *   **Distinguishing Qualities:** Distinctive red head, slender body, often found in reed beds and wetlands.  
+    *   **Name for Photos:** Red-headed Reed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/8/85/Pink\_Headed\_Reed\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/8/85/Pink_Headed_Reed_Snake.jpg)
+        * [https://en.wikipedia.org/wiki/Calamaria\_schlegeli](https://en.wikipedia.org/wiki/Calamaria_schlegeli)
