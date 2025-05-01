@@ -4716,3 +4716,82 @@
     *   **Sources:**
         * [https://upload.wikimedia.org/wikipedia/commons/8/85/Pink\_Headed\_Reed\_Snake.jpg](https://upload.wikimedia.org/wikipedia/commons/8/85/Pink_Headed_Reed_Snake.jpg)
         * [https://en.wikipedia.org/wiki/Calamaria\_schlegeli](https://en.wikipedia.org/wiki/Calamaria_schlegeli)
+
+3.  **Parafimbrios**  
+
+    *   **Scientific Name:** _Xenodermidae_  
+    *   **Distinguishing Qualities:** Unique body shape, often found in leaf litter, known for their secretive behavior.  
+    *   **Name for Photos:** Parafimbrios (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Parafimbrios\_lao.jpg/1280px-Parafimbrios\_lao.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Parafimbrios_lao.jpg/1280px-Parafimbrios_lao.jpg)
+        * [https://en.wikipedia.org/wiki/Parafimbrios](https://en.wikipedia.org/wiki/Parafimbrios)  
+
+4.  **Harrison Ford’s Andean Snake**  
+
+    *   **Scientific Name:** _Tachymenoides harrisonfordi_  
+    *   **Distinguishing Qualities:** Distinctive coloration, endemic to the Andes, named after the actor and environmentalist.  
+    *   **Name for Photos:** Harrison Ford’s Andean Snake (1)
+    *   **Sources:**
+        * [https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2023/08/harrisonford.jpg](https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2023/08/harrisonford.jpg)
+        * [https://en.wikipedia.org/wiki/Tachymenoides\_harrisonfordi](https://en.wikipedia.org/wiki/Tachymenoides_harrisonfordi) 
+
+5.  **Long-snouted Thread Snake**  
+    *   **Scientific Name:** _Myriopholis macrorhyncha_  
+    *   **Distinguishing Qualities:** Long, slender body, burrowing lifestyle, often found in sandy soils.  
+    *   **Name for Photos:** Long-snouted Thread Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/3/36/Leptotyphlops\_macrorhynchus.jpeg](https://upload.wikimedia.org/wikipedia/commons/3/36/Leptotyphlops_macrorhynchus.jpeg)
+        * [https://en.wikipedia.org/wiki/Myriopholis\_macrorhyncha](https://en.wikipedia.org/wiki/Myriopholis_macrorhyncha)
+
+6.  **Variable Burrowing Asp**  
+   
+    *   **Scientific Name:** _Atractaspis irregularis_  
+    *   **Distinguishing Qualities:** Variable coloration, burrowing habits, known for its potent venom.  
+    *   **Name for Photos:** Variable Burrowing Asp (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/9/9c/Atractaspis\_irregularis.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9c/Atractaspis_irregularis.jpg)
+        * [https://en.wikipedia.org/wiki/Atractaspis\_irregularis](https://en.wikipedia.org/wiki/Atractaspis_irregularis)
+
+7.  **Long-tailed Ringneck Snake**  
+    *   **Scientific Name:** _Gongylosoma longicauda_  
+    *   **Distinguishing Qualities:** Long tail, smooth scales, often found in forested areas.  
+    *   **Name for Photos:** Long-tailed Ringneck Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/265650286/large.jpg](https://static.inaturalist.org/photos/265650286/large.jpg)
+        * [https://en.wikipedia.org/wiki/Gongylosoma\_longicauda](https://en.wikipedia.org/wiki/Gongylosoma_longicauda)
+
+8.  **Black Blind Snake**  
+
+    *   **Scientific Name:** _Epictia goudotii_  
+    *   **Distinguishing Qualities:** Small size, completely blind, fossorial (burrowing) lifestyle.  
+    *   **Name for Photos:** Black Blind Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leptotyphlopsgoudotii.jpg/1280px-Leptotyphlopsgoudotii.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leptotyphlopsgoudotii.jpg/1280px-Leptotyphlopsgoudotii.jpg)
+        * [https://en.wikipedia.org/wiki/Epictia\_goudotii](https://en.wikipedia.org/wiki/Epictia_goudotii)  
+
+9.  **Red Worm Snake**  
+
+    *   **Scientific Name:** _Malayotyphlops ruber_  
+    *   **Distinguishing Qualities:** Distinctive red coloration, small size, often found in moist habitats.  
+    *   **Name for Photos:** Red Worm Snake (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_2023/Malayotyphlops-ruficauda-03000050394\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_2023/Malayotyphlops-ruficauda-03000050394_01.jpg)
+        * [https://en.wikipedia.org/wiki/Malayotyphlops\_ruber](https://en.wikipedia.org/wiki/Malayotyphlops_ruber)
+
+1.  **Fronted Ground Snake**  
+
+    *   **Scientific Name:** _Lygophis flavifrenatus_  
+    *   **Distinguishing Qualities:** Yellow markings on the head, terrestrial habits, often found in grasslands.  
+    *   **Name for Photos:** Fronted Ground Snake (1)
+    *   **Sources:**
+        * [https://reptile-database.reptarium.cz/content/photo\_rd\_03/Lygophis-flavifrenatus-03000030850\_01.jpg](https://reptile-database.reptarium.cz/content/photo_rd_03/Lygophis-flavifrenatus-03000030850_01.jpg)
+        * [https://www.inaturalist.org/taxa/29606-Lygophis-flavifrenatus](https://www.inaturalist.org/taxa/29606-Lygophis-flavifrenatus) 
+
+2.  **Haitian Ground Snake**  
+
+    *   **Scientific Name:** _Ialtris haetianus_  
+    *   **Distinguishing Qualities:** Endemic to Haiti, small size, often found in forested areas.  
+    *   **Name for Photos:** Haitian Ground Snake (1)
+    *   **Sources:**
+        * [https://nplimages.infradoxxs.com/cache/pcache2/01335013.jpg](https://nplimages.infradoxxs.com/cache/pcache2/01335013.jpg)
+        * [https://en.wikipedia.org/wiki/Ialtris\_haetianus](https://en.wikipedia.org/wiki/Ialtris_haetianus)
