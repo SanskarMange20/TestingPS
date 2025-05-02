@@ -1317,7 +1317,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider199, Spider200
 
 * **Sources**: [https://en.wikipedia.org/wiki/Tamopsis](https://en.wikipedia.org/wiki/Tamopsis)
-
+https://api.naturemapr.org/api/sightings/4619201/images/1?width=400&height=400
+https://api.naturemapr.org/api/sightings/4660244/images/1?width=400&height=400
 
 **101. Water Spider**
 -----------------
