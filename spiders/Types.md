@@ -1761,7 +1761,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider273, Spider274
 
 * **Sources**: [https://en.wikipedia.org/wiki/Gasteracantha](https://en.wikipedia.org/wiki/Gasteracantha)
-
+https://upload.wikimedia.org/wikipedia/commons/7/76/Gasteracantha_cancriformis_-_Spiny_backed_orbweaver_%283778044268%29.jpg
+https://edis.ifas.ufl.edu/image/IN324/D0dtq2w2mn/D8tkbd4mbo/D8tkbd4mbo-2048.webp
 
 **138. Jewel Spider**
 -----------------
@@ -1772,8 +1773,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider275, Spider276
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_gemmoides](https://en.wikipedia.org/wiki/Araneus_gemmoides)
-
-
+https://upload.wikimedia.org/wikipedia/commons/b/b6/White_cat_faced_spider.jpg
+https://lh5.googleusercontent.com/proxy/hZpDHGdf1mvpQwOFg1txMmmIZFLHCLPLJy0J967m035ORWVPbtRGv4r10taVMhwyqRPPJLVvCEeTwvrngCzXiM-18cyUUT7zfWmlBYJv14XJCxH-sz8x6tXv
 
 **139. Marbled Orb Weaver**
 -----------------
@@ -1784,7 +1785,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider277, Spider278
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_marmoreus](https://en.wikipedia.org/wiki/Araneus_marmoreus)
-
+https://upload.wikimedia.org/wikipedia/commons/d/d3/Marbled_Orb_Weaver.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Marbled_Orbweaver_-_Araneus_marmoreus%2C_Julie_Metz_Wetlands%2C_Woodbridge%2C_Virginia_-_05.jpg/250px-Marbled_Orbweaver_-_Araneus_marmoreus%2C_Julie_Metz_Wetlands%2C_Woodbridge%2C_Virginia_-_05.jpg
 
 **140. Shamrock Orb Weaver**
 -----------------
@@ -1795,7 +1797,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider279, Spider280
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneus_trifolium](https://en.wikipedia.org/wiki/Araneus_trifolium)
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMoJOEbmcC0-5K2vSnignoOp78_BRog76Aaw&s
+https://static.wikia.nocookie.net/allspecies/images/f/f6/A..jpg/revision/latest?cb=20230531002952
 
 **141. Red-Spotted Ant Mimic Spider**
 -----------------
@@ -1806,7 +1809,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider281, Spider282
 
 * **Sources**: [https://en.wikipedia.org/wiki/Castianeira_descripta](https://en.wikipedia.org/wiki/Castianeira_descripta)
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFB2u0DSu67pQNZ-fPqYEOW3qp5Oxt5UFl1A&s
+https://inaturalist-open-data.s3.amazonaws.com/photos/180099/large.jpg
 
 **142. Two-Striped Jumping Spider**
 -----------------
@@ -1817,7 +1821,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider283, Spider284
 
 * **Sources**: [https://en.wikipedia.org/wiki/Evarcha_arcuata](https://en.wikipedia.org/wiki/Evarcha_arcuata)
-
+https://upload.wikimedia.org/wikipedia/commons/c/c1/Flickr_-_Lukjonis_-_Jumping_spider_-_Evarcha_arcuata_%28Set_of_pictures%29_%281%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Evarcha.arcuata.male.3.jpg/250px-Evarcha.arcuata.male.3.jpg
 
 **143. Bronze Jumping Spider**
 -----------------
@@ -1828,7 +1833,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider285, Spider286
 
 * **Sources**: [https://en.wikipedia.org/wiki/Euryattus_wallacei](https://en.wikipedia.org/wiki/Euryattus_wallacei)
-
+https://inaturalist-open-data.s3.amazonaws.com/photos/29526558/large.jpg
+https://inaturalist-open-data.s3.amazonaws.com/photos/75281622/large.jpg
 
 **144. Magnificent Jumping Spider**
 -----------------
@@ -1839,7 +1845,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider287, Spider288
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cosmophasis_micans](https://en.wikipedia.org/wiki/Cosmophasis_micans)
-
+https://upload.wikimedia.org/wikipedia/commons/5/52/Cosmophasis_micans.jpg
+https://live.staticflickr.com/399/19539479783_3ee9b83560_z.jpg
 
 **145. Ant-Like Sac Spider**
 -----------------
@@ -1850,7 +1857,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider289, Spider290
 
 * **Sources**: [https://en.wikipedia.org/wiki/Liocranidae](https://en.wikipedia.org/wiki/Liocranidae)
-
+https://warehouse1.indicia.org.uk/upload/med-16/80/79/o_1gtbif8gv1t7932011fv1oaq1esk3p.jpg
+https://www.uksafari.com/jpeg4/antmimic01.jpg
 
 **146. Ground Sac Spider**
 -----------------
@@ -1861,7 +1869,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider291, Spider292
 
 * **Sources**: [https://en.wikipedia.org/wiki/Gnaphosidae](https://en.wikipedia.org/wiki/Gnaphosidae)
-
+https://upload.wikimedia.org/wikipedia/commons/e/e2/Callilepis_nocturna.jpg
+https://api.naturemapr.org/api/species/5942/images/4?width=400
 
 **147. Flattened Bark Spider**
 -----------------
@@ -1872,7 +1881,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider293, Spider294
 
 * **Sources**: [https://en.wikipedia.org/wiki/Platoridae](https://en.wikipedia.org/wiki/Platoridae)
-
+https://inaturalist-open-data.s3.amazonaws.com/photos/1523870/original.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9AMkAj5pS10hb5vrJPTd1ORDECnFy85jUA&s
 
 **148. Tropical Wolf Spider**
 -----------------
@@ -1883,7 +1893,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider295, Spider296
 
 * **Sources**: [https://en.wikipedia.org/wiki/Hogna_carolinensis](https://en.wikipedia.org/wiki/Hogna_carolinensis)
-
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Hogna_carolinensis_female%2C_crop.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Carolina_wolf_spider_Hogna_carolinensis%2C_crop.jpg/250px-Carolina_wolf_spider_Hogna_carolinensis%2C_crop.jpg
 
 **149. Striped Fishing Spider**
 -----------------
@@ -1894,7 +1905,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider297, Spider298
 
 * **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_scriptus](https://en.wikipedia.org/wiki/Dolomedes_scriptus)
-
+https://inaturalist-open-data.s3.amazonaws.com/photos/173781908/large.jpeg
+https://static.inaturalist.org/photos/1946167/large.jpg
 
 **150. Dark Fishing Spider**
 -----------------
@@ -1905,6 +1917,8 @@ https://pictureinsect.com/wiki-image/1080/153779659102748697.jpeg
 * **Image Name**: Spider299, Spider300
 
 * **Sources**: [https://en.wikipedia.org/wiki/Dolomedes_tenebrosus](https://en.wikipedia.org/wiki/Dolomedes_tenebrosus)
+https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/a/326/files/2017/06/Dolo15a.jpg
+https://s3.amazonaws.com/media.jungledragon.com/images/4526/161475_small.jpg?AWSAccessKeyId=05GMT0V3GWVNE7GGM1R2&Expires=1749081610&Signature=rloW3C3N6lne0ZSsvuA6JgDwtlQ%3D
 
 **151. Six-Spotted Fishing Spider**
 -----------------
