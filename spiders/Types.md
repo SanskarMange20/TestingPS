@@ -1328,7 +1328,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider201, Spider202
 
 * **Sources**: [https://en.wikipedia.org/wiki/Water_spider](https://en.wikipedia.org/wiki/Water_spider)
-
+https://www.researchgate.net/publication/265167984/figure/fig4/AS:296031486005260@1447590814547/Water-spider-Argyroneta-aquatica-photo-D-Savi-c.png
+https://static.inaturalist.org/photos/357493421/large.jpg
 
 **102. Tube-Dwelling Spider**
 -----------------
@@ -1339,7 +1340,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider203, Spider204
 
 * **Sources**: [https://en.wikipedia.org/wiki/Segestria_florentina](https://en.wikipedia.org/wiki/Segestria_florentina)
-
+https://upload.wikimedia.org/wikipedia/commons/2/2d/Ara%C3%B1a_Mandaio.07-0-2006.jpg
+https://inaturalist-open-data.s3.amazonaws.com/photos/110399915/large.jpeg
 
 **103. Hackledmesh Weaver**
 -----------------
@@ -1350,7 +1352,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider205, Spider206
 
 * **Sources**: [https://en.wikipedia.org/wiki/Amaurobiidae](https://en.wikipedia.org/wiki/Amaurobiidae)
-
+https://bugguide.net/images/cache/YQ5/0CQ/YQ50CQ40H0HQOR0QURHQ3RHQ9RZQYRU0ORMQORW0JQI0ARJKDQ70FQ401R70R0903QG0S0MQFRQQCRKQNRYKTR0Q9R.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysEDdxEDk1t2VoGJf7NeK5NYB5nt-gFYlWg&s
 
 **104. Long-Legged Sac Spider**
 -----------------
@@ -1361,7 +1364,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider207, Spider208
 
 * **Sources**: [https://en.wikipedia.org/wiki/Cheiracanthium_mildei](https://en.wikipedia.org/wiki/Cheiracanthium_mildei)
-
+https://upload.wikimedia.org/wikipedia/commons/2/27/Long-legged_Sac_Spider_-_Cheiracanthium_sp.%2C_Pateros%2C_Washington.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Long_Legged_Sac_Spider_%28Cheiracanthium_mildei%29.jpg/250px-Long_Legged_Sac_Spider_%28Cheiracanthium_mildei%29.jpg
 
 **105. Wall Spider**
 -----------------
@@ -1372,7 +1376,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider209, Spider210
 
 * **Sources**: [https://en.wikipedia.org/wiki/Oecobius_navus](https://en.wikipedia.org/wiki/Oecobius_navus)
-
+https://inaturalist-open-data.s3.amazonaws.com/photos/463067643/original.jpg
+https://static.inaturalist.org/photos/171621294/large.jpeg
 
 **106. Crevice Weaver**
 -----------------
@@ -1383,7 +1388,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider211, Spider212
 
 * **Sources**: [https://en.wikipedia.org/wiki/Filistatidae](https://en.wikipedia.org/wiki/Filistatidae)
-
+https://upload.wikimedia.org/wikipedia/commons/3/37/Kukulcania_hibernalis_male.jpg
+https://inaturalist-open-data.s3.amazonaws.com/photos/81429446/large.jpg
 
 **107. Scaffold Web Spider**
 -----------------
@@ -1394,7 +1400,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider213, Spider214
 
 * **Sources**: [https://en.wikipedia.org/wiki/Nesticidae](https://en.wikipedia.org/wiki/Nesticidae)
-
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Male_Nesticus_sp._%28Marshal_Hedin%29.jpg
+https://inaturalist-open-data.s3.amazonaws.com/photos/31536021/original.jpg
 
 **108. Comb-Footed Spider**
 -----------------
@@ -1405,7 +1412,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider215, Spider216
 
 * **Sources**: [https://en.wikipedia.org/wiki/Theridiosomatidae](https://en.wikipedia.org/wiki/Theridiosomatidae)
-
+https://www.canr.msu.edu/contentAsset/image/2eb2d096-9179-4637-bb8c-34b8617de028/fileAsset/filter/Resize/resize_w/600
+https://warehouse1.indicia.org.uk/upload/med-o_1i5l9o4ck6js15ib170o15mjm1i15.jpg
 
 **109. Orb Weaver**
 -----------------
@@ -1416,7 +1424,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider217, Spider218
 
 * **Sources**: [https://en.wikipedia.org/wiki/Araneidae](https://en.wikipedia.org/wiki/Araneidae)
-
+https://upload.wikimedia.org/wikipedia/commons/4/43/Argiope_catenulata_at_Kadavoor.jpg
+https://media.australian.museum/media/dd/images/Some_image.3ddccbd.width-800.f21225e.jpg
 
 **110. Long-Jawed Orb Weaver**
 -----------------
@@ -1427,7 +1436,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider219, Spider220
 
 * **Sources**: [https://en.wikipedia.org/wiki/Tetragnathidae](https://en.wikipedia.org/wiki/Tetragnathidae)
-
+https://www.singaporegeographic.com/wp-content/uploads/2021/01/SingaporeGeographic-Long-jawed-orb-weaver-spider-4-1.jpg
+https://wildlifemacro.com/wp-content/uploads/2016/04/Long-Jawed-Orb-3.jpg
 
 **111. Stretch Spider**
 -----------------
@@ -1438,7 +1448,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider221, Spider222
 
 * **Sources**: [https://en.wikipedia.org/wiki/Anyphaenidae](https://en.wikipedia.org/wiki/Anyphaenidae)
-
+https://media.sciencephoto.com/c0/45/93/15/c0459315-800px-wm.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrXUtWV5UBU2wY6pZhkerEDePS_bhDRpuKw&s
 
 **112. Ghost Spider**
 -----------------
@@ -1449,7 +1460,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider223, Spider224
 
 * **Sources**: [https://en.wikipedia.org/wiki/Phrurolithidae](https://en.wikipedia.org/wiki/Phrurolithidae)
-
+https://s3.amazonaws.com/bb-cms/AppData/Websites/1116/Images/blog/20131030.jpg
+https://colinpurrington.com/wp-content/uploads/2019/03/hibana-gracilis.jpg
 
 **113. Ground Spider**
 -----------------
@@ -1460,7 +1472,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider225, Spider226
 
 * **Sources**: [https://en.wikipedia.org/wiki/Gnaphosidae](https://en.wikipedia.org/wiki/Gnaphosidae)
-
+https://upload.wikimedia.org/wikipedia/commons/e/e2/Callilepis_nocturna.jpg
+https://api.naturemapr.org/api/sightings/4637957/images/1?width=400&height=400
 
 **114. Flat Spider**
 -----------------
@@ -1471,7 +1484,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider227, Spider228
 
 * **Sources**: [https://en.wikipedia.org/wiki/Selenopidae](https://en.wikipedia.org/wiki/Selenopidae)
-
+https://bugguide.net/images/cache/7RF/ZQR/7RFZQRYZ8RWL0ZOLXZ1LMZ1LPRJZRZYZQROZFLUL7ZOLIZLHQZELFLAL0Z1LGRQHKZHH7ZTLZZOZSR3ZKRYZZZ2L.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EhhSReCNeeoS1EsNjzb5J86IsHBWwlfiUQ&s
 
 **115. Nursery Web Spider**
 -----------------
@@ -1482,7 +1496,8 @@ https://spidershoppe.com/cdn/shop/files/20240229-120300_b6e80817-f987-4eb6-b45c-
 * **Image Name**: Spider229, Spider230
 
 * **Sources**: [https://en.wikipedia.org/wiki/Pisauridae](https://en.wikipedia.org/wiki/Pisauridae)
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Nursery_web_spider_%28Nilus_albocinctus%29_female.jpg/1200px-Nursery_web_spider_%28Nilus_albocinctus%29_female.jpg
+https://warehouse1.indicia.org.uk/upload/12/92/96/PisauraMirabilis2_RutlandW%2014May04.JPG
 
 **116. Running Crab Spider**
 -----------------
