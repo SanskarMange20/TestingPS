@@ -4795,3 +4795,51 @@
     *   **Sources:**
         * [https://nplimages.infradoxxs.com/cache/pcache2/01335013.jpg](https://nplimages.infradoxxs.com/cache/pcache2/01335013.jpg)
         * [https://en.wikipedia.org/wiki/Ialtris\_haetianus](https://en.wikipedia.org/wiki/Ialtris_haetianus)
+
+3.  **Black-ringed Mangrove Snake**  
+
+    *   **Scientific Name:** _Hydrelaps darwiniensis_
+    *   **Distinguishing Qualities:** Black rings on a lighter body, often found in mangrove habitats, semi-aquatic.  
+    *   **Name for Photos:** Black-ringed Mangrove Snake (1)  
+
+4.  **Somali Beaked Blind Snake**
+   
+    *   **Scientific Name:** _Letheobia somalica_  
+    *   **Distinguishing Qualities:** Beaked snout, small size, fossorial (burrowing) lifestyle, endemic to Somalia.  
+    *   **Name for Photos:** Somali Beaked Blind Snake (1)  
+
+5.  **Two-colored Threadsnake**
+  
+    *   **Scientific Name:** _Tricheilostoma bicolor_  
+    *   **Distinguishing Qualities:** Distinctive two-tone coloration, small size, often found in leaf litter.  
+    *   **Name for Photos:** Two-colored Threadsnake (1)  
+
+6.  **Günther's Dwarf Reed Snake**  
+   
+    *   **Scientific Name:** _Pseudorabdion oxycephalum_  
+    *   **Distinguishing Qualities:** Small size, slender body, often found in reed beds and grasslands.  
+    *   **Name for Photos:** Günther's Dwarf Reed Snake (1)  
+
+7.  **Olive Forest Snake**  
+
+    *   **Scientific Name:** _Rhabdops olivaceus_  
+    *   **Distinguishing Qualities:** Olive-green coloration, secretive behavior, often found in forested areas.  
+    *   **Name for Photos:** Olive Forest Snake (1)  
+
+8.  **Dragon Snake**  
+   
+    *   **Scientific Name:** _Xenodermus javanicus_  
+    *   **Distinguishing Qualities:** Unique dragon-like appearance, flattened body, often found in leaf litter in Southeast Asia.  
+    *   **Name for Photos:** Dragon Snake (1)  
+
+9.  **Pamplona Ground Snake**  
+   
+    *   **Scientific Name:** _Atractus pamplonensis_  
+    *   **Distinguishing Qualities:** Small size, terrestrial habits, often found in humid environments in Colombia.  
+    *   **Name for Photos:** Pamplona Ground Snake (1)  
+
+1.  **Indian Smooth Snake**  
+
+    *   **Scientific Name:** _Wallophis brachyura_  
+    *   **Distinguishing Qualities:** Smooth scales, slender body, often found in grasslands and scrub habitats.  
+    *   **Name for Photos:** Indian Smooth Snake (1)  
