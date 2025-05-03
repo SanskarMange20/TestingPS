@@ -4796,50 +4796,56 @@
         * [https://nplimages.infradoxxs.com/cache/pcache2/01335013.jpg](https://nplimages.infradoxxs.com/cache/pcache2/01335013.jpg)
         * [https://en.wikipedia.org/wiki/Ialtris\_haetianus](https://en.wikipedia.org/wiki/Ialtris_haetianus)
 
-3.  **Black-ringed Mangrove Snake**  
-
-    *   **Scientific Name:** _Hydrelaps darwiniensis_
-    *   **Distinguishing Qualities:** Black rings on a lighter body, often found in mangrove habitats, semi-aquatic.  
-    *   **Name for Photos:** Black-ringed Mangrove Snake (1)  
-
-4.  **Somali Beaked Blind Snake**
+3.  **Somali Beaked Blind Snake**
    
     *   **Scientific Name:** _Letheobia somalica_  
     *   **Distinguishing Qualities:** Beaked snout, small size, fossorial (burrowing) lifestyle, endemic to Somalia.  
-    *   **Name for Photos:** Somali Beaked Blind Snake (1)  
+    *   **Name for Photos:** Somali Beaked Blind Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/10421820/large.jpeg](https://static.inaturalist.org/photos/10421820/large.jpeg)
+        * [https://en.wikipedia.org/wiki/Letheobia\_somalica](https://en.wikipedia.org/wiki/Letheobia_somalica)
 
-5.  **Two-colored Threadsnake**
+4.  **Two-colored Threadsnake**
   
     *   **Scientific Name:** _Tricheilostoma bicolor_  
     *   **Distinguishing Qualities:** Distinctive two-tone coloration, small size, often found in leaf litter.  
-    *   **Name for Photos:** Two-colored Threadsnake (1)  
+    *   **Name for Photos:** Two-colored Threadsnake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/23877202/large.jpeg](https://static.inaturalist.org/photos/23877202/large.jpeg)
+        * [https://en.wikipedia.org/wiki/Two-colored\_blind\_snake](https://en.wikipedia.org/wiki/Two-colored_blind_snake)
 
-6.  **Günther's Dwarf Reed Snake**  
+5.  **Günther's Dwarf Reed Snake**  
    
     *   **Scientific Name:** _Pseudorabdion oxycephalum_  
     *   **Distinguishing Qualities:** Small size, slender body, often found in reed beds and grasslands.  
-    *   **Name for Photos:** Günther's Dwarf Reed Snake (1)  
+    *   **Name for Photos:** Günther's Dwarf Reed Snake (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/6/6b/Pseudorhabdion\_cf.\_mcnamarae\_(KU\_327193)\_from\_Barangay\_Binatug\_-\_ZooKeys-266-001-g091.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6b/Pseudorhabdion_cf._mcnamarae_(KU_327193)_from_Barangay_Binatug_-_ZooKeys-266-001-g091.jpg)
+        * [https://en.wikipedia.org/wiki/Pseudorabdion\_oxycephalum](https://en.wikipedia.org/wiki/Pseudorabdion_oxycephalum)
 
-7.  **Olive Forest Snake**  
+6.  **Olive Forest Snake**  
 
     *   **Scientific Name:** _Rhabdops olivaceus_  
     *   **Distinguishing Qualities:** Olive-green coloration, secretive behavior, often found in forested areas.  
-    *   **Name for Photos:** Olive Forest Snake (1)  
+    *   **Name for Photos:** Olive Forest Snake (1)
+    *   **Sources:**
+        * [https://www.indianreptiles.org/sites/indianreptiles.org/files/276\_1259-746-59b78b90ce771-1.jpg](https://www.indianreptiles.org/sites/indianreptiles.org/files/276_1259-746-59b78b90ce771-1.jpg)
+        * [https://www.inaturalist.org/taxa/28824-Rhabdops-olivaceus](https://www.inaturalist.org/taxa/28824-Rhabdops-olivaceus)
 
-8.  **Dragon Snake**  
-   
-    *   **Scientific Name:** _Xenodermus javanicus_  
-    *   **Distinguishing Qualities:** Unique dragon-like appearance, flattened body, often found in leaf litter in Southeast Asia.  
-    *   **Name for Photos:** Dragon Snake (1)  
-
-9.  **Pamplona Ground Snake**  
+7.  **Pamplona Ground Snake**  
    
     *   **Scientific Name:** _Atractus pamplonensis_  
     *   **Distinguishing Qualities:** Small size, terrestrial habits, often found in humid environments in Colombia.  
-    *   **Name for Photos:** Pamplona Ground Snake (1)  
+    *   **Name for Photos:** Pamplona Ground Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/1171126/large.jpg](https://static.inaturalist.org/photos/1171126/large.jpg)
+        * [https://en.wikipedia.org/wiki/Atractus\_pamplonensis](https://en.wikipedia.org/wiki/Atractus_pamplonensis)
 
-1.  **Indian Smooth Snake**  
+8.  **Indian Smooth Snake**  
 
     *   **Scientific Name:** _Wallophis brachyura_  
     *   **Distinguishing Qualities:** Smooth scales, slender body, often found in grasslands and scrub habitats.  
-    *   **Name for Photos:** Indian Smooth Snake (1)  
+    *   **Name for Photos:** Indian Smooth Snake (1)
+    *   **Sources:**
+        * [https://www.indianreptiles.org/sites/indianreptiles.org/files/6\_152-49-599d4eb939c54-3.jpg](https://www.indianreptiles.org/sites/indianreptiles.org/files/6_152-49-599d4eb939c54-3.jpg)
+        * [https://www.inaturalist.org/taxa/1366918-Wallophis-brachyura](https://www.inaturalist.org/taxa/1366918-Wallophis-brachyura)
