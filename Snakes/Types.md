@@ -4849,3 +4849,76 @@
     *   **Sources:**
         * [https://www.indianreptiles.org/sites/indianreptiles.org/files/6\_152-49-599d4eb939c54-3.jpg](https://www.indianreptiles.org/sites/indianreptiles.org/files/6_152-49-599d4eb939c54-3.jpg)
         * [https://www.inaturalist.org/taxa/1366918-Wallophis-brachyura](https://www.inaturalist.org/taxa/1366918-Wallophis-brachyura)
+
+9.  **Yunnan Reed Snake**  
+
+    *   **Scientific Name:** _Calamaria yunnanensis_
+    *   **Distinguishing Qualities:** Slender body, often found in reed beds, known for its secretive behavior.
+    *   **Name for Photos:** Yunnan Reed Snake (1)
+    *   **Sources:**
+        * [https://static.inaturalist.org/photos/52496/medium.jpg](https://static.inaturalist.org/photos/52496/medium.jpg)
+        * [https://en.wikipedia.org/wiki/Calamaria\_yunnanensis](https://en.wikipedia.org/wiki/Calamaria_yunnanensis)
+
+1.  **Cropan's Boa**  
+
+    *   **Scientific Name:** _Corallus cropanii_  
+    *   **Distinguishing Qualities:** Beautiful coloration, arboreal habits, found in the rainforests of South America.
+    *   **Name for Photos:** Cropan's Boa (1)
+    *   **Sources:**
+        * [https://upload.wikimedia.org/wikipedia/commons/e/ed/Corallus\_cropanii\_2020Fiorillo\_BF,\_Silva\_BR,\_Menezes\_FA,\_Marques\_OAV,\_Martins\_M\_(2020)\_Figure\_3\_(cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/e/ed/Corallus_cropanii_2020Fiorillo_BF,_Silva_BR,_Menezes_FA,_Marques_OAV,_Martins_M_(2020)_Figure_3_(cropped).jpg)
+        * [https://en.wikipedia.org/wiki/Corallus\_cropanii](https://en.wikipedia.org/wiki/Corallus_cropanii)
+
+2.  **Travancore Hills Thorntail Snake**  
+
+      *   **Scientific Name:** _Platyplectrurus madurensis_
+      *   **Distinguishing Qualities:** Unique tail structure, endemic to the Western Ghats, often found in leaf litter.
+      *   **Name for Photos:** Travancore Hills Thorntail Snake (1)
+      *   **Sources:**
+          * [https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Platyplectrurus\_madurensis\_122941422.jpg/1024px-Platyplectrurus\_madurensis\_122941422.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Platyplectrurus_madurensis_122941422.jpg/1024px-Platyplectrurus_madurensis_122941422.jpg)
+          * [https://en.wikipedia.org/wiki/Platyplectrurus\_madurensis](https://en.wikipedia.org/wiki/Platyplectrurus_madurensis)
+
+3.  **Mountain Burrowing Snake**  
+
+      *   **Scientific Name:** _Pseudorabdion montanum_  
+      *   **Distinguishing Qualities:** Small size, burrowing lifestyle, often found in mountainous regions.
+      *   **Name for Photos:** Mountain Burrowing Snake (1)
+      *   **Sources:**
+          * [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pseudorhabdion\_cf.\_mcnamarae\_(KU\_327193)\_from\_Barangay\_Binatug\_-\_ZooKeys-266-001-g091.jpg/960px-Pseudorhabdion\_cf.\_mcnamarae\_(KU\_327193)\_from\_Barangay\_Binatug\_-\_ZooKeys-266-001-g091.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pseudorhabdion_cf._mcnamarae_(KU_327193)_from_Barangay_Binatug_-_ZooKeys-266-001-g091.jpg/960px-Pseudorhabdion_cf._mcnamarae_(KU_327193)_from_Barangay_Binatug_-_ZooKeys-266-001-g091.jpg)
+          * [https://en.wikipedia.org/wiki/Pseudorabdion\_montanum](https://en.wikipedia.org/wiki/Pseudorabdion_montanum)
+
+4.  **Cerberus Microlepis**  
+
+      *   **Scientific Name:** _Cerberus microlepis_
+      *   **Distinguishing Qualities:** Aquatic habits, slender body, often found in brackish waters.
+      *   **Name for Photos:** Cerberus Microlepis (1)
+      *   **Sources:**
+          * [https://herpconservation.com/uploads/1/2/9/7/129792704/dsc-0595\_2.jpg](https://herpconservation.com/uploads/1/2/9/7/129792704/dsc-0595_2.jpg)
+          * [https://reptile-database.reptarium.cz/species?genus=Cerberus&species=microlepis](https://reptile-database.reptarium.cz/species?genus=Cerberus&species=microlepis)
+
+5.  **Seychelles House Snake**  
+
+      *   **Scientific Name:** _Lamprophis geometricus_
+      *   **Distinguishing Qualities:** Commonly found in human habitats, smooth scales, often has a geometric pattern.
+      *   **Name for Photos:** Seychelles House Snake (1)
+      *   **Sources:**
+          * [https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Illustrations\_of\_the\_zoology\_of\_South\_Africa\_(6263334965).jpg/1024px-Illustrations\_of\_the\_zoology\_of\_South\_Africa\_(6263334965).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Illustrations_of_the_zoology_of_South_Africa_(6263334965).jpg/1024px-Illustrations_of_the_zoology_of_South_Africa_(6263334965).jpg)
+          * [https://en.wikipedia.org/wiki/Seychelles\_house\_snake](https://en.wikipedia.org/wiki/Seychelles_house_snake)
+
+6.  **Two-Headed California Kingsnake**  
+
+      *   **Scientific Name:** (genetic anomaly, _Lampropeltis getula californiae_)  
+      *   **Distinguishing Qualities:** Rare genetic anomaly resulting in two heads, typically found in California.  
+      *   **Name for Photos:** Two-Headed California Kingsnake (1)
+      *   **Sources:**
+          * [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiMoMtQybcjLenU7Y-bSxLFDk2j6-JJCjNA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiMoMtQybcjLenU7Y-bSxLFDk2j6-JJCjNA&s)
+          * [https://askabiologist.asu.edu/explore/two-headed](https://askabiologist.asu.edu/explore/two-headed)
+
+7.  **DiCaprio’s Himalayan Snake**
+  
+      *   **Scientific Name:** _Anguiculus dicaprioi_  
+      *   **Distinguishing Qualities:** Recently discovered species, named after actor Leonardo DiCaprio, found in the Himalayas.
+      *   **Name for Photos:** DiCaprio’s Himalayan Snake (1)
+      *   **Sources:**
+          * [https://imgs.mongabay.com/wp-content/uploads/sites/30/2025/01/03112349/Juvenile-Anguiculus-dicaprioi-768x512.jpg](https://imgs.mongabay.com/wp-content/uploads/sites/30/2025/01/03112349/Juvenile-Anguiculus-dicaprioi-768x512.jpg)
+          * [https://india.mongabay.com/2025/01/an-instagram-photo-led-researchers-to-a-snake-discovery/](https://india.mongabay.com/2025/01/an-instagram-photo-led-researchers-to-a-snake-discovery/)
+    
